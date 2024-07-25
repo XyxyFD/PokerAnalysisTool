@@ -57,7 +57,7 @@ public class PokerHandExtractor {
     }
 
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\dalli\\OneDrive\\Documents\\PokerAnalysisProject\\ExtractionScript\\src\\main\\java\\org\\example\\6max.txt";
+        String filePath = "C:\\Users\\dalli\\PokerAnalysisTool\\src\\main\\java\\org\\example\\6max.txt";
         List<PokerHand> pokerHands = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
