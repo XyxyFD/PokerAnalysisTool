@@ -56,7 +56,7 @@ public class PokerHandExtractor {
         }
     }
 
-    public static void main(String[] args) {
+    public static List<PokerHand> extract() {
         String filePath = "C:\\Users\\dalli\\PokerAnalysisTool\\src\\main\\java\\org\\example\\6max.txt";
         List<PokerHand> pokerHands = new ArrayList<>();
 
@@ -126,6 +126,9 @@ public class PokerHandExtractor {
                             currentHand.preflopAction.add(currentPosition + "_" + "r" + extractAmount(line));
                         }else if (line.contains("bets")){
                             currentHand.preflopAction.add(currentPosition + "_" + "b" + extractAmount(line));
+                        }
+                        else if (line.contains("checks")) {
+                            currentHand.preflopAction.add(currentPosition + "_" + "x");
                         }else if(line.startsWith("** Dealing flop **")){
 
                             //FLOP  //FLOP  //FLOP  //FLOP  //FLOP  //FLOP
@@ -155,7 +158,7 @@ public class PokerHandExtractor {
                                     currentHand.flopAction.add(currentPosition + "_" + "b" + extractAmount(line));
                                 }
                                 else if (line.contains("checks")) {
-                                    currentHand.flopAction.add("c");
+                                    currentHand.flopAction.add(currentPosition + "_" + "x");
                                 }else if(line.startsWith("** Dealing turn **")){
 
                                     //TURN  //TURN  //TURN  //TURN  //TURN  //TURN
@@ -182,7 +185,7 @@ public class PokerHandExtractor {
                                         }else if (line.contains("bets")){
                                             currentHand.turnAction.add(currentPosition + "_" + "b" + extractAmount(line));
                                         }else if (line.contains("checks")) {
-                                            currentHand.turnAction.add(currentPosition + "_" + "c");
+                                            currentHand.turnAction.add(currentPosition + "_" + "x");
                                         } else if(line.startsWith("** Dealing river **")){
 
                                             //RIVER //RIVER //RIVER //RIVER //RIVER //RIVER
@@ -210,7 +213,7 @@ public class PokerHandExtractor {
                                                 } else if (line.contains("bets")) {
                                                     currentHand.riverAction.add(currentPosition + "_" + "b" + extractAmount(line));
                                                 }else if (line.contains("checks")) {
-                                                    currentHand.riverAction.add(currentPosition + "_" + "c");
+                                                    currentHand.riverAction.add(currentPosition + "_" + "x");
                                                 }
                                             }
                                         }
@@ -229,18 +232,26 @@ public class PokerHandExtractor {
             e.printStackTrace();
         }
         printResults(pokerHands);
+
+        return pokerHands;
     }
 
     public static String extractBlinds(String line) {
-        int startIndex = line.indexOf('$');
+        int startIndex = line.indexOf('$') + 1;
         int endIndex = line.indexOf(' ', startIndex);
 
-        if (startIndex != -1 && endIndex != -1) {
-            return line.substring(startIndex, endIndex);
+        if (startIndex > 0 && endIndex > startIndex) {
+            String blinds = line.substring(startIndex, endIndex);
+            int separatorIndex = blinds.indexOf('/');
+            String smallBlind = blinds.substring(0, separatorIndex);
+            String bigBlind = blinds.substring(separatorIndex + 2); // +2 to skip past '$' after '/'
+            return smallBlind + "/" + bigBlind;
         }
 
         return null;
     }
+
+
 
 
     public static String extractAmount(String line){
@@ -281,7 +292,7 @@ public class PokerHandExtractor {
             String[] parts = line.split(" : ");
             return Integer.parseInt(parts[1].trim());
         }
-        return -1; // oder eine andere Standardwert oder Fehlerbehandlung
+        return -1; // oder einen anderen Standardwert oder Fehlerbehandlung
     }
 
     // attach a name to a position and tracks the stacksize of this position. the playername is only needed to identify the position
@@ -437,9 +448,6 @@ public class PokerHandExtractor {
 
         return stacksize;
     }
-
-
-
     // Print extracted hands for verification
     public static void printResults(List<PokerHand> pokerHands){
 

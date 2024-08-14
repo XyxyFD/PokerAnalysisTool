@@ -1,9 +1,23 @@
 package org.example;
 
+import java.util.ArrayList;
+import java.util.List;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+
+        List<PokerHandExtractor.PokerHand> pokerHands = PokerHandExtractor.extract();
+        List<DataBlock> blocks = new ArrayList<>();
+        for (PokerHandExtractor.PokerHand hand : pokerHands) {
+            DataBlock block = new DataBlock();
+            DataProcessing.fullAction(hand, block);
+            block.printOut();
+
+        }
+
+
 
     }
 }
