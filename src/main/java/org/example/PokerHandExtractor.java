@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class PokerHandExtractor {
@@ -57,7 +58,7 @@ public class PokerHandExtractor {
     }
 
     public static List<PokerHand> extract() {
-        String filePath = "C:\\Users\\dalli\\PokerAnalysisTool\\src\\main\\java\\org\\example\\6max.txt";
+        String filePath = "C:\\Users\\dalli\\PokerAnalysisTool\\src\\main\\java\\org\\example\\handhistory.txt";
         List<PokerHand> pokerHands = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
@@ -133,7 +134,13 @@ public class PokerHandExtractor {
 
                             //FLOP  //FLOP  //FLOP  //FLOP  //FLOP  //FLOP
 
-                            parts = line.split("\\[")[1].replace("]", "").split(", ");
+                            String cardString = line.split("\\[")[1].replace("]", "").trim();
+                            parts = cardString.split(",\\s*");
+
+                            // Debug-Ausgabe, um sicherzustellen, dass die Karten korrekt extrahiert werden
+                            System.out.println("Extracted flop cards: " + Arrays.toString(parts));
+
+                            // Kopiere die extrahierten Karten ins BoardCards-Array
                             System.arraycopy(parts, 0, currentHand.boardCards, 0, parts.length);
                             while ((line = br.readLine()) != null){
 
@@ -163,7 +170,12 @@ public class PokerHandExtractor {
 
                                     //TURN  //TURN  //TURN  //TURN  //TURN  //TURN
 
-                                    currentHand.boardCards[3] = line.split("\\[")[1].replace("]", "");
+                                    String turnCard = line.split("\\[")[1].replace("]", "").trim();
+
+                                    // Debug-Ausgabe zur Überprüfung der extrahierten Karte
+                                    System.out.println("Extracted turn card: " + turnCard);
+
+                                    currentHand.boardCards[3] = turnCard;
                                     while ((line = br.readLine()) != null){
 
                                         if (summary){
@@ -190,7 +202,12 @@ public class PokerHandExtractor {
 
                                             //RIVER //RIVER //RIVER //RIVER //RIVER //RIVER
 
-                                            currentHand.boardCards[4] = line.split("\\[")[1].replace("]", "");
+                                            String riverCard = line.split("\\[")[1].replace("]", "").trim();
+
+                                            // Debug-Ausgabe zur Überprüfung der extrahierten Karte
+                                            System.out.println("Extracted river card: " + riverCard);
+
+                                            currentHand.boardCards[4] = riverCard;
                                             while ((line = br.readLine()) != null) {
 
                                                 if (summary){
@@ -231,7 +248,7 @@ public class PokerHandExtractor {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        printResults(pokerHands);
+        //printResults(pokerHands);
 
         return pokerHands;
     }
@@ -449,7 +466,7 @@ public class PokerHandExtractor {
         return stacksize;
     }
     // Print extracted hands for verification
-    public static void printResults(List<PokerHand> pokerHands){
+    /*public static void printResults(List<PokerHand> pokerHands){
 
         for (PokerHand hand : pokerHands) {
             System.out.println("Hand Number: " + hand.handNumber);
@@ -482,6 +499,11 @@ public class PokerHandExtractor {
             System.out.println(hand.blinds);
             System.out.println();
         }
+
     }
+    */
+
+
+
 
 }

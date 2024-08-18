@@ -26,10 +26,15 @@ public class DataBlock {
     private String CallPos;    // Position der Caller (wenn es mehr sind als einer kommt eine Zahl als String hinein)
     private boolean aggrIP; // ist der preflop last aggressor IP
     private String potType; // ist es ein SRP, 3BetPot, 4BetPot?
+    private boolean isoraisePot;
+
+
 
     //Flop ________________________________________________________________________________
     private int flopPlayers; // Anzahl der Spieler am Flop
     private boolean cbet; // Wurde eine C-Bet gemacht?
+    private boolean cbetCall; // Indicates if a C-bet on the flop was called
+
     private boolean cbetFold; // Gab es einen Fold auf die C-Bet?
     private boolean cbetRaise; // Gab es ein Raise auf die C-Bet?
     private boolean betAfterCheck; // Gab es eine Bet nach einem Check?
@@ -37,6 +42,10 @@ public class DataBlock {
     // Turn ____________________________________________________________________________________________
     private boolean turnBarrel; // gibt es einen weiteren bet am turn nach einem Cbet?
     private boolean foldToTurnBarrel; // Wurde auf eine Turn-Bet gefoldet?
+
+
+
+    private boolean callTurnBarrel; // wurde turn barrel gecallt
     private boolean raiseTurnBarrel; // Gab es ein Raise auf die Turn-Bet?
     private boolean betAfterCheckTurn; // Gab es eine Bet nach einem Check (nur sinnvoll, wenn der Aggressor OOP ist)?
 
@@ -145,6 +154,13 @@ public class DataBlock {
     }
 
     // Getter/Setter für Preflop Attribute
+    public boolean isIsoraisePot() {
+        return isoraisePot;
+    }
+
+    public void setIsoraisePot(boolean isoraisePot) {
+        this.isoraisePot = isoraisePot;
+    }
 
     public String getORPos() {
         return OR_Pos;
@@ -223,6 +239,13 @@ public class DataBlock {
     public void setCbet(boolean cbet) {
         this.cbet = cbet;
     }
+    public boolean isCbetCall() {
+        return cbetCall;
+    }
+
+    public void setCbetCall(boolean cbetCall) {
+        this.cbetCall = cbetCall;
+    }
 
     public boolean isCbetFold() {
         return cbetFold;
@@ -257,12 +280,19 @@ public class DataBlock {
         this.turnBarrel = turnBarrel;
     }
 
-    public boolean isFoldToBarrel() {
+    public boolean isFoldToTurnBarrel() {
         return foldToTurnBarrel;
     }
 
-    public void setFoldToBarrel(boolean foldToTurnBarrel) {
+    public void setFoldToTurnBarrel(boolean foldToTurnBarrel) {
         this.foldToTurnBarrel = foldToTurnBarrel;
+    }
+    public boolean isCallTurnBarrel() {
+        return callTurnBarrel;
+    }
+
+    public void setCallTurnBarrel(boolean callTurnBarrel) {
+        this.callTurnBarrel = callTurnBarrel;
     }
 
     public boolean isRaiseTurnBarrel() {
@@ -272,6 +302,8 @@ public class DataBlock {
     public void setRaiseTurnBarrel(boolean raiseTurnBarrel) {
         this.raiseTurnBarrel = raiseTurnBarrel;
     }
+
+    //River
 
     public boolean isBetAfterCheckTurn() {
         return betAfterCheckTurn;
@@ -319,6 +351,50 @@ public class DataBlock {
     public void setRaise3Barrel(boolean raise3Barrel) {
         this.raise3Barrel = raise3Barrel;
     }
+
+    @Override
+    public String toString() {
+        return "new DataBlock{" + "\n" +
+                "  blinds='" + blinds + '\'' + "\n" +
+                "  site='" + site + '\'' + "\n" +
+                "  gameFormat='" + gameFormat + '\'' + "\n" +
+                "  H_FlopCard=" + H_FlopCard + "\n" +
+                "  M_FlopCard=" + M_FlopCard + "\n" +
+                "  L_FlopCard=" + L_FlopCard + "\n" +
+                "  turn=" + turn + "\n" +
+                "  river=" + river + "\n" +
+                "  flopTexture='" + flopTexture + '\'' + "\n" +
+                "  pairedFlop=" + pairedFlop + "\n" +
+                "  tripFlop=" + tripFlop + "\n" +
+                "  fullAction='" + fullAction + '\'' + "\n" +
+                "  OR_Pos='" + OR_Pos + '\'' + "\n" +
+                "  ORinBB=" + ORinBB + "\n" +
+                "  threeBetBB=" + threeBetBB + "\n" +
+                "  fourBetBB=" + fourBetBB + "\n" +
+                "  CallPos='" + CallPos + '\'' + "\n" +
+                "  aggrIP=" + aggrIP + "\n" +
+                "  potType='" + potType + '\'' + "\n" +
+                "  isoraisePot=" + isoraisePot + "\n" +
+                "  flopPlayers=" + flopPlayers + "\n" +
+                "  cbet=" + cbet + "\n" +
+                "  cbetCall=" + cbetCall + "\n" +
+                "  cbetFold=" + cbetFold + "\n" +
+                "  cbetRaise=" + cbetRaise + "\n" +
+                "  betAfterCheck=" + betAfterCheck + "\n" +
+                "  turnBarrel=" + turnBarrel + "\n" +
+                "  foldToTurnBarrel=" + foldToTurnBarrel + "\n" +
+                "  callTurnBarrel=" + callTurnBarrel + "\n" +
+                "  raiseTurnBarrel=" + raiseTurnBarrel + "\n" +
+                "  betAfterCheckTurn=" + betAfterCheckTurn + "\n" +
+                "  betAfterCheckRiver=" + betAfterCheckRiver + "\n" +
+                "  checkRiverAfterTurnBarrel=" + checkRiverAfterTurnBarrel + "\n" +
+                "  tripleBarrel=" + tripleBarrel + "\n" +
+                "  call3Barrel=" + call3Barrel + "\n" +
+                "  raise3Barrel=" + raise3Barrel + "\n" +
+                "  foldTo3Barrel=" + foldTo3Barrel + "\n" +
+                '}';
+    }
+
 
     public boolean isFoldTo3Barrel() {
         return foldTo3Barrel;

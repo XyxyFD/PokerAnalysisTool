@@ -4,12 +4,7 @@ import java.util.*;
 
 public class  DataProcessing {
 
-    public List<PokerHandExtractor.PokerHand> pokerHands;
-    public List<DataBlock> data = new ArrayList<>();
 
-    public DataProcessing(List<PokerHandExtractor.PokerHand> pokerHands) {
-        this.pokerHands = pokerHands;
-    }
     //Allgemein
 
     public static double convertInBB(PokerHandExtractor.PokerHand hand){
@@ -18,40 +13,50 @@ public class  DataProcessing {
         return bb;
     }
 
-    public void processBoardCards(DataBlock block, PokerHandExtractor.PokerHand hand){
+    // Verarbeitet die Boardkarten und speichert sie im DataBlock
+    public static void processBoardCards(DataBlock block, PokerHandExtractor.PokerHand hand) {
         List<Integer> flopcards = new ArrayList<>();
 
-        if(hand.boardCards[0] != null|| hand.boardCards[1] != null||hand.boardCards[2] != null){
-            int flop1 = cardToValue(hand.boardCards[0]);
-            int flop2 = cardToValue(hand.boardCards[1]);
-            int flop3 = cardToValue(hand.boardCards[2]);
-            flopcards.add(flop1);
-            flopcards.add(flop2);
-            flopcards.add(flop3);
-            Collections.sort(flopcards);
+        // Füge die Flopkarten hinzu, wenn sie vorhanden sind
+        if (hand.boardCards[0] != null) {
+            flopcards.add(cardToValue(hand.boardCards[0]));
+        }
+        if (hand.boardCards[1] != null) {
+            flopcards.add(cardToValue(hand.boardCards[1]));
+        }
+        if (hand.boardCards[2] != null) {
+            flopcards.add(cardToValue(hand.boardCards[2]));
+        }
 
-        }else{
+        // Wenn weniger als 3 Karten vorhanden sind, setze die Werte im Block auf 0
+        if (flopcards.size() < 3) {
             block.setHFlopCard(0);
-        }
-        block.setHFlopCard(flopcards.get(0));
-        block.setMFlopCard(flopcards.get(1));
-        block.setLFlopCard(flopcards.get(2));
-        //Turn
-        if(hand.boardCards[3] != null){
-            block.setTurn(cardToValue(hand.boardCards[3]));
-        }else{
-            block.setTurn(0);
-        }
-        //River
-        if(hand.boardCards[3] != null){
-            block.setTurn(cardToValue(hand.boardCards[3]));
-        }else{
-            block.setTurn(0);
-        }
-        block.setRiver(cardToValue(hand.boardCards[4]));
+            block.setMFlopCard(0);
+            block.setLFlopCard(0);
+        } else {
 
-        // pairedFlop/TripFlop/"normal" Flop
-        if (flopcards.size() >= 3) {
+            flopcards.sort(Comparator.reverseOrder());
+            block.setHFlopCard(flopcards.get(0));
+            block.setMFlopCard(flopcards.get(1));
+            block.setLFlopCard(flopcards.get(2));
+        }
+
+        // Turn
+        if (hand.boardCards[3] != null) {
+            block.setTurn(cardToValue(hand.boardCards[3]));
+        } else {
+            block.setTurn(0);
+        }
+
+        // River
+        if (hand.boardCards[4] != null) {
+            block.setRiver(cardToValue(hand.boardCards[4]));
+        } else {
+            block.setRiver(0);
+        }
+
+        // Überprüfe auf Paired Flop oder Trip Flop
+        if (flopcards.size() == 3) {
             int card1 = flopcards.get(0);
             int card2 = flopcards.get(1);
             int card3 = flopcards.get(2);
@@ -66,49 +71,81 @@ public class  DataProcessing {
                 block.setTripFlop(false);
                 block.setPairedFlop(true);
             }
+        } else {
+            block.setTripFlop(false);
+            block.setPairedFlop(false);
         }
-
     }
 
-    public int cardToValue(String card){
+
+
+    public static int cardToValue(String card) {
+        if (card == null || card.isEmpty()) {
+            System.out.println("Invalid card: " + card);
+            return -1;
+        }
+
         char rank = card.charAt(0);
 
-        switch(rank){
-            case '2': return 2;
-            case '3': return 3;
-            case '4': return 4;
-            case '5': return 5;
-            case '6': return 6;
-            case '7': return 7;
-            case '8': return 8;
-            case '9': return 9;
-            case 'T': return 10;
-            case 'J': return 11;
-            case 'Q': return 12;
-            case 'K': return 13;
-            case 'A': return 14;
+        switch (rank) {
+            case '2':
+                return 2;
+            case '3':
+                return 3;
+            case '4':
+                return 4;
+            case '5':
+                return 5;
+            case '6':
+                return 6;
+            case '7':
+                return 7;
+            case '8':
+                return 8;
+            case '9':
+                return 9;
+            case 'T':
+                return 10;
+            case 'J':
+                return 11;
+            case 'Q':
+                return 12;
+            case 'K':
+                return 13;
+            case 'A':
+                return 14;
             default:
-                System.out.println("This is not a card. Error in DataProcessing: line 30");
-                return 1;
+                System.out.println("This is not a valid card rank: " + card + ", " + "Rank: " +  rank);
+                return -1;
         }
     }
 
-    public String processStakes(PokerHandExtractor.PokerHand hand){
-        return hand.blinds;
+    // Verarbeitet die Einsätze (Stakes) und speichert sie im DataBlock
+    public static void processStakes(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        block.setStakes(hand.blinds);
     }
 
-    public void gameFormat(DataBlock block, PokerHandExtractor.PokerHand hand){
+    public static void gameFormat(PokerHandExtractor.PokerHand hand, DataBlock block) {
         block.setGameFormat(hand.gameFormat);
     }
-
-    public void texture(PokerHandExtractor.PokerHand hand, DataBlock block){
+    // Verarbeitet die Textur des Flops und speichert sie im DataBlock
+    public static void texture(PokerHandExtractor.PokerHand hand, DataBlock block) {
         List<Character> suits = new ArrayList<>();
+
+        // Überprüfe, ob der Flop existiert
+        if (hand.boardCards[0] == null || hand.boardCards[1] == null || hand.boardCards[2] == null) {
+            block.setFlopTexture("NoFlop");
+            return;
+        }
+
+        // Sammle die Suits der Flop-Karten
         for (int i = 0; i < 3; i++) {
             if (hand.boardCards[i] != null && hand.boardCards[i].length() > 1) {
                 char suit = hand.boardCards[i].charAt(hand.boardCards[i].length() - 1);
                 suits.add(suit);
             }
         }
+
         Set<Character> uniqueSuits = new HashSet<>(suits);
         int uniqueSuitCount = uniqueSuits.size();
 
@@ -117,113 +154,111 @@ public class  DataProcessing {
             block.setFlopTexture("monotone");
         } else if (uniqueSuitCount == 3) {
             block.setFlopTexture("rainbow");
-        } else {
+        } else if (uniqueSuitCount == 2) {
             block.setFlopTexture("two-tone");
         }
-
     }
-    public static void fullAction (PokerHandExtractor.PokerHand hand, DataBlock block){
-        String action = "";
-        for (String a:hand.preflopAction
-             ) {
 
-            action += a+ ":";
+    public static void fullAction(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        StringBuilder action = new StringBuilder();
+
+        for (String a : hand.preflopAction) {
+            action.append(a).append(":");
         }
-        action += ":FLOP:";
-        for (String a:hand.flopAction
-        ) {
 
-            action += a+ ":";
+        action.append(":FLOP:");
+        for (String a : hand.flopAction) {
+            action.append(a).append(":");
         }
-        action += ":TURN:";
-        for (String a:hand.turnAction
-        ) {
 
-            action += a+ ":";
+        action.append(":TURN:");
+        for (String a : hand.turnAction) {
+            action.append(a).append(":");
         }
-        action += ":RIVER:";
-        for (String a:hand.riverAction
-        ) {
 
-            action += a + ":";
+        action.append(":RIVER:");
+        for (String a : hand.riverAction) {
+            action.append(a).append(":");
         }
-        block.setFullAction(action);
 
-
+        block.setFullAction(action.toString());
     }
     //Preflop
 
-    public static String determineORPos(String action) {
-        // Split the action string into individual actions
-        String[] actions = action.split(":");
-
-        // Iterate over the actions to find the first raise
-        for (String act : actions) {
-            if(act.contains("FLOP")){
-                break;
-            }
-            if (act.contains("_r")) {
-                // Return the position part of the action, before '_r'
-                return act.split("_")[0];
-            }
-        }
-
-        // If no raise is found, return "No Open Raise"
-        return "NoOpenRaise";
-    }
-
-    public static double determineORinBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
-        // Split the action string into individual actions
+    // Bestimmt die Position des Open Raisers und speichert sie im DataBlock
+    public static void determineORPos(PokerHandExtractor.PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
-        // Iterate over the actions to find the first raise
         for (String act : actions) {
-            if (act.contains("FLOP")){
+            if (act.contains("FLOP")) {
                 break;
             }
             if (act.contains("_r")) {
-                // Extract the amount after '_r' and convert it to a double
+                block.setORPos(act.split("_")[0]);
+                return;
+            }
+        }
+
+        block.setORPos("NoOpenRaise");
+    }
+
+    // Bestimmt den Betrag des Open Raises in Big Blinds und speichert ihn im DataBlock
+    public static void determineORinBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
+
+        for (String act : actions) {
+            if (act.contains("FLOP")) {
+                break;
+            }
+            if (act.contains("_r")) {
                 String raiseAmount = act.split("_r")[1];
-                return Double.parseDouble(raiseAmount)/convertInBB(hand);
+                block.setORinBB(Double.parseDouble(raiseAmount) / convertInBB(hand));
+                return;
             }
         }
-        // If no raise is found, return -1 to indicate no open raise
-        return -1.0;
+
+        block.setORinBB(-1.0);
     }
-    public double determineThreeBetBB(String action) {
-        String[] actions = action.split(":");
+    // Bestimmt den Betrag der 3-Bet in Big Blinds und speichert ihn im DataBlock
+    public static void determineThreeBetBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
+        int raiseCount = 0;
+
+        for (String act : actions) {
+            if (act.contains("FLOP")) {
+                break;
+            }
+            if (act.contains("_r")) {
+                raiseCount++;
+                if (raiseCount == 2) {  // Die zweite Erhöhung ist die 3-Bet
+                    block.setThreeBetBB(Double.parseDouble(act.split("_r")[1]) / convertInBB(hand));
+                    return;
+                }
+            }
+        }
+
+        block.setThreeBetBB(-1.0);
+    }
+
+    // Bestimmt den Betrag der 4-Bet in Big Blinds und speichert ihn im DataBlock
+    public static void determineFourBetBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
 
         for (String act : actions) {
             if (act.contains("_r")) {
                 raiseCount++;
-                if (raiseCount == 2) {  // The second raise is the 3-Bet
-                    return Double.parseDouble(act.split("_r")[1]);
+                if (raiseCount == 3) {  // Die dritte Erhöhung ist die 4-Bet
+                    block.setFourBetBB(Double.parseDouble(act.split("_r")[1]) / convertInBB(hand));
+                    return;
                 }
             }
         }
 
-        // If no 3-Bet is found, return -1 to indicate no 3-Bet
-        return -1.0;
+        block.setFourBetBB(-1.0);
     }
-    public double determineFourBetBB(String action) {
-        String[] actions = action.split(":");
-        int raiseCount = 0;
-
-        for (String act : actions) {
-            if (act.contains("_r")) {
-                raiseCount++;
-                if (raiseCount == 3) {  // The third raise is the 4-Bet
-                    return Double.parseDouble(act.split("_r")[1]);
-                }
-            }
-        }
-
-        // If no 4-Bet is found, return -1 to indicate no 4-Bet
-        return -1.0;
-    }
-    public static String determineCallPos(String action) {
-        String[] actions = action.split(":");
+    public static String determineCallPos(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
         List<String> callers = new ArrayList<>();
         boolean raiseOccurred = false;
 
@@ -232,27 +267,33 @@ public class  DataProcessing {
                 break;
             }
             if (act.contains("r")) {
-                raiseOccurred = true;  // Raise detected, start counting calls
+                raiseOccurred = true;
+                callers.clear();
             }
             if (raiseOccurred && act.contains("_c")) {
-                callers.add(act.split("_")[0]);  // Add the position part of the action
+                callers.add(act.split("_")[0]);
             }
         }
 
         if (callers.size() == 1) {
+            block.setCallPos(callers.get(0));
             return callers.get(0);  // Return the single caller's position
         } else if (callers.size() > 1) {
+            block.setCallPos(String.valueOf(callers.size()));
             return String.valueOf(callers.size());  // Return the number of callers as a String
+        } else {
+            block.setCallPos("0");
+            return "0";
         }
-
-        // If no valid caller is found, return "0"
-        return "0";
     }
-    public String determinePotType(String action) {
-        String[] actions = action.split(":");
+    public static void determinePotType(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
 
         for (String act : actions) {
+            if (act.contains("FLOP")) {
+                break;
+            }
             if (act.contains("_r")) {
                 raiseCount++;
             }
@@ -260,37 +301,40 @@ public class  DataProcessing {
 
         switch (raiseCount) {
             case 0:
-                return "LimpedPot";
+                block.setPotType("LimpedPot");
+                break;
             case 1:
-                return "SRP";  // Single Raised Pot
+                block.setPotType("SRP");
+                break;
             case 2:
-                return "3BetPot";  // 3-Bet Pot
+                block.setPotType("3BetPot");
+                break;
             case 3:
-                return "4BetPot";  // 4-Bet Pot
+                block.setPotType("4BetPot");
+                break;
             default:
-                return "Other";  // More than 4-Bet or no raises
+                block.setPotType("Other");
         }
     }
-    public static boolean isIsoraisePot(String fullAction) {
-        // Split the action string into individual actions
-        String[] actions = fullAction.split(":");
+    // Bestimmt, ob es sich um einen Isoraise-Pot handelt und speichert das Ergebnis im DataBlock
+    public static void isIsoraisePot(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
 
         boolean limpFound = false;
 
         for (String act : actions) {
-            if (act.contains("FLOP")){
+            if (act.contains("FLOP")) {
                 break;
             }
-            if (act.contains("_x")) {
-                limpFound = true;  // Markiere, dass ein Limp gefunden wurde
+            if (act.contains("_c")) {
+                limpFound = true;
             } else if (limpFound && act.contains("_r")) {
-                // Wenn ein Limp gefunden wurde und danach ein Raise kommt, ist es ein Isoraise
-                return true;
+                block.setIsoraisePot(true);
+                return;
             }
         }
 
-        // Wenn kein Limp gefolgt von einem Raise gefunden wird, ist es kein Isoraise
-        return false;
+        block.setIsoraisePot(false);
     }
     public static String determineLastAggressorPreflop(String fullAction) {
         String[] actions = fullAction.split(":");
@@ -308,189 +352,269 @@ public class  DataProcessing {
         return lastAggressor;
     }
 
-    public static int determineAggrIP(String action) {
-        String[] actions = action.split(":");
+    public static int determineAggrIP(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
 
-
-        String caller = determineCallPos(action);
-        String lastAggressor = determineLastAggressorPreflop(action);
+        String caller = block.getCallPos();
+        String lastAggressor = determineLastAggressorPreflop(block.getFullAction());
         int aggrPos = 0;
         int callPos = 0;
 
-        switch (caller){
-            case "SB": callPos = 1;break;
-            case "BB": callPos = 2;break;
-            case "UTG": callPos = 3;break;
-            case "UTG1": callPos = 4;break;
-            case "UTG2": callPos = 5;break;
-            case "LJ": callPos = 6;break;
-            case "HJ": callPos = 7;break;
-            case "CO": callPos = 8;break;
-            case "BTN": callPos = 9;break;
-            default: callPos = 0;
-        }
-        switch (lastAggressor){
-            case "SB": aggrPos = 1;break;
-            case "BB": aggrPos = 2;break;
-            case "UTG": aggrPos = 3;break;
-            case "UTG1": aggrPos = 4;break;
-            case "UTG2": aggrPos = 5;break;
-            case "LJ": aggrPos = 6;break;
-            case "HJ": aggrPos = 7;break;
-            case "CO": aggrPos = 8;break;
-            case "BTN": aggrPos = 9;break;
-            default: aggrPos = 0;
+        switch (caller) {
+            case "SB":
+                callPos = 1;
+                break;
+            case "BB":
+                callPos = 2;
+                break;
+            case "UTG":
+                callPos = 3;
+                break;
+            case "UTG1":
+                callPos = 4;
+                break;
+            case "UTG2":
+                callPos = 5;
+                break;
+            case "LJ":
+                callPos = 6;
+                break;
+            case "HJ":
+                callPos = 7;
+                break;
+            case "CO":
+                callPos = 8;
+                break;
+            case "BTN":
+                callPos = 9;
+                break;
+            default:
+                callPos = 0;
         }
 
-        if(aggrPos - callPos > 0 && aggrPos != 0 && callPos != 0){
+        switch (lastAggressor) {
+            case "SB":
+                aggrPos = 1;
+                break;
+            case "BB":
+                aggrPos = 2;
+                break;
+            case "UTG":
+                aggrPos = 3;
+                break;
+            case "UTG1":
+                aggrPos = 4;
+                break;
+            case "UTG2":
+                aggrPos = 5;
+                break;
+            case "LJ":
+                aggrPos = 6;
+                break;
+            case "HJ":
+                aggrPos = 7;
+                break;
+            case "CO":
+                aggrPos = 8;
+                break;
+            case "BTN":
+                aggrPos = 9;
+                break;
+            default:
+                aggrPos = 0;
+        }
+        //TODO vielleicht besser kein boolean wert
+        if (aggrPos - callPos > 0 && aggrPos != 0 && callPos != 0) {
+            block.setAggrIP(true);
             return 1;
-        }else if(aggrPos - callPos < 0 && aggrPos != 0 && callPos != 0){
+        } else if (aggrPos - callPos < 0 && aggrPos != 0 && callPos != 0) {
+            block.setAggrIP(false);
             return 0;
-        }else{
+        } else {
+            block.setAggrIP(false);
             return -1;
         }
-
     }
      //Flop-------------------------------------------------------------------------------------------------------
 
-     // Anzahl der Spieler, die den Flop sehen
-     public static int countFlopPlayers(String action) {
-         String[] actions = action.split(":");
+    // Bestimmt die Anzahl der Spieler, die den Flop sehen, und speichert sie im DataBlock
+    public static void countFlopPlayers(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
 
-
-         for (String act : actions) {
-             if (act.contains("FLOP")) {
-                 break;
-             }
-             if (determineCallPos(action).equals("SB")||determineCallPos(action).equals("BB")||determineCallPos(action).equals("UTG")
-                     ||determineCallPos(action).equals("UTG1")||determineCallPos(action).equals("UTG2")||determineCallPos(action).equals("LJ")
-                     ||determineCallPos(action).equals("HJ")||determineCallPos(action).equals("CO")||determineCallPos(action).equals("BTN")
-             ) {
-                 return 2;
-             }else{
-                 try{
-                     int player = Integer.parseInt(determineCallPos(action));
-                     return player + 1;
-                 }catch (Exception e){
-                     return -1;
-                 }
-             }
-         }
-         return -1;
-     }
+        for (String act : actions) {
+            if (act.contains("FLOP")) {
+                break;
+            }
+            if (determineCallPos(hand, block).equals("SB") || determineCallPos(hand, block).equals("BB") ||
+                    determineCallPos(hand, block).equals("UTG") || determineCallPos(hand, block).equals("UTG1") ||
+                    determineCallPos(hand, block).equals("UTG2") || determineCallPos(hand, block).equals("LJ") ||
+                    determineCallPos(hand, block).equals("HJ") || determineCallPos(hand, block).equals("CO") ||
+                    determineCallPos(hand, block).equals("BTN")) {
+                block.setFlopPlayers(2);
+                return;
+            } else {
+                try {
+                    int player = Integer.parseInt(determineCallPos(hand, block));
+                    block.setFlopPlayers(player + 1);
+                    return;
+                } catch (Exception e) {
+                    block.setFlopPlayers(-1);
+                    return;
+                }
+            }
+        }
+        block.setFlopPlayers(-1);
+    }
 
     // Gibt es eine C-Bet?
-    public static boolean isCBet(String action) {
-        String[] actions = action.split(":");
+    public static void isCBet(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        String[] actions = block.getFullAction().split(":");
         boolean isFlop = false;
 
         for (String act : actions) {
-
             if (act.contains("FLOP")) {
                 isFlop = true;
             }
-            if(act.contains("TURN")){
+            if (act.contains("TURN")) {
                 break;
             }
-            if (isFlop && act.contains(determineLastAggressorPreflop(action) + "_b") ) {
-                return true;  // Wenn es einen Raise oder Bet gibt, handelt es sich um eine C-Bet
+            if (isFlop && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")) {
+                block.setCbet(true);
+                return;
             }
         }
 
-        return false;
+        block.setCbet(false);
+    }
+    public static void isCbetCalled(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        // Check if a C-bet was made
+        if (!block.isCbet()) {
+            block.setCbetCall(false);
+            return;
+        }
+
+        String[] actions = block.getFullAction().split(":");
+        boolean isFlop = false;
+
+        for (String act : actions) {
+            if (act.contains("TURN")) {
+                break;
+            }
+            if (act.contains("FLOP")) {
+                isFlop = true;
+            }
+            if(isFlop && act.contains("_r")){
+                block.setCall3Barrel(false);
+                return;
+            }
+            if (isFlop && act.contains("_c")) {
+                block.setCbetCall(true);
+                return;
+            }
+        }
+
+        block.setCbetCall(false);
     }
 
     // Gibt es ein C-Bet Raise?
-    public static boolean isCBetRaise(String action) {
-        if(!isCBet(action)){
-            return false;
+    // Bestimmt, ob es ein C-Bet Raise am Flop gibt, und speichert das Ergebnis im DataBlock
+    public static void isCBetRaise(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isCbet()) {
+            block.setCbetRaise(false);
+            return;
         }
-        String[] actions = action.split(":");
 
+        String[] actions = block.getFullAction().split(":");
         boolean isFlop = false;
 
         for (String act : actions) {
-
             if (act.contains("FLOP")) {
                 isFlop = true;
             }
-            if(act.contains("TURN")){
+            if (act.contains("TURN")) {
                 break;
             }
             if (isFlop && act.contains("_r")) {
-                return true;  // Wenn nach einer C-Bet ein Raise kommt, ist es ein C-Bet Raise
+                block.setCbetRaise(true);
+                return;
             }
-
         }
 
-        return false;
+        block.setCbetRaise(false);
     }
 
-    // Gibt es eine C-Bet Fold?
-    public static boolean isCBetFold(String action) {
-        //TODO funktioniert multiway nicht
-        if(!isCBet(action)){
-            return false;
+    // Bestimmt, ob es ein C-Bet Fold am Flop gibt, und speichert das Ergebnis im DataBlock
+    public static void isCBetFold(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isCbet()) {
+            block.setCbetFold(false);
+            return;
         }
-        if(determineAggrIP(action) == -1){
-            return false;
-        }
-        String[] actions = action.split(":");
+
+        String[] actions = block.getFullAction().split(":");
         boolean isFlop = false;
+
         for (String act : actions) {
-            if(act.contains("TURN")){
+            if (act.contains("TURN")) {
                 break;
             }
             if (act.contains("FLOP")) {
                 isFlop = true;
             }
             if (isFlop && act.contains("_r")) {
-                return false;
+                block.setCbetFold(false);
+                return;
             }
             if (isFlop && act.contains("_f")) {
-                return true;  // Wenn nach einer C-Bet ein Fold kommt, ist es ein C-Bet Fold
+                block.setCbetFold(true);
+                return;
             }
         }
-        return false;
+
+        block.setCbetFold(false);
     }
 
     // Bet after Check (macht nur Sinn, wenn der Aggressor OOP ist)
-    public static boolean isBetAfterCheck(String action) {
+    // Bestimmt, ob es eine Bet nach einem Check am Flop gibt, und speichert das Ergebnis im DataBlock
+    public static void isBetAfterCheck(PokerHandExtractor.PokerHand hand, DataBlock block) {
         boolean isChecked = false;
         boolean isFlop = false;
-        if(determineAggrIP(action) == 1 || determineAggrIP(action) == -1){
-            return false;
-        }
-        String[] actions = action.split(":");
-        for (String act : actions) {
-            if(act.contains("TURN")){
 
+        if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
+            block.setBetAfterCheck(false);
+            return;
+        }
+
+        String[] actions = block.getFullAction().split(":");
+
+        for (String act : actions) {
+            if (act.contains("TURN")) {
                 break;
             }
             if (act.contains("FLOP")) {
-
                 isFlop = true;
             }
-            if(isFlop && act.contains("_x")){
-
+            if (isFlop && act.contains("_x")) {
                 isChecked = true;
             }
-            if(isFlop && isChecked && act.contains("_b")){
-
-                return true;
+            if (isFlop && isChecked && act.contains("_b")) {
+                block.setBetAfterCheck(true);
+                return;
             }
         }
 
-        return false;
+        block.setBetAfterCheck(false);
     }
 
     //TURN------------------------------------------------------------------------------------------------------------
-    public static boolean isTurnBarrel(String action) {
-        if(!isCBet(action)){
+    // Bestimmt, ob es eine Turn-Barrel gibt, und speichert das Ergebnis im DataBlock. Gibt einen Rückgabewert zurück, da diese Methode in anderen verwendet wird.
+    public static boolean isTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isCbet()) {
+            block.setTurnBarrel(false);
             return false;
         }
         boolean isTurn = false;
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
+
         for (String act : actions) {
             if (act.contains("TURN")) {
                 isTurn = true;
@@ -498,21 +622,26 @@ public class  DataProcessing {
             if (act.contains("RIVER")) {
                 break;
             }
-            if (isTurn && act.contains(determineLastAggressorPreflop(action) + "_b")) {
+            if (isTurn && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")) {
+                block.setTurnBarrel(true);
                 return true;
             }
         }
 
+        block.setTurnBarrel(false);
         return false;
     }
 
+
     // Wurde am Turn nach einer Bet gefoldet?
-    public static boolean isFoldToTurnBarrel(String action) {
-        if (!isTurnBarrel(action)) {
-            return false;
+    // Bestimmt, ob am Turn nach einer Bet gefoldet wurde, und speichert das Ergebnis im DataBlock
+    public static void isFoldToTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTurnBarrel()) {
+            block.setFoldToTurnBarrel(false);
+            return;
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isTurn = false;
 
         for (String act : actions) {
@@ -523,23 +652,27 @@ public class  DataProcessing {
                 break;
             }
             if (isTurn && act.contains("_r")) {
-                return false;
+                block.setFoldToTurnBarrel(false);
+                return;
             }
             if (isTurn && act.contains("_f")) {
-                return true; // Fold nach Turn-Bet
+                block.setFoldToTurnBarrel(true);
+                return;
             }
         }
 
-        return false;
+        block.setFoldToTurnBarrel(false);
     }
 
     // Gab es ein Raise auf die Turn-Bet?
-    public static boolean isRaiseBarrel(String action) {
-        if (!isTurnBarrel(action)) {
-            return false;
+    // Bestimmt, ob es ein Raise auf die Turn-Barrel gibt, und speichert das Ergebnis im DataBlock
+    public static void isRaiseBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTurnBarrel()) {
+            block.setRaiseTurnBarrel(false);
+            return;
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isTurn = false;
 
         for (String act : actions) {
@@ -550,18 +683,21 @@ public class  DataProcessing {
                 break;
             }
             if (isTurn && act.contains("_r")) {
-                return true; // Raise nach Turn-Bet
+                block.setRaiseTurnBarrel(true);
+                return;
             }
         }
 
-        return false;
+        block.setRaiseTurnBarrel(false);
     }
-    public static boolean isCallTurnBarrel(String action) {
-        if (!isTurnBarrel(action)) {
-            return false;
+    // Bestimmt, ob es einen Call auf die Turn-Barrel gibt, und speichert das Ergebnis im DataBlock
+    public static void isCallTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTurnBarrel()) {
+            block.setCallTurnBarrel(false);
+            return;
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isTurn = false;
 
         for (String act : actions) {
@@ -571,18 +707,27 @@ public class  DataProcessing {
             if (act.contains("RIVER")) {
                 break;
             }
+            if(isTurn && act.contains("_r")){
+                block.setCall3Barrel(false);
+                return;
+            }
             if (isTurn && act.contains("_c")) {
-                return true; // Call auf die Turn-Bet erkannt
+                block.setCallTurnBarrel(true);
+                return;
             }
         }
-        return false;
+
+        block.setCallTurnBarrel(false);
     }
     // Gab es eine Bet nach einem Check am Turn? (nur sinnvoll, wenn der Aggressor OOP ist)
-    public static boolean isBetAfterCheckTurn(String action) {
-        if(determineAggrIP(action) == 1 || determineAggrIP(action) == -1){
+    // Bestimmt, ob es eine Bet nach einem Check am Turn gibt, und speichert das Ergebnis im DataBlock
+    public static boolean isBetAfterCheckTurn(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
+            block.setBetAfterCheckTurn(false);
             return false;
         }
-        String[] actions = action.split(":");
+
+        String[] actions = block.getFullAction().split(":");
         boolean isTurn = false;
         boolean checkOccurred = false;
 
@@ -593,24 +738,27 @@ public class  DataProcessing {
             if (act.contains("RIVER")) {
                 break;
             }
-            if (isTurn && act.contains(determineLastAggressorPreflop(action) + "_x")) {
-                checkOccurred = true; // Check am Turn erkannt
+            if (isTurn && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_x")) {
+                checkOccurred = true;
             }
             if (checkOccurred && act.contains("_b")) {
-                return true; // Bet nach Check am Turn erkannt
+                block.setBetAfterCheckTurn(true);
+                return true;
             }
         }
 
+        block.setBetAfterCheckTurn(false);
         return false;
     }
     //RIVER-------------------------------------------------------------------------------------------
 
-    // Gab es eine Bet nach einem Check am River? (nur sinnvoll, wenn der Aggressor OOP ist)
-    public static boolean isBetAfterCheckRiver(String action) {
-        if(determineAggrIP(action) == 1 || determineAggrIP(action) == -1){
-            return false;
+    // Bestimmt, ob es eine Bet nach einem Check am River gibt, und speichert das Ergebnis im DataBlock
+    public static void isBetAfterCheckRiver(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
+            block.setBetAfterCheckRiver(false);
         }
-        String[] actions = action.split(":");
+
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
         boolean checkOccurred = false;
 
@@ -618,102 +766,121 @@ public class  DataProcessing {
             if (act.contains("RIVER")) {
                 isRiver = true;
             }
-            if (isRiver && act.contains(determineLastAggressorPreflop(action) + "_x")) {
+            if (isRiver && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_x")) {
                 checkOccurred = true; // Check am River erkannt
             }
             if (checkOccurred && act.contains("_b")) {
-                return true; // Bet nach Check am River erkannt
+                block.setBetAfterCheckRiver(true);
             }
         }
 
-        return false;
+        block.setBetAfterCheckRiver(false);
     }
 
-    // Gab es einen Check nach einer Turn-Bet?
-    public static boolean isCheckRiverAfterTurnBarrel(String action) {
-        if (!isTurnBarrel(action)) {
-            return false;
+    // Bestimmt, ob es einen Check nach einer Turn-Bet am River gibt, und speichert das Ergebnis im DataBlock
+    public static void isCheckRiverAfterTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTurnBarrel()) {
+            block.setCheckRiverAfterTurnBarrel(false);
+
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
 
         for (String act : actions) {
             if (act.contains("RIVER")) {
                 isRiver = true;
             }
-            if (isRiver && act.contains(determineLastAggressorPreflop(action) + "_x")) {
-                return true; // Check nach Turn-Bet erkannt
+            if (isRiver && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_x")) {
+                block.setCheckRiverAfterTurnBarrel(true);
             }
         }
-        return false;
+
+        block.setCheckRiverAfterTurnBarrel(false);
+
     }
 
     // Gab es eine Bet nach einer Turn-Bet am River?
-    public static boolean isTripleBarrel(String action) {
-        if (!isTurnBarrel(action)) {
-            return false;
+    // Bestimmt, ob es eine Triple Barrel (Bet nach einer Turn-Bet am River) gibt, und speichert das Ergebnis im DataBlock
+    public static void isTripleBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTurnBarrel()) {
+            block.setTripleBarrel(false);
+
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
 
         for (String act : actions) {
             if (act.contains("RIVER")) {
                 isRiver = true;
             }
-            if (isRiver && act.contains(determineLastAggressorPreflop(action) + "_b")) {
-                return true; // Bet nach Turn-Bet am River erkannt
+            if (isRiver && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")) {
+                block.setTripleBarrel(true);
             }
         }
-        return false;
+
+        block.setTripleBarrel(false);
     }
 
     // Gab es einen Call auf die 3. Barrel am River?
-    public static boolean isCall3Barrel(String action) {
-        if (!isTripleBarrel(action)) {
-            return false;
+    // Bestimmt, ob es einen Call auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
+    public static void isCall3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTripleBarrel()) {
+            block.setCall3Barrel(false);
+            return;
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
 
         for (String act : actions) {
             if (act.contains("RIVER")) {
                 isRiver = true;
+            }
+            if(isRiver && act.contains("_r")){
+                block.setCall3Barrel(false);
+                return;
             }
             if (isRiver && act.contains("_c")) {
-                return true; // Call auf die 3. Barrel erkannt
+                block.setCall3Barrel(true);
+                return; // Call auf die 3. Barrel erkannt
             }
         }
-        return false;
+
+        block.setCall3Barrel(false);
     }
-    public static boolean isRaise3Barrel(String action) {
-        if (!isTripleBarrel(action)) {
-            return false;
+    // Bestimmt, ob es ein Raise auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
+    public static void isRaise3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTripleBarrel()) {
+            block.setRaise3Barrel(false);
+
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
 
         for (String act : actions) {
             if (act.contains("RIVER")) {
                 isRiver = true;
             }
-            //System.out.println(isRiver + ", " + isBetAfterTurnBarrel(action) + ", " + act.contains("_r"));
             if (isRiver && act.contains("_r")) {
-                return true; // Raise auf die Triple Barrel am River erkannt
+                block.setRaise3Barrel(true);
+
             }
         }
-        return false;
+
+        block.setRaise3Barrel(false);
+
     }
-    // Gab es einen Fold auf die Triple Barrel am River?
-    public static boolean isFoldTo3Barrel(String action) {
-        if (!isTripleBarrel(action)) {
-            return false;
+    // Bestimmt, ob es einen Fold auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
+    public static void isFoldTo3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        if (!block.isTripleBarrel()) {
+            block.setFoldTo3Barrel(false);
+            return;
         }
 
-        String[] actions = action.split(":");
+        String[] actions = block.getFullAction().split(":");
         boolean isRiver = false;
 
         for (String act : actions) {
@@ -721,10 +888,11 @@ public class  DataProcessing {
                 isRiver = true;
             }
             if (isRiver && act.contains("_f")) {
-                return true; // Fold auf die Triple Barrel am River erkannt
+                block.setFoldTo3Barrel(true);
+                return; // Fold auf die Triple Barrel am River erkannt
             }
         }
 
-        return false;
+        block.setFoldTo3Barrel(false);
     }
 }
