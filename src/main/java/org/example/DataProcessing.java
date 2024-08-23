@@ -604,6 +604,39 @@ public class  DataProcessing {
 
         block.setBetAfterCheck(false);
     }
+    //TODO Die gleiche Methode für den Turn wenn Aggr IP würde auch noch sinn machen
+    public static void isBetAfterFlopCheckOOP(PokerHandExtractor.PokerHand hand, DataBlock block) {
+        // Prüfen, ob der Aggressor OOP ist und keine C-Bet gemacht hat
+        if (determineAggrIP(hand, block) != 0 || block.isCbet()) {
+            block.setStabFlopAfterCheck(false);
+            return;
+        }
+
+        boolean isChecked = false;
+        boolean isFlop = false;
+
+        String[] actions = block.getFullAction().split(":");
+
+        for (String act : actions) {
+            if (act.contains("TURN")) {
+                break;
+            }
+            if (act.contains("FLOP")) {
+                isFlop = true;
+            }
+            if (isFlop && act.contains("_x")) {
+                isChecked = true;
+            }
+            if (isFlop && isChecked && act.contains("_b")) {
+                block.setStabFlopAfterCheck(true);
+                return;
+            }
+        }
+
+        block.setStabFlopAfterCheck(false);
+    }
+
+
 
     //TURN------------------------------------------------------------------------------------------------------------
     // Bestimmt, ob es eine Turn-Barrel gibt, und speichert das Ergebnis im DataBlock. Gibt einen Rückgabewert zurück, da diese Methode in anderen verwendet wird.

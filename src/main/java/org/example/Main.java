@@ -13,11 +13,9 @@ public class Main {
         // Extrahiere alle Pokerhände aus dem PokerHandExtractor
         List<PokerHandExtractor.PokerHand> pokerHands = PokerHandExtractor.extract();
         System.out.println(pokerHands.get(0).boardCards);
-        for (String card: pokerHands.get(1).boardCards
-             ) {
+        for (String card: pokerHands.get(1).boardCards) {
             System.out.println(card);
         }
-
 
         // Erstelle eine Liste für die Datenblöcke
         List<DataBlock> dataBlocks = new ArrayList<>();
@@ -51,6 +49,7 @@ public class Main {
             DataProcessing.isCBetRaise(hand, block);
             DataProcessing.isCBetFold(hand, block);
             DataProcessing.isBetAfterCheck(hand, block);
+            DataProcessing.isBetAfterFlopCheckOOP(hand, block);
 
             // Verarbeite Turn-Daten
             DataProcessing.isTurnBarrel(hand, block);

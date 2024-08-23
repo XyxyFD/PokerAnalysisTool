@@ -38,6 +38,7 @@ public class DataBlock {
     private boolean cbetFold; // Gab es einen Fold auf die C-Bet?
     private boolean cbetRaise; // Gab es ein Raise auf die C-Bet?
     private boolean betAfterCheck; // Gab es eine Bet nach einem Check?
+    private boolean stabFlopAfterCheck;
 
     // Turn ____________________________________________________________________________________________
     private boolean turnBarrel; // gibt es einen weiteren bet am turn nach einem Cbet?
@@ -123,6 +124,15 @@ public class DataBlock {
 
     public String getFlopTexture() {
         return flopTexture;
+    }
+    // Getter für stabFlopAfterCheck
+    public boolean isStabFlopAfterCheck() {
+        return stabFlopAfterCheck;
+    }
+
+    // Setter für stabFlopAfterCheck
+    public void setStabFlopAfterCheck(boolean stabFlopAfterCheck) {
+        this.stabFlopAfterCheck = stabFlopAfterCheck;
     }
 
     public void setFlopTexture(String flopTexture) {
@@ -381,6 +391,7 @@ public class DataBlock {
                 "  cbetFold=" + cbetFold + "\n" +
                 "  cbetRaise=" + cbetRaise + "\n" +
                 "  betAfterCheck=" + betAfterCheck + "\n" +
+                "  stabFlopAfterCheck=" + stabFlopAfterCheck + "\n" + // Neue Zeile für stabFlopAfterCheck
                 "  turnBarrel=" + turnBarrel + "\n" +
                 "  foldToTurnBarrel=" + foldToTurnBarrel + "\n" +
                 "  callTurnBarrel=" + callTurnBarrel + "\n" +
@@ -394,6 +405,7 @@ public class DataBlock {
                 "  foldTo3Barrel=" + foldTo3Barrel + "\n" +
                 '}';
     }
+
 
 
     public boolean isFoldTo3Barrel() {
