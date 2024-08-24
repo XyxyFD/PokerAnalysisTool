@@ -1,0 +1,50 @@
+mysql> CREATE DATABASE PokerAnalysisDB;
+Query OK, 1 row affected (0,06 sec)
+
+mysql> USE PokerAnalysisDB;
+Database changed
+mysql> CREATE TABLE PokerHands (
+    ->     id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     blinds VARCHAR(50),
+    ->     site VARCHAR(50),
+    ->     gameFormat VARCHAR(50),
+    ->     H_FlopCard INT,
+    ->     M_FlopCard INT,
+    ->     L_FlopCard INT,
+    ->     turn INT,
+    ->     river INT,
+    ->     flopTexture VARCHAR(20),
+    ->     pairedFlop BOOLEAN,
+    ->     tripFlop BOOLEAN,
+    ->     fullAction TEXT,
+    ->     OR_Pos VARCHAR(10),
+    ->     ORinBB DOUBLE,
+    ->     threeBetBB DOUBLE,
+    ->     fourBetBB DOUBLE,
+    ->     CallPos VARCHAR(10),
+    ->     aggrIP BOOLEAN,
+    ->     potType VARCHAR(20),
+    ->     isoraisePot BOOLEAN,
+    ->     flopPlayers INT,
+    ->     cbet BOOLEAN,
+    ->     cbetCall BOOLEAN,
+    ->     cbetFold BOOLEAN,
+    ->     cbetRaise BOOLEAN,
+    ->     betAfterCheck BOOLEAN,
+    ->     turnBarrel BOOLEAN,
+    ->     foldToTurnBarrel BOOLEAN,
+    ->     callTurnBarrel BOOLEAN,
+    ->     raiseTurnBarrel BOOLEAN,
+    ->     betAfterCheckTurn BOOLEAN,
+    ->     betAfterCheckRiver BOOLEAN,
+    ->     checkRiverAfterTurnBarrel BOOLEAN,
+    ->     tripleBarrel BOOLEAN,
+    ->     call3Barrel BOOLEAN,
+    ->     raise3Barrel BOOLEAN,
+    ->     foldTo3Barrel BOOLEAN
+    -> );
+Query OK, 0 rows affected (0,22 sec)
+
+mysql> [1]+  Killed                  sudo mysqld_safe --skip-grant-tables
+Killed
+felix@felix-desktop:~$ 

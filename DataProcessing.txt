@@ -199,7 +199,7 @@ public class  DataProcessing {
             }
         }
 
-        block.setORPos("NoOR");
+        block.setORPos("NoOpenRaise");
     }
 
     // Bestimmt den Betrag des Open Raises in Big Blinds und speichert ihn im DataBlock

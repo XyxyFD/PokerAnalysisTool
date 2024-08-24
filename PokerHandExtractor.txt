@@ -99,7 +99,7 @@ public class PokerHandExtractor {
                             extractPosByPlayerNameSnap(line, currentHand, totalPlayers);
                         }
                     }
-                    
+
                 } else if (line.startsWith("Dealt to")) {
                     boolean summary = false;
                     String[] parts = line.split(" \\[");
