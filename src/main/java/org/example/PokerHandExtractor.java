@@ -57,12 +57,11 @@ public class PokerHandExtractor {
         }
     }
 
-    public static List<PokerHand> extract() {
-        //TODO dieser filePath funktioniert nur auf meinem lokalen Gerät
-        String filePath = "src/main/java/org/example/handhistory.txt";
+    public static List<PokerHand> extract(String filepath) {
+
         List<PokerHand> pokerHands = new ArrayList<>();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(filepath))) {
             String line;
             PokerHand currentHand = null;
 
@@ -139,7 +138,7 @@ public class PokerHandExtractor {
                             parts = cardString.split(",\\s*");
 
                             // Debug-Ausgabe, um sicherzustellen, dass die Karten korrekt extrahiert werden
-                            System.out.println("Extracted flop cards: " + Arrays.toString(parts));
+
 
                             // Kopiere die extrahierten Karten ins BoardCards-Array
                             System.arraycopy(parts, 0, currentHand.boardCards, 0, parts.length);
@@ -174,7 +173,6 @@ public class PokerHandExtractor {
                                     String turnCard = line.split("\\[")[1].replace("]", "").trim();
 
                                     // Debug-Ausgabe zur Überprüfung der extrahierten Karte
-                                    System.out.println("Extracted turn card: " + turnCard);
 
                                     currentHand.boardCards[3] = turnCard;
                                     while ((line = br.readLine()) != null){
@@ -206,7 +204,6 @@ public class PokerHandExtractor {
                                             String riverCard = line.split("\\[")[1].replace("]", "").trim();
 
                                             // Debug-Ausgabe zur Überprüfung der extrahierten Karte
-                                            System.out.println("Extracted river card: " + riverCard);
 
                                             currentHand.boardCards[4] = riverCard;
                                             while ((line = br.readLine()) != null) {

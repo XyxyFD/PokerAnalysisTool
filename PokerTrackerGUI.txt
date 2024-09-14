@@ -1,0 +1,523 @@
+package org.example;
+
+import javafx.application.Application;
+import javafx.concurrent.Task;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
+import javafx.scene.Scene;
+import javafx.scene.control.*;
+import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.Priority;
+import javafx.scene.layout.VBox;
+import javafx.stage.FileChooser;
+import javafx.stage.Stage;
+
+import java.io.File;
+
+public class PokerTrackerGUI extends Application {
+
+    public static String filterQuery = "";
+    private CheckBox rainbowCheckbox;
+    private CheckBox monotoneCheckbox;
+    private CheckBox twoTonedCheckbox;
+    private CheckBox aggressorIPCheckbox;
+    private TableView<Scenario> tableView;
+
+    // New variables for flop, turn, and river filtering
+    private TextField flopHighCard;
+    private CheckBox flopHighCardLEQ;
+    private TextField flopMidCard;
+    private CheckBox flopMidCardLEQ;
+    private TextField flopLowCard;
+    private CheckBox flopLowCardLEQ;
+
+    private TextField turnCard;
+    private CheckBox turnCardLEQ;
+
+    private TextField riverCard;
+    private CheckBox riverCardLEQ;
+
+    @Override
+    public void start(Stage primaryStage) {
+        // Erstelle die TabPane, um zwischen verschiedenen Seiten zu wechseln
+        TabPane tabPane = new TabPane();
+
+        // Tab für die Pokeranalyse-Seite (dein aktueller Code)
+        Tab pokerAnalysisTab = new Tab("Poker Analysis");
+        pokerAnalysisTab.setContent(createAnalysisLayout());  // Verwende dein bestehendes Layout
+        pokerAnalysisTab.setClosable(false); // Schließen des Tabs deaktivieren
+
+        // Starte die Berechnungen für die Pokeranalyse-Seite sofort
+        startBackgroundCalculations(tableView);
+
+        // Tab für die zweite leere Seite
+        Tab secondTab = new Tab("Upload Page");
+        secondTab.setContent(createUploadPage()); // Leere Seite hinzufügen
+        secondTab.setClosable(false);
+
+        // Tabs zur TabPane hinzufügen
+        tabPane.getTabs().addAll(pokerAnalysisTab, secondTab);
+
+        // Erstelle die Hauptszene mit der TabPane
+        Scene scene = new Scene(tabPane, 1600, 900);
+        primaryStage.setTitle("Poker Analysis Tool");
+        primaryStage.setScene(scene);
+        primaryStage.setMaximized(true); // Fenster auf Fullscreen setzen
+        primaryStage.show();
+    }
+
+    // Methode zum Erstellen der bestehenden Pokeranalyse-Seite
+    // Methode zum Erstellen der bestehenden Pokeranalyse-Seite
+    private HBox createAnalysisLayout() {
+        tableView = new TableView<>();
+
+        // Spalte für Szenarien
+        TableColumn<Scenario, String> scenarioColumn = new TableColumn<>("Scenario");
+        scenarioColumn.setCellValueFactory(new PropertyValueFactory<>("name"));
+        scenarioColumn.setPrefWidth(200);
+
+        // Spalte für Prozente
+        TableColumn<Scenario, String> percentageColumn = new TableColumn<>("Percentage");
+        percentageColumn.setCellValueFactory(new PropertyValueFactory<>("percentage"));
+        percentageColumn.setPrefWidth(100);
+
+        // Spalte für mögliche Fälle
+        TableColumn<Scenario, String> possibleCasesColumn = new TableColumn<>("Possible Cases");
+        possibleCasesColumn.setCellValueFactory(new PropertyValueFactory<>("possibleCases"));
+        possibleCasesColumn.setPrefWidth(150);
+
+        tableView.getColumns().add(scenarioColumn);
+        tableView.getColumns().add(percentageColumn);
+        tableView.getColumns().add(possibleCasesColumn);
+
+        // Szenarien zur Tabelle hinzufügen (bestehender Code)
+        tableView.getItems().addAll(
+                new Scenario("C-Bet Flop"),
+                new Scenario("double Barrel Turn"),
+                new Scenario("Triple Barrel River"),
+                new Scenario("Call vs Double Barrel"),
+                new Scenario("Fold vs Double Barrel"),
+                new Scenario("Raise vs Double Barrel"),
+                new Scenario("Call vs Triple Barrel"),
+                new Scenario("Fold vs Triple Barrel"),
+                new Scenario("Raise vs Triple Barrel")
+        );
+
+        // Filterbereich erstellen (bestehender Code)
+        VBox filterBox = createFilterBox();
+        filterBox.setPadding(new Insets(10));
+        filterBox.setStyle("-fx-background-color: #f0f0f0; -fx-border-color: black; -fx-border-width: 1;");
+
+        // Hauptlayout
+        HBox mainLayout = new HBox(20, tableView, filterBox);
+        mainLayout.setPadding(new Insets(10));
+        mainLayout.setPrefWidth(1600);
+        tableView.setPrefWidth(800); // 50% für die Tabelle
+        filterBox.setPrefWidth(800); // 50% für den Filter
+
+        return mainLayout;
+    }
+
+
+    private VBox createUploadPage() {
+        VBox uploadPage = new VBox();
+        uploadPage.setPadding(new Insets(20));
+
+
+        // Create a button for file import
+        Button importButton = new Button("Import Hand History");
+
+        // Create a label to show the selected file path
+        Label fileLabel = new Label("No file selected");
+
+        // Add action to the import button to open file chooser
+        importButton.setOnAction(e -> {
+            FileChooser fileChooser = new FileChooser();
+            fileChooser.setTitle("Open Hand History File");
+            File selectedFile = fileChooser.showOpenDialog(null);
+            if (selectedFile != null) {
+                fileLabel.setText(selectedFile.getAbsolutePath());
+                // Trigger extraction script with the selected file
+                triggerExtraction(selectedFile.getAbsolutePath());
+            } else {
+                fileLabel.setText("No file selected");
+            }
+        });
+
+        // Add components to the layout
+        uploadPage.getChildren().addAll( importButton, fileLabel);
+        return uploadPage;
+    }
+
+    // Method to trigger extraction script
+    private void triggerExtraction(String filepath) {
+        StartDataExtraction.start(filepath);
+    }
+
+
+
+    private VBox createFilterBox() {
+        VBox filterBox = new VBox(10);
+        filterBox.setAlignment(Pos.TOP_LEFT);
+
+        Label filterLabel = new Label("Filter");
+        // Checkboxen nebeneinander
+        HBox checkboxBox = new HBox(10);
+        rainbowCheckbox = new CheckBox("rainbow");
+        monotoneCheckbox = new CheckBox("monotone");
+        twoTonedCheckbox = new CheckBox("Two-toned");
+        rainbowCheckbox.setOnAction(e -> {
+            if (rainbowCheckbox.isSelected()) {
+                monotoneCheckbox.setSelected(false);
+                twoTonedCheckbox.setSelected(false);
+            }
+        });
+
+        monotoneCheckbox.setOnAction(e -> {
+            if (monotoneCheckbox.isSelected()) {
+                rainbowCheckbox.setSelected(false);
+                twoTonedCheckbox.setSelected(false);
+            }
+        });
+
+        twoTonedCheckbox.setOnAction(e -> {
+            if (twoTonedCheckbox.isSelected()) {
+                rainbowCheckbox.setSelected(false);
+                monotoneCheckbox.setSelected(false);
+            }
+        });
+        checkboxBox.getChildren().addAll(rainbowCheckbox, monotoneCheckbox, twoTonedCheckbox);
+
+        // Flop-Bereich mit Textfeldern im Kartenformat
+        HBox flopBox = new HBox(10);
+        VBox flopCardBox1 = new VBox(5);
+        flopHighCard = new TextField();
+        flopHighCard.setPrefSize(60, 90);
+        flopHighCardLEQ = new CheckBox("<=");
+        flopCardBox1.getChildren().addAll(flopHighCard, flopHighCardLEQ);
+
+        VBox flopCardBox2 = new VBox(5);
+        flopMidCard = new TextField();
+        flopMidCard.setPrefSize(60, 90);
+        flopMidCardLEQ = new CheckBox("<=");
+        flopCardBox2.getChildren().addAll(flopMidCard, flopMidCardLEQ);
+
+        VBox flopCardBox3 = new VBox(5);
+        flopLowCard = new TextField();
+        flopLowCard.setPrefSize(60, 90);
+        flopLowCardLEQ = new CheckBox("<=");
+        flopCardBox3.getChildren().addAll(flopLowCard, flopLowCardLEQ);
+
+        flopBox.getChildren().addAll(flopCardBox1, flopCardBox2, flopCardBox3);
+
+        Label flopLabel = new Label("Flop");
+
+        // Turn-Bereich mit fixierter Breite
+        VBox turnCardBox = new VBox(5);
+        turnCard = new TextField();
+        turnCard.setPrefSize(60, 90); // Fixierte Breite und Höhe
+        turnCard.setMaxWidth(60); // Maximalbreite setzen
+        turnCardLEQ = new CheckBox("<=");
+        turnCardBox.getChildren().addAll(turnCard, turnCardLEQ);
+
+        Label turnLabel = new Label("Turn");
+
+        // River-Bereich mit fixierter Breite
+        VBox riverCardBox = new VBox(5);
+        riverCard = new TextField();
+        riverCard.setPrefSize(60, 90); // Fixierte Breite und Höhe
+        riverCard.setMaxWidth(60); // Maximalbreite setzen
+        riverCardLEQ = new CheckBox("<=");
+        riverCardBox.getChildren().addAll(riverCard, riverCardLEQ);
+
+        Label riverLabel = new Label("River");
+
+
+        // Checkboxen für weitere Filter
+        CheckBox noMultiwayCheckbox = new CheckBox("No Multiway");
+        noMultiwayCheckbox.setSelected(true); // Standardmäßig angekreuzt
+        // Aggressor IP checkbox
+        aggressorIPCheckbox = new CheckBox("Aggressor IP");
+
+        // Add the Aggressor IP checkbox logic
+
+
+        //Calculate-Button
+        Button calculateButton = new Button("Calculate");
+        calculateButton.setPrefWidth(150);
+        calculateButton.setOnAction(e -> {
+            // Trigger filter calculations
+            filterCalculations();
+            // Recalculate percentages based on the new filter query
+            startBackgroundCalculations(tableView);
+        });
+
+        //Calculate-Button Container
+        HBox buttonContainer = new HBox();
+        buttonContainer.setAlignment(Pos.CENTER); // Center the button horizontally
+        buttonContainer.getChildren().add(calculateButton);
+
+        // Push the button to the bottom by setting the VBox's spacing and filling with the remaining space
+        VBox.setVgrow(buttonContainer, Priority.ALWAYS); // Allow space above to push the button down
+
+
+        filterBox.getChildren().addAll(
+                filterLabel, checkboxBox, flopLabel, flopBox,
+                turnLabel, turnCardBox,
+                riverLabel, riverCardBox,
+                new Label(" "), // Platzhalter für mehr Abstand
+                noMultiwayCheckbox, aggressorIPCheckbox, buttonContainer
+        );
+
+        return filterBox;
+    }
+    private void filterCalculations() {
+        filterQuery = ""; // Reset the query
+
+        // Existing filters for flop texture
+        if (rainbowCheckbox.isSelected()) {
+            filterQuery += " AND flopTexture = 'rainbow'";
+        } else if (monotoneCheckbox.isSelected()) {
+            filterQuery += " AND flopTexture = 'monotone'";
+        } else if (twoTonedCheckbox.isSelected()) {
+            filterQuery += " AND flopTexture = 'two-tone'";
+        }
+
+        // Aggressor IP filter
+        if (aggressorIPCheckbox.isSelected()) {
+            filterQuery += " AND aggrIP = TRUE";
+        }
+
+        // Flop high card filtering logic
+        String highCard = flopHighCard.getText();
+        if (!highCard.isEmpty()) {
+            int highCardValue = DataProcessing.cardToValue(highCard);
+            if(highCardValue == -1) {
+                filterQuery += "";
+            }
+            else if (flopHighCardLEQ.isSelected()) {
+                filterQuery += " AND H_FlopCard <= " + highCardValue;
+            } else {
+                filterQuery += " AND H_FlopCard = " + highCardValue;
+            }
+        }
+
+        // Flop middle card filtering logic
+        String midCard = flopMidCard.getText();
+        if (!midCard.isEmpty()) {
+            int midCardValue = DataProcessing.cardToValue(midCard);
+            if(midCardValue == -1) {
+                filterQuery += "";
+            }
+            else if (flopMidCardLEQ.isSelected()) {
+                filterQuery += " AND M_FlopCard <= " + midCardValue;
+            } else {
+                filterQuery += " AND M_FlopCard = " + midCardValue;
+            }
+        }
+
+        // Flop low card filtering logic
+        String lowCard = flopLowCard.getText();
+        if (!lowCard.isEmpty()) {
+            int lowCardValue = DataProcessing.cardToValue(lowCard);
+            if(lowCardValue == -1){
+                filterQuery += "";
+            }
+            else if (flopLowCardLEQ.isSelected()) {
+                filterQuery += " AND L_FlopCard <= " + lowCardValue;
+            } else {
+                filterQuery += " AND L_FlopCard = " + lowCardValue;
+            }
+        }
+
+        // Add more filter conditions here as needed.
+    }
+
+
+
+    private void startBackgroundCalculations(TableView<Scenario> tableView) {
+        for (Scenario currentScenario : tableView.getItems()) {
+            Task<Void> task = new Task<Void>() {
+                @Override
+                protected Void call() {
+                    // Lokale Kopie des Scenario-Objekts verwenden
+                    Scenario scenario = currentScenario;
+
+                    // Hier wird die Berechnung simuliert
+                    String result = calculatePercentage(scenario);
+                    scenario.setPercentage(result);
+                    return null;
+                }
+
+                @Override
+                protected void succeeded() {
+                    tableView.refresh();
+                }
+            };
+
+            Thread thread = new Thread(task);
+            thread.setDaemon(true);
+            thread.start();
+        }
+    }
+
+
+    private String calculatePercentage(Scenario scenario) {
+        switch (scenario.getName()) {
+            case "C-Bet Flop":
+                return calculateCbetFlop(scenario);
+            case "double Barrel Turn":
+                return calculateDoubleBarrelTurn(scenario);
+            case "Triple Barrel River":
+                return calculateTripleBarrelRiver(scenario);
+            case "Call vs Double Barrel":
+                return calculateCallVsDoubleBarrel(scenario);
+            case "Fold vs Double Barrel":
+                return calculateFoldVsDoubleBarrel(scenario);
+            case "Raise vs Double Barrel":
+                return calculateRaiseVsDoubleBarrel(scenario);
+            case "Call vs Triple Barrel":
+                return calculateCallVsTripleBarrel(scenario);
+            case "Fold vs Triple Barrel":
+                return calculateFoldVsTripleBarrel(scenario);
+            case "Raise vs Triple Barrel":
+                return calculateRaiseVsTripleBarrel(scenario);
+
+            default:
+                return "N/A"; // Return a default value if the scenario is not recognized
+        }
+    }
+
+
+
+// Example methods for new scenarios:
+
+    private String calculateCallVsDoubleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE turnBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateFoldVsDoubleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE foldToTurnBarrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE turnBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateRaiseVsDoubleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE raiseTurnBarrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE turnBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return"N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateCallVsTripleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE call3Barrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE tripleBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateFoldVsTripleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE foldTo3Barrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE tripleBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateRaiseVsTripleBarrel(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE raise3Barrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE tripleBarrel = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+
+    private String calculateTripleBarrelRiver(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE tripleBarrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE" + filterQuery); //Leads werden nicht berücksichtigt
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateDoubleBarrelTurn(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE turnBarrel = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbetCall = TRUE" + filterQuery);//Leads werden nicht berücksichtigt
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateCbetFlop(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbet = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE flopPlayers = 2 AND potType != 'LimpedPot'" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+
+    // Klasse, die ein Szenario repräsentiert
+    public static class Scenario {
+        private String name;
+        private String percentage;
+        private String possibleCases; // Neue Variable für die möglichen Fälle
+
+        public Scenario(String name) {
+            this.name = name;
+            this.percentage = "Calculating..."; // Initialer Status
+            this.possibleCases = "N/A"; // Standardwert
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public String getPercentage() {
+            return percentage;
+        }
+
+        public void setPercentage(String percentage) {
+            this.percentage = percentage;
+        }
+
+        public String getPossibleCases() {
+            return possibleCases;
+        }
+
+        public void setPossibleCases(String possibleCases) {
+            this.possibleCases = possibleCases;
+        }
+    }
+
+}

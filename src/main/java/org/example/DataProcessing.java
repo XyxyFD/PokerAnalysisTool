@@ -838,6 +838,7 @@ public class  DataProcessing {
     public static void isTripleBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setTripleBarrel(false);
+            return;
 
         }
 
@@ -850,6 +851,7 @@ public class  DataProcessing {
             }
             if (isRiver && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")) {
                 block.setTripleBarrel(true);
+                return;
             }
         }
 

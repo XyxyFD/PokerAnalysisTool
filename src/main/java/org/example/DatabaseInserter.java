@@ -58,7 +58,7 @@ public class DatabaseInserter {
             stmt.setBoolean(37, block.isFoldTo3Barrel());
 
             stmt.executeUpdate();
-            System.out.println("DataBlock inserted into database successfully!");
+            //System.out.println("DataBlock inserted into database successfully!");
 
         } catch (SQLException e) {
             e.printStackTrace();
