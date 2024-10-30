@@ -499,11 +499,8 @@ public class PokerTrackerGUI extends Application {
 
     private String calculateCbetFlop(Scenario scenario) {
         int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbet = TRUE" + filterQuery);
-        System.out.println(filterQuery);
         int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE flopPlayers = 2 AND potType != 'LimpedPot'" + filterQuery);
         scenario.setPossibleCases(String.valueOf(possibleCases));
-        System.out.println(casesMet);
-        System.out.println(possibleCases);
         if (possibleCases == 0) return "N/A";
 
         double percentage = (double) casesMet / possibleCases * 100;

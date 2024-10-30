@@ -1,5 +1,6 @@
 package org.example;
 
+import java.sql.SQLOutput;
 import java.util.*;
 
 public class  DataProcessing {
@@ -7,14 +8,17 @@ public class  DataProcessing {
 
     //Allgemein
 
-    public static double convertInBB(PokerHandExtractor.PokerHand hand){
-        String [] parts = hand.blinds.split("/");
+    public static double convertInBB(PokerHand hand) {
+        // Splits the blinds string by "/" to get small blind and big blind
+        String[] parts = hand.blinds.replace("€", "").replace(",", ".").split("/");
+        // Parses the big blind part as a double
         double bb = Double.parseDouble(parts[1]);
         return bb;
     }
 
+
     // Verarbeitet die Boardkarten und speichert sie im DataBlock
-    public static void processBoardCards(DataBlock block, PokerHandExtractor.PokerHand hand) {
+    public static void processBoardCards(DataBlock block, PokerHand hand) {
         List<Integer> flopcards = new ArrayList<>();
 
         // Füge die Flopkarten hinzu, wenn sie vorhanden sind
@@ -121,15 +125,13 @@ public class  DataProcessing {
     }
 
     // Verarbeitet die Einsätze (Stakes) und speichert sie im DataBlock
-    public static void processStakes(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void processStakes(PokerHand hand, DataBlock block) {
         block.setStakes(hand.blinds);
     }
 
-    public static void gameFormat(PokerHandExtractor.PokerHand hand, DataBlock block) {
-        block.setGameFormat(hand.gameFormat);
-    }
+
     // Verarbeitet die Textur des Flops und speichert sie im DataBlock
-    public static void texture(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void texture(PokerHand hand, DataBlock block) {
         List<Character> suits = new ArrayList<>();
 
         // Überprüfe, ob der Flop existiert
@@ -159,8 +161,23 @@ public class  DataProcessing {
         }
     }
 
-    public static void fullAction(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void fullAction(PokerHand hand, DataBlock block) {
+        System.out.println("fullAction ausgelöst");
         StringBuilder action = new StringBuilder();
+        for (String act : hand.preflopAction){
+            System.out.print("Preflop" + act);
+        }
+        for (String act : hand.flopAction){
+            System.out.print("Flop" + act);
+        }
+        System.out.println();
+        for (String act : hand.turnAction){
+            System.out.print("Turn" + act);
+        }
+        System.out.println();
+        for (String act : hand.riverAction){
+            System.out.print("River" + act);
+        }
 
         for (String a : hand.preflopAction) {
             action.append(a).append(":");
@@ -180,13 +197,13 @@ public class  DataProcessing {
         for (String a : hand.riverAction) {
             action.append(a).append(":");
         }
-
+        System.out.println(action.toString());
         block.setFullAction(action.toString());
     }
     //Preflop
 
     // Bestimmt die Position des Open Raisers und speichert sie im DataBlock
-    public static void determineORPos(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void determineORPos(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
         for (String act : actions) {
@@ -203,7 +220,7 @@ public class  DataProcessing {
     }
 
     // Bestimmt den Betrag des Open Raises in Big Blinds und speichert ihn im DataBlock
-    public static void determineORinBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void determineORinBB(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
         for (String act : actions) {
@@ -220,7 +237,7 @@ public class  DataProcessing {
         block.setORinBB(-1.0);
     }
     // Bestimmt den Betrag der 3-Bet in Big Blinds und speichert ihn im DataBlock
-    public static void determineThreeBetBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void determineThreeBetBB(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
 
@@ -241,7 +258,7 @@ public class  DataProcessing {
     }
 
     // Bestimmt den Betrag der 4-Bet in Big Blinds und speichert ihn im DataBlock
-    public static void determineFourBetBB(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void determineFourBetBB(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
 
@@ -257,7 +274,7 @@ public class  DataProcessing {
 
         block.setFourBetBB(-1.0);
     }
-    public static String determineCallPos(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static String determineCallPos(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         List<String> callers = new ArrayList<>();
         boolean raiseOccurred = false;
@@ -286,7 +303,7 @@ public class  DataProcessing {
             return "0";
         }
     }
-    public static void determinePotType(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void determinePotType(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
 
@@ -317,7 +334,7 @@ public class  DataProcessing {
         }
     }
     // Bestimmt, ob es sich um einen Isoraise-Pot handelt und speichert das Ergebnis im DataBlock
-    public static void isIsoraisePot(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isIsoraisePot(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
         boolean limpFound = false;
@@ -352,7 +369,7 @@ public class  DataProcessing {
         return lastAggressor;
     }
 
-    public static int determineAggrIP(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static int determineAggrIP(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
         String caller = block.getCallPos();
@@ -438,7 +455,7 @@ public class  DataProcessing {
      //Flop-------------------------------------------------------------------------------------------------------
 
     // Bestimmt die Anzahl der Spieler, die den Flop sehen, und speichert sie im DataBlock
-    public static void countFlopPlayers(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void countFlopPlayers(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
 
         for (String act : actions) {
@@ -467,7 +484,7 @@ public class  DataProcessing {
     }
 
     // Gibt es eine C-Bet?
-    public static void isCBet(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCBet(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         boolean isFlop = false;
 
@@ -486,7 +503,7 @@ public class  DataProcessing {
 
         block.setCbet(false);
     }
-    public static void isCbetCalled(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCbetCalled(PokerHand hand, DataBlock block) {
         // Check if a C-bet was made
         if (!block.isCbet()) {
             block.setCbetCall(false);
@@ -518,7 +535,7 @@ public class  DataProcessing {
 
     // Gibt es ein C-Bet Raise?
     // Bestimmt, ob es ein C-Bet Raise am Flop gibt, und speichert das Ergebnis im DataBlock
-    public static void isCBetRaise(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCBetRaise(PokerHand hand, DataBlock block) {
         if (!block.isCbet()) {
             block.setCbetRaise(false);
             return;
@@ -544,7 +561,7 @@ public class  DataProcessing {
     }
 
     // Bestimmt, ob es ein C-Bet Fold am Flop gibt, und speichert das Ergebnis im DataBlock
-    public static void isCBetFold(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCBetFold(PokerHand hand, DataBlock block) {
         if (!block.isCbet()) {
             block.setCbetFold(false);
             return;
@@ -575,7 +592,7 @@ public class  DataProcessing {
 
     // Bet after Check (macht nur Sinn, wenn der Aggressor OOP ist)
     // Bestimmt, ob es eine Bet nach einem Check am Flop gibt, und speichert das Ergebnis im DataBlock
-    public static void isBetAfterCheck(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isBetAfterCheck(PokerHand hand, DataBlock block) {
         boolean isChecked = false;
         boolean isFlop = false;
 
@@ -605,7 +622,7 @@ public class  DataProcessing {
         block.setBetAfterCheck(false);
     }
     //TODO Die gleiche Methode für den Turn wenn Aggr IP würde auch noch sinn machen
-    public static void isBetAfterFlopCheckOOP(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isBetAfterFlopCheckOOP(PokerHand hand, DataBlock block) {
         // Prüfen, ob der Aggressor OOP ist und keine C-Bet gemacht hat
         if (determineAggrIP(hand, block) != 0 || block.isCbet()) {
             block.setStabFlopAfterCheck(false);
@@ -640,7 +657,7 @@ public class  DataProcessing {
 
     //TURN------------------------------------------------------------------------------------------------------------
     // Bestimmt, ob es eine Turn-Barrel gibt, und speichert das Ergebnis im DataBlock. Gibt einen Rückgabewert zurück, da diese Methode in anderen verwendet wird.
-    public static boolean isTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static boolean isTurnBarrel(PokerHand hand, DataBlock block) {
         if (!block.isCbet()) {
             block.setTurnBarrel(false);
             return false;
@@ -668,7 +685,7 @@ public class  DataProcessing {
 
     // Wurde am Turn nach einer Bet gefoldet?
     // Bestimmt, ob am Turn nach einer Bet gefoldet wurde, und speichert das Ergebnis im DataBlock
-    public static void isFoldToTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isFoldToTurnBarrel(PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setFoldToTurnBarrel(false);
             return;
@@ -699,7 +716,7 @@ public class  DataProcessing {
 
     // Gab es ein Raise auf die Turn-Bet?
     // Bestimmt, ob es ein Raise auf die Turn-Barrel gibt, und speichert das Ergebnis im DataBlock
-    public static void isRaiseBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isRaiseBarrel(PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setRaiseTurnBarrel(false);
             return;
@@ -724,7 +741,7 @@ public class  DataProcessing {
         block.setRaiseTurnBarrel(false);
     }
     // Bestimmt, ob es einen Call auf die Turn-Barrel gibt, und speichert das Ergebnis im DataBlock
-    public static void isCallTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCallTurnBarrel(PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setCallTurnBarrel(false);
             return;
@@ -754,7 +771,7 @@ public class  DataProcessing {
     }
     // Gab es eine Bet nach einem Check am Turn? (nur sinnvoll, wenn der Aggressor OOP ist)
     // Bestimmt, ob es eine Bet nach einem Check am Turn gibt, und speichert das Ergebnis im DataBlock
-    public static boolean isBetAfterCheckTurn(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static boolean isBetAfterCheckTurn(PokerHand hand, DataBlock block) {
         if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
             block.setBetAfterCheckTurn(false);
             return false;
@@ -786,7 +803,7 @@ public class  DataProcessing {
     //RIVER-------------------------------------------------------------------------------------------
 
     // Bestimmt, ob es eine Bet nach einem Check am River gibt, und speichert das Ergebnis im DataBlock
-    public static void isBetAfterCheckRiver(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isBetAfterCheckRiver(PokerHand hand, DataBlock block) {
         if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
             block.setBetAfterCheckRiver(false);
         }
@@ -811,7 +828,7 @@ public class  DataProcessing {
     }
 
     // Bestimmt, ob es einen Check nach einer Turn-Bet am River gibt, und speichert das Ergebnis im DataBlock
-    public static void isCheckRiverAfterTurnBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCheckRiverAfterTurnBarrel(PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setCheckRiverAfterTurnBarrel(false);
 
@@ -835,7 +852,7 @@ public class  DataProcessing {
 
     // Gab es eine Bet nach einer Turn-Bet am River?
     // Bestimmt, ob es eine Triple Barrel (Bet nach einer Turn-Bet am River) gibt, und speichert das Ergebnis im DataBlock
-    public static void isTripleBarrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isTripleBarrel(PokerHand hand, DataBlock block) {
         if (!block.isTurnBarrel()) {
             block.setTripleBarrel(false);
             return;
@@ -860,7 +877,7 @@ public class  DataProcessing {
 
     // Gab es einen Call auf die 3. Barrel am River?
     // Bestimmt, ob es einen Call auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
-    public static void isCall3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isCall3Barrel(PokerHand hand, DataBlock block) {
         if (!block.isTripleBarrel()) {
             block.setCall3Barrel(false);
             return;
@@ -886,7 +903,7 @@ public class  DataProcessing {
         block.setCall3Barrel(false);
     }
     // Bestimmt, ob es ein Raise auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
-    public static void isRaise3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isRaise3Barrel(PokerHand hand, DataBlock block) {
         if (!block.isTripleBarrel()) {
             block.setRaise3Barrel(false);
 
@@ -909,7 +926,7 @@ public class  DataProcessing {
 
     }
     // Bestimmt, ob es einen Fold auf die Triple Barrel am River gibt, und speichert das Ergebnis im DataBlock
-    public static void isFoldTo3Barrel(PokerHandExtractor.PokerHand hand, DataBlock block) {
+    public static void isFoldTo3Barrel(PokerHand hand, DataBlock block) {
         if (!block.isTripleBarrel()) {
             block.setFoldTo3Barrel(false);
             return;

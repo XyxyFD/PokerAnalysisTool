@@ -5,7 +5,7 @@ import java.util.List;
 
 public class StartDataExtraction {
     public static void start(String filepath){
-        List<PokerHandExtractor.PokerHand> pokerHands = PokerHandExtractor.extract(filepath);
+        List<PokerHand> pokerHands = PokerHandExtractor.extract(filepath);
 
 
         // Erstelle eine Liste für die Datenblöckea
@@ -14,11 +14,8 @@ public class StartDataExtraction {
         System.out.println("Processing Data....");
 
         // Schleife über alle extrahierten Hände
-        for (PokerHandExtractor.PokerHand hand : pokerHands) {
+        for (PokerHand hand : pokerHands) {
             if(hand.blinds == null){
-                continue;
-            }
-            if(hand.gameFormat == null){
                 continue;
             }
 
@@ -27,7 +24,6 @@ public class StartDataExtraction {
 
             // Verarbeite allgemeine Daten
             DataProcessing.processStakes(hand, block);
-            DataProcessing.gameFormat(hand, block);
             DataProcessing.processBoardCards(block, hand);
             DataProcessing.texture(hand, block);
             DataProcessing.fullAction(hand, block);
@@ -74,7 +70,6 @@ public class StartDataExtraction {
         // Optional: Drucke alle verarbeiteten Datenblöcke aus
         for (DataBlock block : dataBlocks) {
             DatabaseInserter.insertDataBlock(block);
-            //System.out.println(block.toString());
         }
 
         System.out.println("Inserting finished.");

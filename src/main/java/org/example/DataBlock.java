@@ -5,8 +5,6 @@ package org.example;
 public class DataBlock {
     // Allgemein
     private String blinds;
-    private String site; // kann man direkt aus der hand übergeben
-    private String gameFormat; // normal/speed // kann man direkt aus der Hand übergeben
     private int H_FlopCard;
     private int M_FlopCard;
     private int L_FlopCard;
@@ -66,21 +64,7 @@ public class DataBlock {
         this.blinds = stakes;
     }
 
-    public String getSite() {
-        return site;
-    }
 
-    public void setSite(String site) {
-        this.site = site;
-    }
-
-    public String getGameFormat() {
-        return gameFormat;
-    }
-
-    public void setGameFormat(String gameFormat) {
-        this.gameFormat = gameFormat;
-    }
 
     public int getHFlopCard() {
         return H_FlopCard;
@@ -366,8 +350,6 @@ public class DataBlock {
     public String toString() {
         return "new DataBlock{" + "\n" +
                 "  blinds='" + blinds + '\'' + "\n" +
-                "  site='" + site + '\'' + "\n" +
-                "  gameFormat='" + gameFormat + '\'' + "\n" +
                 "  H_FlopCard=" + H_FlopCard + "\n" +
                 "  M_FlopCard=" + M_FlopCard + "\n" +
                 "  L_FlopCard=" + L_FlopCard + "\n" +

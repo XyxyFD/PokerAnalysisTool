@@ -20,8 +20,8 @@ public class DatabaseInserter {
              PreparedStatement stmt = conn.prepareStatement(query)) {
 
             stmt.setString(1, block.getStakes());
-            stmt.setString(2, block.getSite());
-            stmt.setString(3, block.getGameFormat());
+            stmt.setString(2, "win2day");
+            stmt.setString(3, "NoLimitHoldem");
             stmt.setInt(4, block.getHFlopCard());
             stmt.setInt(5, block.getMFlopCard());
             stmt.setInt(6, block.getLFlopCard());
