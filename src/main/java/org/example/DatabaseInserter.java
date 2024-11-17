@@ -14,7 +14,8 @@ public class DatabaseInserter {
                 "betAfterCheck, turnBarrel, foldToTurnBarrel, callTurnBarrel, raiseTurnBarrel, " +
                 "betAfterCheckTurn, betAfterCheckRiver, checkRiverAfterTurnBarrel, tripleBarrel, " +
                 "call3Barrel, raise3Barrel, foldTo3Barrel" +
-                ") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+                "isBarrelAfterDelayedCbet, isStabRiver, isStabTurn, isDelayedCbet, flushTexture" +
+                ") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
         try (Connection conn = DatabaseConnector.getConnection();
              PreparedStatement stmt = conn.prepareStatement(query)) {
@@ -56,6 +57,14 @@ public class DatabaseInserter {
             stmt.setBoolean(35, block.isCall3Barrel());
             stmt.setBoolean(36, block.isRaise3Barrel());
             stmt.setBoolean(37, block.isFoldTo3Barrel());
+
+            stmt.setBoolean(38, block.isBarrelAfterDelayedCbet());
+            stmt.setBoolean(39, block.isStabRiver());
+            stmt.setBoolean(40, block.isStabTurn());
+            stmt.setBoolean(41, block.isDelayedCbet());
+
+            stmt.setBoolean(42, block.isFoldTo3Barrel()); //TODO flushTexture
+
 
             stmt.executeUpdate();
             //System.out.println("DataBlock inserted into database successfully!");

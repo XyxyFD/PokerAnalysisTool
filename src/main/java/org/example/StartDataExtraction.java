@@ -45,17 +45,20 @@ public class StartDataExtraction {
             DataProcessing.isCBetRaise(hand, block);
             DataProcessing.isCBetFold(hand, block);
             DataProcessing.isBetAfterCheck(hand, block);
-            DataProcessing.isBetAfterFlopCheckOOP(hand, block);
 
             // Verarbeite Turn-Daten
             DataProcessing.isTurnBarrel(hand, block);
+            DataProcessing.isStabTurn(hand, block); //NEU
             DataProcessing.isFoldToTurnBarrel(hand, block);
             DataProcessing.isRaiseBarrel(hand, block);
             DataProcessing.isCallTurnBarrel(hand, block);
             DataProcessing.isBetAfterCheckTurn(hand, block);
+            DataProcessing.isDelayedCbet(hand, block); //NEU
 
             // Verarbeite River-Daten
             DataProcessing.isBetAfterCheckRiver(hand, block);
+            DataProcessing.isStabRiver(hand, block); //NEU
+            DataProcessing.isBarrelAfterDelayedCbet(hand, block); //NEU
             DataProcessing.isCheckRiverAfterTurnBarrel(hand, block);
             DataProcessing.isTripleBarrel(hand, block);
             DataProcessing.isCall3Barrel(hand, block);

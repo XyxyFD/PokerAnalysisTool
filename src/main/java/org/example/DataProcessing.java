@@ -81,7 +81,32 @@ public class  DataProcessing {
         }
     }
 
+    public static void analyzeFlushTexture (PokerHand hand, DataBlock block){
+        /*
+        Strings are:
+        NoFlush
+         */
 
+        if(hand.boardCards.length < 4){
+            block.setFlushTexure("NoFlush");
+        }else{
+            List<Character> allSuits = new ArrayList<>();
+            for (int i = 0; i < 5; i++) {
+                if (hand.boardCards[i] != null && hand.boardCards[i].length() > 1) {
+                    char suit = hand.boardCards[i].charAt(hand.boardCards[i].length() - 1);
+                    allSuits.add(suit);
+                }
+            }
+            if(block.getFlopTexture().equals("two-tone")){
+
+            }
+            if(block.getFlopTexture().equals("monotone")){
+
+            }
+        }
+
+
+    }
 
     public static int cardToValue(String card) {
         if (card == null || card.isEmpty()) {
@@ -197,8 +222,7 @@ public class  DataProcessing {
         for (String a : hand.riverAction) {
             action.append(a).append(":");
         }
-        System.out.println(action.toString());
-        block.setFullAction(action.toString());
+
     }
     //Preflop
 
@@ -591,7 +615,7 @@ public class  DataProcessing {
     }
 
     // Bet after Check (macht nur Sinn, wenn der Aggressor OOP ist)
-    // Bestimmt, ob es eine Bet nach einem Check am Flop gibt, und speichert das Ergebnis im DataBlock
+    //when aggressor checks oop and caller bets
     public static void isBetAfterCheck(PokerHand hand, DataBlock block) {
         boolean isChecked = false;
         boolean isFlop = false;
@@ -621,7 +645,7 @@ public class  DataProcessing {
 
         block.setBetAfterCheck(false);
     }
-    //TODO Die gleiche Methode für den Turn wenn Aggr IP würde auch noch sinn machen
+    /*//TODO Die gleiche Methode für den Turn wenn Aggr IP würde auch noch sinn machen
     public static void isBetAfterFlopCheckOOP(PokerHand hand, DataBlock block) {
         // Prüfen, ob der Aggressor OOP ist und keine C-Bet gemacht hat
         if (determineAggrIP(hand, block) != 0 || block.isCbet()) {
@@ -653,6 +677,8 @@ public class  DataProcessing {
         block.setStabFlopAfterCheck(false);
     }
 
+     */
+
 
 
     //TURN------------------------------------------------------------------------------------------------------------
@@ -680,6 +706,46 @@ public class  DataProcessing {
 
         block.setTurnBarrel(false);
         return false;
+    }
+    public static void isStabTurn(PokerHand hand, DataBlock block) {
+        // Prüfe, ob der Aggressor IP ist
+        if (!block.isAggrIP()) {
+            block.setStabTurn(false);
+            return;
+        }
+
+
+
+        // Durchlaufe die Aktionen
+        boolean isFlop = false;
+        boolean possibleStab = false;
+        String[] actions = block.getFullAction().split(":");
+
+        for (String act : actions) {
+            if (act.contains("FLOP")) {
+                isFlop = true;
+            }
+            if (act.contains("TURN")) {
+                if(possibleStab){
+                    if(act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_r") ||
+                    act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_c")){
+                        block.setStabTurn(true);
+                        return;
+                    }else{
+                        block.setStabTurn(false);
+                    }
+                }else {
+                    break;
+                }
+            }
+            if (isFlop && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_x")) {
+                possibleStab = true;
+            }
+            if(act.contains("RIVER")){
+                block.setStabTurn(false);
+                return;
+            }
+        }
     }
 
 
@@ -769,11 +835,14 @@ public class  DataProcessing {
 
         block.setCallTurnBarrel(false);
     }
-    // Gab es eine Bet nach einem Check am Turn? (nur sinnvoll, wenn der Aggressor OOP ist)
+    // Gab es eine Bet nach einem Check am Turn? (nur sinnvoll, wenn der Aggressor OOP ist und gecbetet hat)
     // Bestimmt, ob es eine Bet nach einem Check am Turn gibt, und speichert das Ergebnis im DataBlock
     public static boolean isBetAfterCheckTurn(PokerHand hand, DataBlock block) {
         if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
             block.setBetAfterCheckTurn(false);
+            return false;
+        }
+        if(!block.isCbetCall()){
             return false;
         }
 
@@ -800,9 +869,43 @@ public class  DataProcessing {
         block.setBetAfterCheckTurn(false);
         return false;
     }
+    public static void isDelayedCbet(PokerHand hand, DataBlock block) {
+        if(block.getPotType().equals("LimpedPot")){
+            block.setDelayedCbet(false);
+            return;
+        }
+        if(block.isCbet()){
+            block.setDelayedCbet(false);
+            return;
+        }
+
+        // Aktionen durchlaufen
+        String[] actions = block.getFullAction().split(":");
+        boolean isTurn = false;
+
+        for (String act : actions) {
+            if (act.contains("TURN")) {
+                isTurn = true;
+            }
+
+            if(isTurn){
+                if(act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")){
+                    block.setDelayedCbet(true);
+                    return;
+                }
+            }
+            if(act.contains("RIVER")){
+                block.setDelayedCbet(false);
+                return;
+            }
+
+
+        }
+    }
+
     //RIVER-------------------------------------------------------------------------------------------
 
-    // Bestimmt, ob es eine Bet nach einem Check am River gibt, und speichert das Ergebnis im DataBlock
+    // Bestimmt, ob es eine Bet nach einem Check am River gibt (Aggressor OOP), und speichert das Ergebnis im DataBlock
     public static void isBetAfterCheckRiver(PokerHand hand, DataBlock block) {
         if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
             block.setBetAfterCheckRiver(false);
@@ -826,6 +929,69 @@ public class  DataProcessing {
 
         block.setBetAfterCheckRiver(false);
     }
+    public static void isStabRiver(PokerHand hand, DataBlock block) {
+        if (!block.isAggrIP()) {
+            block.setStabRiver(false);
+            return;
+        }
+        if(!block.isCbetCall()){
+            block.setStabRiver(false);
+        }
+
+        String[] actions = block.getFullAction().split(":");
+
+        boolean isTurn = false;
+        boolean isRiver = false;
+        boolean possibleStab = false;
+
+        for (String act : actions) {
+            if (act.contains("TURN")) {
+                isTurn = true;
+                isRiver = false;
+            }else if (act.contains("RIVER")) {
+                isTurn = false;
+                isRiver = true;
+            }else if(isTurn && act.contains(determineLastAggressorPreflop(block.getFullAction() + "_x"))){
+                possibleStab = true;
+            }else if(isRiver && possibleStab){
+                if(act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_c") || act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_r")){
+                    block.setStabRiver(true);
+                    return;
+                }else{
+                    block.setStabRiver(false);
+                    return;
+                }
+            }else if (isRiver && !possibleStab){
+                block.setStabRiver(false);
+                return;
+            }
+        }
+        block.setStabRiver(false);
+    }
+    public static void isBarrelAfterDelayedCbet(PokerHand hand, DataBlock block) {
+        // Voraussetzung: Es muss ein Delayed C-Bet stattgefunden haben
+        if (!block.isDelayedCbet()) {
+            block.setBarrelAfterDelayedCbet(false);
+            return;
+        }
+
+        String[] actions = block.getFullAction().split(":");
+        boolean isRiver = false;
+
+        for (String act : actions) {
+            if (act.contains("RIVER")) {
+                isRiver = true;
+            }
+
+            // Überprüfe Bet durch den Preflop-Aggressor am River
+            if (isRiver && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_b")) {
+                block.setBarrelAfterDelayedCbet(true);
+                return;
+            }
+        }
+        block.setBarrelAfterDelayedCbet(false);
+    }
+
 
     // Bestimmt, ob es einen Check nach einer Turn-Bet am River gibt, und speichert das Ergebnis im DataBlock
     public static void isCheckRiverAfterTurnBarrel(PokerHand hand, DataBlock block) {
@@ -947,4 +1113,6 @@ public class  DataProcessing {
 
         block.setFoldTo3Barrel(false);
     }
+
+
 }

@@ -22,6 +22,10 @@ public class PokerTrackerGUI extends Application {
     private CheckBox monotoneCheckbox;
     private CheckBox twoTonedCheckbox;
     private CheckBox aggressorIPCheckbox;
+    private CheckBox aggressorOOPCheckbox;
+    private CheckBox threeBetPotCheckbox;
+    private CheckBox fourBetPotCheckbox;
+    private CheckBox isoraiseCheckbox;
     private TableView<Scenario> tableView;
 
     // New variables for flop, turn, and river filtering
@@ -94,6 +98,9 @@ public class PokerTrackerGUI extends Application {
         // Szenarien zur Tabelle hinzufügen (bestehender Code)
         tableView.getItems().addAll(
                 new Scenario("C-Bet Flop"),
+                new Scenario("Fold to CBet"),
+                new Scenario("Call vs C-Bet"),
+                new Scenario("Raise vs C-Bet"),
                 new Scenario("double Barrel Turn"),
                 new Scenario("Triple Barrel River"),
                 new Scenario("Call vs Double Barrel"),
@@ -101,7 +108,10 @@ public class PokerTrackerGUI extends Application {
                 new Scenario("Raise vs Double Barrel"),
                 new Scenario("Call vs Triple Barrel"),
                 new Scenario("Fold vs Triple Barrel"),
-                new Scenario("Raise vs Triple Barrel")
+                new Scenario("Raise vs Triple Barrel"),
+                new Scenario("Bet after Preflop Aggr checks Flop OOP"),
+                new Scenario("Bet After Aggressor checks turn OOP after Flop Cbet"),
+                new Scenario("Bet After Aggressor checks the River OOP after turn Barrel")
         );
 
         // Filterbereich erstellen (bestehender Code)
@@ -239,9 +249,36 @@ public class PokerTrackerGUI extends Application {
         noMultiwayCheckbox.setSelected(true); // Standardmäßig angekreuzt
         // Aggressor IP checkbox
         aggressorIPCheckbox = new CheckBox("Aggressor IP");
+        aggressorOOPCheckbox = new CheckBox("Aggressor OOP");
 
-        // Add the Aggressor IP checkbox logic
+        threeBetPotCheckbox = new CheckBox("3Bet Pot");
+        fourBetPotCheckbox = new CheckBox("4Bet Pot");
+        isoraiseCheckbox = new CheckBox("Isoraise Pot");
 
+        aggressorIPCheckbox.setOnAction(e -> {
+            if (aggressorIPCheckbox.isSelected()) {
+                aggressorOOPCheckbox.setSelected(false);
+            }
+        });
+
+        aggressorOOPCheckbox.setOnAction(e -> {
+            if (aggressorOOPCheckbox.isSelected()) {
+                aggressorIPCheckbox.setSelected(false);
+            }
+        });
+
+
+
+        threeBetPotCheckbox.setOnAction(e -> {
+            if (threeBetPotCheckbox.isSelected()) {
+                fourBetPotCheckbox.setSelected(false);
+            }
+        });
+        fourBetPotCheckbox.setOnAction(e -> {
+            if (fourBetPotCheckbox.isSelected()) {
+                threeBetPotCheckbox.setSelected(false);
+            }
+        });
 
         //Calculate-Button
         Button calculateButton = new Button("Calculate");
@@ -266,8 +303,8 @@ public class PokerTrackerGUI extends Application {
                 filterLabel, checkboxBox, flopLabel, flopBox,
                 turnLabel, turnCardBox,
                 riverLabel, riverCardBox,
-                new Label(" "), // Platzhalter für mehr Abstand
-                noMultiwayCheckbox, aggressorIPCheckbox, buttonContainer
+                new Label(" "),
+                noMultiwayCheckbox, aggressorIPCheckbox, aggressorOOPCheckbox, threeBetPotCheckbox, fourBetPotCheckbox, isoraiseCheckbox, buttonContainer
         );
 
         return filterBox;
@@ -287,6 +324,18 @@ public class PokerTrackerGUI extends Application {
         // Aggressor IP filter
         if (aggressorIPCheckbox.isSelected()) {
             filterQuery += " AND aggrIP = TRUE";
+        }else if(aggressorOOPCheckbox.isSelected()){
+            filterQuery += " AND aggrIP = FALSE";
+        }
+        if(threeBetPotCheckbox.isSelected()){
+            filterQuery += " AND threeBetBB > -1";
+        }
+        if(fourBetPotCheckbox.isSelected()){
+            filterQuery += " AND fourBetBB > -1";
+        }
+
+        if (isoraiseCheckbox.isSelected()) {
+            filterQuery += " AND isoraisePot = TRUE";
         }
 
         // Flop high card filtering logic
@@ -391,6 +440,13 @@ public class PokerTrackerGUI extends Application {
         switch (scenario.getName()) {
             case "C-Bet Flop":
                 return calculateCbetFlop(scenario);
+            case "Fold to CBet":
+                return calculateFoldVsCbet(scenario);
+            case "Call vs C-Bet":
+                return calculateCallVsCbet(scenario);
+            case "Raise vs C-Bet":
+                return calculateRaiseVsCbet(scenario);
+
             case "double Barrel Turn":
                 return calculateDoubleBarrelTurn(scenario);
             case "Triple Barrel River":
@@ -407,6 +463,15 @@ public class PokerTrackerGUI extends Application {
                 return calculateFoldVsTripleBarrel(scenario);
             case "Raise vs Triple Barrel":
                 return calculateRaiseVsTripleBarrel(scenario);
+            case "Bet after Preflop Aggr checks Flop OOP":
+                return calculateBetAfterCheck(scenario);
+            case "Bet After Aggressor checks turn OOP after Flop Cbet":
+                return calculateBetAfterCheckTurn(scenario);
+            case "Bet After Aggressor checks the River OOP after turn Barrel":
+                return calculateBetAfterCheckRiver(scenario);
+
+
+
 
             default:
                 return "N/A"; // Return a default value if the scenario is not recognized
@@ -506,6 +571,102 @@ public class PokerTrackerGUI extends Application {
         double percentage = (double) casesMet / possibleCases * 100;
         return String.format("%.2f%%", percentage);
     }
+    private String calculateFoldVsCbet(Scenario scenario) {
+
+        // Abfrage zur Ermittlung der Anzahl der Fälle, in denen auf eine C-Bet gefoldet wurde
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbetFold = TRUE" + filterQuery);
+
+        // Abfrage zur Ermittlung der Gesamtzahl der möglichen C-Bet-Fälle
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbet = TRUE" + filterQuery);
+
+        // Festlegung der möglichen Fälle im Szenario
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        // Falls keine möglichen Fälle existieren, wird "N/A" zurückgegeben
+        if (possibleCases == 0) return "N/A";
+
+        // Berechnung des Prozentsatzes
+        double percentage = (double) casesMet / possibleCases * 100;
+
+        // Rückgabe des formatierten Prozentsatzes
+        return String.format("%.2f%%", percentage);
+    }
+    private String calculateCallVsCbet(Scenario scenario) {
+        // Abfrage zur Ermittlung der Anzahl der Fälle, in denen eine C-Bet gecallt wurde
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbetCall = TRUE" + filterQuery);
+
+        // Abfrage zur Ermittlung der Gesamtzahl der möglichen C-Bet-Fälle
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbet = TRUE" + filterQuery);
+
+        // Festlegung der möglichen Fälle im Szenario
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        // Falls keine möglichen Fälle existieren, wird "N/A" zurückgegeben
+        if (possibleCases == 0) return "N/A";
+
+        // Berechnung des Prozentsatzes
+        double percentage = (double) casesMet / possibleCases * 100;
+
+        // Rückgabe des formatierten Prozentsatzes
+        return String.format("%.2f%%", percentage);
+    }
+    private String calculateRaiseVsCbet(Scenario scenario) {
+        // Abfrage zur Ermittlung der Anzahl der Fälle, in denen eine C-Bet geraist wurde
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbetRaise = TRUE" + filterQuery);
+
+        // Abfrage zur Ermittlung der Gesamtzahl der möglichen C-Bet-Fälle
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbet = TRUE" + filterQuery);
+
+        // Festlegung der möglichen Fälle im Szenario
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        // Falls keine möglichen Fälle existieren, wird "N/A" zurückgegeben
+        if (possibleCases == 0) return "N/A";
+
+        // Berechnung des Prozentsatzes
+        double percentage = (double) casesMet / possibleCases * 100;
+
+        // Rückgabe des formatierten Prozentsatzes
+        return String.format("%.2f%%", percentage);
+    }
+
+    //when aggressor checks oop and caller bets
+    private String calculateBetAfterCheck(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE betAfterCheck = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE flopPlayers = 2 AND potType != 'LimpedPot' AND cbet = FALSE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+    private String calculateBetAfterCheckTurn(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE betAfterCheckTurn = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE turnBarrel = FALSE AND cbetCall = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+    private String calculateBetAfterCheckRiver(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE betAfterCheckRiver = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE AND tripleBarrel = FALSE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+
+        if (possibleCases == 0) return "N/A";
+
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+
+
+
+
+
 
     public static void main(String[] args) {
         launch(args);

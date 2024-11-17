@@ -14,6 +14,7 @@ public class DataBlock {
     private boolean pairedFlop;
     private boolean tripFlop;
     private String fullAction; //gesamte Action in einem String
+    private String flushTexure; // Strings, welche eine bestimmte flushTexture als spezifischen String für Turn und river abspeichert
 
     //Preflop____________________________________________________________________________________________
 
@@ -25,18 +26,16 @@ public class DataBlock {
     private boolean aggrIP; // ist der preflop last aggressor IP
     private String potType; // ist es ein SRP, 3BetPot, 4BetPot?
     private boolean isoraisePot;
-
-
+    private int flopPlayers; // Anzahl der Spieler am Flop
 
     //Flop ________________________________________________________________________________
-    private int flopPlayers; // Anzahl der Spieler am Flop
+
     private boolean cbet; // Wurde eine C-Bet gemacht?
     private boolean cbetCall; // Indicates if a C-bet on the flop was called
 
     private boolean cbetFold; // Gab es einen Fold auf die C-Bet?
     private boolean cbetRaise; // Gab es ein Raise auf die C-Bet?
     private boolean betAfterCheck; // Gab es eine Bet nach einem Check?
-    private boolean stabFlopAfterCheck;
 
     // Turn ____________________________________________________________________________________________
     private boolean turnBarrel; // gibt es einen weiteren bet am turn nach einem Cbet?
@@ -47,7 +46,7 @@ public class DataBlock {
     private boolean callTurnBarrel; // wurde turn barrel gecallt
     private boolean raiseTurnBarrel; // Gab es ein Raise auf die Turn-Bet?
     private boolean betAfterCheckTurn; // Gab es eine Bet nach einem Check (nur sinnvoll, wenn der Aggressor OOP ist)?
-
+    private boolean delayedCbet;
     //RIVER----------------------------------------------------------------------------------------------------------------------
     private boolean betAfterCheckRiver;
     private boolean checkRiverAfterTurnBarrel;
@@ -55,6 +54,116 @@ public class DataBlock {
     private boolean call3Barrel;
     private boolean raise3Barrel;
     private boolean foldTo3Barrel;
+    private boolean stabTurn; //when aggressor checks flop back and villain stabs the turn
+    private boolean stabRiver; //when aggressor checks the turn after cbet gets called and villain stabs the river
+    private boolean barrelAfterDelayedCbet;
+    @Override
+    public String toString() {
+        return "DataBlock{" +
+                "blinds='" + blinds + '\'' +
+                ", H_FlopCard=" + H_FlopCard +
+                ", M_FlopCard=" + M_FlopCard +
+                ", L_FlopCard=" + L_FlopCard +
+                ", turn=" + turn +
+                ", river=" + river +
+                ", flopTexture='" + flopTexture + '\'' +
+                ", pairedFlop=" + pairedFlop +
+                ", tripFlop=" + tripFlop +
+                ", fullAction='" + fullAction + '\'' +
+                ", OR_Pos='" + OR_Pos + '\'' +
+                ", ORinBB=" + ORinBB +
+                ", threeBetBB=" + threeBetBB +
+                ", fourBetBB=" + fourBetBB +
+                ", CallPos='" + CallPos + '\'' +
+                ", aggrIP=" + aggrIP +
+                ", potType='" + potType + '\'' +
+                ", isoraisePot=" + isoraisePot +
+                ", flopPlayers=" + flopPlayers +
+                ", cbet=" + cbet +
+                ", cbetCall=" + cbetCall +
+                ", cbetFold=" + cbetFold +
+                ", cbetRaise=" + cbetRaise +
+                ", betAfterCheck=" + betAfterCheck +
+                ", turnBarrel=" + turnBarrel +
+                ", foldToTurnBarrel=" + foldToTurnBarrel +
+                ", callTurnBarrel=" + callTurnBarrel +
+                ", raiseTurnBarrel=" + raiseTurnBarrel +
+                ", betAfterCheckTurn=" + betAfterCheckTurn +
+                ", betAfterCheckRiver=" + betAfterCheckRiver +
+                ", checkRiverAfterTurnBarrel=" + checkRiverAfterTurnBarrel +
+                ", tripleBarrel=" + tripleBarrel +
+                ", call3Barrel=" + call3Barrel +
+                ", raise3Barrel=" + raise3Barrel +
+                ", foldTo3Barrel=" + foldTo3Barrel +
+                ", stabTurn=" + stabTurn +
+                ", stabRiver=" + stabRiver +
+                '}';
+    }
+
+    public boolean isDelayedCbet() {
+        return delayedCbet;
+    }
+
+    public String getBlinds() {
+        return blinds;
+    }
+
+    public void setBlinds(String blinds) {
+        this.blinds = blinds;
+    }
+
+    public int getH_FlopCard() {
+        return H_FlopCard;
+    }
+
+    public void setH_FlopCard(int h_FlopCard) {
+        H_FlopCard = h_FlopCard;
+    }
+
+    public String getFlushTexure() {
+        return flushTexure;
+    }
+
+    public void setFlushTexure(String flushTexure) {
+        this.flushTexure = flushTexure;
+    }
+
+    public int getM_FlopCard() {
+        return M_FlopCard;
+    }
+
+    public void setM_FlopCard(int m_FlopCard) {
+        M_FlopCard = m_FlopCard;
+    }
+
+    public int getL_FlopCard() {
+        return L_FlopCard;
+    }
+
+    public void setL_FlopCard(int l_FlopCard) {
+        L_FlopCard = l_FlopCard;
+    }
+
+    public String getOR_Pos() {
+        return OR_Pos;
+    }
+
+    public void setOR_Pos(String OR_Pos) {
+        this.OR_Pos = OR_Pos;
+    }
+
+    public void setDelayedCbet(boolean delayedCbet) {
+        this.delayedCbet = delayedCbet;
+    }
+
+    public boolean isBarrelAfterDelayedCbet() {
+        return barrelAfterDelayedCbet;
+    }
+
+    public void setBarrelAfterDelayedCbet(boolean barrelAfterDelayedCbet) {
+        this.barrelAfterDelayedCbet = barrelAfterDelayedCbet;
+    }
+
     // Getter und Setter für "Allgemein" Attribute::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
     public String getStakes() {
         return blinds;
@@ -110,14 +219,7 @@ public class DataBlock {
         return flopTexture;
     }
     // Getter für stabFlopAfterCheck
-    public boolean isStabFlopAfterCheck() {
-        return stabFlopAfterCheck;
-    }
 
-    // Setter für stabFlopAfterCheck
-    public void setStabFlopAfterCheck(boolean stabFlopAfterCheck) {
-        this.stabFlopAfterCheck = stabFlopAfterCheck;
-    }
 
     public void setFlopTexture(String flopTexture) {
         this.flopTexture = flopTexture;
@@ -346,49 +448,6 @@ public class DataBlock {
         this.raise3Barrel = raise3Barrel;
     }
 
-    @Override
-    public String toString() {
-        return "new DataBlock{" + "\n" +
-                "  blinds='" + blinds + '\'' + "\n" +
-                "  H_FlopCard=" + H_FlopCard + "\n" +
-                "  M_FlopCard=" + M_FlopCard + "\n" +
-                "  L_FlopCard=" + L_FlopCard + "\n" +
-                "  turn=" + turn + "\n" +
-                "  river=" + river + "\n" +
-                "  flopTexture='" + flopTexture + '\'' + "\n" +
-                "  pairedFlop=" + pairedFlop + "\n" +
-                "  tripFlop=" + tripFlop + "\n" +
-                "  fullAction='" + fullAction + '\'' + "\n" +
-                "  OR_Pos='" + OR_Pos + '\'' + "\n" +
-                "  ORinBB=" + ORinBB + "\n" +
-                "  threeBetBB=" + threeBetBB + "\n" +
-                "  fourBetBB=" + fourBetBB + "\n" +
-                "  CallPos='" + CallPos + '\'' + "\n" +
-                "  aggrIP=" + aggrIP + "\n" +
-                "  potType='" + potType + '\'' + "\n" +
-                "  isoraisePot=" + isoraisePot + "\n" +
-                "  flopPlayers=" + flopPlayers + "\n" +
-                "  cbet=" + cbet + "\n" +
-                "  cbetCall=" + cbetCall + "\n" +
-                "  cbetFold=" + cbetFold + "\n" +
-                "  cbetRaise=" + cbetRaise + "\n" +
-                "  betAfterCheck=" + betAfterCheck + "\n" +
-                "  stabFlopAfterCheck=" + stabFlopAfterCheck + "\n" + // Neue Zeile für stabFlopAfterCheck
-                "  turnBarrel=" + turnBarrel + "\n" +
-                "  foldToTurnBarrel=" + foldToTurnBarrel + "\n" +
-                "  callTurnBarrel=" + callTurnBarrel + "\n" +
-                "  raiseTurnBarrel=" + raiseTurnBarrel + "\n" +
-                "  betAfterCheckTurn=" + betAfterCheckTurn + "\n" +
-                "  betAfterCheckRiver=" + betAfterCheckRiver + "\n" +
-                "  checkRiverAfterTurnBarrel=" + checkRiverAfterTurnBarrel + "\n" +
-                "  tripleBarrel=" + tripleBarrel + "\n" +
-                "  call3Barrel=" + call3Barrel + "\n" +
-                "  raise3Barrel=" + raise3Barrel + "\n" +
-                "  foldTo3Barrel=" + foldTo3Barrel + "\n" +
-                '}';
-    }
-
-
 
     public boolean isFoldTo3Barrel() {
         return foldTo3Barrel;
@@ -398,4 +457,19 @@ public class DataBlock {
         this.foldTo3Barrel = foldTo3Barrel;
     }
 
+    public boolean isStabRiver() {
+        return stabRiver;
+    }
+
+    public void setStabRiver(boolean stabRiver) {
+        this.stabRiver = stabRiver;
+    }
+
+    public boolean isStabTurn() {
+        return stabTurn;
+    }
+
+    public void setStabTurn(boolean stabTurn) {
+        this.stabTurn = stabTurn;
+    }
 }
