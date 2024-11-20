@@ -82,31 +82,66 @@ public class  DataProcessing {
     }
 
     public static void analyzeFlushTexture (PokerHand hand, DataBlock block){
+        //bezieht sich auf den Turn und River
         /*
         Strings are:
         NoFlush
+        TurnFlush
+        RiverFlush
+        BDF
          */
 
         if(hand.boardCards.length < 4){
             block.setFlushTexure("NoFlush");
-        }else{
-            List<Character> allSuits = new ArrayList<>();
-            for (int i = 0; i < 5; i++) {
-                if (hand.boardCards[i] != null && hand.boardCards[i].length() > 1) {
-                    char suit = hand.boardCards[i].charAt(hand.boardCards[i].length() - 1);
-                    allSuits.add(suit);
-                }
-            }
-            if(block.getFlopTexture().equals("two-tone")){
+            return;
+        }
 
+        List<Character> allSuits = new ArrayList<>();
+        for (int i = 0; i < 5; i++) {
+            if (hand.boardCards[i] != null && hand.boardCards[i].length() > 1) {
+                char suit = hand.boardCards[i].charAt(hand.boardCards[i].length() - 1);
+                allSuits.add(suit);
             }
-            if(block.getFlopTexture().equals("monotone")){
+        }
+        if(block.getFlopTexture().equals("two-tone")){
+            char searchedSuite;
+            if(allSuits.get(0).equals(allSuits.get(1)) || allSuits.get(0).equals(allSuits.get(2))){
+                searchedSuite = allSuits.get(0);
+            }else if(allSuits.get(1).equals(allSuits.get(2))){
+                searchedSuite = allSuits.get(1);
+            }else{
+                System.out.println("An Error accured while finding 'searchedSuite' in class DataProcessing line 107");
+                return;
+            }
+            if(allSuits.get(3).equals(searchedSuite)){
+                block.setFlushTexure("TurnFlush");
+                return;
+            }
+            if(allSuits.get(4).equals(searchedSuite)){
+                block.setFlushTexure("RiverFlush");
+                return;
+            }
+
+        }
+        if(block.getFlopTexture().equals("monotone")){
+            char searchedSuite;
+            if(allSuits.get(3).equals(allSuits.get(4))){
+                searchedSuite = allSuits.get(0);
+                for(int i = 0; i < 3; i ++){
+                    if(allSuits.get(i).equals(searchedSuite)){
+                        block.setFlushTexure("BDF");
+                        return;
+                    }
+                }
+            }else{
+                block.setFlushTexure("NoFlush");
 
             }
         }
-
-
     }
+
+
+
 
     public static int cardToValue(String card) {
         if (card == null || card.isEmpty()) {

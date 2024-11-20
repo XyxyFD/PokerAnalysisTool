@@ -63,7 +63,7 @@ public class DatabaseInserter {
             stmt.setBoolean(40, block.isStabTurn());
             stmt.setBoolean(41, block.isDelayedCbet());
 
-            stmt.setBoolean(42, block.isFoldTo3Barrel()); //TODO flushTexture
+            stmt.setString(42, block.getFlushTexure()); //TODO flushTexture
 
 
             stmt.executeUpdate();
