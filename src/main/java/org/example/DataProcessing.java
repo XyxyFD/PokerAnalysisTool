@@ -88,55 +88,106 @@ public class  DataProcessing {
         NoFlush
         TurnFlush
         RiverFlush
+        FlushOnFlop
         BDF
          */
 
+        System.out.println("New Flush Texture: ");
+        if(block.getFlopTexture().equals("NoFlop")){
+            block.setFlushTexure("NoFlush");
+            return;
+        }
+
+        System.out.println("Flop: ");
+        for(String card : hand.boardCards){
+            System.out.print(card);
+        }
+        System.out.println();
         if(hand.boardCards.length < 4){
             block.setFlushTexure("NoFlush");
             return;
         }
 
         List<Character> allSuits = new ArrayList<>();
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < hand.boardCards.length; i++) {
             if (hand.boardCards[i] != null && hand.boardCards[i].length() > 1) {
                 char suit = hand.boardCards[i].charAt(hand.boardCards[i].length() - 1);
                 allSuits.add(suit);
             }
         }
+        System.out.println("All Suites: ");
+        for(char Suite : allSuits){
+            System.out.print(Suite);
+        }
+        System.out.println();
         if(block.getFlopTexture().equals("two-tone")){
+            System.out.println("two-tone");
             char searchedSuite;
+            char otherSuite;
             if(allSuits.get(0).equals(allSuits.get(1)) || allSuits.get(0).equals(allSuits.get(2))){
                 searchedSuite = allSuits.get(0);
+                if(allSuits.get(1).equals(searchedSuite)){
+                    otherSuite = allSuits.get(2);
+                }else{
+                    otherSuite = allSuits.get(1);
+                }
             }else if(allSuits.get(1).equals(allSuits.get(2))){
                 searchedSuite = allSuits.get(1);
+                otherSuite = allSuits.get(0);
             }else{
                 System.out.println("An Error accured while finding 'searchedSuite' in class DataProcessing line 107");
+                block.setFlushTexure("NoFlush");
                 return;
             }
-            if(allSuits.get(3).equals(searchedSuite)){
+            System.out.println("SearchedSuite: " + searchedSuite);
+            System.out.println("OtherSuite: " + otherSuite);
+
+            System.out.println(1);
+
+            if(allSuits.size() > 3 && allSuits.get(3).equals(searchedSuite)){
+                System.out.println(2);
                 block.setFlushTexure("TurnFlush");
                 return;
             }
-            if(allSuits.get(4).equals(searchedSuite)){
+            if (allSuits.size() > 4 && allSuits.get(4).equals(searchedSuite)) {
+                System.out.println(3);
                 block.setFlushTexure("RiverFlush");
                 return;
             }
+            if(allSuits.size() == 5 && allSuits.get(4).equals(otherSuite) && allSuits.get(3).equals(otherSuite)){
+                System.out.println(4);
+                block.setFlushTexure("BDF");
+                return;
+            }
+            System.out.println(5);
+            block.setFlushTexure("NoFlush");
+            return;
 
         }
-        if(block.getFlopTexture().equals("monotone")){
+        if(block.getFlopTexture().equals("rainbow")){
+            System.out.println("rainbow");
+            if(allSuits.size() < 5){
+                block.setFlushTexure("NoFlush");
+                return;
+            }
             char searchedSuite;
             if(allSuits.get(3).equals(allSuits.get(4))){
-                searchedSuite = allSuits.get(0);
+                searchedSuite = allSuits.get(3);
                 for(int i = 0; i < 3; i ++){
                     if(allSuits.get(i).equals(searchedSuite)){
                         block.setFlushTexure("BDF");
                         return;
                     }
                 }
+                block.setFlushTexure("NoFlush");
             }else{
                 block.setFlushTexure("NoFlush");
+                return;
 
             }
+        }if(block.getFlopTexture().equals("monotone")){
+            System.out.println("monotone");
+            block.setFlushTexure("FlushOnFlop");
         }
     }
 
@@ -222,22 +273,7 @@ public class  DataProcessing {
     }
 
     public static void fullAction(PokerHand hand, DataBlock block) {
-        System.out.println("fullAction ausgelöst");
         StringBuilder action = new StringBuilder();
-        for (String act : hand.preflopAction){
-            System.out.print("Preflop" + act);
-        }
-        for (String act : hand.flopAction){
-            System.out.print("Flop" + act);
-        }
-        System.out.println();
-        for (String act : hand.turnAction){
-            System.out.print("Turn" + act);
-        }
-        System.out.println();
-        for (String act : hand.riverAction){
-            System.out.print("River" + act);
-        }
 
         for (String a : hand.preflopAction) {
             action.append(a).append(":");
@@ -257,13 +293,19 @@ public class  DataProcessing {
         for (String a : hand.riverAction) {
             action.append(a).append(":");
         }
-
+        block.setFullAction(String.valueOf(action));
     }
     //Preflop
 
     // Bestimmt die Position des Open Raisers und speichert sie im DataBlock
     public static void determineORPos(PokerHand hand, DataBlock block) {
-        String[] actions = block.getFullAction().split(":");
+        String fullAction = block.getFullAction();
+        if (fullAction == null || fullAction.isEmpty()) {
+            // Log oder Debug-Ausgabe hinzufügen
+            System.out.println("Error: FullAction is null or empty.");
+            return; // Methode beenden oder eine Standardaktion ausführen
+        }
+        String[] actions = fullAction.split(":");
 
         for (String act : actions) {
             if (act.contains("FLOP")) {

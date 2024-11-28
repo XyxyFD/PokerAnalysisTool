@@ -26,6 +26,7 @@ public class PokerTrackerGUI extends Application {
     private CheckBox threeBetPotCheckbox;
     private CheckBox fourBetPotCheckbox;
     private CheckBox isoraiseCheckbox;
+    private ComboBox<String> flushTextureDropdown;
     private TableView<Scenario> tableView;
 
     // New variables for flop, turn, and river filtering
@@ -41,6 +42,7 @@ public class PokerTrackerGUI extends Application {
 
     private TextField riverCard;
     private CheckBox riverCardLEQ;
+    private ComboBox<String> stakesDropdown;
 
     @Override
     public void start(Stage primaryStage) {
@@ -172,6 +174,22 @@ public class PokerTrackerGUI extends Application {
         filterBox.setAlignment(Pos.TOP_LEFT);
 
         Label filterLabel = new Label("Filter");
+        flushTextureDropdown = new ComboBox<>();
+        flushTextureDropdown.getItems().addAll("NoFlush", "TurnFlush", "RiverFlush", "BDF");
+        flushTextureDropdown.setPromptText("Flush Texture");
+
+        flushTextureDropdown.setOnAction(e -> {
+            System.out.println("Selected Flush Texture: " + flushTextureDropdown.getValue());
+        });
+
+
+
+        stakesDropdown = new ComboBox<>();
+        stakesDropdown.getItems().addAll("All Stakes", "Win2day NL50", "Win2day NL100");
+        stakesDropdown.setPromptText("Select Stakes");
+        filterBox.getChildren().add(stakesDropdown);
+
+
         // Checkboxen nebeneinander
         HBox checkboxBox = new HBox(10);
         rainbowCheckbox = new CheckBox("rainbow");
@@ -197,9 +215,10 @@ public class PokerTrackerGUI extends Application {
                 monotoneCheckbox.setSelected(false);
             }
         });
+
         checkboxBox.getChildren().addAll(rainbowCheckbox, monotoneCheckbox, twoTonedCheckbox);
 
-        // Flop-Bereich mit Textfeldern im Kartenformat
+        // Flop-Bereich
         HBox flopBox = new HBox(10);
         VBox flopCardBox1 = new VBox(5);
         flopHighCard = new TextField();
@@ -223,31 +242,29 @@ public class PokerTrackerGUI extends Application {
 
         Label flopLabel = new Label("Flop");
 
-        // Turn-Bereich mit fixierter Breite
+        // Turn-Bereich
         VBox turnCardBox = new VBox(5);
         turnCard = new TextField();
-        turnCard.setPrefSize(60, 90); // Fixierte Breite und Höhe
-        turnCard.setMaxWidth(60); // Maximalbreite setzen
+        turnCard.setPrefSize(60, 90);
+        turnCard.setMaxWidth(60);
         turnCardLEQ = new CheckBox("<=");
         turnCardBox.getChildren().addAll(turnCard, turnCardLEQ);
 
         Label turnLabel = new Label("Turn");
 
-        // River-Bereich mit fixierter Breite
+        // River-Bereich
         VBox riverCardBox = new VBox(5);
         riverCard = new TextField();
-        riverCard.setPrefSize(60, 90); // Fixierte Breite und Höhe
-        riverCard.setMaxWidth(60); // Maximalbreite setzen
+        riverCard.setPrefSize(60, 90);
+        riverCard.setMaxWidth(60);
         riverCardLEQ = new CheckBox("<=");
         riverCardBox.getChildren().addAll(riverCard, riverCardLEQ);
 
         Label riverLabel = new Label("River");
 
-
         // Checkboxen für weitere Filter
         CheckBox noMultiwayCheckbox = new CheckBox("No Multiway");
-        noMultiwayCheckbox.setSelected(true); // Standardmäßig angekreuzt
-        // Aggressor IP checkbox
+        noMultiwayCheckbox.setSelected(true);
         aggressorIPCheckbox = new CheckBox("Aggressor IP");
         aggressorOOPCheckbox = new CheckBox("Aggressor OOP");
 
@@ -267,48 +284,41 @@ public class PokerTrackerGUI extends Application {
             }
         });
 
-
-
         threeBetPotCheckbox.setOnAction(e -> {
             if (threeBetPotCheckbox.isSelected()) {
                 fourBetPotCheckbox.setSelected(false);
             }
         });
+
         fourBetPotCheckbox.setOnAction(e -> {
             if (fourBetPotCheckbox.isSelected()) {
                 threeBetPotCheckbox.setSelected(false);
             }
         });
 
-        //Calculate-Button
+        // Calculate-Button
         Button calculateButton = new Button("Calculate");
         calculateButton.setPrefWidth(150);
         calculateButton.setOnAction(e -> {
-            // Trigger filter calculations
             filterCalculations();
-            // Recalculate percentages based on the new filter query
             startBackgroundCalculations(tableView);
         });
 
-        //Calculate-Button Container
         HBox buttonContainer = new HBox();
-        buttonContainer.setAlignment(Pos.CENTER); // Center the button horizontally
+        buttonContainer.setAlignment(Pos.CENTER);
         buttonContainer.getChildren().add(calculateButton);
 
-        // Push the button to the bottom by setting the VBox's spacing and filling with the remaining space
-        VBox.setVgrow(buttonContainer, Priority.ALWAYS); // Allow space above to push the button down
-
-
+        // Hinzufügen der Komponenten zur Filterbox
         filterBox.getChildren().addAll(
-                filterLabel, checkboxBox, flopLabel, flopBox,
-                turnLabel, turnCardBox,
-                riverLabel, riverCardBox,
-                new Label(" "),
-                noMultiwayCheckbox, aggressorIPCheckbox, aggressorOOPCheckbox, threeBetPotCheckbox, fourBetPotCheckbox, isoraiseCheckbox, buttonContainer
+                filterLabel, flushTextureDropdown, checkboxBox, flopLabel, flopBox,
+                turnLabel, turnCardBox, riverLabel, riverCardBox, noMultiwayCheckbox,
+                aggressorIPCheckbox, aggressorOOPCheckbox, threeBetPotCheckbox,
+                fourBetPotCheckbox, isoraiseCheckbox, buttonContainer
         );
 
         return filterBox;
     }
+
     private void filterCalculations() {
         filterQuery = ""; // Reset the query
 
@@ -402,6 +412,30 @@ public class PokerTrackerGUI extends Application {
                 }
             }
         }
+        if (flushTextureDropdown.getValue() != null) {
+            String selectedFlushTexture = flushTextureDropdown.getValue();
+            switch (selectedFlushTexture) {
+                case "NoFlush":
+                    filterQuery += " AND flushTexture = 'NoFlush'";
+                    break;
+                case "TurnFlush":
+                    filterQuery += " AND flushTexture = 'TurnFlush'";
+                    break;
+                case "RiverFlush":
+                    filterQuery += " AND flushTexture = 'RiverFlush'";
+                    break;
+                case "BDF":
+                    filterQuery += " AND flushTexture = 'BDF'";
+                    break;
+            }
+        }
+        String selectedStake = stakesDropdown.getValue();
+        if ("Win2day NL50".equals(selectedStake)) {
+            filterQuery += " AND blinds = '€0,25/€0,50'";
+        } else if ("Win2day NL100".equals(selectedStake)) {
+            filterQuery += " AND blinds = '€0,50/€1'";
+        }
+
 
         // Additional filter conditions can be added here as needed
     }

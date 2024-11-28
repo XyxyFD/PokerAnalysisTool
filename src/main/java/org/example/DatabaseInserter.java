@@ -13,7 +13,7 @@ public class DatabaseInserter {
                 "CallPos, aggrIP, potType, isoraisePot, flopPlayers, cbet, cbetCall, cbetFold, cbetRaise, " +
                 "betAfterCheck, turnBarrel, foldToTurnBarrel, callTurnBarrel, raiseTurnBarrel, " +
                 "betAfterCheckTurn, betAfterCheckRiver, checkRiverAfterTurnBarrel, tripleBarrel, " +
-                "call3Barrel, raise3Barrel, foldTo3Barrel" +
+                "call3Barrel, raise3Barrel, foldTo3Barrel, " +
                 "isBarrelAfterDelayedCbet, isStabRiver, isStabTurn, isDelayedCbet, flushTexture" +
                 ") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 

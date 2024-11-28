@@ -64,6 +64,7 @@ public class StartDataExtraction {
             DataProcessing.isCall3Barrel(hand, block);
             DataProcessing.isRaise3Barrel(hand, block);
             DataProcessing.isFoldTo3Barrel(hand, block);
+            DataProcessing.analyzeFlushTexture(hand, block);
 
             // Füge den verarbeiteten Datenblock zur Liste hinzu
             dataBlocks.add(block);

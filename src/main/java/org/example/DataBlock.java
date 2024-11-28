@@ -13,7 +13,8 @@ public class DataBlock {
     private String flopTexture; // monotone/rainbow/two-tone
     private boolean pairedFlop;
     private boolean tripFlop;
-    private String fullAction; //gesamte Action in einem String
+    private String fullAction ;// Standardwert für FullAction
+    //gesamte Action in einem String
     private String flushTexure; // Strings, welche eine bestimmte flushTexture als spezifischen String für Turn und river abspeichert
 
     //Preflop____________________________________________________________________________________________
@@ -242,12 +243,13 @@ public class DataBlock {
     }
 
     public String getFullAction() {
-        return fullAction;
+        return (fullAction == null || fullAction.isEmpty()) ? "NO_ACTION" : fullAction;
     }
 
     public void setFullAction(String fullAction) {
-        this.fullAction = fullAction;
+        this.fullAction = (fullAction == null || fullAction.isEmpty()) ? "NO_ACTION" : fullAction;
     }
+
 
     // Getter/Setter für Preflop Attribute
     public boolean isIsoraisePot() {
