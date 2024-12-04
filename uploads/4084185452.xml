@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4084185452">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:54</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-09-23 23:20:09</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€8</bets>
+  <wins>€6</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€102</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3712756991">
+  <general>
+   <startdate>2022-09-23 23:20:09</startdate>
+   <players>
+    <player chips="€100" win="€1" bet="€1" name="13373678" dealer="0" seat="1"/>
+    <player chips="€163,03" win="€0" bet="€0,50" name="RutunVinkkari" dealer="1" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="RutunVinkkari" sum="€0,50"/>
+   <action type="2" no="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 HA</cards>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action type="0" no="3" player="RutunVinkkari" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712757011">
+  <general>
+   <startdate>2022-09-23 23:20:15</startdate>
+   <players>
+    <player chips="€100,50" win="€2" bet="€2,50" name="13373678" dealer="1" seat="1"/>
+    <player chips="€162,53" win="€0" bet="€1" name="RutunVinkkari" dealer="0" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="13373678" sum="€0,50"/>
+   <action type="2" no="2" player="RutunVinkkari" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ D8</cards>
+   <action type="23" no="3" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action type="0" no="4" player="RutunVinkkari" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712757064">
+  <general>
+   <startdate>2022-09-23 23:20:32</startdate>
+   <players>
+    <player chips="€101,50" win="€1" bet="€1" name="13373678" dealer="0" seat="1"/>
+    <player chips="€161,53" win="€0" bet="€0,50" name="RutunVinkkari" dealer="1" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="RutunVinkkari" sum="€0,50"/>
+   <action type="2" no="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 S3</cards>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action type="0" no="3" player="RutunVinkkari" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712757076">
+  <general>
+   <startdate>2022-09-23 23:20:36</startdate>
+   <players>
+    <player chips="€102" win="€2" bet="€2,50" name="13373678" dealer="1" seat="1"/>
+    <player chips="€161,03" win="€0" bet="€1" name="RutunVinkkari" dealer="0" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="13373678" sum="€0,50"/>
+   <action type="2" no="2" player="RutunVinkkari" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 DA</cards>
+   <action type="23" no="3" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action type="0" no="4" player="RutunVinkkari" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712757117">
+  <general>
+   <startdate>2022-09-23 23:20:52</startdate>
+   <players>
+    <player chips="€103" win="€0" bet="€1" name="13373678" dealer="0" seat="1"/>
+    <player chips="€160,03" win="€2" bet="€2,25" name="RutunVinkkari" dealer="1" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="RutunVinkkari" sum="€0,50"/>
+   <action type="2" no="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action type="23" no="3" player="RutunVinkkari" sum="€2,25"/>
+   <cards type="Pocket" player="13373678">SJ H5</cards>
+   <action type="0" no="4" player="13373678" sum="€0"/>
+  </round>
+ </game>
+</session>

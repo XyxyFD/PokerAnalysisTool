@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080789665">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:16:01</duration>
+  <gamecount>38</gamecount>
+  <startdate>2022-08-09 16:24:10</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€53,48</bets>
+  <wins>€66,42</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€76,79</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701348557">
+  <general>
+   <startdate>2022-08-09 16:24:10</startdate>
+   <players>
+    <player chips="€66,99" dealer="0" bet="€0,25" name="Player 1" seat="1" win="€0"/>
+    <player chips="€53,14" dealer="0" bet="€0,50" name="Player 5" seat="5" win="€0"/>
+    <player chips="€52,63" dealer="0" bet="€0" name="Player 6" seat="6" win="€0"/>
+    <player chips="€61,77" dealer="0" bet="€0" name="Player 8" seat="8" win="€0"/>
+    <player chips="€50" dealer="1" bet="€2" name="Player 10" seat="10" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" no="1" sum="€0,25"/>
+   <action player="Player 5" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="0" no="3" sum="€0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="4" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="23" no="5" sum="€2"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="6" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348585">
+  <general>
+   <startdate>2022-08-09 16:24:25</startdate>
+   <players>
+    <player chips="€66,74" dealer="1" bet="€0" name="Player 1" seat="1" win="€0"/>
+    <player chips="€52,64" dealer="0" bet="€0,25" name="Player 5" seat="5" win="€0"/>
+    <player chips="€52,63" dealer="0" bet="€0,50" name="Player 6" seat="6" win="€0"/>
+    <player chips="€61,77" dealer="0" bet="€1,50" name="Player 8" seat="8" win="€1,25"/>
+    <player chips="€50,75" dealer="0" bet="€0" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,25"/>
+   <action player="Player 6" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="23" no="3" sum="€1,50"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="4" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="5" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="6" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348621">
+  <general>
+   <startdate>2022-08-09 16:24:48</startdate>
+   <players>
+    <player chips="€66,74" dealer="0" bet="€0" name="Player 1" seat="1" win="€0"/>
+    <player chips="€52,39" dealer="1" bet="€7,75" name="Player 5" seat="5" win="€0"/>
+    <player chips="€62,52" dealer="0" bet="€0,25" name="Player 8" seat="8" win="€0"/>
+    <player chips="€50,75" dealer="0" bet="€18,75" name="Player 10" seat="10" win="€15,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 8" type="1" no="1" sum="€0,25"/>
+   <action player="Player 10" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="3" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="23" no="4" sum="€1,25"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="5" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 CJ C10</cards>
+   <action player="Player 10" type="4" no="7" sum="€0"/>
+   <action player="Player 5" type="5" no="8" sum="€1,92"/>
+   <action player="Player 10" type="23" no="9" sum="€6,50"/>
+   <action player="Player 5" type="3" no="10" sum="€4,58"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="Player 10" type="5" no="11" sum="€11"/>
+   <action player="Player 5" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348708">
+  <general>
+   <startdate>2022-08-09 16:26:01</startdate>
+   <players>
+    <player chips="€66,74" dealer="0" bet="€0,50" name="Player 1" seat="1" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0" name="Player 5" seat="5" win="€0"/>
+    <player chips="€62,27" dealer="1" bet="€0" name="Player 8" seat="8" win="€0"/>
+    <player chips="€58,28" dealer="0" bet="€1,50" name="Player 10" seat="10" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" type="1" no="1" sum="€0,25"/>
+   <action player="Player 1" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="3" sum="€0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="4" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="23" no="5" sum="€1,50"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348732">
+  <general>
+   <startdate>2022-08-09 16:26:14</startdate>
+   <players>
+    <player chips="€66,24" dealer="0" bet="€0,25" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="0" bet="€1,25" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€62,27" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€58,78" dealer="1" bet="€4,50" name="Lucikka" seat="10" win="€3,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="23" no="3" sum="€1,25"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="4" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="23" no="5" sum="€4,50"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">DA H7</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <action player="Strippenzieher" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348764">
+  <general>
+   <startdate>2022-08-09 16:26:38</startdate>
+   <players>
+    <player chips="€65,99" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="Strippenzieher" seat="5" win="€0,50"/>
+    <player chips="€62,27" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€60,78" dealer="0" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Strippenzieher" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ S7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348781">
+  <general>
+   <startdate>2022-08-09 16:26:50</startdate>
+   <players>
+    <player chips="€65,99" dealer="0" bet="€1,25" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€50" dealer="1" bet="€3,75" name="13373678" seat="3" win="€3,25"/>
+    <player chips="€50,25" dealer="0" bet="€0,25" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€52,13" dealer="0" bet="€0,50" name="TOUTAIN" seat="6" win="€0"/>
+    <player chips="€62,27" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€60,78" dealer="0" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Strippenzieher" type="1" no="1" sum="€0,25"/>
+   <action player="TOUTAIN" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D9 DK</cards>
+   <action player="13373678" type="23" no="6" sum="€3,75"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="7" sum="€0"/>
+   <cards player="TOUTAIN" type="Pocket">X X</cards>
+   <action player="TOUTAIN" type="0" no="8" sum="€0"/>
+   <action player="Kurkkumies" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348848">
+  <general>
+   <startdate>2022-08-09 16:27:36</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€52" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="1" bet="€1,25" name="Strippenzieher" seat="5" win="€1,25"/>
+    <player chips="€51,63" dealer="0" bet="€0,25" name="TOUTAIN" seat="6" win="€0"/>
+    <player chips="€62,27" dealer="0" bet="€0,50" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€60,78" dealer="0" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TOUTAIN" type="1" no="1" sum="€0,25"/>
+   <action player="AllGlorytoJC" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S5 H2</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="23" no="6" sum="€1,25"/>
+   <cards player="TOUTAIN" type="Pocket">X X</cards>
+   <action player="TOUTAIN" type="0" no="7" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701348875">
+  <general>
+   <startdate>2022-08-09 16:27:55</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€52" dealer="0" bet="€20" name="13373678" seat="3" win="€40,25"/>
+    <player chips="€50,75" dealer="0" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€61,77" dealer="0" bet="€0,25" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€60,78" dealer="0" bet="€20" name="Lucikka" seat="10" win="€0"/>
+    <player chips="€51,38" dealer="1" bet="€1,25" name="TOUTAIN" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AllGlorytoJC" type="1" no="1" sum="€0,25"/>
+   <action player="Lucikka" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H10 DA</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="5" sum="€0"/>
+   <cards player="TOUTAIN" type="Pocket">X X</cards>
+   <action player="TOUTAIN" type="3" no="6" sum="€1,25"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="7" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">SJ CA</cards>
+   <action player="Lucikka" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S2 SA</cards>
+   <action player="Lucikka" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€1,32"/>
+   <action player="TOUTAIN" type="0" no="11" sum="€0"/>
+   <action player="Lucikka" type="3" no="12" sum="€1,32"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action player="Lucikka" type="4" no="13" sum="€0"/>
+   <action player="13373678" type="5" no="14" sum="€4,98"/>
+   <action player="Lucikka" type="3" no="15" sum="€4,98"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action player="Lucikka" type="4" no="16" sum="€0"/>
+   <action player="13373678" type="5" no="17" sum="€12,45"/>
+   <action player="Lucikka" type="3" no="18" sum="€12,45"/>
+  </round>
+ </game>
+ <game gamecode="3701348971">
+  <general>
+   <startdate>2022-08-09 16:29:00</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0,50" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€72,25" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50,75" dealer="0" bet="€1,25" name="Strippenzieher" seat="5" win="€1,25"/>
+    <player chips="€61,52" dealer="1" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,25" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lucikka" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 S5</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="23" no="4" sum="€1,25"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="5" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="6" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701349231">
+  <general>
+   <startdate>2022-08-09 16:29:14</startdate>
+   <players>
+    <player chips="€64,24" dealer="0" bet="€1,50" name="Kurkkumies" seat="1" win="€1"/>
+    <player chips="€72,25" dealer="0" bet="€0,50" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="0" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€61,52" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€50" dealer="1" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="3" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="4" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="5" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="6" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">S7 H2</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701349249">
+  <general>
+   <startdate>2022-08-09 16:29:26</startdate>
+   <players>
+    <player chips="€64,74" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,75" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="0" bet="€0,50" name="Strippenzieher" seat="5" win="€0,50"/>
+    <player chips="€61,52" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Strippenzieher" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">C8 S10</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350175">
+  <general>
+   <startdate>2022-08-09 16:29:39</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,50" dealer="1" bet="€1,25" name="13373678" seat="3" win="€1,25"/>
+    <player chips="€51,75" dealer="0" bet="€0,25" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€61,52" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0" name="Lucikka" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Strippenzieher" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">DJ DQ</cards>
+   <action player="13373678" type="23" no="6" sum="€1,25"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="7" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350208">
+  <general>
+   <startdate>2022-08-09 16:30:07</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€72,25" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="1" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€61,52" dealer="0" bet="€0,50" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€50" dealer="0" bet="€2" name="Lucikka" seat="10" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="AllGlorytoJC" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Lucikka" type="Pocket">X X</cards>
+   <action player="Lucikka" type="23" no="3" sum="€2"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H5 D10</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="6" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="7" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350223">
+  <general>
+   <startdate>2022-08-09 16:30:19</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0,50" name="Kurkkumies" seat="1" win="€0,50"/>
+    <player chips="€72,25" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="0" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€50" dealer="1" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€61,02" dealer="0" bet="€0,25" name="AllGlorytoJC" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AllGlorytoJC" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H10 H5</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350242">
+  <general>
+   <startdate>2022-08-09 16:30:33</startdate>
+   <players>
+    <player chips="€64,99" dealer="0" bet="€0,25" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€72,25" dealer="0" bet="€0,50" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="0" bet="€1,25" name="Strippenzieher" seat="5" win="€1,25"/>
+    <player chips="€50" dealer="0" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€60,77" dealer="1" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="23" no="3" sum="€1,25"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="4" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="5" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">C4 CQ</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350264">
+  <general>
+   <startdate>2022-08-09 16:30:46</startdate>
+   <players>
+    <player chips="€64,74" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,75" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€52,25" dealer="0" bet="€0,50" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€50" dealer="0" bet="€1,10" name="GLHFGG" seat="6" win="€1,25"/>
+    <player chips="€60,77" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Strippenzieher" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="3" sum="€1,10"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ S9</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350286">
+  <general>
+   <startdate>2022-08-09 16:30:59</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,50" dealer="1" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,75" dealer="0" bet="€0,25" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€50,75" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0,50"/>
+    <player chips="€60,77" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Strippenzieher" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK D3</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350301">
+  <general>
+   <startdate>2022-08-09 16:31:13</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,50" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,50" dealer="1" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+    <player chips="€51" dealer="0" bet="€0,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€60,77" dealer="0" bet="€0,50" name="AllGlorytoJC" seat="8" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="AllGlorytoJC" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S9 H4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="5" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350315">
+  <general>
+   <startdate>2022-08-09 16:31:22</startdate>
+   <players>
+    <player chips="€64,74" dealer="0" bet="€2,15" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€71,50" dealer="0" bet="€2,15" name="13373678" seat="3" win="€4,42"/>
+    <player chips="€50,75" dealer="1" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€61,02" dealer="0" bet="€0,25" name="AllGlorytoJC" seat="8" win="€0"/>
+    <player chips="€51,50" dealer="0" bet="€0" name="Strippenzieher" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AllGlorytoJC" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA D5</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="6" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">D7 H7</cards>
+   <action player="Kurkkumies" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D8 CA</cards>
+   <action player="Kurkkumies" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Kurkkumies" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="Kurkkumies" type="4" no="12" sum="€0"/>
+   <action player="13373678" type="5" no="13" sum="€0,90"/>
+   <action player="Kurkkumies" type="3" no="14" sum="€0,90"/>
+  </round>
+ </game>
+ <game gamecode="3701350408">
+  <general>
+   <startdate>2022-08-09 16:32:28</startdate>
+   <players>
+    <player chips="€62,59" dealer="0" bet="€0,25" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€73,77" dealer="0" bet="€1,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€50,75" dealer="0" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€60,77" dealer="1" bet="€2,15" name="AllGlorytoJC" seat="8" win="€2,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="3" sum="€0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="23" no="4" sum="€1,25"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S9 H9</cards>
+   <action player="13373678" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ SK S6</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="AllGlorytoJC" type="5" no="8" sum="€0,90"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350453">
+  <general>
+   <startdate>2022-08-09 16:32:59</startdate>
+   <players>
+    <player chips="€62,34" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€72,52" dealer="0" bet="€1,50" name="13373678" seat="3" win="€2,91"/>
+    <player chips="€50,75" dealer="0" bet="€1,50" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€62,19" dealer="0" bet="€0" name="AllGlorytoJC" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">SA HK</cards>
+   <action player="13373678" type="23" no="5" sum="€1,50"/>
+   <cards player="GLHFGG" type="Pocket">D9 CA</cards>
+   <action player="GLHFGG" type="3" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 H3 D10</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="GLHFGG" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="GLHFGG" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="GLHFGG" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350518">
+  <general>
+   <startdate>2022-08-09 16:33:41</startdate>
+   <players>
+    <player chips="€62,34" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€73,93" dealer="1" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="NeverGonnaFold" seat="10" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="NeverGonnaFold" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 H6</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350535">
+  <general>
+   <startdate>2022-08-09 16:33:52</startdate>
+   <players>
+    <player chips="€62,34" dealer="0" bet="€0,50" name="Kurkkumies" seat="1" win="€0,50"/>
+    <player chips="€73,93" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="1" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50,25" dealer="0" bet="€0,25" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="NeverGonnaFold" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C3 S7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="4" sum="€0"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350553">
+  <general>
+   <startdate>2022-08-09 16:34:02</startdate>
+   <players>
+    <player chips="€62,59" dealer="0" bet="€4,98" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€73,93" dealer="0" bet="€9,96" name="13373678" seat="3" win="€9,66"/>
+    <player chips="€50" dealer="0" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="1" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="3" sum="€0"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="5" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">S3 H3</cards>
+   <action player="13373678" type="3" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H5 S8</cards>
+   <action player="Kurkkumies" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="5" no="8" sum="€0,99"/>
+   <action player="Kurkkumies" type="23" no="9" sum="€3,48"/>
+   <action player="13373678" type="3" no="10" sum="€2,49"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="Kurkkumies" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="5" no="12" sum="€4,98"/>
+   <action player="Kurkkumies" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350662">
+  <general>
+   <startdate>2022-08-09 16:35:17</startdate>
+   <players>
+    <player chips="€57,61" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€78,61" dealer="0" bet="€1,50" name="13373678" seat="3" win="€1"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">SA H9</cards>
+   <action player="13373678" type="23" no="5" sum="€1,50"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350680">
+  <general>
+   <startdate>2022-08-09 16:35:30</startdate>
+   <players>
+    <player chips="€57,61" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€79,11" dealer="1" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="NeverGonnaFold" seat="10" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="NeverGonnaFold" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H7 S6</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350697">
+  <general>
+   <startdate>2022-08-09 16:35:40</startdate>
+   <players>
+    <player chips="€57,61" dealer="0" bet="€5,50" name="Kurkkumies" seat="1" win="€2,75"/>
+    <player chips="€79,11" dealer="0" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="1" bet="€1,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50,25" dealer="0" bet="€0,25" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="NeverGonnaFold" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA H6</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="4" sum="€1,25"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="5" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="6" sum="€5,50"/>
+   <action player="GLHFGG" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701350740">
+  <general>
+   <startdate>2022-08-09 16:36:09</startdate>
+   <players>
+    <player chips="€59,11" dealer="0" bet="€0,25" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€79,11" dealer="0" bet="€1,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€50" dealer="0" bet="€3,31" name="GLHFGG" seat="6" win="€2,67"/>
+    <player chips="€50" dealer="1" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="3" sum="€1,25"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ S10</cards>
+   <action player="13373678" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 HK HA</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="GLHFGG" type="5" no="8" sum="€2,06"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351047">
+  <general>
+   <startdate>2022-08-09 16:36:50</startdate>
+   <players>
+    <player chips="€58,86" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€77,86" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,42" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0,50"/>
+    <player chips="€50" dealer="0" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H3 C10</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351064">
+  <general>
+   <startdate>2022-08-09 16:37:02</startdate>
+   <players>
+    <player chips="€58,86" dealer="0" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€77,61" dealer="1" bet="€0" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,67" dealer="0" bet="€0,25" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="0" bet="€0,50" name="NeverGonnaFold" seat="10" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="NeverGonnaFold" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C4 DK</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351079">
+  <general>
+   <startdate>2022-08-09 16:37:10</startdate>
+   <players>
+    <player chips="€58,86" dealer="0" bet="€0,50" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€77,61" dealer="0" bet="€1,25" name="13373678" seat="3" win="€1,25"/>
+    <player chips="€51,42" dealer="1" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50,25" dealer="0" bet="€0,25" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="NeverGonnaFold" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 C6</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="4" sum="€0"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="5" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351111">
+  <general>
+   <startdate>2022-08-09 16:37:37</startdate>
+   <players>
+    <player chips="€58,36" dealer="0" bet="€1,50" name="Kurkkumies" seat="1" win="€1"/>
+    <player chips="€78,36" dealer="0" bet="€0,50" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,42" dealer="0" bet="€0" name="GLHFGG" seat="6" win="€0"/>
+    <player chips="€50" dealer="1" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="3" sum="€0"/>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="5" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">C4 S10</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351134">
+  <general>
+   <startdate>2022-08-09 16:37:51</startdate>
+   <players>
+    <player chips="€58,86" dealer="1" bet="€0" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€77,86" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,42" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0,50"/>
+    <player chips="€50" dealer="0" bet="€0" name="NeverGonnaFold" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <cards player="NeverGonnaFold" type="Pocket">X X</cards>
+   <action player="NeverGonnaFold" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S3 S5</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351146">
+  <general>
+   <startdate>2022-08-09 16:38:00</startdate>
+   <players>
+    <player chips="€58,86" dealer="0" bet="€0,50" name="Kurkkumies" seat="1" win="€0"/>
+    <player chips="€77,61" dealer="1" bet="€1,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€51,67" dealer="0" bet="€5,50" name="GLHFGG" seat="6" win="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ D10</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="4" sum="€5,50"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351172">
+  <general>
+   <startdate>2022-08-09 16:38:18</startdate>
+   <players>
+    <player chips="€58,36" dealer="0" bet="€5,50" name="Kurkkumies" seat="1" win="€3"/>
+    <player chips="€76,36" dealer="0" bet="€0,50" name="13373678" seat="3" win="€0"/>
+    <player chips="€53,42" dealer="1" bet="€1,25" name="GLHFGG" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="3" sum="€1,25"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="4" sum="€5,50"/>
+   <cards player="13373678" type="Pocket">C10 D9</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <action player="GLHFGG" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351221">
+  <general>
+   <startdate>2022-08-09 16:38:55</startdate>
+   <players>
+    <player chips="€60,11" dealer="1" bet="€1,25" name="Kurkkumies" seat="1" win="€1,25"/>
+    <player chips="€75,86" dealer="0" bet="€0,25" name="13373678" seat="3" win="€0"/>
+    <player chips="€52,17" dealer="0" bet="€0,50" name="GLHFGG" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="GLHFGG" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">H10 SQ</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701351252">
+  <general>
+   <startdate>2022-08-09 16:39:10</startdate>
+   <players>
+    <player chips="€75,61" dealer="0" bet="€4,37" name="13373678" seat="3" win="€2,43"/>
+    <player chips="€51,67" dealer="1" bet="€1,25" name="GLHFGG" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GLHFGG" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action player="GLHFGG" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">C5 C2</cards>
+   <action player="13373678" type="3" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 CK C9</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="GLHFGG" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action player="13373678" type="5" no="7" sum="€3,12"/>
+   <action player="GLHFGG" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+</session>

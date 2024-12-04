@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076483163">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:44</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-06-09 12:18:33</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,75</bets>
+  <wins>€1</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€49,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3686899309">
+  <general>
+   <startdate>2022-06-09 12:18:33</startdate>
+   <players>
+    <player chips="€50" bet="€0,25" win="€0" dealer="1" name="13373678" seat="1"/>
+    <player chips="€50" bet="€0,50" win="€0,50" dealer="0" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="TopDonkey" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S2 C3</cards>
+   <action player="13373678" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3686899326">
+  <general>
+   <startdate>2022-06-09 12:18:45</startdate>
+   <players>
+    <player chips="€50" bet="€0,50" win="€0" dealer="0" name="13373678" seat="1"/>
+    <player chips="€50,25" bet="€1,50" win="€1" dealer="1" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TopDonkey" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action player="TopDonkey" type="23" sum="€1,50" no="3"/>
+   <cards player="13373678" type="Pocket">C3 H8</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3686899339">
+  <general>
+   <startdate>2022-06-09 12:18:52</startdate>
+   <players>
+    <player chips="€50" bet="€1,25" win="€1" dealer="1" name="13373678" seat="1"/>
+    <player chips="€50,75" bet="€0,50" win="€0" dealer="0" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="TopDonkey" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ HQ</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action player="TopDonkey" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3686899366">
+  <general>
+   <startdate>2022-06-09 12:19:06</startdate>
+   <players>
+    <player chips="€50,50" bet="€0,50" win="€0" dealer="0" name="13373678" seat="1"/>
+    <player chips="€50,25" bet="€1,50" win="€1" dealer="1" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TopDonkey" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action player="TopDonkey" type="23" sum="€1,50" no="3"/>
+   <cards player="13373678" type="Pocket">H7 C2</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3686899376">
+  <general>
+   <startdate>2022-06-09 12:19:14</startdate>
+   <players>
+    <player chips="€50" bet="€0,25" win="€0" dealer="1" name="13373678" seat="1"/>
+    <player chips="€50,75" bet="€0,50" win="€0,50" dealer="0" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="TopDonkey" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D6 C3</cards>
+   <action player="13373678" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+</session>

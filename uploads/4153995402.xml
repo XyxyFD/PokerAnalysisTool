@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4153995402">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:06:56</duration>
+  <gamecount>13</gamecount>
+  <startdate>2024-11-01 23:27:44</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€11,65</bets>
+  <wins>€4,92</wins>
+  <chipsin>€48,50</chipsin>
+  <chipsout>€47,42</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3944388287">
+  <general>
+   <startdate>2024-11-01 23:27:44</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€4,80" name="Player 1" chips="€53,12" win="€5,02"/>
+    <player dealer="1" seat="3" bet="€4,80" name="Player 3" chips="€53,61" win="€5,02"/>
+    <player dealer="0" seat="5" bet="€0,25" name="Player 5" chips="€51" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="Player 6" chips="€78,20" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="Player 8" chips="€57,88" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 5"/>
+   <action type="2" no="2" sum="€0,50" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" no="3" sum="€0" player="Player 8"/>
+   <cards type="Pocket" player="Player 1">CK HA</cards>
+   <action type="23" no="4" sum="€1,50" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">HK SA</cards>
+   <action type="23" no="5" sum="€4,80" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" no="6" sum="€0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="7" sum="€0" player="Player 6"/>
+   <action type="3" no="8" sum="€3,30" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C9 SJ</cards>
+   <action type="4" no="9" sum="€0" player="Player 1"/>
+   <action type="4" no="10" sum="€0" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="4" no="11" sum="€0" player="Player 1"/>
+   <action type="4" no="12" sum="€0" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action type="4" no="13" sum="€0" player="Player 1"/>
+   <action type="4" no="14" sum="€0" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3944389748">
+  <general>
+   <startdate>2024-11-01 23:28:51</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="Player 1" chips="€53,34" win="€0"/>
+    <player dealer="0" seat="3" bet="€1,15" name="Player 3" chips="€53,83" win="€1,25"/>
+    <player dealer="1" seat="5" bet="€0" name="Player 5" chips="€50,75" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Player 6" chips="€77,70" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="Player 8" chips="€57,88" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 6"/>
+   <action type="2" no="2" sum="€0,50" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="0" no="3" sum="€0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="23" no="4" sum="€1,15" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" no="5" sum="€0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="6" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" no="7" sum="€0" player="Player 8"/>
+  </round>
+ </game>
+ <game gamecode="3944389801">
+  <general>
+   <startdate>2024-11-01 23:29:07</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="nightfire2" chips="€53,34" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="FangYuan" chips="€54,58" win="€0"/>
+    <player dealer="0" seat="5" bet="€3,50" name="Noubel" chips="€50,75" win="€3,16"/>
+    <player dealer="1" seat="6" bet="€0" name="TransDonkey" chips="€77,45" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="4564386112151416" chips="€57,38" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,50" name="13373678" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="4564386112151416"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="3" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="4" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="23" no="5" sum="€1,50" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="6" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="7" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">C6 C5</cards>
+   <action type="3" no="8" sum="€1" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S10 SA</cards>
+   <action type="4" no="9" sum="€0" player="13373678"/>
+   <action type="5" no="10" sum="€2" player="Noubel"/>
+   <action type="0" no="11" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944390009">
+  <general>
+   <startdate>2024-11-01 23:29:52</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="nightfire2" chips="€53,34" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="FangYuan" chips="€54,58" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="TransDonkey" chips="€77,45" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="4564386112151416" chips="€57,13" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,50" name="13373678" chips="€50" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="nightfire2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="3" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="4" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="5" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="6" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">SJ SA</cards>
+   <action type="23" no="7" sum="€1,50" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="8" sum="€0" player="nightfire2"/>
+  </round>
+ </game>
+ <game gamecode="3944390092">
+  <general>
+   <startdate>2024-11-01 23:30:17</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="nightfire2" chips="€52,84" win="€0"/>
+    <player dealer="0" seat="3" bet="€1,25" name="FangYuan" chips="€54,58" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="TransDonkey" chips="€77,45" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€57,13" win="€0"/>
+    <player dealer="1" seat="10" bet="€2,15" name="13373678" chips="€50,50" win="€2,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="nightfire2"/>
+   <action type="2" no="2" sum="€0,50" player="FangYuan"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="3" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="4" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="5" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">S5 S6</cards>
+   <action type="23" no="6" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="7" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="3" no="8" sum="€0,75" player="FangYuan"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 C8 D8</cards>
+   <action type="4" no="9" sum="€0" player="FangYuan"/>
+   <action type="5" no="10" sum="€0,90" player="13373678"/>
+   <action type="0" no="11" sum="€0" player="FangYuan"/>
+  </round>
+ </game>
+ <game gamecode="3944390198">
+  <general>
+   <startdate>2024-11-01 23:30:50</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="nightfire2" chips="€52,59" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,25" name="FangYuan" chips="€53,33" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="Noubel" chips="€52,41" win="€0,50"/>
+    <player dealer="0" seat="6" bet="€0" name="TransDonkey" chips="€77,45" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€57,13" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="13373678" chips="€51,92" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="FangYuan"/>
+   <action type="2" no="2" sum="€0,50" player="Noubel"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="3" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="4" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">C10 D7</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="6" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="7" sum="€0" player="FangYuan"/>
+  </round>
+ </game>
+ <game gamecode="3944390257">
+  <general>
+   <startdate>2024-11-01 23:31:09</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="nightfire2" chips="€52,59" win="€0"/>
+    <player dealer="1" seat="3" bet="€0" name="FangYuan" chips="€53,08" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="Noubel" chips="€52,66" win="€0"/>
+    <player dealer="0" seat="6" bet="€5,64" name="TransDonkey" chips="€77,45" win="€5,60"/>
+    <player dealer="0" seat="8" bet="€2,76" name="4564386112151416" chips="€57,13" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="13373678" chips="€51,92" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Noubel"/>
+   <action type="2" no="2" sum="€0,50" player="TransDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="23" no="3" sum="€1,25" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">D3 D10</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="5" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="6" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="7" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="3" no="8" sum="€0,75" player="TransDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ DK HK</cards>
+   <action type="4" no="9" sum="€0" player="TransDonkey"/>
+   <action type="5" no="10" sum="€1,51" player="4564386112151416"/>
+   <action type="3" no="11" sum="€1,51" player="TransDonkey"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action type="5" no="12" sum="€2,88" player="TransDonkey"/>
+   <action type="0" no="13" sum="€0" player="4564386112151416"/>
+  </round>
+ </game>
+ <game gamecode="3944390415">
+  <general>
+   <startdate>2024-11-01 23:31:58</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="nightfire2" chips="€52,59" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="FangYuan" chips="€53,08" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="TransDonkey" chips="€80,29" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="4564386112151416" chips="€54,37" win="€0,50"/>
+    <player dealer="0" seat="10" bet="€0" name="13373678" chips="€51,92" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="TransDonkey"/>
+   <action type="2" no="2" sum="€0,50" player="4564386112151416"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <cards type="Pocket" player="13373678">S4 S8</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="4" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="5" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="6" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="7" sum="€0" player="TransDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3944391000">
+  <general>
+   <startdate>2024-11-01 23:32:18</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="nightfire2" chips="€52,59" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="FangYuan" chips="€53,08" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="1" seat="6" bet="€3,25" name="TransDonkey" chips="€80,04" win="€2,67"/>
+    <player dealer="0" seat="8" bet="€0,25" name="4564386112151416" chips="€54,62" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,25" name="13373678" chips="€51,92" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="4564386112151416"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="3" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="4" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="5" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="7" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">S6 S9</cards>
+   <action type="3" no="8" sum="€0,75" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 D7 SQ</cards>
+   <action type="4" no="9" sum="€0" player="13373678"/>
+   <action type="5" no="10" sum="€2" player="TransDonkey"/>
+   <action type="0" no="11" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944391151">
+  <general>
+   <startdate>2024-11-01 23:33:05</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="nightfire2" chips="€52,59" win="€0,50"/>
+    <player dealer="0" seat="3" bet="€0" name="FangYuan" chips="€53,08" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="TransDonkey" chips="€81,46" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="4564386112151416" chips="€54,37" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="13373678" chips="€50,67" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="nightfire2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="3" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="4" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="5" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="6" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">D8 S5</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944391416">
+  <general>
+   <startdate>2024-11-01 23:33:19</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="nightfire2" chips="€52,84" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,50" name="FangYuan" chips="€53,08" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="TransDonkey" chips="€81,46" win="€0"/>
+    <player dealer="1" seat="10" bet="€1,25" name="13373678" chips="€50,42" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0" name="Noubel" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€54,37" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="nightfire2"/>
+   <action type="2" no="2" sum="€0,50" player="FangYuan"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Noubel">X X</cards>
+   <action type="0" no="3" sum="€0" player="Noubel"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="4" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="5" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="13373678">D10 H10</cards>
+   <action type="23" no="6" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="7" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="8" sum="€0" player="FangYuan"/>
+  </round>
+ </game>
+ <game gamecode="3944391476">
+  <general>
+   <startdate>2024-11-01 23:33:44</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="nightfire2" chips="€52,59" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,25" name="FangYuan" chips="€52,58" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="TransDonkey" chips="€81,46" win="€0,50"/>
+    <player dealer="0" seat="10" bet="€0" name="13373678" chips="€51,17" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="FangYuan"/>
+   <action type="2" no="2" sum="€0,50" player="TransDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <cards type="Pocket" player="13373678">D5 S2</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="nightfire2">X X</cards>
+   <action type="0" no="4" sum="€0" player="nightfire2"/>
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="5" sum="€0" player="FangYuan"/>
+  </round>
+ </game>
+ <game gamecode="3944391527">
+  <general>
+   <startdate>2024-11-01 23:34:02</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€0" name="FangYuan" chips="€52,33" win="€0"/>
+    <player dealer="0" seat="6" bet="€13,75" name="TransDonkey" chips="€81,71" win="€7,50"/>
+    <player dealer="0" seat="10" bet="€3,75" name="13373678" chips="€51,17" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="TransDonkey"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="FangYuan">X X</cards>
+   <action type="0" no="3" sum="€0" player="FangYuan"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="TransDonkey"/>
+   <cards type="Pocket" player="13373678">H9 DA</cards>
+   <action type="23" no="5" sum="€3,75" player="13373678"/>
+   <action type="23" no="6" sum="€13,75" player="TransDonkey"/>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+ </game>
+</session>

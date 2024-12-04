@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077231347">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:14:08</duration>
+  <gamecount>22</gamecount>
+  <startdate>2022-06-20 15:14:09</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€18,49</bets>
+  <wins>€6,50</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€48,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3689532824">
+  <general>
+   <startdate>2022-06-20 15:14:09</startdate>
+   <players>
+    <player name="Player 3" win="€0" dealer="1" seat="3" chips="€175,10" bet="€0"/>
+    <player name="Player 5" win="€0" dealer="0" seat="5" chips="€54,82" bet="€0,25"/>
+    <player name="Player 8" win="€0" dealer="0" seat="8" chips="€175,43" bet="€0,50"/>
+    <player name="Player 10" win="€1,25" dealer="0" seat="10" chips="€63,36" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" no="1" sum="€0,25" type="1"/>
+   <action player="Player 8" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" no="3" sum="€1,25" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" no="4" sum="€0" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" no="5" sum="€0" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" no="6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689532843">
+  <general>
+   <startdate>2022-06-20 15:14:22</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0,50"/>
+    <player name="Wurli70" win="€9,46" dealer="0" seat="3" chips="€175,10" bet="€9,37"/>
+    <player name="BobGermanman" win="€0" dealer="1" seat="5" chips="€54,57" bet="€4,50"/>
+    <player name="NettiomanIlme" win="€0" dealer="0" seat="8" chips="€174,93" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="NettiomanIlme" no="1" sum="€0,25" type="1"/>
+   <action player="13373678" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="3" sum="€1,50" type="23"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="4" sum="€4,50" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action player="NettiomanIlme" no="5" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">DA H3</cards>
+   <action player="13373678" no="6" sum="€0" type="0"/>
+   <action player="Wurli70" no="7" sum="€3" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ C7 H4</cards>
+   <action player="Wurli70" no="8" sum="€0" type="4"/>
+   <action player="BobGermanman" no="9" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="Wurli70" no="10" sum="€4,87" type="5"/>
+   <action player="BobGermanman" no="11" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689532902">
+  <general>
+   <startdate>2022-06-20 15:15:00</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0,25"/>
+    <player name="Wurli70" win="€11,05" dealer="0" seat="3" chips="€180,06" bet="€16,96"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50,07" bet="€5,57"/>
+    <player name="NettiomanIlme" win="€0" dealer="1" seat="8" chips="€174,68" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,25" type="1"/>
+   <action player="Wurli70" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="3" sum="€1,50" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action player="NettiomanIlme" no="4" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D2 H6</cards>
+   <action player="13373678" no="5" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="6" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 CA DJ</cards>
+   <action player="Wurli70" no="7" sum="€0" type="4"/>
+   <action player="BobGermanman" no="8" sum="€0,97" type="5"/>
+   <action player="Wurli70" no="9" sum="€0,97" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="Wurli70" no="10" sum="€0" type="4"/>
+   <action player="BobGermanman" no="11" sum="€1,55" type="5"/>
+   <action player="Wurli70" no="12" sum="€3,10" type="23"/>
+   <action player="BobGermanman" no="13" sum="€1,55" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action player="Wurli70" no="14" sum="€11,39" type="5"/>
+   <action player="BobGermanman" no="15" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689532992">
+  <general>
+   <startdate>2022-06-20 15:15:54</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="1" seat="1" chips="€50" bet="€0"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€185,54" bet="€0,25"/>
+    <player name="BobGermanman" win="€0,50" dealer="0" seat="5" chips="€50" bet="€0,50"/>
+    <player name="NettiomanIlme" win="€0" dealer="0" seat="8" chips="€174,68" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wurli70" no="1" sum="€0,25" type="1"/>
+   <action player="BobGermanman" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action player="NettiomanIlme" no="3" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">HJ D3</cards>
+   <action player="13373678" no="4" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="5" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689533012">
+  <general>
+   <startdate>2022-06-20 15:16:06</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0"/>
+    <player name="Wurli70" win="€0" dealer="1" seat="3" chips="€185,29" bet="€0"/>
+    <player name="BobGermanman" win="€3,50" dealer="0" seat="5" chips="€50,25" bet="€6"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€50" bet="€0,50"/>
+    <player name="NettiomanIlme" win="€0" dealer="0" seat="8" chips="€174,68" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BobGermanman" no="1" sum="€0,25" type="1"/>
+   <action player="Kuoza" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action player="NettiomanIlme" no="3" sum="€1,50" type="23"/>
+   <cards player="13373678" type="Pocket">S7 S10</cards>
+   <action player="13373678" no="4" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="5" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="6" sum="€6" type="23"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="7" sum="€0" type="0"/>
+   <action player="NettiomanIlme" no="8" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689533038">
+  <general>
+   <startdate>2022-06-20 15:16:25</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€185,29" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="1" seat="5" chips="€52,25" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€50" bet="€0,25"/>
+    <player name="Lutrogale" win="€0,50" dealer="0" seat="10" chips="€50" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kuoza" no="1" sum="€0,25" type="1"/>
+   <action player="Lutrogale" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H7 CK</cards>
+   <action player="13373678" no="3" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="4" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="5" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689533064">
+  <general>
+   <startdate>2022-06-20 15:16:37</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€1,25"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€185,29" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€52,25" bet="€0"/>
+    <player name="Kuoza" win="€2,67" dealer="1" seat="6" chips="€50" bet="€2,15"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€50,25" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lutrogale" no="1" sum="€0,25" type="1"/>
+   <action player="13373678" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="3" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="4" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="5" sum="€1,25" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="6" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C7 C6</cards>
+   <action player="13373678" no="7" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 D3 SJ</cards>
+   <action player="13373678" no="8" sum="€0" type="4"/>
+   <action player="Kuoza" no="9" sum="€0,90" type="5"/>
+   <action player="13373678" no="10" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689533142">
+  <general>
+   <startdate>2022-06-20 15:17:18</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0,25"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€185,29" bet="€2,62"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€52,25" bet="€0"/>
+    <player name="Kuoza" win="€5,33" dealer="0" seat="6" chips="€51,42" bet="€9,12"/>
+    <player name="Lutrogale" win="€0" dealer="1" seat="10" chips="€50" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,25" type="1"/>
+   <action player="Wurli70" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="3" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="4" sum="€1,25" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="5" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S7 C3</cards>
+   <action player="13373678" no="6" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="7" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D6 C10</cards>
+   <action player="Wurli70" no="8" sum="€0" type="4"/>
+   <action player="Kuoza" no="9" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action player="Wurli70" no="10" sum="€1,37" type="5"/>
+   <action player="Kuoza" no="11" sum="€1,37" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="Wurli70" no="12" sum="€0" type="4"/>
+   <action player="Kuoza" no="13" sum="€6,50" type="5"/>
+   <action player="Wurli70" no="14" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689533225">
+  <general>
+   <startdate>2022-06-20 15:18:07</startdate>
+   <players>
+    <player name="13373678" win="€3,25" dealer="1" seat="1" chips="€50" bet="€3,75"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€182,67" bet="€0,25"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€52,25" bet="€0,50"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€54,13" bet="€0"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€50" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wurli70" no="1" sum="€0,25" type="1"/>
+   <action player="BobGermanman" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="3" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="4" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">S10 SA</cards>
+   <action player="13373678" no="5" sum="€3,75" type="23"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="6" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="7" sum="€0" type="0"/>
+   <action player="Lutrogale" no="8" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689534175">
+  <general>
+   <startdate>2022-06-20 15:18:56</startdate>
+   <players>
+    <player name="13373678" win="€3,25" dealer="0" seat="1" chips="€52" bet="€3,75"/>
+    <player name="Wurli70" win="€0" dealer="1" seat="3" chips="€182,42" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€51,75" bet="€0,25"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€54,13" bet="€0,50"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€50" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BobGermanman" no="1" sum="€0,25" type="1"/>
+   <action player="Kuoza" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="3" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">D10 C10</cards>
+   <action player="13373678" no="4" sum="€3,75" type="23"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="5" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="6" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="7" sum="€0" type="0"/>
+   <action player="Lutrogale" no="8" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689534245">
+  <general>
+   <startdate>2022-06-20 15:19:39</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€54" bet="€0"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€182,42" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="1" seat="5" chips="€51,50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€53,63" bet="€2,25"/>
+    <player name="Lutrogale" win="€4,37" dealer="0" seat="10" chips="€50" bet="€5,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kuoza" no="1" sum="€0,25" type="1"/>
+   <action player="Lutrogale" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA S5</cards>
+   <action player="13373678" no="3" sum="€0" type="0"/>
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="4" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="5" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="6" sum="€1,25" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="7" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 H10 DA</cards>
+   <action player="Kuoza" no="8" sum="€1" type="5"/>
+   <action player="Lutrogale" no="9" sum="€1" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="Kuoza" no="10" sum="€0" type="4"/>
+   <action player="Lutrogale" no="11" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action player="Kuoza" no="12" sum="€0" type="4"/>
+   <action player="Lutrogale" no="13" sum="€3,37" type="5"/>
+   <action player="Kuoza" no="14" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689534601">
+  <general>
+   <startdate>2022-06-20 15:20:48</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€54" bet="€1,50"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€51,50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="1" seat="6" chips="€51,38" bet="€0"/>
+    <player name="Lutrogale" win="€2,91" dealer="0" seat="10" chips="€52,12" bet="€1,50"/>
+    <player name="Wurli70" win="€0" dealer="0" seat="3" chips="€182,42" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lutrogale" no="1" sum="€0,25" type="1"/>
+   <action player="13373678" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wurli70" type="Pocket">X X</cards>
+   <action player="Wurli70" no="3" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="4" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="5" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">SA S8</cards>
+   <action player="Lutrogale" no="6" sum="€1,50" type="23"/>
+   <cards player="13373678" type="Pocket">D10 H9</cards>
+   <action player="13373678" no="7" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 C6 D2</cards>
+   <action player="Lutrogale" no="8" sum="€0" type="4"/>
+   <action player="13373678" no="9" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="Lutrogale" no="10" sum="€0" type="4"/>
+   <action player="13373678" no="11" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="Lutrogale" no="12" sum="€0" type="4"/>
+   <action player="13373678" no="13" sum="€0" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3689534920">
+  <general>
+   <startdate>2022-06-20 15:21:51</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€52,50" bet="€2,49"/>
+    <player name="neri2206" win="€4,83" dealer="0" seat="3" chips="€20" bet="€5,67"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€51,50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€51,38" bet="€0"/>
+    <player name="Lutrogale" win="€0" dealer="1" seat="10" chips="€53,53" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,25" type="1"/>
+   <action player="neri2206" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="3" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="4" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="5" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">DA H4</cards>
+   <action player="13373678" no="6" sum="€1,50" type="23"/>
+   <cards player="neri2206" type="Pocket">X X</cards>
+   <action player="neri2206" no="7" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C10 D8</cards>
+   <action player="13373678" no="8" sum="€0,99" type="5"/>
+   <action player="neri2206" no="9" sum="€4,17" type="23"/>
+   <action player="13373678" no="10" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689534979">
+  <general>
+   <startdate>2022-06-20 15:22:29</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="1" seat="1" chips="€50,01" bet="€0"/>
+    <player name="neri2206" win="€0" dealer="0" seat="3" chips="€22,34" bet="€0,25"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€51,50" bet="€0,50"/>
+    <player name="Kuoza" win="€1,25" dealer="0" seat="6" chips="€51,38" bet="€1,10"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€53,53" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="neri2206" no="1" sum="€0,25" type="1"/>
+   <action player="BobGermanman" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="3" sum="€1,10" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="4" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H4 H5</cards>
+   <action player="13373678" no="5" sum="€0" type="0"/>
+   <cards player="neri2206" type="Pocket">X X</cards>
+   <action player="neri2206" no="6" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="7" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535014">
+  <general>
+   <startdate>2022-06-20 15:22:50</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50,01" bet="€1,75"/>
+    <player name="neri2206" win="€0" dealer="1" seat="3" chips="€22,09" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€51" bet="€0,25"/>
+    <player name="Kuoza" win="€3,64" dealer="0" seat="6" chips="€52,13" bet="€1,75"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€53,53" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BobGermanman" no="1" sum="€0,25" type="1"/>
+   <action player="Kuoza" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="3" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">SA C10</cards>
+   <action player="13373678" no="4" sum="€1,25" type="23"/>
+   <cards player="neri2206" type="Pocket">X X</cards>
+   <action player="neri2206" no="5" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="6" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">S5 DA</cards>
+   <action player="Kuoza" no="7" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H2 D5</cards>
+   <action player="Kuoza" no="8" sum="€0" type="4"/>
+   <action player="13373678" no="9" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="Kuoza" no="10" sum="€0" type="4"/>
+   <action player="13373678" no="11" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action player="Kuoza" no="12" sum="€0,50" type="5"/>
+   <action player="13373678" no="13" sum="€0,50" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3689535100">
+  <general>
+   <startdate>2022-06-20 15:23:43</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0"/>
+    <player name="neri2206" win="€0" dealer="0" seat="3" chips="€22,09" bet="€22,09"/>
+    <player name="BobGermanman" win="€0" dealer="1" seat="5" chips="€50,75" bet="€50,75"/>
+    <player name="Kuoza" win="€122,59" dealer="0" seat="6" chips="€54,02" bet="€54,02"/>
+    <player name="Bultzetz" win="€0" dealer="0" seat="8" chips="€64,11" bet="€0,50"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€53,53" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kuoza" no="1" sum="€0,25" type="1"/>
+   <action player="Bultzetz" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="3" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H8 C3</cards>
+   <action player="13373678" no="4" sum="€0" type="0"/>
+   <cards player="neri2206" type="Pocket">CQ CK</cards>
+   <action player="neri2206" no="5" sum="€2" type="23"/>
+   <cards player="BobGermanman" type="Pocket">SK DK</cards>
+   <action player="BobGermanman" no="6" sum="€6" type="23"/>
+   <cards player="Kuoza" type="Pocket">CA HA</cards>
+   <action player="Kuoza" no="7" sum="€17" type="23"/>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="8" sum="€0" type="0"/>
+   <action player="neri2206" no="9" sum="€15" type="3"/>
+   <action player="BobGermanman" no="10" sum="€50,75" type="23"/>
+   <action player="Kuoza" no="11" sum="€37,02" type="7"/>
+   <action player="neri2206" no="12" sum="€5,09" type="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D6 D9</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3689535191">
+  <general>
+   <startdate>2022-06-20 15:24:36</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="1" seat="6" chips="€125,86" bet="€0"/>
+    <player name="Bultzetz" win="€1" dealer="0" seat="8" chips="€63,61" bet="€1,25"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€53,53" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bultzetz" no="1" sum="€0,25" type="1"/>
+   <action player="Lutrogale" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ D2</cards>
+   <action player="13373678" no="3" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="4" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="5" sum="€0" type="0"/>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="6" sum="€1,25" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="7" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535219">
+  <general>
+   <startdate>2022-06-20 15:24:55</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€1,50"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50" bet="€3,50"/>
+    <player name="Kuoza" win="€8,49" dealer="0" seat="6" chips="€125,86" bet="€7"/>
+    <player name="Bultzetz" win="€0" dealer="1" seat="8" chips="€64,11" bet="€0"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€53,03" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lutrogale" no="1" sum="€0,25" type="1"/>
+   <action player="13373678" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="3" sum="€1,50" type="23"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="4" sum="€1,50" type="3"/>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="5" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="6" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C8 H8</cards>
+   <action player="13373678" no="7" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 SQ S10</cards>
+   <action player="13373678" no="8" sum="€0" type="4"/>
+   <action player="BobGermanman" no="9" sum="€0" type="4"/>
+   <action player="Kuoza" no="10" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="13373678" no="11" sum="€0" type="4"/>
+   <action player="BobGermanman" no="12" sum="€0" type="4"/>
+   <action player="Kuoza" no="13" sum="€2" type="5"/>
+   <action player="13373678" no="14" sum="€0" type="0"/>
+   <action player="BobGermanman" no="15" sum="€2" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action player="BobGermanman" no="16" sum="€0" type="4"/>
+   <action player="Kuoza" no="17" sum="€3,50" type="5"/>
+   <action player="BobGermanman" no="18" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535329">
+  <general>
+   <startdate>2022-06-20 15:26:00</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0,25"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50" bet="€0,50"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€130,85" bet="€0"/>
+    <player name="Bultzetz" win="€0" dealer="0" seat="8" chips="€64,11" bet="€0"/>
+    <player name="Lutrogale" win="€1,25" dealer="1" seat="10" chips="€52,78" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,25" type="1"/>
+   <action player="BobGermanman" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="3" sum="€0" type="0"/>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="4" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="5" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">SK D10</cards>
+   <action player="13373678" no="6" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="7" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535364">
+  <general>
+   <startdate>2022-06-20 15:26:20</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="1" seat="1" chips="€50" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50" bet="€0,25"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€130,85" bet="€1,25"/>
+    <player name="Bultzetz" win="€0" dealer="0" seat="8" chips="€64,11" bet="€0"/>
+    <player name="Lutrogale" win="€2,67" dealer="0" seat="10" chips="€53,53" bet="€3,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BobGermanman" no="1" sum="€0,25" type="1"/>
+   <action player="Kuoza" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="3" sum="€0" type="0"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="4" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">C8 S9</cards>
+   <action player="13373678" no="5" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="6" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="7" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S2 H2</cards>
+   <action player="Kuoza" no="8" sum="€0" type="4"/>
+   <action player="Lutrogale" no="9" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action player="Kuoza" no="10" sum="€0" type="4"/>
+   <action player="Lutrogale" no="11" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="Kuoza" no="12" sum="€0" type="4"/>
+   <action player="Lutrogale" no="13" sum="€2,06" type="5"/>
+   <action player="Kuoza" no="14" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535479">
+  <general>
+   <startdate>2022-06-20 15:27:29</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€0"/>
+    <player name="BobGermanman" win="€0" dealer="1" seat="5" chips="€50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="0" seat="6" chips="€129,60" bet="€0,25"/>
+    <player name="Bultzetz" win="€0,50" dealer="0" seat="8" chips="€64,11" bet="€0,50"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€54,95" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kuoza" no="1" sum="€0,25" type="1"/>
+   <action player="Bultzetz" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="3" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">CA H2</cards>
+   <action player="13373678" no="4" sum="€0" type="0"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="5" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689535495">
+  <general>
+   <startdate>2022-06-20 15:27:40</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="0" seat="1" chips="€50" bet="€1,25"/>
+    <player name="BobGermanman" win="€0" dealer="0" seat="5" chips="€50" bet="€0"/>
+    <player name="Kuoza" win="€0" dealer="1" seat="6" chips="€129,35" bet="€0"/>
+    <player name="Bultzetz" win="€3" dealer="0" seat="8" chips="€64,36" bet="€5,50"/>
+    <player name="Lutrogale" win="€0" dealer="0" seat="10" chips="€54,95" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bultzetz" no="1" sum="€0,25" type="1"/>
+   <action player="Lutrogale" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ DQ</cards>
+   <action player="13373678" no="3" sum="€1,25" type="23"/>
+   <cards player="BobGermanman" type="Pocket">X X</cards>
+   <action player="BobGermanman" no="4" sum="€0" type="0"/>
+   <cards player="Kuoza" type="Pocket">X X</cards>
+   <action player="Kuoza" no="5" sum="€0" type="0"/>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="6" sum="€5,50" type="23"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="7" sum="€0" type="0"/>
+   <action player="13373678" no="8" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

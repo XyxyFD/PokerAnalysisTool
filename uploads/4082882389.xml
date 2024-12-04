@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4082882389">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 12, 488044423</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:02</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-09-07 18:04:16</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€3,82</bets>
+  <wins>€3,43</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€51,43</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3708506795">
+  <general>
+   <startdate>2022-09-07 18:04:16</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0,50" name="13373678" chips="€50"/>
+    <player seat="3" dealer="1" bet="€0,25" win="€0" name="Diamant76" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Diamant76"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 D3</cards>
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <action no="3" type="0" sum="€0" player="Diamant76"/>
+  </round>
+ </game>
+ <game gamecode="3708506811">
+  <general>
+   <startdate>2022-09-07 18:04:24</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0,25" win="€0" name="13373678" chips="€50,25"/>
+    <player seat="3" dealer="0" bet="€0,50" win="€0,50" name="Diamant76" chips="€49,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="Diamant76"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <cards type="Pocket" player="13373678">C9 S5</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708506827">
+  <general>
+   <startdate>2022-09-07 18:04:31</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="1" bet="€1" win="€1" name="Diamant76" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Diamant76"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <action no="3" type="23" sum="€1" player="Diamant76"/>
+   <cards type="Pocket" player="13373678">S9 H2</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708506858">
+  <general>
+   <startdate>2022-09-07 18:04:43</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€2,07" win="€2,43" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€1,25" win="€0" name="Diamant76" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="Diamant76"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C9</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <action no="4" type="3" sum="€0,75" player="Diamant76"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D5 DK</cards>
+   <action no="5" type="4" sum="€0" player="Diamant76"/>
+   <action no="6" type="5" sum="€0,82" player="13373678"/>
+   <action no="7" type="0" sum="€0" player="Diamant76"/>
+  </round>
+ </game>
+ <game gamecode="3708508153">
+  <general>
+   <startdate>2022-09-07 18:05:11</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0,50" name="13373678" chips="€51,18"/>
+    <player seat="3" dealer="1" bet="€0,25" win="€0" name="Diamant76" chips="€49,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Diamant76"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C9</cards>
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <action no="3" type="0" sum="€0" player="Diamant76"/>
+  </round>
+ </game>
+</session>

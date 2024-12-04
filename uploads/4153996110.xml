@@ -1,0 +1,3022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4153996110">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:56:47</duration>
+  <gamecount>83</gamecount>
+  <startdate>2024-11-01 23:35:16</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€193,51</bets>
+  <wins>€162,30</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€94,24</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3944391761">
+  <general>
+   <startdate>2024-11-01 23:35:16</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€1,25" name="Player 1" chips="€177,05" win="€0"/>
+    <player dealer="0" seat="3" bet="€26,95" name="Player 3" chips="€73,33" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="Player 6" chips="€77,42" win="€0"/>
+    <player dealer="0" seat="8" bet="€26,95" name="Player 8" chips="€50" win="€54,15"/>
+    <player dealer="0" seat="10" bet="€0" name="Player 10" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 3"/>
+   <action type="2" no="2" sum="€0,50" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">SK SJ</cards>
+   <action type="23" no="3" sum="€1,25" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" no="4" sum="€0" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="3" no="5" sum="€1,25" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">HQ HA</cards>
+   <action type="3" no="6" sum="€1" player="Player 3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="7" sum="€0" player="Player 6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C9 HK</cards>
+   <action type="4" no="8" sum="€0" player="Player 3"/>
+   <action type="5" no="9" sum="€2,97" player="Player 8"/>
+   <action type="0" no="10" sum="€0" player="Player 1"/>
+   <action type="3" no="11" sum="€2,97" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action type="4" no="12" sum="€0" player="Player 3"/>
+   <action type="5" no="13" sum="€6,50" player="Player 8"/>
+   <action type="3" no="14" sum="€6,50" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action type="5" no="15" sum="€16,23" player="Player 3"/>
+   <action type="3" no="16" sum="€16,23" player="Player 8"/>
+  </round>
+ </game>
+ <game gamecode="3944391957">
+  <general>
+   <startdate>2024-11-01 23:36:20</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€2,75" name="Player 1" chips="€175,80" win="€0"/>
+    <player dealer="1" seat="3" bet="€5,87" name="Player 3" chips="€46,38" win="€6,07"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Player 6" chips="€76,92" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="Player 8" chips="€77,20" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="Player 10" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 6"/>
+   <action type="2" no="2" sum="€0,50" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" no="3" sum="€0" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="3" no="5" sum="€1,25" player="Player 3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="6" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" no="7" sum="€0" player="Player 8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SA DA</cards>
+   <action type="5" no="8" sum="€1,50" player="Player 1"/>
+   <action type="3" no="9" sum="€1,50" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action type="4" no="10" sum="€0" player="Player 1"/>
+   <action type="5" no="11" sum="€3,12" player="Player 3"/>
+   <action type="0" no="12" sum="€0" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3944392043">
+  <general>
+   <startdate>2024-11-01 23:36:49</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="Player 1" chips="€173,05" win="€0"/>
+    <player dealer="0" seat="3" bet="€6,31" name="Player 3" chips="€49,70" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="Player 6" chips="€76,67" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="Player 8" chips="€76,70" win="€0"/>
+    <player dealer="0" seat="10" bet="€6,31" name="Player 10" chips="€50" win="€12,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 8"/>
+   <action type="2" no="2" sum="€0,50" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="0" no="3" sum="€0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">S8 HK</cards>
+   <action type="3" no="4" sum="€0,50" player="Player 3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="5" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="3" no="6" sum="€0,25" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">C5 S7</cards>
+   <action type="4" no="7" sum="€0" player="Player 10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 SK D5</cards>
+   <action type="4" no="8" sum="€0" player="Player 8"/>
+   <action type="4" no="9" sum="€0" player="Player 10"/>
+   <action type="4" no="10" sum="€0" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action type="4" no="11" sum="€0" player="Player 8"/>
+   <action type="4" no="12" sum="€0" player="Player 10"/>
+   <action type="5" no="13" sum="€1,05" player="Player 3"/>
+   <action type="0" no="14" sum="€0" player="Player 8"/>
+   <action type="23" no="15" sum="€5,81" player="Player 10"/>
+   <action type="3" no="16" sum="€4,76" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action type="4" no="17" sum="€0" player="Player 10"/>
+   <action type="4" no="18" sum="€0" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3944392186">
+  <general>
+   <startdate>2024-11-01 23:37:34</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,48" name="Player 1" chips="€173,05" win="€1,22"/>
+    <player dealer="0" seat="3" bet="€0,50" name="Player 3" chips="€43,39" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="Player 6" chips="€76,67" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="Player 8" chips="€76,20" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="Player 10" chips="€56,42" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 10"/>
+   <action type="2" no="2" sum="€0,50" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="3" no="3" sum="€0,50" player="Player 3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="4" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" no="5" sum="€0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" no="6" sum="€0" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="4" no="7" sum="€0" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C2 D2</cards>
+   <action type="5" no="8" sum="€0,98" player="Player 1"/>
+   <action type="0" no="9" sum="€0" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3944392295">
+  <general>
+   <startdate>2024-11-01 23:38:11</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="Player 1" chips="€173,77" win="€0"/>
+    <player dealer="0" seat="3" bet="€2,50" name="Player 3" chips="€42,89" win="€2,43"/>
+    <player dealer="0" seat="6" bet="€0" name="Player 6" chips="€76,67" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="Player 8" chips="€76,20" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="Player 10" chips="€56,17" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Player 1"/>
+   <action type="2" no="2" sum="€0,50" player="Player 3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" no="3" sum="€0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" no="4" sum="€0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" no="5" sum="€0" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="3" no="7" sum="€0,75" player="Player 3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 HA H10</cards>
+   <action type="4" no="8" sum="€0" player="Player 1"/>
+   <action type="4" no="9" sum="€0" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action type="4" no="10" sum="€0" player="Player 1"/>
+   <action type="5" no="11" sum="€1,25" player="Player 3"/>
+   <action type="0" no="12" sum="€0" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3944393594">
+  <general>
+   <startdate>2024-11-01 23:38:50</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€4" name="TransDonkey" chips="€172,52" win="€0"/>
+    <player dealer="0" seat="3" bet="€8,25" name="Chuki007" chips="€44,07" win="€8,25"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€50" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="orochi" chips="€76,67" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€76,20" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€56,17" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="0" no="3" sum="€0" player="orochi"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="4" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="7" sum="€4" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H4 D3</cards>
+   <action type="0" no="8" sum="€0" player="13373678"/>
+   <action type="3" no="9" sum="€2,75" player="TransDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D8 C8</cards>
+   <action type="5" no="10" sum="€4,25" player="Chuki007"/>
+   <action type="0" no="11" sum="€0" player="TransDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3944393732">
+  <general>
+   <startdate>2024-11-01 23:39:36</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="TransDonkey" chips="€168,52" win="€0"/>
+    <player dealer="1" seat="3" bet="€0" name="Chuki007" chips="€48,32" win="€0"/>
+    <player dealer="0" seat="5" bet="€1,50" name="13373678" chips="€50" win="€1"/>
+    <player dealer="0" seat="6" bet="€0,50" name="orochi" chips="€76,67" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€76,20" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€56,17" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="orochi"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="3" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="5" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="6" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C5 C7</cards>
+   <action type="23" no="7" sum="€1,50" player="13373678"/>
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="0" no="8" sum="€0" player="orochi"/>
+  </round>
+ </game>
+ <game gamecode="3944393786">
+  <general>
+   <startdate>2024-11-01 23:39:55</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="TransDonkey" chips="€168,52" win="€0"/>
+    <player dealer="0" seat="3" bet="€1" name="Chuki007" chips="€48,32" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€50,50" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="orochi" chips="€76,17" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="4564386112151416" chips="€76,20" win="€0"/>
+    <player dealer="0" seat="10" bet="€3,06" name="SAWMAN99" chips="€56,17" win="€2,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="orochi"/>
+   <action type="2" no="2" sum="€0,50" player="4564386112151416"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="3" sum="€1" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="4" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H7 C10</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="0" no="7" sum="€0" player="orochi"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="8" sum="€0" player="4564386112151416"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H5 HK</cards>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="10" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action type="5" no="11" sum="€2,06" player="SAWMAN99"/>
+   <action type="0" no="12" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944393907">
+  <general>
+   <startdate>2024-11-01 23:40:30</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="TransDonkey" chips="€168,52" win="€0"/>
+    <player dealer="0" seat="3" bet="€47,32" name="Chuki007" chips="€47,32" win="€9,75"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€50,50" win="€0"/>
+    <player dealer="1" seat="6" bet="€4,50" name="orochi" chips="€75,92" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="4564386112151416" chips="€75,70" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€57,84" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="4564386112151416"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="3" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="4" sum="€1,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S3 H10</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="23" no="6" sum="€4,50" player="orochi"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="7" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="8" sum="€0" player="SAWMAN99"/>
+   <action type="23" no="9" sum="€47,32" player="Chuki007"/>
+   <action type="0" no="10" sum="€0" player="orochi"/>
+  </round>
+ </game>
+ <game gamecode="3944394488">
+  <general>
+   <startdate>2024-11-01 23:41:00</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="TransDonkey" chips="€168,52" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€52,57" win="€0"/>
+    <player dealer="0" seat="5" bet="€1,25" name="13373678" chips="€50,50" win="€1,25"/>
+    <player dealer="0" seat="6" bet="€0" name="orochi" chips="€71,42" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="4564386112151416" chips="€75,45" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€57,34" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="TransDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D10 SJ</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="0" no="5" sum="€0" player="orochi"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="6" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="8" sum="€0" player="TransDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3944394561">
+  <general>
+   <startdate>2024-11-01 23:41:25</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="TransDonkey" chips="€168,02" win="€0"/>
+    <player dealer="0" seat="3" bet="€5,49" name="Chuki007" chips="€52,57" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€51,25" win="€0"/>
+    <player dealer="0" seat="8" bet="€12,49" name="4564386112151416" chips="€75,45" win="€10,89"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€57,09" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="orochi" chips="€71,42" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="TransDonkey"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 H9</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="orochi">X X</cards>
+   <action type="0" no="4" sum="€0" player="orochi"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="23" no="5" sum="€1,25" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="7" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="8" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 DQ SK</cards>
+   <action type="5" no="9" sum="€1,37" player="Chuki007"/>
+   <action type="23" no="10" sum="€4,24" player="4564386112151416"/>
+   <action type="3" no="11" sum="€2,87" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action type="4" no="12" sum="€0" player="Chuki007"/>
+   <action type="5" no="13" sum="€7" player="4564386112151416"/>
+   <action type="0" no="14" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944394778">
+  <general>
+   <startdate>2024-11-01 23:42:37</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€2,75" name="TransDonkey" chips="€167,77" win="€2,91"/>
+    <player dealer="0" seat="3" bet="€1,25" name="Chuki007" chips="€47,08" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€51,25" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€80,85" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="3" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="23" no="5" sum="€1,25" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S6 H8</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ H2 HJ</cards>
+   <action type="4" no="8" sum="€0" player="Chuki007"/>
+   <action type="5" no="9" sum="€1,50" player="TransDonkey"/>
+   <action type="0" no="10" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944394856">
+  <general>
+   <startdate>2024-11-01 23:43:03</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="TransDonkey" chips="€169,43" win="€0"/>
+    <player dealer="1" seat="3" bet="€1,50" name="Chuki007" chips="€45,83" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€50,75" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="4564386112151416" chips="€80,85" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="4564386112151416"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="4" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="5" sum="€1,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D9 S8</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="7" sum="€0" player="4564386112151416"/>
+  </round>
+ </game>
+ <game gamecode="3944394905">
+  <general>
+   <startdate>2024-11-01 23:43:19</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="TransDonkey" chips="€169,43" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€46,58" win="€0"/>
+    <player dealer="1" seat="5" bet="€1,25" name="13373678" chips="€50,50" win="€1,25"/>
+    <player dealer="0" seat="8" bet="€0,25" name="4564386112151416" chips="€80,35" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="4564386112151416"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="3" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CA C2</cards>
+   <action type="23" no="5" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="6" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944394947">
+  <general>
+   <startdate>2024-11-01 23:43:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="TransDonkey" chips="€169,43" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€46,58" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€51,25" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="4564386112151416" chips="€80,10" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,50" name="SAWMAN99" chips="€56,59" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="TransDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S4 DK</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="5" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="6" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="7" sum="€0" player="TransDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3944395033">
+  <general>
+   <startdate>2024-11-01 23:44:00</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="TransDonkey" chips="€168,93" win="€0"/>
+    <player dealer="0" seat="3" bet="€8,96" name="Chuki007" chips="€46,58" win="€0"/>
+    <player dealer="0" seat="5" bet="€13,50" name="13373678" chips="€51,25" win="€17,62"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€80,10" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="TransDonkey"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S7 S9</cards>
+   <action type="23" no="3" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="4" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="6" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="7" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H6 C7</cards>
+   <action type="4" no="8" sum="€0" player="Chuki007"/>
+   <action type="5" no="9" sum="€0,90" player="13373678"/>
+   <action type="3" no="10" sum="€0,90" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action type="5" no="11" sum="€2,27" player="Chuki007"/>
+   <action type="3" no="12" sum="€2,27" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action type="5" no="13" sum="€4,54" player="Chuki007"/>
+   <action type="23" no="14" sum="€9,08" player="13373678"/>
+   <action type="0" no="15" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944395360">
+  <general>
+   <startdate>2024-11-01 23:45:55</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="TransDonkey" chips="€168,68" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,25" name="Chuki007" chips="€37,62" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€59,91" win="€0,50"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€80,10" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 S2</cards>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="3" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="0" no="5" sum="€0" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="6" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944395391">
+  <general>
+   <startdate>2024-11-01 23:46:07</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€4,40" name="TransDonkey" chips="€168,68" win="€0"/>
+    <player dealer="1" seat="3" bet="€9,80" name="Chuki007" chips="€37,37" win="€10,48"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€60,16" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="4564386112151416" chips="€80,10" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,25" name="SAWMAN99" chips="€57,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="3" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="SAWMAN99"/>
+   <cards type="Pocket" player="TransDonkey">X X</cards>
+   <action type="3" no="5" sum="€1,25" player="TransDonkey"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€1,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H9 D7</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="8" sum="€0" player="99762453221"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C6 D2</cards>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="10" sum="€0" player="TransDonkey"/>
+   <action type="4" no="11" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action type="4" no="12" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="13" sum="€0" player="TransDonkey"/>
+   <action type="5" no="14" sum="€3,15" player="Chuki007"/>
+   <action type="0" no="15" sum="€0" player="SAWMAN99"/>
+   <action type="3" no="16" sum="€3,15" player="TransDonkey"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action type="4" no="17" sum="€0" player="TransDonkey"/>
+   <action type="5" no="18" sum="€5,40" player="Chuki007"/>
+   <action type="0" no="19" sum="€0" player="TransDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3944395809">
+  <general>
+   <startdate>2024-11-01 23:47:54</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€43,45" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€59,91" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€1" name="4564386112151416" chips="€80,10" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,74" name="SAWMAN99" chips="€55,84" win="€2,19"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="4564386112151416"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="3" sum="€1" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D5 S3</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="3" no="7" sum="€0,50" player="4564386112151416"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 HK HA</cards>
+   <action type="4" no="8" sum="€0" player="4564386112151416"/>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action type="4" no="10" sum="€0" player="4564386112151416"/>
+   <action type="4" no="11" sum="€0" player="SAWMAN99"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action type="4" no="12" sum="€0" player="4564386112151416"/>
+   <action type="5" no="13" sum="€0,74" player="SAWMAN99"/>
+   <action type="0" no="14" sum="€0" player="4564386112151416"/>
+  </round>
+ </game>
+ <game gamecode="3944396070">
+  <general>
+   <startdate>2024-11-01 23:48:36</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€1,50" name="Chuki007" chips="€43,45" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€59,91" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="4564386112151416" chips="€79,10" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€57,03" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="4564386112151416"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="3" sum="€1,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D3 S10</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="4564386112151416">X X</cards>
+   <action type="0" no="6" sum="€0" player="4564386112151416"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944397586">
+  <general>
+   <startdate>2024-11-01 23:48:58</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€15,62" name="Chuki007" chips="€44,20" win="€15,76"/>
+    <player dealer="0" seat="5" bet="€7,50" name="13373678" chips="€59,91" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="10" bet="€1,25" name="SAWMAN99" chips="€56,53" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C10 SA</cards>
+   <action type="23" no="6" sum="€7,50" player="13373678"/>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="3" no="8" sum="€6,25" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C4 C6</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="4" no="10" sum="€0" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="5" no="11" sum="€8,12" player="Chuki007"/>
+   <action type="0" no="12" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944397766">
+  <general>
+   <startdate>2024-11-01 23:49:55</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€23,91" name="Chuki007" chips="€52,46" win="€47,10"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€52,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€23,91" name="SAWMAN99" chips="€55,28" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">DJ DK</cards>
+   <action type="23" no="3" sum="€1,10" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">HQ HA</cards>
+   <action type="23" no="4" sum="€3,20" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C4 HK</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <action type="3" no="7" sum="€2,10" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA CJ D4</cards>
+   <action type="4" no="8" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="9" sum="€2,50" player="Chuki007"/>
+   <action type="3" no="10" sum="€2,50" player="SAWMAN99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="4" no="11" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="12" sum="€6,07" player="Chuki007"/>
+   <action type="3" no="13" sum="€6,07" player="SAWMAN99"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action type="4" no="14" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="15" sum="€12,14" player="Chuki007"/>
+   <action type="3" no="16" sum="€12,14" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944398088">
+  <general>
+   <startdate>2024-11-01 23:51:34</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€75,65" win="€0"/>
+    <player dealer="1" seat="5" bet="€1,25" name="13373678" chips="€52,16" win="€0"/>
+    <player dealer="0" seat="6" bet="€6,25" name="99762453221" chips="€50" win="€3"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H4 HQ</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="23" no="5" sum="€6,25" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944398166">
+  <general>
+   <startdate>2024-11-01 23:52:02</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€3,98" name="Chuki007" chips="€75,65" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€50,91" win="€0"/>
+    <player dealer="1" seat="6" bet="€7,03" name="99762453221" chips="€51,75" win="€7,97"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 H10</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 HA DA</cards>
+   <action type="4" no="7" sum="€0" player="Chuki007"/>
+   <action type="5" no="8" sum="€0,68" player="99762453221"/>
+   <action type="3" no="9" sum="€0,68" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="5" no="10" sum="€2,05" player="Chuki007"/>
+   <action type="23" no="11" sum="€5,10" player="99762453221"/>
+   <action type="0" no="12" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944398327">
+  <general>
+   <startdate>2024-11-01 23:53:03</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0,50" name="Chuki007" chips="€71,67" win="€0"/>
+    <player dealer="0" seat="5" bet="€3" name="13373678" chips="€50,91" win="€1"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€55,74" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CA CQ</cards>
+   <action type="23" no="6" sum="€3" player="13373678"/>
+   <action type="0" no="7" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944398387">
+  <general>
+   <startdate>2024-11-01 23:53:22</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€1,75" name="Chuki007" chips="€71,17" win="€1,22"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€51,41" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€55,74" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="4" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C3 D5</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="4" no="6" sum="€0" player="99762453221"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H2 D4</cards>
+   <action type="4" no="7" sum="€0" player="99762453221"/>
+   <action type="5" no="8" sum="€1,25" player="Chuki007"/>
+   <action type="0" no="9" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944398513">
+  <general>
+   <startdate>2024-11-01 23:54:04</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€71,89" win="€0"/>
+    <player dealer="1" seat="5" bet="€5,25" name="13373678" chips="€51,16" win="€2,67"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€55,24" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,25" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C7 HK</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="3" no="6" sum="€0,75" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C6 S5</cards>
+   <action type="4" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="8" sum="€0" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="10" sum="€4" player="13373678"/>
+   <action type="0" no="11" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944398792">
+  <general>
+   <startdate>2024-11-01 23:54:58</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€14,99" name="Chuki007" chips="€71,89" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€52,58" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€54,99" win="€0"/>
+    <player dealer="0" seat="10" bet="€14,99" name="SAWMAN99" chips="€50" win="€29,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 D9</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">H9 C8</cards>
+   <action type="23" no="5" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">HA H3</cards>
+   <action type="3" no="6" sum="€1" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA H6 D8</cards>
+   <action type="4" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="8" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" no="9" sum="€2,25" player="SAWMAN99"/>
+   <action type="3" no="10" sum="€2,25" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action type="5" no="11" sum="€5,62" player="SAWMAN99"/>
+   <action type="23" no="12" sum="€11,24" player="Chuki007"/>
+   <action type="3" no="13" sum="€5,62" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944398986">
+  <general>
+   <startdate>2024-11-01 23:56:06</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€20" name="Chuki007" chips="€56,90" win="€0"/>
+    <player dealer="0" seat="5" bet="€52,58" name="13373678" chips="€52,58" win="€38,79"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€54,99" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€64,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C5 H5</cards>
+   <action type="23" no="6" sum="€2,50" player="13373678"/>
+   <action type="3" no="7" sum="€2" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CK S9</cards>
+   <action type="5" no="8" sum="€2,50" player="Chuki007"/>
+   <action type="3" no="9" sum="€2,50" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="5" no="10" sum="€3" player="Chuki007"/>
+   <action type="23" no="11" sum="€15" player="13373678"/>
+   <action type="3" no="12" sum="€12" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action type="4" no="13" sum="€0" player="Chuki007"/>
+   <action type="5" no="14" sum="€32,58" player="13373678"/>
+   <action type="0" no="15" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944399216">
+  <general>
+   <startdate>2024-11-01 23:57:28</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€0" name="Chuki007" chips="€36,90" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€71,37" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€54,99" win="€0,50"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€64,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H10 S7</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944399250">
+  <general>
+   <startdate>2024-11-01 23:57:37</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€1" name="Chuki007" chips="€36,90" win="€1,25"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€71,12" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€55,24" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€64,09" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="3" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C4 SJ</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944399301">
+  <general>
+   <startdate>2024-11-01 23:57:53</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€9,69" name="Chuki007" chips="€37,65" win="€19,04"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€71,12" win="€0"/>
+    <player dealer="1" seat="6" bet="€9,69" name="99762453221" chips="€54,99" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€63,59" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 HJ</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">DK CA</cards>
+   <action type="23" no="4" sum="€1,25" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">SJ C2</cards>
+   <action type="3" no="6" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 DJ S2</cards>
+   <action type="5" no="7" sum="€0,50" player="Chuki007"/>
+   <action type="23" no="8" sum="€1,40" player="99762453221"/>
+   <action type="3" no="9" sum="€0,90" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action type="4" no="10" sum="€0" player="Chuki007"/>
+   <action type="4" no="11" sum="€0" player="99762453221"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action type="5" no="12" sum="€2,77" player="Chuki007"/>
+   <action type="23" no="13" sum="€7,04" player="99762453221"/>
+   <action type="3" no="14" sum="€4,27" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944399477">
+  <general>
+   <startdate>2024-11-01 23:59:03</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€1,20" name="Chuki007" chips="€47" win="€0,97"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€71,12" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€63,34" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S8 C5</cards>
+   <action type="4" no="6" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 S10 S9</cards>
+   <action type="5" no="7" sum="€0,70" player="Chuki007"/>
+   <action type="0" no="8" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944399582">
+  <general>
+   <startdate>2024-11-01 23:59:42</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€1" name="Chuki007" chips="€47,47" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€70,62" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€63,34" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="4" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C8 DJ</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944399627">
+  <general>
+   <startdate>2024-11-01 23:59:57</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€3" name="Chuki007" chips="€48,22" win="€1,22"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€70,37" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€63,34" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="3" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D10 D2</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="4" no="6" sum="€0" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D8 H9</cards>
+   <action type="4" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="8" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="10" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action type="4" no="11" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="12" sum="€2,50" player="Chuki007"/>
+   <action type="0" no="13" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944400764">
+  <general>
+   <startdate>2024-11-02 00:00:52</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€1,25" name="Chuki007" chips="€48,94" win="€0"/>
+    <player dealer="0" seat="5" bet="€2,15" name="13373678" chips="€70,37" win="€2,67"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€62,84" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 H10</cards>
+   <action type="23" no="3" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ CK C6</cards>
+   <action type="4" no="7" sum="€0" player="Chuki007"/>
+   <action type="5" no="8" sum="€0,90" player="13373678"/>
+   <action type="0" no="9" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944400856">
+  <general>
+   <startdate>2024-11-02 00:01:21</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0,25" name="Chuki007" chips="€47,69" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€71,79" win="€0,50"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€62,59" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ HJ</cards>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="5" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944400882">
+  <general>
+   <startdate>2024-11-02 00:01:33</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€1" name="Chuki007" chips="€47,44" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€72,04" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€62,59" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="4" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C5 H6</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944400916">
+  <general>
+   <startdate>2024-11-02 00:01:45</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€48,19" win="€0"/>
+    <player dealer="1" seat="5" bet="€2,15" name="13373678" chips="€71,79" win="€2,67"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,25" name="SAWMAN99" chips="€62,59" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S8 SJ</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="3" no="6" sum="€0,75" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C6 H9</cards>
+   <action type="4" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="8" sum="€0,90" player="13373678"/>
+   <action type="0" no="9" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944400992">
+  <general>
+   <startdate>2024-11-02 00:02:10</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€9,37" name="Chuki007" chips="€48,19" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€73,21" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€21,87" name="SAWMAN99" chips="€61,34" win="€18,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 S10</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="5" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€1" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H10 HK</cards>
+   <action type="5" no="7" sum="€2,25" player="SAWMAN99"/>
+   <action type="3" no="8" sum="€2,25" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="5" no="9" sum="€5,62" player="SAWMAN99"/>
+   <action type="3" no="10" sum="€5,62" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action type="5" no="11" sum="€12,50" player="SAWMAN99"/>
+   <action type="0" no="12" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944401174">
+  <general>
+   <startdate>2024-11-02 00:03:17</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€2" name="Chuki007" chips="€38,82" win="€0"/>
+    <player dealer="0" seat="5" bet="€7,25" name="13373678" chips="€73,21" win="€3,88"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€70,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C5 C9</cards>
+   <action type="4" no="6" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ C6 DQ</cards>
+   <action type="5" no="7" sum="€0,50" player="Chuki007"/>
+   <action type="3" no="8" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action type="5" no="9" sum="€1" player="Chuki007"/>
+   <action type="23" no="10" sum="€6,25" player="13373678"/>
+   <action type="0" no="11" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944401300">
+  <general>
+   <startdate>2024-11-02 00:04:05</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€1" name="Chuki007" chips="€36,82" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€75,09" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€70,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="4" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S2 H2</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944401341">
+  <general>
+   <startdate>2024-11-02 00:04:20</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€37,57" win="€0"/>
+    <player dealer="1" seat="5" bet="€1,25" name="13373678" chips="€74,84" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€6" name="SAWMAN99" chips="€70,15" win="€2,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D2 D10</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="6" sum="€6" player="SAWMAN99"/>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944401969">
+  <general>
+   <startdate>2024-11-02 00:04:51</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€6" name="Chuki007" chips="€37,57" win="€4,85"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€73,59" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="10" bet="€2,50" name="SAWMAN99" chips="€71,65" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA H3</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="5" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€1" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D2 S8</cards>
+   <action type="4" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="8" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action type="4" no="9" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="10" sum="€1" player="Chuki007"/>
+   <action type="3" no="11" sum="€1" player="SAWMAN99"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" no="12" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="13" sum="€3,50" player="Chuki007"/>
+   <action type="0" no="14" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944402324">
+  <general>
+   <startdate>2024-11-02 00:05:58</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€10,25" name="Chuki007" chips="€39,92" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€73,59" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€10,25" name="ThePokerBrat" chips="€50" win="€20,37"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€69,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+   <action type="2" no="3" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">S7 C10</cards>
+   <action type="4" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">CK H8</cards>
+   <action type="3" no="7" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S4 H6</cards>
+   <action type="4" no="8" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 C8 D10</cards>
+   <action type="5" no="9" sum="€0,75" player="Chuki007"/>
+   <action type="0" no="10" sum="€0" player="13373678"/>
+   <action type="23" no="11" sum="€4,50" player="ThePokerBrat"/>
+   <action type="3" no="12" sum="€3,75" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="5" no="13" sum="€5,25" player="Chuki007"/>
+   <action type="3" no="14" sum="€5,25" player="ThePokerBrat"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action type="4" no="15" sum="€0" player="Chuki007"/>
+   <action type="4" no="16" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944402473">
+  <general>
+   <startdate>2024-11-02 00:06:51</startdate>
+   <players>
+    <player dealer="1" seat="3" bet="€0" name="Chuki007" chips="€29,67" win="€0"/>
+    <player dealer="0" seat="5" bet="€6" name="13373678" chips="€73,09" win="€3,50"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€1,50" name="ThePokerBrat" chips="€60,12" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€69,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="3" sum="€1,50" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="5" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CQ SJ</cards>
+   <action type="23" no="6" sum="€6" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="7" sum="€0" player="99762453221"/>
+   <action type="0" no="8" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944402543">
+  <general>
+   <startdate>2024-11-02 00:07:17</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€4,39" name="Chuki007" chips="€29,67" win="€0"/>
+    <player dealer="1" seat="5" bet="€4,39" name="13373678" chips="€75,09" win="€9,25"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="ThePokerBrat" chips="€58,62" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€69,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="Chuki007">DQ S9</cards>
+   <action type="3" no="4" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H5 C5</cards>
+   <action type="23" no="5" sum="€2,50" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="7" sum="€0" player="ThePokerBrat"/>
+   <action type="3" no="8" sum="€2" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H2 D6</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="5" no="10" sum="€1,89" player="13373678"/>
+   <action type="3" no="11" sum="€1,89" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action type="4" no="12" sum="€0" player="Chuki007"/>
+   <action type="4" no="13" sum="€0" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" no="14" sum="€0" player="Chuki007"/>
+   <action type="4" no="15" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944402768">
+  <general>
+   <startdate>2024-11-02 00:08:16</startdate>
+   <players>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€25,28" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€79,95" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€4,25" name="ThePokerBrat" chips="€58,12" win="€6,31"/>
+    <player dealer="0" seat="10" bet="€3,25" name="SAWMAN99" chips="€69,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D10 S9</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="3" no="6" sum="€0,25" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="7" sum="€2,25" player="SAWMAN99"/>
+   <action type="3" no="8" sum="€1,75" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H3 H6</cards>
+   <action type="4" no="9" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="10" sum="€1" player="SAWMAN99"/>
+   <action type="23" no="11" sum="€2" player="ThePokerBrat"/>
+   <action type="0" no="12" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944402848">
+  <general>
+   <startdate>2024-11-02 00:08:48</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€50" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€25,28" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€79,95" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="0" seat="10" bet="€1,50" name="SAWMAN99" chips="€65,90" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CK D8</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="6" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="7" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="8" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944402912">
+  <general>
+   <startdate>2024-11-02 00:09:10</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€50" win="€0"/>
+    <player dealer="0" seat="3" bet="€2,62" name="Chuki007" chips="€25,28" win="€2,67"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€79,95" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="1" seat="10" bet="€1,25" name="SAWMAN99" chips="€66,40" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ S5</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="8" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 HA C4</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="4" no="10" sum="€0" player="SAWMAN99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action type="5" no="11" sum="€1,37" player="Chuki007"/>
+   <action type="0" no="12" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944403022">
+  <general>
+   <startdate>2024-11-02 00:09:51</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€1,25" name="PokerIsFun" chips="€50" win="€0"/>
+    <player dealer="0" seat="3" bet="€4" name="Chuki007" chips="€26,70" win="€3"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€79,95" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€65,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="4" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="7" sum="€4" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C3 CA</cards>
+   <action type="0" no="8" sum="€0" player="13373678"/>
+   <action type="0" no="9" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944403079">
+  <general>
+   <startdate>2024-11-02 00:10:10</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€50" win="€0"/>
+    <player dealer="1" seat="3" bet="€1" name="Chuki007" chips="€28,45" win="€1,25"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€79,45" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€65,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="3" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="5" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="6" sum="€1" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C10 C3</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="8" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944403128">
+  <general>
+   <startdate>2024-11-02 00:10:29</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€50" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€29,20" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€79,20" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,50" name="ThePokerBrat" chips="€61,18" win="€0,50"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€65,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="4" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="5" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H5 S7</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="7" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944403165">
+  <general>
+   <startdate>2024-11-02 00:10:41</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="PokerIsFun" chips="€50" win="€3,16"/>
+    <player dealer="0" seat="3" bet="€1,25" name="Chuki007" chips="€29,20" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€79,20" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="ThePokerBrat" chips="€61,43" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€65,15" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">HA SJ</cards>
+   <action type="23" no="3" sum="€1,25" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">DQ S8</cards>
+   <action type="3" no="4" sum="€1,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D9 CK</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="7" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="8" sum="€0" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S6 D4</cards>
+   <action type="4" no="9" sum="€0" player="PokerIsFun"/>
+   <action type="4" no="10" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action type="4" no="11" sum="€0" player="PokerIsFun"/>
+   <action type="4" no="12" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action type="4" no="13" sum="€0" player="PokerIsFun"/>
+   <action type="4" no="14" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944403265">
+  <general>
+   <startdate>2024-11-02 00:11:17</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€51,91" name="PokerIsFun" chips="€51,91" win="€102,32"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€27,95" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€79,20" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="0" seat="10" bet="€64,65" name="SAWMAN99" chips="€64,65" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D2 D10</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="6" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">SA HQ</cards>
+   <action type="23" no="7" sum="€1,50" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">HJ S5</cards>
+   <action type="23" no="8" sum="€4,50" player="PokerIsFun"/>
+   <action type="3" no="9" sum="€3" player="SAWMAN99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 C5 C2</cards>
+   <action type="4" no="10" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="11" sum="€4,50" player="PokerIsFun"/>
+   <action type="3" no="12" sum="€4,50" player="SAWMAN99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action type="4" no="13" sum="€0" player="SAWMAN99"/>
+   <action type="4" no="14" sum="€0" player="PokerIsFun"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action type="4" no="15" sum="€0" player="SAWMAN99"/>
+   <action type="5" no="16" sum="€13,50" player="PokerIsFun"/>
+   <action type="23" no="17" sum="€55,65" player="SAWMAN99"/>
+   <action type="7" no="18" sum="€29,41" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944403500">
+  <general>
+   <startdate>2024-11-02 00:12:48</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€6" name="PokerIsFun" chips="€102,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€27,95" name="Chuki007" chips="€27,95" win="€0"/>
+    <player dealer="0" seat="5" bet="€27,95" name="13373678" chips="€79,20" win="€60,40"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€61,18" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA HA</cards>
+   <action type="23" no="3" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="23" no="7" sum="€6" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">HQ DA</cards>
+   <action type="23" no="8" sum="€27,95" player="Chuki007"/>
+   <action type="3" no="9" sum="€26,70" player="13373678"/>
+   <action type="0" no="10" sum="€0" player="PokerIsFun"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S7 SQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="3944404722">
+  <general>
+   <startdate>2024-11-02 00:13:35</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="PokerIsFun" chips="€96,32" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€111,65" win="€0"/>
+    <player dealer="0" seat="6" bet="€1,74" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€1,74" name="ThePokerBrat" chips="€61,18" win="€3,62"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">H6 S6</cards>
+   <action type="23" no="3" sum="€1" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="5" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="13373678">C8 D9</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">C4 CA</cards>
+   <action type="3" no="7" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 HJ D10</cards>
+   <action type="4" no="8" sum="€0" player="99762453221"/>
+   <action type="4" no="9" sum="€0" player="ThePokerBrat"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action type="5" no="10" sum="€0,74" player="99762453221"/>
+   <action type="3" no="11" sum="€0,74" player="ThePokerBrat"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action type="4" no="12" sum="€0" player="99762453221"/>
+   <action type="4" no="13" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944405221">
+  <general>
+   <startdate>2024-11-02 00:14:35</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€96,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,25" name="Chuki007" chips="€42,62" win="€0"/>
+    <player dealer="1" seat="5" bet="€8,46" name="13373678" chips="€111,40" win="€4,83"/>
+    <player dealer="0" seat="6" bet="€0,25" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€2,24" name="ThePokerBrat" chips="€63,06" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+   <action type="1" no="3" sum="€0,25" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="5" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="6" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H7 C5</cards>
+   <action type="23" no="7" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="8" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="3" no="9" sum="€0,75" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 SA D2</cards>
+   <action type="4" no="10" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="11" sum="€0,99" player="13373678"/>
+   <action type="3" no="12" sum="€0,99" player="ThePokerBrat"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" no="13" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="14" sum="€6,22" player="13373678"/>
+   <action type="0" no="15" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944405344">
+  <general>
+   <startdate>2024-11-02 00:15:23</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€96,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€42,37" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€113,99" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€17,93" name="ThePokerBrat" chips="€60,82" win="€0"/>
+    <player dealer="0" seat="10" bet="€50" name="SAWMAN99" chips="€50" win="€34,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="3" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H7 S4</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="7" sum="€1" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="8" sum="€4,50" player="SAWMAN99"/>
+   <action type="3" no="9" sum="€3,50" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C4 D5</cards>
+   <action type="4" no="10" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="11" sum="€2,97" player="SAWMAN99"/>
+   <action type="23" no="12" sum="€13,43" player="ThePokerBrat"/>
+   <action type="23" no="13" sum="€45,50" player="SAWMAN99"/>
+   <action type="0" no="14" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944405575">
+  <general>
+   <startdate>2024-11-02 00:16:16</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€96,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€42,37" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€113,99" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="1" seat="8" bet="€1" name="ThePokerBrat" chips="€42,89" win="€1,25"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€66,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">HK C2</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="6" sum="€1" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="8" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944405620">
+  <general>
+   <startdate>2024-11-02 00:16:36</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€95,82" win="€0"/>
+    <player dealer="0" seat="3" bet="€3,65" name="Chuki007" chips="€42,37" win="€0"/>
+    <player dealer="0" seat="5" bet="€13,46" name="13373678" chips="€113,99" win="€7,33"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€43,64" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€66,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 DQ</cards>
+   <action type="23" no="3" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="8" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 SA HA</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="5" no="10" sum="€0,90" player="13373678"/>
+   <action type="3" no="11" sum="€0,90" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="5" no="12" sum="€1,50" player="Chuki007"/>
+   <action type="23" no="13" sum="€11,31" player="13373678"/>
+   <action type="0" no="14" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944405754">
+  <general>
+   <startdate>2024-11-02 00:17:32</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="PokerIsFun" chips="€95,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€1" name="Chuki007" chips="€38,72" win="€0"/>
+    <player dealer="0" seat="5" bet="€1" name="13373678" chips="€117,67" win="€1,94"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€50" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€43,64" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€66,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="4" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="6" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">D2 D4</cards>
+   <action type="3" no="7" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D6 H4</cards>
+   <action type="4" no="8" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 CA HK</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="5" no="10" sum="€0,50" player="13373678"/>
+   <action type="3" no="11" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action type="4" no="12" sum="€0" player="Chuki007"/>
+   <action type="4" no="13" sum="€0" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action type="4" no="14" sum="€0" player="Chuki007"/>
+   <action type="4" no="15" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944405858">
+  <general>
+   <startdate>2024-11-02 00:18:13</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€95,57" win="€0"/>
+    <player dealer="1" seat="3" bet="€0" name="Chuki007" chips="€37,72" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€118,61" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,50" name="99762453221" chips="€50" win="€0,50"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€43,64" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€66,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="3" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="5" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="6" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">HQ S5</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944405881">
+  <general>
+   <startdate>2024-11-02 00:18:24</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="PokerIsFun" chips="€95,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€37,72" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€118,36" win="€0"/>
+    <player dealer="0" seat="6" bet="€6" name="99762453221" chips="€50,25" win="€0"/>
+    <player dealer="0" seat="8" bet="€43,64" name="ThePokerBrat" chips="€43,64" win="€13,25"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€66,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="5" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S5 S3</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="23" no="7" sum="€6" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="8" sum="€43,64" player="ThePokerBrat"/>
+   <action type="0" no="9" sum="€0" player="PokerIsFun"/>
+   <action type="0" no="10" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944405986">
+  <general>
+   <startdate>2024-11-02 00:19:02</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€94,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€37,72" win="€0"/>
+    <player dealer="0" seat="5" bet="€10,25" name="13373678" chips="€118,36" win="€0"/>
+    <player dealer="1" seat="6" bet="€50" name="99762453221" chips="€50" win="€21,25"/>
+    <player dealer="0" seat="8" bet="€0,25" name="ThePokerBrat" chips="€50,89" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€66,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="3" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">D10 DA</cards>
+   <action type="23" no="5" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="23" no="6" sum="€3,75" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="7" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="8" sum="€0" player="SAWMAN99"/>
+   <action type="23" no="9" sum="€10,25" player="13373678"/>
+   <action type="23" no="10" sum="€50" player="99762453221"/>
+   <action type="0" no="11" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944406143">
+  <general>
+   <startdate>2024-11-02 00:20:12</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€94,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€37,72" win="€0"/>
+    <player dealer="0" seat="5" bet="€1,25" name="13373678" chips="€108,11" win="€1,25"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€61" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="ThePokerBrat" chips="€50,64" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€66,10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">DK C10</cards>
+   <action type="23" no="4" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="6" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="8" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944406188">
+  <general>
+   <startdate>2024-11-02 00:20:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€93,82" win="€0"/>
+    <player dealer="0" seat="3" bet="€2,50" name="Chuki007" chips="€37,72" win="€2,75"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€108,86" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€61" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€50,64" win="€0"/>
+    <player dealer="1" seat="10" bet="€1,25" name="SAWMAN99" chips="€65,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ H8</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="6" sum="€1,25" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="8" sum="€2,50" player="Chuki007"/>
+   <action type="0" no="9" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944406240">
+  <general>
+   <startdate>2024-11-02 00:20:53</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="PokerIsFun" chips="€93,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€1" name="Chuki007" chips="€39,22" win="€0,97"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€108,86" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€61" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€50,64" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€64,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="4" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="6" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="7" sum="€0,25" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">S10 S4</cards>
+   <action type="4" no="8" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA H6 HK</cards>
+   <action type="5" no="9" sum="€0,50" player="Chuki007"/>
+   <action type="0" no="10" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944406304">
+  <general>
+   <startdate>2024-11-02 00:21:18</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€93,57" win="€0"/>
+    <player dealer="1" seat="3" bet="€4,36" name="Chuki007" chips="€39,69" win="€2,90"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€108,36" win="€0"/>
+    <player dealer="0" seat="6" bet="€1,37" name="99762453221" chips="€61" win="€0"/>
+    <player dealer="0" seat="8" bet="€0" name="ThePokerBrat" chips="€50,64" win="€0"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€64,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="99762453221"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="3" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="5" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="6" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">C5 DA</cards>
+   <action type="0" no="7" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="4" no="8" sum="€0" player="99762453221"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 SK C2</cards>
+   <action type="4" no="9" sum="€0" player="99762453221"/>
+   <action type="4" no="10" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="4" no="11" sum="€0" player="99762453221"/>
+   <action type="5" no="12" sum="€0,87" player="Chuki007"/>
+   <action type="3" no="13" sum="€0,87" player="99762453221"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action type="4" no="14" sum="€0" player="99762453221"/>
+   <action type="5" no="15" sum="€2,99" player="Chuki007"/>
+   <action type="0" no="16" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944406510">
+  <general>
+   <startdate>2024-11-02 00:22:41</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€93,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,50" name="Chuki007" chips="€41,22" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€108,11" win="€0"/>
+    <player dealer="0" seat="6" bet="€1,62" name="99762453221" chips="€59,63" win="€0"/>
+    <player dealer="0" seat="8" bet="€50,64" name="ThePokerBrat" chips="€50,64" win="€3,63"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€64,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="99762453221"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="4" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="5" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H3 C6</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="3" no="7" sum="€0,25" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="4" no="8" sum="€0" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 D5 H2</cards>
+   <action type="5" no="9" sum="€1,12" player="99762453221"/>
+   <action type="23" no="10" sum="€50,14" player="ThePokerBrat"/>
+   <action type="0" no="11" sum="€0" player="Chuki007"/>
+   <action type="0" no="12" sum="€0" player="99762453221"/>
+  </round>
+ </game>
+ <game gamecode="3944406789">
+  <general>
+   <startdate>2024-11-02 00:23:34</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€93,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€5,37" name="Chuki007" chips="€40,72" win="€5,58"/>
+    <player dealer="0" seat="5" bet="€2,50" name="13373678" chips="€108,11" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="99762453221" chips="€58,01" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="ThePokerBrat" chips="€52,65" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€64,60" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="3" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="4" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">H4 D4</cards>
+   <action type="23" no="5" sum="€2,50" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="6" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="7" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="8" sum="€0" player="SAWMAN99"/>
+   <action type="3" no="9" sum="€2" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 HK H8</cards>
+   <action type="5" no="10" sum="€2,87" player="Chuki007"/>
+   <action type="0" no="11" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944407942">
+  <general>
+   <startdate>2024-11-02 00:24:19</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€93,57" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€43,80" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€105,61" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€58,01" win="€0"/>
+    <player dealer="1" seat="8" bet="€1,50" name="ThePokerBrat" chips="€52,40" win="€1,25"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€64,10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="3" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CJ D2</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="5" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="6" sum="€1,50" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="8" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944408217">
+  <general>
+   <startdate>2024-11-02 00:24:36</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€93,07" win="€0"/>
+    <player dealer="0" seat="3" bet="€4" name="Chuki007" chips="€43,80" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€105,61" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€58,01" win="€0"/>
+    <player dealer="0" seat="8" bet="€53,15" name="ThePokerBrat" chips="€53,15" win="€8,97"/>
+    <player dealer="1" seat="10" bet="€1" name="SAWMAN99" chips="€63,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 CQ</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="4" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="5" sum="€1" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="3" no="6" sum="€1" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="8" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D3 D5</cards>
+   <action type="5" no="9" sum="€1,50" player="Chuki007"/>
+   <action type="23" no="10" sum="€3" player="ThePokerBrat"/>
+   <action type="0" no="11" sum="€0" player="SAWMAN99"/>
+   <action type="3" no="12" sum="€1,50" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="4" no="13" sum="€0" player="Chuki007"/>
+   <action type="5" no="14" sum="€49,15" player="ThePokerBrat"/>
+   <action type="0" no="15" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944408455">
+  <general>
+   <startdate>2024-11-02 00:25:35</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="PokerIsFun" chips="€92,82" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,25" name="Chuki007" chips="€39,80" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,50" name="13373678" chips="€105,61" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="99762453221" chips="€58,01" win="€0"/>
+    <player dealer="0" seat="8" bet="€1,50" name="ThePokerBrat" chips="€58,12" win="€1,25"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€62,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="Chuki007"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="99762453221">X X</cards>
+   <action type="0" no="3" sum="€0" player="99762453221"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="4" sum="€1,50" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="5" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="6" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="7" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">HA C6</cards>
+   <action type="0" no="8" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944408506">
+  <general>
+   <startdate>2024-11-02 00:25:56</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€92,82" win="€0"/>
+    <player dealer="1" seat="3" bet="€1,50" name="Chuki007" chips="€39,55" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€105,11" win="€0"/>
+    <player dealer="0" seat="8" bet="€5,40" name="ThePokerBrat" chips="€58,87" win="€3,16"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€62,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="3" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="4" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="23" no="5" sum="€1,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">DQ S4</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="3" no="7" sum="€1" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 SK S6</cards>
+   <action type="4" no="8" sum="€0" player="ThePokerBrat"/>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action type="5" no="10" sum="€3,90" player="ThePokerBrat"/>
+   <action type="0" no="11" sum="€0" player="Chuki007"/>
+  </round>
+ </game>
+ <game gamecode="3944408570">
+  <general>
+   <startdate>2024-11-02 00:26:23</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€92,82" win="€0"/>
+    <player dealer="0" seat="3" bet="€25,41" name="Chuki007" chips="€38,05" win="€20,84"/>
+    <player dealer="1" seat="5" bet="€10,37" name="13373678" chips="€104,86" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="ThePokerBrat" chips="€60,53" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€62,85" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="3" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="3" no="4" sum="€0,50" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">CA HQ</cards>
+   <action type="23" no="5" sum="€2,50" player="13373678"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="6" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="7" sum="€0" player="SAWMAN99"/>
+   <action type="3" no="8" sum="€2" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D9 H2</cards>
+   <action type="4" no="9" sum="€0" player="Chuki007"/>
+   <action type="5" no="10" sum="€2,50" player="13373678"/>
+   <action type="3" no="11" sum="€2,50" player="Chuki007"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action type="5" no="12" sum="€5,37" player="Chuki007"/>
+   <action type="3" no="13" sum="€5,37" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action type="5" no="14" sum="€15,04" player="Chuki007"/>
+   <action type="0" no="15" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3944408758">
+  <general>
+   <startdate>2024-11-02 00:27:43</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€92,82" win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="Chuki007" chips="€48,52" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€94,49" win="€0"/>
+    <player dealer="0" seat="6" bet="€1,50" name="fearofthedark666" chips="€50" win="€1,25"/>
+    <player dealer="1" seat="8" bet="€0" name="ThePokerBrat" chips="€60,28" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€62,35" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+   <action type="2" no="3" sum="€0,50" player="fearofthedark666"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Chuki007">X X</cards>
+   <action type="0" no="4" sum="€0" player="Chuki007"/>
+   <cards type="Pocket" player="13373678">SQ C4</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="23" no="6" sum="€1,50" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="7" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="8" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="9" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944408803">
+  <general>
+   <startdate>2024-11-02 00:28:00</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€92,32" win="€0"/>
+    <player dealer="0" seat="3" bet="€48,52" name="Chuki007" chips="€48,52" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€94,49" win="€0"/>
+    <player dealer="0" seat="6" bet="€10,25" name="fearofthedark666" chips="€50,75" win="€0"/>
+    <player dealer="0" seat="8" bet="€60,28" name="ThePokerBrat" chips="€60,28" win="€106,04"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€62,10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="Chuki007"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 H6</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="23" no="4" sum="€1,25" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">S10 D9</cards>
+   <action type="3" no="5" sum="€1,25" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="Chuki007">S7 H10</cards>
+   <action type="3" no="8" sum="€0,75" player="Chuki007"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 S8 D10</cards>
+   <action type="5" no="9" sum="€2" player="Chuki007"/>
+   <action type="3" no="10" sum="€2" player="fearofthedark666"/>
+   <action type="23" no="11" sum="€9" player="ThePokerBrat"/>
+   <action type="3" no="12" sum="€7" player="Chuki007"/>
+   <action type="3" no="13" sum="€7" player="fearofthedark666"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action type="5" no="14" sum="€15,50" player="Chuki007"/>
+   <action type="0" no="15" sum="€0" player="fearofthedark666"/>
+   <action type="23" no="16" sum="€50,03" player="ThePokerBrat"/>
+   <action type="7" no="17" sum="€22,77" player="Chuki007"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+  </round>
+ </game>
+ <game gamecode="3944408978">
+  <general>
+   <startdate>2024-11-02 00:29:09</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€7,04" name="PokerIsFun" chips="€92,07" win="€0"/>
+    <player dealer="0" seat="5" bet="€0,25" name="13373678" chips="€94,49" win="€0"/>
+    <player dealer="0" seat="6" bet="€3,50" name="fearofthedark666" chips="€40,50" win="€0"/>
+    <player dealer="0" seat="8" bet="€19,52" name="ThePokerBrat" chips="€117,80" win="€17,29"/>
+    <player dealer="0" seat="10" bet="€0" name="SAWMAN99" chips="€62,10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="fearofthedark666"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="23" no="3" sum="€1" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="4" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="23" no="5" sum="€3,50" player="PokerIsFun"/>
+   <cards type="Pocket" player="13373678">DJ H2</cards>
+   <action type="0" no="6" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="3" no="7" sum="€3" player="fearofthedark666"/>
+   <action type="3" no="8" sum="€2,50" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 CK H8</cards>
+   <action type="4" no="9" sum="€0" player="fearofthedark666"/>
+   <action type="4" no="10" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="11" sum="€3,54" player="PokerIsFun"/>
+   <action type="0" no="12" sum="€0" player="fearofthedark666"/>
+   <action type="23" no="13" sum="€16,02" player="ThePokerBrat"/>
+   <action type="0" no="14" sum="€0" player="PokerIsFun"/>
+  </round>
+ </game>
+ <game gamecode="3944409070">
+  <general>
+   <startdate>2024-11-02 00:29:52</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€85,03" win="€0"/>
+    <player dealer="1" seat="5" bet="€0" name="13373678" chips="€94,24" win="€0"/>
+    <player dealer="0" seat="6" bet="€0,25" name="fearofthedark666" chips="€37" win="€0"/>
+    <player dealer="0" seat="8" bet="€128,05" name="ThePokerBrat" chips="€128,05" win="€9,03"/>
+    <player dealer="0" seat="10" bet="€4,53" name="SAWMAN99" chips="€62,10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="fearofthedark666"/>
+   <action type="2" no="2" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="23" no="3" sum="€1" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="4" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="13373678">S9 C7</cards>
+   <action type="0" no="5" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="0" no="6" sum="€0" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="3" no="7" sum="€0,50" player="ThePokerBrat"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C4 C9</cards>
+   <action type="4" no="8" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="9" sum="€0,74" player="SAWMAN99"/>
+   <action type="3" no="10" sum="€0,74" player="ThePokerBrat"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action type="4" no="11" sum="€0" player="ThePokerBrat"/>
+   <action type="5" no="12" sum="€2,79" player="SAWMAN99"/>
+   <action type="23" no="13" sum="€126,31" player="ThePokerBrat"/>
+   <action type="0" no="14" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944409159">
+  <general>
+   <startdate>2024-11-02 00:30:29</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="PokerIsFun" chips="€85,03" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€94,24" win="€0"/>
+    <player dealer="1" seat="6" bet="€0" name="fearofthedark666" chips="€36,75" win="€0"/>
+    <player dealer="0" seat="8" bet="€0,25" name="ThePokerBrat" chips="€132,55" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,50" name="SAWMAN99" chips="€57,57" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="ThePokerBrat"/>
+   <action type="2" no="2" sum="€0,50" player="SAWMAN99"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="3" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="13373678">S4 H10</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="0" no="5" sum="€0" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="6" sum="€0" player="ThePokerBrat"/>
+  </round>
+ </game>
+ <game gamecode="3944409183">
+  <general>
+   <startdate>2024-11-02 00:30:40</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="PokerIsFun" chips="€85,03" win="€0,50"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€94,24" win="€0"/>
+    <player dealer="0" seat="6" bet="€0" name="fearofthedark666" chips="€36,75" win="€0"/>
+    <player dealer="1" seat="8" bet="€0" name="ThePokerBrat" chips="€132,30" win="€0"/>
+    <player dealer="0" seat="10" bet="€0,25" name="SAWMAN99" chips="€57,82" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="SAWMAN99"/>
+   <action type="2" no="2" sum="€0,50" player="PokerIsFun"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <cards type="Pocket" player="13373678">D3 CK</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">X X</cards>
+   <action type="0" no="4" sum="€0" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">X X</cards>
+   <action type="0" no="5" sum="€0" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+  </round>
+ </game>
+ <game gamecode="3944409416">
+  <general>
+   <startdate>2024-11-02 00:31:10</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="PokerIsFun" chips="€85,28" win="€0"/>
+    <player dealer="0" seat="3" bet="€0,50" name="itslottery" chips="€25" win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="13373678" chips="€94,24" win="€0"/>
+    <player dealer="0" seat="6" bet="€22,08" name="fearofthedark666" chips="€36,75" win="€43,55"/>
+    <player dealer="0" seat="8" bet="€22,08" name="ThePokerBrat" chips="€132,30" win="€0"/>
+    <player dealer="1" seat="10" bet="€0" name="SAWMAN99" chips="€57,57" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PokerIsFun"/>
+   <action type="2" no="2" sum="€0,50" player="itslottery"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 S7</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="fearofthedark666">SJ CA</cards>
+   <action type="23" no="4" sum="€1,50" player="fearofthedark666"/>
+   <cards type="Pocket" player="ThePokerBrat">C2 SA</cards>
+   <action type="3" no="5" sum="€1,50" player="ThePokerBrat"/>
+   <cards type="Pocket" player="SAWMAN99">X X</cards>
+   <action type="0" no="6" sum="€0" player="SAWMAN99"/>
+   <cards type="Pocket" player="PokerIsFun">X X</cards>
+   <action type="0" no="7" sum="€0" player="PokerIsFun"/>
+   <cards type="Pocket" player="itslottery">X X</cards>
+   <action type="0" no="8" sum="€0" player="itslottery"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H7 DK</cards>
+   <action type="5" no="9" sum="€1,87" player="fearofthedark666"/>
+   <action type="3" no="10" sum="€1,87" player="ThePokerBrat"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action type="5" no="11" sum="€3,74" player="fearofthedark666"/>
+   <action type="3" no="12" sum="€3,74" player="ThePokerBrat"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action type="5" no="13" sum="€14,97" player="fearofthedark666"/>
+   <action type="3" no="14" sum="€14,97" player="ThePokerBrat"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4151975104">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 2, 488055514</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:35:30</duration>
+  <gamecount>65</gamecount>
+  <startdate>2024-10-10 20:29:59</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€125,60</bets>
+  <wins>€65,68</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€67,82</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3937418343">
+  <general>
+   <startdate>2024-10-10 20:29:59</startdate>
+   <players>
+    <player seat="1" win="€18,11" name="Player 1" bet="€9,21" dealer="0" chips="€171,10"/>
+    <player seat="5" win="€0" name="Player 5" bet="€0" dealer="0" chips="€107,81"/>
+    <player seat="6" win="€0" name="Player 6" bet="€9,21" dealer="0" chips="€57,82"/>
+    <player seat="8" win="€0" name="Player 8" bet="€0" dealer="1" chips="€33,37"/>
+    <player seat="10" win="€0" name="Player 10" bet="€0,25" dealer="0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Player 10" sum="€0,25"/>
+   <action no="2" type="2" player="Player 1" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="3" type="0" player="Player 5" sum="€0"/>
+   <cards type="Pocket" player="Player 6">D9 SA</cards>
+   <action no="4" type="23" player="Player 6" sum="€1,25"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action no="5" type="0" player="Player 8" sum="€0"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action no="6" type="0" player="Player 10" sum="€0"/>
+   <cards type="Pocket" player="Player 1">DA SJ</cards>
+   <action no="7" type="3" player="Player 1" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 HA CA</cards>
+   <action no="8" type="4" player="Player 1" sum="€0"/>
+   <action no="9" type="5" player="Player 6" sum="€0,68"/>
+   <action no="10" type="23" player="Player 1" sum="€2,36"/>
+   <action no="11" type="3" player="Player 6" sum="€1,68"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action no="12" type="4" player="Player 1" sum="€0"/>
+   <action no="13" type="5" player="Player 6" sum="€5,60"/>
+   <action no="14" type="3" player="Player 1" sum="€5,60"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action no="15" type="4" player="Player 1" sum="€0"/>
+   <action no="16" type="4" player="Player 6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937418505">
+  <general>
+   <startdate>2024-10-10 20:30:58</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€1,10" dealer="0" chips="€180"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,81"/>
+    <player seat="6" win="€5,14" name="MonsterLeo" bet="€1,85" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="Joov" bet="€1,85" dealer="0" chips="€33,37"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="RRaimoRRakkaus" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">S6 S5</cards>
+   <action no="4" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="Joov">D3 S3</cards>
+   <action no="5" type="3" player="Joov" sum="€1,10"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="6" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="7" type="3" player="RRaimoRRakkaus" sum="€0,85"/>
+   <cards type="Pocket" player="13373678">DA H6</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 SK C2</cards>
+   <action no="9" type="4" player="RRaimoRRakkaus" sum="€0"/>
+   <action no="10" type="5" player="MonsterLeo" sum="€0,75"/>
+   <action no="11" type="3" player="Joov" sum="€0,75"/>
+   <action no="12" type="0" player="RRaimoRRakkaus" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="13" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="14" type="4" player="Joov" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action no="15" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="16" type="4" player="Joov" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937418804">
+  <general>
+   <startdate>2024-10-10 20:31:59</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="1" chips="€178,90"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€107,81"/>
+    <player seat="6" win="€1,25" name="MonsterLeo" bet="€1,10" dealer="0" chips="€53,29"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="0" chips="€31,52"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="4" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="5" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="6" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">DA D6</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937419096">
+  <general>
+   <startdate>2024-10-10 20:32:15</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€178,90"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€107,31"/>
+    <player seat="6" win="€0,50" name="MonsterLeo" bet="€0,50" dealer="0" chips="€54,04"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="0" chips="€31,52"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="3" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="4" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="5" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 DQ</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937419143">
+  <general>
+   <startdate>2024-10-10 20:32:28</startdate>
+   <players>
+    <player seat="1" win="€6,54" name="RRaimoRRakkaus" bet="€8,17" dealer="0" chips="€178,90"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€107,06"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€3,12" dealer="0" chips="€54,29"/>
+    <player seat="8" win="€0" name="Joov" bet="€0,50" dealer="0" chips="€31,52"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="Joov" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="3" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="4" type="23" player="RRaimoRRakkaus" sum="€1,10"/>
+   <cards type="Pocket" player="13373678">D2 C4</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="3" player="MonsterLeo" sum="€0,85"/>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="8" type="0" player="Joov" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D4 H6</cards>
+   <action no="9" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="10" type="4" player="RRaimoRRakkaus" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="11" type="5" player="MonsterLeo" sum="€2,02"/>
+   <action no="12" type="3" player="RRaimoRRakkaus" sum="€2,02"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action no="13" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="14" type="5" player="RRaimoRRakkaus" sum="€5,05"/>
+   <action no="15" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937420571">
+  <general>
+   <startdate>2024-10-10 20:33:34</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€182,32"/>
+    <player seat="3" win="€0" name="13373678" bet="€15,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,06"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="1" chips="€51,17"/>
+    <player seat="8" win="€30,55" name="Joov" bet="€15,50" dealer="0" chips="€31,02"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,50" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Joov" sum="€0,25"/>
+   <action no="2" type="2" player="jamimim" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="3" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">CQ HQ</cards>
+   <action no="4" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="Joov">C8 H10</cards>
+   <action no="7" type="3" player="Joov" sum="€1"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="8" type="0" player="jamimim" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C10 H2</cards>
+   <action no="9" type="4" player="Joov" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€2,25"/>
+   <action no="11" type="3" player="Joov" sum="€2,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action no="12" type="4" player="Joov" sum="€0"/>
+   <action no="13" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action no="14" type="5" player="Joov" sum="€12"/>
+   <action no="15" type="3" player="13373678" sum="€12"/>
+  </round>
+ </game>
+ <game gamecode="3937420685">
+  <general>
+   <startdate>2024-10-10 20:34:20</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,50" dealer="0" chips="€182,32"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€1,10" dealer="0" chips="€107,06"/>
+    <player seat="6" win="€2,95" name="MonsterLeo" bet="€3,70" dealer="0" chips="€51,17"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="1" chips="€46,07"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,25" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="jamimim" sum="€0,25"/>
+   <action no="2" type="2" player="RRaimoRRakkaus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 CQ</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="23" player="Kizaru" sum="€1,10"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="23" player="MonsterLeo" sum="€3,70"/>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="6" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="7" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="8" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <action no="9" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937421371">
+  <general>
+   <startdate>2024-10-10 20:34:44</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,25" dealer="0" chips="€181,82"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€105,96"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€53,02"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="0" chips="€46,07"/>
+    <player seat="10" win="€1,25" name="jamimim" bet="€1,25" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="RRaimoRRakkaus" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="5" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="6" type="23" player="jamimim" sum="€1,25"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="7" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">CK S5</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937421441">
+  <general>
+   <startdate>2024-10-10 20:35:06</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="1" chips="€181,57"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="5" win="€3,95" name="Kizaru" bet="€3,94" dealer="0" chips="€105,96"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€1,91" dealer="0" chips="€53,02"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="0" chips="€46,07"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="4" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="5" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="6" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S4 H9</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="3" player="Kizaru" sum="€0,60"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C7 S7</cards>
+   <action no="9" type="4" player="Kizaru" sum="€0"/>
+   <action no="10" type="5" player="MonsterLeo" sum="€0,81"/>
+   <action no="11" type="23" player="Kizaru" sum="€2,84"/>
+   <action no="12" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422106">
+  <general>
+   <startdate>2024-10-10 20:35:43</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€181,57"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€50"/>
+    <player seat="5" win="€1" name="Kizaru" bet="€1,25" dealer="0" chips="€108"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€51,11"/>
+    <player seat="8" win="€0" name="Joov" bet="€0" dealer="0" chips="€46,07"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Joov">X X</cards>
+   <action no="3" type="0" player="Joov" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="4" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="5" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 DK</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="23" player="Kizaru" sum="€1,25"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="8" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422183">
+  <general>
+   <startdate>2024-10-10 20:36:09</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€1,90" dealer="0" chips="€181,57"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€108,50"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50,61"/>
+    <player seat="10" win="€3,93" name="jamimim" bet="€3,95" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="jamimim" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="3" type="23" player="RRaimoRRakkaus" sum="€1,10"/>
+   <cards type="Pocket" player="13373678">D5 S3</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="7" type="3" player="jamimim" sum="€0,60"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D10 S2</cards>
+   <action no="8" type="4" player="jamimim" sum="€0"/>
+   <action no="9" type="5" player="RRaimoRRakkaus" sum="€0,80"/>
+   <action no="10" type="23" player="jamimim" sum="€2,85"/>
+   <action no="11" type="0" player="RRaimoRRakkaus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422277">
+  <general>
+   <startdate>2024-10-10 20:36:45</startdate>
+   <players>
+    <player seat="1" win="€0,50" name="RRaimoRRakkaus" bet="€0,50" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€108,50"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="1" chips="€50,36"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,25" dealer="0" chips="€52,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="jamimim" sum="€0,25"/>
+   <action no="2" type="2" player="RRaimoRRakkaus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <cards type="Pocket" player="13373678">C7 DK</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="6" type="0" player="jamimim" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422322">
+  <general>
+   <startdate>2024-10-10 20:36:57</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,25" dealer="0" chips="€179,92"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€108,50"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50,36"/>
+    <player seat="10" win="€1,25" name="jamimim" bet="€1,25" dealer="1" chips="€52,53"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="RRaimoRRakkaus" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="5" type="23" player="jamimim" sum="€1,25"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="6" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S10 C7</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422361">
+  <general>
+   <startdate>2024-10-10 20:37:12</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="1" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€108,50"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50,36"/>
+    <player seat="10" win="€1,25" name="jamimim" bet="€1,10" dealer="0" chips="€53,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="4" type="23" player="jamimim" sum="€1,10"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="5" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">DK S9</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422414">
+  <general>
+   <startdate>2024-10-10 20:37:32</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€108"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€50,36"/>
+    <player seat="10" win="€1,25" name="jamimim" bet="€1,10" dealer="0" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="3" type="23" player="jamimim" sum="€1,10"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="4" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S9 C4</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422468">
+  <general>
+   <startdate>2024-10-10 20:37:48</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€107,75"/>
+    <player seat="6" win="€1" name="MonsterLeo" bet="€1,50" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,50" dealer="0" chips="€54,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="jamimim" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="3" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 CA</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="23" player="MonsterLeo" sum="€1,50"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="7" type="0" player="jamimim" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422512">
+  <general>
+   <startdate>2024-10-10 20:38:04</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,50" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€1,25" name="MonsterLeo" bet="€1,25" dealer="1" chips="€50,50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,25" dealer="0" chips="€54,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="jamimim" sum="€0,25"/>
+   <action no="2" type="2" player="RRaimoRRakkaus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA H7</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="6" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="7" type="0" player="RRaimoRRakkaus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422529">
+  <general>
+   <startdate>2024-10-10 20:38:12</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,25" dealer="0" chips="€179,17"/>
+    <player seat="3" win="€5,58" name="13373678" bet="€7,25" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€2,75" dealer="0" chips="€51,25"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="1" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="RRaimoRRakkaus" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="5" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="6" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">SJ DK</cards>
+   <action no="7" type="3" player="13373678" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D2 HJ</cards>
+   <action no="8" type="4" player="13373678" sum="€0"/>
+   <action no="9" type="5" player="MonsterLeo" sum="€1,50"/>
+   <action no="10" type="23" player="13373678" sum="€6"/>
+   <action no="11" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422623">
+  <general>
+   <startdate>2024-10-10 20:38:46</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="RRaimoRRakkaus" bet="€1,25" dealer="1" chips="€178,92"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€52,83"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="4" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="5" type="23" player="RRaimoRRakkaus" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">S6 H8</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422641">
+  <general>
+   <startdate>2024-10-10 20:38:56</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€52,58"/>
+    <player seat="5" win="€1" name="Kizaru" bet="€1,50" dealer="0" chips="€107,25"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="3" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="4" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 HQ</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="23" player="Kizaru" sum="€1,50"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937422715">
+  <general>
+   <startdate>2024-10-10 20:39:25</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="RRaimoRRakkaus" bet="€1,10" dealer="0" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€52,58"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="3" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="4" type="23" player="RRaimoRRakkaus" sum="€1,10"/>
+   <cards type="Pocket" player="13373678">HA C9</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="8" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424088">
+  <general>
+   <startdate>2024-10-10 20:39:49</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0" dealer="0" chips="€180,42"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€52,58"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€1,25" name="MonsterLeo" bet="€1,25" dealer="1" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,50" dealer="0" chips="€54,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="jamimim" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="3" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">D10 S9</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="8" type="0" player="jamimim" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424229">
+  <general>
+   <startdate>2024-10-10 20:40:38</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,50" dealer="0" chips="€180,42"/>
+    <player seat="3" win="€0" name="13373678" bet="€1,25" dealer="0" chips="€52,58"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€3,75" dealer="0" chips="€50,75"/>
+    <player seat="8" win="€9,22" name="LK2277" bet="€8,50" dealer="1" chips="€50"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0,25" dealer="0" chips="€53,53"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="jamimim" sum="€0,25"/>
+   <action no="2" type="2" player="RRaimoRRakkaus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA C10</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="3" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="23" player="LK2277" sum="€3,75"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="7" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="8" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <action no="9" type="0" player="13373678" sum="€0"/>
+   <action no="10" type="3" player="MonsterLeo" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S6 H4</cards>
+   <action no="11" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="12" type="5" player="LK2277" sum="€4,75"/>
+   <action no="13" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424377">
+  <general>
+   <startdate>2024-10-10 20:41:28</startdate>
+   <players>
+    <player seat="1" win="€0" name="RRaimoRRakkaus" bet="€0,25" dealer="0" chips="€179,92"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€51,33"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="8" win="€1,25" name="LK2277" bet="€1,25" dealer="0" chips="€55,47"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="1" chips="€53,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="RRaimoRRakkaus" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="6" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="7" type="0" player="RRaimoRRakkaus" sum="€0"/>
+   <cards type="Pocket" player="13373678">C9 C2</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424427">
+  <general>
+   <startdate>2024-10-10 20:41:45</startdate>
+   <players>
+    <player seat="1" win="€9,25" name="RRaimoRRakkaus" bet="€9,30" dealer="1" chips="€179,67"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€50,83"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€107,75"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€1,10" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€56,22"/>
+    <player seat="10" win="€0" name="jamimim" bet="€3,70" dealer="0" chips="€53,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="5" type="23" player="jamimim" sum="€3,70"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="6" type="23" player="RRaimoRRakkaus" sum="€9,30"/>
+   <cards type="Pocket" player="13373678">SJ C8</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+   <action no="9" type="0" player="MonsterLeo" sum="€0"/>
+   <action no="10" type="0" player="jamimim" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424511">
+  <general>
+   <startdate>2024-10-10 20:42:17</startdate>
+   <players>
+    <player seat="1" win="€22,50" name="RRaimoRRakkaus" bet="€185,22" dealer="0" chips="€185,22"/>
+    <player seat="3" win="€0" name="13373678" bet="€10,25" dealer="1" chips="€50,58"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€107,25"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€1,25" dealer="0" chips="€56,22"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="4" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="5" type="23" player="RRaimoRRakkaus" sum="€4"/>
+   <cards type="Pocket" player="13373678">HK HJ</cards>
+   <action no="6" type="23" player="13373678" sum="€10,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="8" type="0" player="MonsterLeo" sum="€0"/>
+   <action no="9" type="0" player="LK2277" sum="€0"/>
+   <action no="10" type="23" player="RRaimoRRakkaus" sum="€185,22"/>
+   <action no="11" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424617">
+  <general>
+   <startdate>2024-10-10 20:42:53</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="RRaimoRRakkaus" bet="€1,10" dealer="0" chips="€197,47"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€107"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€54,97"/>
+    <player seat="10" win="€0" name="jamimim" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="jamimim">X X</cards>
+   <action no="3" type="0" player="jamimim" sum="€0"/>
+   <cards type="Pocket" player="RRaimoRRakkaus">X X</cards>
+   <action no="4" type="23" player="RRaimoRRakkaus" sum="€1,10"/>
+   <cards type="Pocket" player="13373678">S5 H8</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="8" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424675">
+  <general>
+   <startdate>2024-10-10 20:43:11</startdate>
+   <players>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€107"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="1" chips="€50"/>
+    <player seat="8" win="€1" name="LK2277" bet="€3,45" dealer="0" chips="€54,47"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="23" player="LK2277" sum="€3,45"/>
+   <cards type="Pocket" player="13373678">S4 D5</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424720">
+  <general>
+   <startdate>2024-10-10 20:43:28</startdate>
+   <players>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="5" win="€2,67" name="Kizaru" bet="€2,62" dealer="0" chips="€107"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€1,25" dealer="1" chips="€54,97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">S5 D7</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="3" player="Kizaru" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 H2 C6</cards>
+   <action no="7" type="4" player="Kizaru" sum="€0"/>
+   <action no="8" type="4" player="LK2277" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="9" type="5" player="Kizaru" sum="€1,37"/>
+   <action no="10" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937424794">
+  <general>
+   <startdate>2024-10-10 20:43:55</startdate>
+   <players>
+    <player seat="3" win="€4,42" name="13373678" bet="€2,15" dealer="1" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€108,42"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€2,15" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€53,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="13373678">H9 DQ</cards>
+   <action no="4" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">C8 H8</cards>
+   <action no="6" type="3" player="MonsterLeo" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S7 D9</cards>
+   <action no="7" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="8" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="9" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="10" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action no="11" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="12" type="5" player="13373678" sum="€0,90"/>
+   <action no="13" type="3" player="MonsterLeo" sum="€0,90"/>
+  </round>
+ </game>
+ <game gamecode="3937425214">
+  <general>
+   <startdate>2024-10-10 20:45:09</startdate>
+   <players>
+    <player seat="3" win="€0" name="13373678" bet="€1,25" dealer="0" chips="€52,27"/>
+    <player seat="5" win="€3,25" name="Kizaru" bet="€3,75" dealer="1" chips="€108,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€53,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C9</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="23" player="Kizaru" sum="€3,75"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="0" player="LK2277" sum="€0"/>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937425825">
+  <general>
+   <startdate>2024-10-10 20:45:25</startdate>
+   <players>
+    <player seat="3" win="€0" name="13373678" bet="€1,25" dealer="0" chips="€51,02"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€110,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="1" chips="€50"/>
+    <player seat="8" win="€3" name="LK2277" bet="€6" dealer="0" chips="€53,22"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,50" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK SJ</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="23" player="LK2277" sum="€6"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937425888">
+  <general>
+   <startdate>2024-10-10 20:45:44</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,50" dealer="0" chips="€20"/>
+    <player seat="3" win="€3,16" name="13373678" bet="€2,32" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€110,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€1,25" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="1" chips="€54,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,25" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ HA</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="3" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="8" type="0" player="Hippotek" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ HK HQ</cards>
+   <action no="9" type="5" player="13373678" sum="€1,07"/>
+   <action no="10" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937425952">
+  <general>
+   <startdate>2024-10-10 20:46:07</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€4,20" dealer="0" chips="€19,50"/>
+    <player seat="3" win="€9,50" name="13373678" bet="€10,30" dealer="0" chips="€51,91"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€110,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€1,10" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€54,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="23" player="Hippotek" sum="€4,20"/>
+   <cards type="Pocket" player="13373678">DA SQ</cards>
+   <action no="8" type="23" player="13373678" sum="€10,30"/>
+   <action no="9" type="0" player="MonsterLeo" sum="€0"/>
+   <action no="10" type="0" player="Hippotek" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937426089">
+  <general>
+   <startdate>2024-10-10 20:46:55</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€15,30"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€110,17"/>
+    <player seat="6" win="€1,25" name="MonsterLeo" bet="€1,10" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€54,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">CK C4</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937426672">
+  <general>
+   <startdate>2024-10-10 20:47:10</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€15,30"/>
+    <player seat="3" win="€1,25" name="13373678" bet="€1,25" dealer="1" chips="€56,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€109,67"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€50,75"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€54,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="4" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="5" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">S9 D8</cards>
+   <action no="6" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="8" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937426745">
+  <general>
+   <startdate>2024-10-10 20:47:37</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€15,30"/>
+    <player seat="3" win="€0" name="13373678" bet="€1,25" dealer="0" chips="€57,71"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€3,75" dealer="1" chips="€109,42"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50,25"/>
+    <player seat="8" win="€9" name="LK2277" bet="€10" dealer="0" chips="€54,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">S8 D8</cards>
+   <action no="5" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="23" player="Kizaru" sum="€3,75"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="8" type="23" player="LK2277" sum="€10"/>
+   <action no="9" type="0" player="13373678" sum="€0"/>
+   <action no="10" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428091">
+  <general>
+   <startdate>2024-10-10 20:48:08</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€15,30"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€105,67"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€2,16" dealer="1" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€60,22"/>
+    <player seat="10" win="€4,44" name="uwu2024" bet="€5,58" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="3" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 C4</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="8" type="3" player="uwu2024" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ H5 CJ</cards>
+   <action no="9" type="4" player="uwu2024" sum="€0"/>
+   <action no="10" type="5" player="MonsterLeo" sum="€0,91"/>
+   <action no="11" type="3" player="uwu2024" sum="€0,91"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action no="12" type="4" player="uwu2024" sum="€0"/>
+   <action no="13" type="4" player="MonsterLeo" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action no="14" type="5" player="uwu2024" sum="€3,42"/>
+   <action no="15" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428273">
+  <general>
+   <startdate>2024-10-10 20:49:12</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,50" dealer="0" chips="€15,30"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€105,67"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="8" win="€1,25" name="LK2277" bet="€1,25" dealer="1" chips="€59,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,25" dealer="0" chips="€52,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 D2</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="8" type="0" player="Hippotek" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428442">
+  <general>
+   <startdate>2024-10-10 20:49:35</startdate>
+   <players>
+    <player seat="1" win="€2,70" name="Hippotek" bet="€4,20" dealer="0" chips="€14,80"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€105,67"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€1,10" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€60,72"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€52,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="23" player="Hippotek" sum="€4,20"/>
+   <cards type="Pocket" player="13373678">S7 DJ</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+   <action no="9" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428522">
+  <general>
+   <startdate>2024-10-10 20:49:59</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€16,40"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€55,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€105,67"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€60,72"/>
+    <player seat="10" win="€1,25" name="uwu2024" bet="€1,15" dealer="0" chips="€52,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="23" player="uwu2024" sum="€1,15"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ DJ</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428570">
+  <general>
+   <startdate>2024-10-10 20:50:17</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€16,40"/>
+    <player seat="3" win="€1,25" name="13373678" bet="€1,25" dealer="1" chips="€55,71"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€105,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€60,72"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€52,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="4" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="5" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">CK H7</cards>
+   <action no="6" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="8" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428665">
+  <general>
+   <startdate>2024-10-10 20:50:50</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="Hippotek" bet="€1,50" dealer="0" chips="€16,40"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€104,92"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€60,72"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€52,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HJ H5</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="8" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937428732">
+  <general>
+   <startdate>2024-10-10 20:51:13</startdate>
+   <players>
+    <player seat="1" win="€33,51" name="Hippotek" bet="€17,15" dealer="0" chips="€17,15"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,92"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="1" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€60,22"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€17,15" dealer="0" chips="€52,78"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">HK CA</cards>
+   <action no="3" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">H2 D9</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">SJ CJ</cards>
+   <action no="8" type="23" player="uwu2024" sum="€5"/>
+   <action no="9" type="23" player="Hippotek" sum="€17,15"/>
+   <action no="10" type="3" player="uwu2024" sum="€12,15"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S9 DA</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+  </round>
+ </game>
+ <game gamecode="3937428854">
+  <general>
+   <startdate>2024-10-10 20:51:52</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,50" dealer="0" chips="€33,51"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,92"/>
+    <player seat="6" win="€30,77" name="MonsterLeo" bet="€15,49" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€15,49" dealer="1" chips="€59,97"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,25" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C7 S2</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">DA DQ</cards>
+   <action no="5" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">D5 D4</cards>
+   <action no="6" type="23" player="LK2277" sum="€3,75"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="8" type="0" player="Hippotek" sum="€0"/>
+   <action no="9" type="3" player="MonsterLeo" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H10 CQ</cards>
+   <action no="10" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="11" type="5" player="LK2277" sum="€2,72"/>
+   <action no="12" type="3" player="MonsterLeo" sum="€2,72"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action no="13" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="14" type="5" player="LK2277" sum="€9,02"/>
+   <action no="15" type="3" player="MonsterLeo" sum="€9,02"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action no="16" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="17" type="4" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937429076">
+  <general>
+   <startdate>2024-10-10 20:53:09</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,25" dealer="0" chips="€33,01"/>
+    <player seat="3" win="€0,50" name="13373678" bet="€0,50" dealer="0" chips="€56,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,92"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€65,28"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 DA</cards>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="0" player="Hippotek" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937429141">
+  <general>
+   <startdate>2024-10-10 20:53:30</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€32,76"/>
+    <player seat="3" win="€1" name="13373678" bet="€1,50" dealer="0" chips="€56,71"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€104,92"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€65,28"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK CJ</cards>
+   <action no="7" type="23" player="13373678" sum="€1,50"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937429205">
+  <general>
+   <startdate>2024-10-10 20:53:54</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€32,76"/>
+    <player seat="3" win="€1,25" name="13373678" bet="€1,25" dealer="1" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€104,42"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,50" dealer="0" chips="€65,28"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="MonsterLeo" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="4" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="5" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">SA D2</cards>
+   <action no="6" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="8" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937429816">
+  <general>
+   <startdate>2024-10-10 20:54:08</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="Hippotek" bet="€1,50" dealer="0" chips="€32,76"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€57,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€104,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0,25" dealer="0" chips="€64,78"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="MonsterLeo" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D7 HA</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="7" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="8" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937429877">
+  <general>
+   <startdate>2024-10-10 20:54:29</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€33,51"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€57,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€13,93" dealer="1" chips="€64,53"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€50"/>
+    <player seat="10" win="€27,26" name="uwu2024" bet="€35,01" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="3" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">HK C5</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="6" type="23" player="MonsterLeo" sum="€1,25"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="8" type="23" player="uwu2024" sum="€5,50"/>
+   <action no="9" type="3" player="MonsterLeo" sum="€4,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 SJ D5</cards>
+   <action no="10" type="4" player="uwu2024" sum="€0"/>
+   <action no="11" type="4" player="MonsterLeo" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="12" type="5" player="uwu2024" sum="€8,43"/>
+   <action no="13" type="3" player="MonsterLeo" sum="€8,43"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action no="14" type="5" player="uwu2024" sum="€21,08"/>
+   <action no="15" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937430065">
+  <general>
+   <startdate>2024-10-10 20:55:36</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,50" dealer="0" chips="€33,51"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€57,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50,60"/>
+    <player seat="8" win="€0" name="LK2277" bet="€1,25" dealer="1" chips="€50"/>
+    <player seat="10" win="€3" name="uwu2024" bet="€5,50" dealer="0" chips="€63,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 H8</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="5" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="23" player="uwu2024" sum="€5,50"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="8" type="0" player="Hippotek" sum="€0"/>
+   <action no="9" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431348">
+  <general>
+   <startdate>2024-10-10 20:56:04</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,25" dealer="0" chips="€33,01"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,50" dealer="0" chips="€57,96"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€104,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€6,47" dealer="0" chips="€50,60"/>
+    <player seat="8" win="€13,28" name="LK2277" bet="€15,49" dealer="0" chips="€50"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="4" type="23" player="MonsterLeo" sum="€1,10"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="23" player="LK2277" sum="€3,75"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">D9 DJ</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+   <action no="9" type="3" player="MonsterLeo" sum="€2,65"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S8 H2</cards>
+   <action no="10" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="11" type="5" player="LK2277" sum="€2,72"/>
+   <action no="12" type="3" player="MonsterLeo" sum="€2,72"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action no="13" type="4" player="MonsterLeo" sum="€0"/>
+   <action no="14" type="5" player="LK2277" sum="€9,02"/>
+   <action no="15" type="0" player="MonsterLeo" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431494">
+  <general>
+   <startdate>2024-10-10 20:56:54</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€32,76"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€57,46"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€104,17"/>
+    <player seat="6" win="€0" name="MonsterLeo" bet="€0" dealer="0" chips="€50"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€56,81"/>
+    <player seat="10" win="€1,25" name="uwu2024" bet="€1,15" dealer="0" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MonsterLeo">X X</cards>
+   <action no="3" type="0" player="MonsterLeo" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="23" player="uwu2024" sum="€1,15"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">S7 D3</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="8" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431551">
+  <general>
+   <startdate>2024-10-10 20:57:12</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="Hippotek" bet="€1,50" dealer="0" chips="€32,76"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,25" dealer="0" chips="€103,67"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€56,81"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€65,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CK C3</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431592">
+  <general>
+   <startdate>2024-10-10 20:57:27</startdate>
+   <players>
+    <player seat="1" win="€6,55" name="Hippotek" bet="€11,50" dealer="0" chips="€33,51"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€3" dealer="1" chips="€103,42"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€56,31"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,50" dealer="0" chips="€65,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="3" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C5 C2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="3" player="Kizaru" sum="€1,50"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S8 H7</cards>
+   <action no="8" type="5" player="Hippotek" sum="€1,50"/>
+   <action no="9" type="3" player="Kizaru" sum="€1,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action no="10" type="5" player="Hippotek" sum="€8,50"/>
+   <action no="11" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431740">
+  <general>
+   <startdate>2024-10-10 20:58:18</startdate>
+   <players>
+    <player seat="1" win="€2,75" name="Hippotek" bet="€6" dealer="0" chips="€37,06"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€100,42"/>
+    <player seat="8" win="€0" name="LK2277" bet="€1,25" dealer="1" chips="€56,06"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,25" dealer="0" chips="€65,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ H9</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="23" player="Hippotek" sum="€6"/>
+   <action no="8" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937431848">
+  <general>
+   <startdate>2024-10-10 20:58:56</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,25" dealer="0" chips="€38,56"/>
+    <player seat="3" win="€0" name="13373678" bet="€7,83" dealer="0" chips="€57,21"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€100,42"/>
+    <player seat="8" win="€15,43" name="LK2277" bet="€7,83" dealer="0" chips="€54,81"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">C7 C8</cards>
+   <action no="4" type="23" player="LK2277" sum="€1,25"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">S5 S7</cards>
+   <action no="7" type="3" player="13373678" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 DQ H2</cards>
+   <action no="8" type="4" player="13373678" sum="€0"/>
+   <action no="9" type="5" player="LK2277" sum="€0,90"/>
+   <action no="10" type="3" player="13373678" sum="€0,90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="11" type="4" player="13373678" sum="€0"/>
+   <action no="12" type="4" player="LK2277" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action no="13" type="5" player="13373678" sum="€5,68"/>
+   <action no="14" type="3" player="LK2277" sum="€5,68"/>
+  </round>
+ </game>
+ <game gamecode="3937432056">
+  <general>
+   <startdate>2024-10-10 21:00:07</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€38,31"/>
+    <player seat="3" win="€1" name="13373678" bet="€1,50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0,50" dealer="0" chips="€100,42"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€62,41"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="4" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="5" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 S10</cards>
+   <action no="6" type="23" player="13373678" sum="€1,50"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937432140">
+  <general>
+   <startdate>2024-10-10 21:00:30</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€38,31"/>
+    <player seat="3" win="€0" name="13373678" bet="€1,25" dealer="1" chips="€50,50"/>
+    <player seat="5" win="€3" name="Kizaru" bet="€5" dealer="0" chips="€99,92"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€62,41"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">S7 SJ</cards>
+   <action no="5" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="23" player="Kizaru" sum="€5"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937432198">
+  <general>
+   <startdate>2024-10-10 21:00:53</startdate>
+   <players>
+    <player seat="1" win="€1,25" name="Hippotek" bet="€1,50" dealer="0" chips="€38,31"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="1" chips="€101,67"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€61,91"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,50" dealer="0" chips="€65,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="3" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">DK S10</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937432497">
+  <general>
+   <startdate>2024-10-10 21:01:24</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,50" dealer="0" chips="€39,06"/>
+    <player seat="3" win="€36,27" name="13373678" bet="€50" dealer="0" chips="€50"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€101,67"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="1" chips="€61,66"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€18,45" dealer="0" chips="€64,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="uwu2024" sum="€0,25"/>
+   <action no="2" type="2" player="Hippotek" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SJ HJ</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="4" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="5" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="6" type="23" player="uwu2024" sum="€5,50"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="7" type="0" player="Hippotek" sum="€0"/>
+   <action no="8" type="3" player="13373678" sum="€4,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S8 C8</cards>
+   <action no="9" type="5" player="uwu2024" sum="€3,45"/>
+   <action no="10" type="3" player="13373678" sum="€3,45"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action no="11" type="5" player="uwu2024" sum="€9,50"/>
+   <action no="12" type="3" player="13373678" sum="€9,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action no="13" type="4" player="uwu2024" sum="€0"/>
+   <action no="14" type="5" player="13373678" sum="€31,55"/>
+   <action no="15" type="0" player="uwu2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937433321">
+  <general>
+   <startdate>2024-10-10 21:02:47</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0,25" dealer="0" chips="€38,56"/>
+    <player seat="3" win="€0,50" name="13373678" bet="€0,50" dealer="0" chips="€67,82"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€0" dealer="0" chips="€101,67"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€61,66"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Hippotek" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ D5</cards>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="3" type="0" player="Kizaru" sum="€0"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="4" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="5" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="6" type="0" player="Hippotek" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937434669">
+  <general>
+   <startdate>2024-10-10 21:03:18</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="1" chips="€38,31"/>
+    <player seat="3" win="€0" name="13373678" bet="€0,25" dealer="0" chips="€68,07"/>
+    <player seat="5" win="€0" name="Kizaru" bet="€1,15" dealer="0" chips="€101,67"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0" dealer="0" chips="€61,66"/>
+    <player seat="10" win="€2,48" name="uwu2024" bet="€1,91" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="Kizaru" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="3" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="4" type="23" player="uwu2024" sum="€1,15"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="5" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 SQ</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="7" type="3" player="Kizaru" sum="€0,65"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 DA S7</cards>
+   <action no="8" type="4" player="Kizaru" sum="€0"/>
+   <action no="9" type="5" player="uwu2024" sum="€0,76"/>
+   <action no="10" type="0" player="Kizaru" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937434771">
+  <general>
+   <startdate>2024-10-10 21:03:52</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€0" dealer="0" chips="€38,31"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="1" chips="€67,82"/>
+    <player seat="5" win="€1" name="Kizaru" bet="€1,50" dealer="0" chips="€100,52"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,50" dealer="0" chips="€61,66"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0" dealer="0" chips="€51,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Kizaru" sum="€0,25"/>
+   <action no="2" type="2" player="LK2277" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="3" type="0" player="uwu2024" sum="€0"/>
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="4" type="0" player="Hippotek" sum="€0"/>
+   <cards type="Pocket" player="13373678">H4 DK</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="6" type="23" player="Kizaru" sum="€1,50"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="7" type="0" player="LK2277" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937434816">
+  <general>
+   <startdate>2024-10-10 21:04:07</startdate>
+   <players>
+    <player seat="1" win="€0" name="Hippotek" bet="€6,18" dealer="0" chips="€38,31"/>
+    <player seat="3" win="€0" name="13373678" bet="€0" dealer="0" chips="€67,82"/>
+    <player seat="5" win="€12,72" name="Kizaru" bet="€9,45" dealer="1" chips="€101,02"/>
+    <player seat="8" win="€0" name="LK2277" bet="€0,25" dealer="0" chips="€61,16"/>
+    <player seat="10" win="€0" name="uwu2024" bet="€0,50" dealer="0" chips="€51,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="LK2277" sum="€0,25"/>
+   <action no="2" type="2" player="uwu2024" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hippotek">X X</cards>
+   <action no="3" type="23" player="Hippotek" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CJ D2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Kizaru">X X</cards>
+   <action no="5" type="23" player="Kizaru" sum="€4"/>
+   <cards type="Pocket" player="LK2277">X X</cards>
+   <action no="6" type="0" player="LK2277" sum="€0"/>
+   <cards type="Pocket" player="uwu2024">X X</cards>
+   <action no="7" type="0" player="uwu2024" sum="€0"/>
+   <action no="8" type="3" player="Hippotek" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D4 SQ</cards>
+   <action no="9" type="4" player="Hippotek" sum="€0"/>
+   <action no="10" type="5" player="Kizaru" sum="€2,18"/>
+   <action no="11" type="3" player="Hippotek" sum="€2,18"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action no="12" type="4" player="Hippotek" sum="€0"/>
+   <action no="13" type="5" player="Kizaru" sum="€3,27"/>
+   <action no="14" type="0" player="Hippotek" sum="€0"/>
+  </round>
+ </game>
+</session>

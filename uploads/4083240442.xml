@@ -1,0 +1,2902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083240442">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:46:51</duration>
+  <gamecount>88</gamecount>
+  <startdate>2022-09-12 00:00:05</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€180,80</bets>
+  <wins>€105,52</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€110,22</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3709708080">
+  <general>
+   <startdate>2022-09-12 00:00:05</startdate>
+   <players>
+    <player bet="€1" name="Player 1" win="€1" seat="1" dealer="0" chips="€222,95"/>
+    <player bet="€0" name="Player 3" win="€0" seat="3" dealer="0" chips="€131,27"/>
+    <player bet="€0" name="Player 5" win="€0" seat="5" dealer="0" chips="€141,75"/>
+    <player bet="€0" name="Player 6" win="€0" seat="6" dealer="1" chips="€329,01"/>
+    <player bet="€0,50" name="Player 8" win="€0" seat="8" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 8"/>
+   <action sum="€1" type="2" no="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 8"/>
+  </round>
+ </game>
+ <game gamecode="3709708100">
+  <general>
+   <startdate>2022-09-12 00:00:27</startdate>
+   <players>
+    <player bet="€2" name="Player 1" win="€1,94" seat="1" dealer="0" chips="€223,45"/>
+    <player bet="€1" name="Player 3" win="€0" seat="3" dealer="0" chips="€131,27"/>
+    <player bet="€0" name="Player 5" win="€0" seat="5" dealer="0" chips="€141,75"/>
+    <player bet="€0" name="Player 6" win="€0" seat="6" dealer="0" chips="€329,01"/>
+    <player bet="€0" name="Player 8" win="€0" seat="8" dealer="1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 1"/>
+   <action sum="€1" type="2" no="2" player="Player 3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 8"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0,50" type="3" no="6" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="4" no="7" player="Player 3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 CQ S10</cards>
+   <action sum="€1" type="5" no="8" player="Player 1"/>
+   <action sum="€0" type="0" no="9" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3709708141">
+  <general>
+   <startdate>2022-09-12 00:00:59</startdate>
+   <players>
+    <player bet="€2,25" name="Player 1" win="€0" seat="1" dealer="1" chips="€224,39"/>
+    <player bet="€0,50" name="Player 3" win="€0" seat="3" dealer="0" chips="€130,27"/>
+    <player bet="€1" name="Player 5" win="€0" seat="5" dealer="0" chips="€141,75"/>
+    <player bet="€0" name="Player 6" win="€0" seat="6" dealer="0" chips="€329,01"/>
+    <player bet="€5,25" name="Player 8" win="€5,82" seat="8" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 3"/>
+   <action sum="€1" type="2" no="2" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€2,25" type="23" no="4" player="Player 8"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€2,25" type="3" no="5" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ DA C4</cards>
+   <action sum="€3" type="5" no="8" player="Player 8"/>
+   <action sum="€0" type="0" no="9" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3709708194">
+  <general>
+   <startdate>2022-09-12 00:01:45</startdate>
+   <players>
+    <player bet="€5" name="Player 1" win="€0" seat="1" dealer="0" chips="€222,14"/>
+    <player bet="€0" name="Player 3" win="€0" seat="3" dealer="1" chips="€129,77"/>
+    <player bet="€0,50" name="Player 5" win="€0" seat="5" dealer="0" chips="€140,75"/>
+    <player bet="€8,04" name="Player 6" win="€10,19" seat="6" dealer="0" chips="€329,01"/>
+    <player bet="€0" name="Player 8" win="€0" seat="8" dealer="0" chips="€103,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 5"/>
+   <action sum="€1" type="2" no="2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 8"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€1" type="3" no="4" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€5" type="23" no="7" player="Player 6"/>
+   <action sum="€4" type="3" no="8" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 DA C4</cards>
+   <action sum="€3,04" type="5" no="9" player="Player 6"/>
+   <action sum="€0" type="0" no="10" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3709708255">
+  <general>
+   <startdate>2022-09-12 00:02:43</startdate>
+   <players>
+    <player bet="€0" name="Player 1" win="€0" seat="1" dealer="0" chips="€217,14"/>
+    <player bet="€0" name="Player 3" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€2,55" name="Player 5" win="€2,50" seat="5" dealer="1" chips="€140,25"/>
+    <player bet="€0,50" name="Player 6" win="€0" seat="6" dealer="0" chips="€334,20"/>
+    <player bet="€1" name="Player 8" win="€0" seat="8" dealer="0" chips="€103,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 6"/>
+   <action sum="€1" type="2" no="2" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€2,55" type="23" no="5" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 8"/>
+  </round>
+ </game>
+ <game gamecode="3709708300">
+  <general>
+   <startdate>2022-09-12 00:03:25</startdate>
+   <players>
+    <player bet="€5" name="MP1969" win="€0" seat="1" dealer="0" chips="€217,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€5" name="Lilibet" win="€11,16" seat="5" dealer="0" chips="€141,75"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€333,70"/>
+    <player bet="€0,50" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€102,57"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">CA C6</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">SA CK</cards>
+   <action sum="€5" type="23" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">S10 C4</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€4" type="3" no="9" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HJ S7</cards>
+   <action sum="€0" type="4" no="10" player="MP1969"/>
+   <action sum="€0" type="4" no="11" player="Lilibet"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€0" type="4" no="12" player="MP1969"/>
+   <action sum="€0" type="4" no="13" player="Lilibet"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€0" type="4" no="14" player="MP1969"/>
+   <action sum="€0" type="4" no="15" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709708343">
+  <general>
+   <startdate>2022-09-12 00:03:57</startdate>
+   <players>
+    <player bet="€3,62" name="MP1969" win="€0" seat="1" dealer="0" chips="€212,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€147,91"/>
+    <player bet="€9,81" name="DangerBeach" win="€7,51" seat="6" dealer="0" chips="€333,70"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="1" chips="€102,07"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€2,20" type="23" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">CA D5</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1,20" type="3" no="8" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S5 D2</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€1,42" type="5" no="10" player="DangerBeach"/>
+   <action sum="€1,42" type="3" no="11" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" type="4" no="12" player="MP1969"/>
+   <action sum="€6,19" type="5" no="13" player="DangerBeach"/>
+   <action sum="€0" type="0" no="14" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709708403">
+  <general>
+   <startdate>2022-09-12 00:04:48</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€208,52"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€147,91"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€337,59"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€102,07"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">S2 D2</cards>
+   <action sum="€2,50" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="8" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709708436">
+  <general>
+   <startdate>2022-09-12 00:05:10</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€208,02"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€128,77"/>
+    <player bet="€1" name="Lilibet" win="€0" seat="5" dealer="0" chips="€147,91"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€337,59"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€102,07"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">D6 C6</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="8" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709708473">
+  <general>
+   <startdate>2022-09-12 00:05:42</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€208,02"/>
+    <player bet="€2,50" name="IamOnTabZ" win="€2,50" seat="3" dealer="1" chips="€128,27"/>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,91"/>
+    <player bet="€1" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€337,59"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€102,07"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€103"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Lilibet"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">D5 C2</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="7" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="8" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709708499">
+  <general>
+   <startdate>2022-09-12 00:06:02</startdate>
+   <players>
+    <player bet="€10" name="MP1969" win="€0" seat="1" dealer="0" chips="€208,02"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="1" chips="€146,41"/>
+    <player bet="€22,60" name="DangerBeach" win="€20,37" seat="6" dealer="0" chips="€336,59"/>
+    <player bet="€1" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€102,07"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€103"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 D2</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="6" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€10" type="23" no="7" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="8" player="RutunVinkkari"/>
+   <action sum="€7,50" type="3" no="9" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA C8 H10</cards>
+   <action sum="€12,60" type="5" no="10" player="DangerBeach"/>
+   <action sum="€0" type="0" no="11" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709709325">
+  <general>
+   <startdate>2022-09-12 00:06:44</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€198,02"/>
+    <player bet="€4" name="IamOnTabZ" win="€3,50" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,41"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€346,96"/>
+    <player bet="€0,50" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€101,07"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€103"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€4" type="23" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">D10 H8</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€0" type="0" no="9" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709709361">
+  <general>
+   <startdate>2022-09-12 00:07:10</startdate>
+   <players>
+    <player bet="€3,62" name="MP1969" win="€7,51" seat="1" dealer="0" chips="€197,02"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€132,27"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,41"/>
+    <player bet="€3,62" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€346,96"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="1" chips="€100,57"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€102"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">H7 HJ</cards>
+   <action sum="€2,20" type="23" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">CA D9</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">H9 D8</cards>
+   <action sum="€1,20" type="3" no="8" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S7 D5</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€1,42" type="5" no="10" player="DangerBeach"/>
+   <action sum="€1,42" type="3" no="11" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" type="4" no="12" player="MP1969"/>
+   <action sum="€0" type="4" no="13" player="DangerBeach"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" type="4" no="14" player="MP1969"/>
+   <action sum="€0" type="4" no="15" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709709421">
+  <general>
+   <startdate>2022-09-12 00:08:03</startdate>
+   <players>
+    <player bet="€4" name="MP1969" win="€4,85" seat="1" dealer="0" chips="€200,91"/>
+    <player bet="€2,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€132,27"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,41"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€343,34"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€100,57"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">HJ D5</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0,50" type="3" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="4" no="8" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C9 D3</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€1,50" type="5" no="10" player="IamOnTabZ"/>
+   <action sum="€3" type="23" no="11" player="MP1969"/>
+   <action sum="€0" type="0" no="12" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709709473">
+  <general>
+   <startdate>2022-09-12 00:08:44</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€203,26"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,77"/>
+    <player bet="€1" name="Lilibet" win="€1" seat="5" dealer="0" chips="€146,41"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€343,34"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€100,57"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">C10 H8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709709499">
+  <general>
+   <startdate>2022-09-12 00:09:02</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€203,26"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€129,27"/>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,91"/>
+    <player bet="€2,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€343,34"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€100,57"/>
+    <player bet="€6,62" name="13373678" win="€5,34" seat="10" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Lilibet"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">S5 SA</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="7" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€1,50" type="3" no="8" player="DangerBeach"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D9 C5</cards>
+   <action sum="€0" type="4" no="9" player="DangerBeach"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€0" type="4" no="11" player="DangerBeach"/>
+   <action sum="€4,12" type="5" no="12" player="13373678"/>
+   <action sum="€0" type="0" no="13" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709709644">
+  <general>
+   <startdate>2022-09-12 00:10:05</startdate>
+   <players>
+    <player bet="€6,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€203,26"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,27"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="1" chips="€146,41"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€340,84"/>
+    <player bet="€6,50" name="RutunVinkkari" win="€15,52" seat="8" dealer="0" chips="€100,57"/>
+    <player bet="€2,50" name="13373678" win="€0" seat="10" dealer="0" chips="€104,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ CQ</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">HA H2</cards>
+   <action sum="€2,50" type="3" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="6" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">C7 D7</cards>
+   <action sum="€1,50" type="3" no="8" player="RutunVinkkari"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HK C3</cards>
+   <action sum="€0" type="4" no="9" player="RutunVinkkari"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+   <action sum="€0" type="4" no="11" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€0" type="4" no="12" player="RutunVinkkari"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+   <action sum="€4" type="5" no="14" player="MP1969"/>
+   <action sum="€4" type="3" no="15" player="RutunVinkkari"/>
+   <action sum="€0" type="0" no="16" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action sum="€0" type="4" no="17" player="RutunVinkkari"/>
+   <action sum="€0" type="4" no="18" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709709934">
+  <general>
+   <startdate>2022-09-12 00:11:06</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€196,76"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,27"/>
+    <player bet="€2,55" name="Lilibet" win="€0" seat="5" dealer="0" chips="€146,41"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€340,34"/>
+    <player bet="€9,75" name="RutunVinkkari" win="€6,10" seat="8" dealer="0" chips="€109,59"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€101,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€2,55" type="23" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€9,75" type="23" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">D6 H2</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€0" type="0" no="9" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709709963">
+  <general>
+   <startdate>2022-09-12 00:11:27</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€196,76"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,27"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="5" dealer="0" chips="€143,86"/>
+    <player bet="€2,20" name="DangerBeach" win="€2,50" seat="6" dealer="0" chips="€340,34"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="1" chips="€113,14"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€100,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€2,20" type="23" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">H6 S2</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="8" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709709990">
+  <general>
+   <startdate>2022-09-12 00:11:45</startdate>
+   <players>
+    <player bet="€2,55" name="MP1969" win="€0" seat="1" dealer="0" chips="€195,76"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€129,27"/>
+    <player bet="€5,55" name="Lilibet" win="€5,92" seat="5" dealer="0" chips="€143,86"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€341,84"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€113,14"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€100,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€2,55" type="23" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">SQ S6</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2,05" type="3" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="8" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D2 S4</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€3" type="5" no="10" player="Lilibet"/>
+   <action sum="€0" type="0" no="11" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710037">
+  <general>
+   <startdate>2022-09-12 00:12:23</startdate>
+   <players>
+    <player bet="€3" name="MP1969" win="€2,50" seat="1" dealer="1" chips="€193,21"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€128,27"/>
+    <player bet="€1" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€341,84"/>
+    <player bet="€0" name="RutunVinkkari" win="€0" seat="8" dealer="0" chips="€113,14"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€100,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="13373678">C10 H7</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€3" type="23" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709710061">
+  <general>
+   <startdate>2022-09-12 00:12:41</startdate>
+   <players>
+    <player bet="€2" name="MP1969" win="€2,50" seat="1" dealer="0" chips="€194,71"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€127,77"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€340,84"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€100,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2" type="23" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C6 H9</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709710081">
+  <general>
+   <startdate>2022-09-12 00:12:56</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€196,21"/>
+    <player bet="€36,98" name="IamOnTabZ" win="€44,09" seat="3" dealer="0" chips="€127,77"/>
+    <player bet="€21,98" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€340,34"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2" type="23" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€7" type="23" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">S2 DA</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <action sum="€5" type="3" no="7" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H8 C8</cards>
+   <action sum="€0" type="4" no="8" player="IamOnTabZ"/>
+   <action sum="€4,49" type="5" no="9" player="DangerBeach"/>
+   <action sum="€14,98" type="23" no="10" player="IamOnTabZ"/>
+   <action sum="€10,49" type="3" no="11" player="DangerBeach"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€15" type="5" no="12" player="IamOnTabZ"/>
+   <action sum="€0" type="0" no="13" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709710158">
+  <general>
+   <startdate>2022-09-12 00:14:08</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€195,21"/>
+    <player bet="€10,50" name="IamOnTabZ" win="€5,34" seat="3" dealer="0" chips="€149,88"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,36"/>
+    <player bet="€2,50" name="13373678" win="€0" seat="10" dealer="1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C4 C2</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€1,50" type="3" no="6" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SK H2</cards>
+   <action sum="€0" type="4" no="7" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€0" type="4" no="9" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€8" type="5" no="11" player="IamOnTabZ"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709710210">
+  <general>
+   <startdate>2022-09-12 00:15:00</startdate>
+   <players>
+    <player bet="€16,25" name="MP1969" win="€16" seat="1" dealer="1" chips="€194,71"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,72"/>
+    <player bet="€8" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,36"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 D3</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€5" type="23" no="6" player="DangerBeach"/>
+   <action sum="€4" type="3" no="7" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H2 H5</cards>
+   <action sum="€0" type="4" no="8" player="DangerBeach"/>
+   <action sum="€3" type="5" no="9" player="MP1969"/>
+   <action sum="€3" type="3" no="10" player="DangerBeach"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action sum="€0" type="4" no="11" player="DangerBeach"/>
+   <action sum="€8,25" type="5" no="12" player="MP1969"/>
+   <action sum="€0" type="0" no="13" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709710282">
+  <general>
+   <startdate>2022-09-12 00:15:56</startdate>
+   <players>
+    <player bet="€2,75" name="MP1969" win="€2,43" seat="1" dealer="0" chips="€202,71"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€152,22"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€310,36"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C4 D3</cards>
+   <action sum="€0" type="4" no="6" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H4 SJ</cards>
+   <action sum="€0" type="4" no="7" player="13373678"/>
+   <action sum="€0" type="4" no="8" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€1,75" type="5" no="10" player="MP1969"/>
+   <action sum="€0" type="0" no="11" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709710364">
+  <general>
+   <startdate>2022-09-12 00:17:02</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€204,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,22"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€309,86"/>
+    <player bet="€3" name="13373678" win="€2" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">D9 D5</cards>
+   <action sum="€3" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710387">
+  <general>
+   <startdate>2022-09-12 00:17:16</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€203,14"/>
+    <player bet="€1" name="IamOnTabZ" win="€1" seat="3" dealer="0" chips="€152,22"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€309,86"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€101"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">H2 D4</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710400">
+  <general>
+   <startdate>2022-09-12 00:17:24</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€202,64"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,72"/>
+    <player bet="€2,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€100"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€309,86"/>
+    <player bet="€6,62" name="13373678" win="€5,34" seat="10" dealer="0" chips="€101"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">HK SJ</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€1,50" type="3" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C5 H9</cards>
+   <action sum="€0" type="4" no="8" player="AllGlorytoJC"/>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" no="10" player="AllGlorytoJC"/>
+   <action sum="€4,12" type="5" no="11" player="13373678"/>
+   <action sum="€0" type="0" no="12" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709710536">
+  <general>
+   <startdate>2022-09-12 00:18:07</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€202,64"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€152,22"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€100"/>
+    <player bet="€1" name="DangerBeach" win="€1" seat="6" dealer="0" chips="€309,86"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€103,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <cards type="Pocket" player="13373678">D3 D6</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709710555">
+  <general>
+   <startdate>2022-09-12 00:18:20</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€202,64"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,22"/>
+    <player bet="€2,50" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€100"/>
+    <player bet="€10" name="DangerBeach" win="€6" seat="6" dealer="0" chips="€310,36"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€103,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€10" type="23" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">SJ DQ</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <action sum="€0" type="0" no="8" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709710577">
+  <general>
+   <startdate>2022-09-12 00:18:43</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€202,64"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,22"/>
+    <player bet="€3" name="AllGlorytoJC" win="€2,50" seat="5" dealer="0" chips="€100"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€313,86"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€102,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">HK D6</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710595">
+  <general>
+   <startdate>2022-09-12 00:18:59</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€201,64"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€152,22"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€101,50"/>
+    <player bet="€2,20" name="DangerBeach" win="€2,50" seat="6" dealer="0" chips="€313,86"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€102,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€2,20" type="23" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">SA H8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709710793">
+  <general>
+   <startdate>2022-09-12 00:19:14</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€201,14"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€151,22"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€101,50"/>
+    <player bet="€2,20" name="DangerBeach" win="€2,50" seat="6" dealer="0" chips="€315,36"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€102,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€2,20" type="23" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">H7 SK</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709710814">
+  <general>
+   <startdate>2022-09-12 00:19:28</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€201,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€150,72"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€100,50"/>
+    <player bet="€1" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€316,86"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="0" chips="€102,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ HK</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709710841">
+  <general>
+   <startdate>2022-09-12 00:19:48</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€201,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€150,72"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€100"/>
+    <player bet="€26" name="DangerBeach" win="€19,40" seat="6" dealer="0" chips="€315,86"/>
+    <player bet="€10" name="13373678" win="€0" seat="10" dealer="0" chips="€103,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€3" type="23" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">CQ CK</cards>
+   <action sum="€10" type="23" no="7" player="13373678"/>
+   <action sum="€7" type="3" no="8" player="DangerBeach"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 S10 H4</cards>
+   <action sum="€0" type="4" no="9" player="DangerBeach"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€16" type="5" no="11" player="DangerBeach"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709710890">
+  <general>
+   <startdate>2022-09-12 00:20:35</startdate>
+   <players>
+    <player bet="€3" name="MP1969" win="€0" seat="1" dealer="0" chips="€201,14"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€150,72"/>
+    <player bet="€6,25" name="AllGlorytoJC" win="€6,31" seat="5" dealer="0" chips="€100"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€325,26"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">H8 CK</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2" type="3" no="7" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S10 D2</cards>
+   <action sum="€0" type="4" no="8" player="MP1969"/>
+   <action sum="€3,25" type="5" no="9" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="10" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710914">
+  <general>
+   <startdate>2022-09-12 00:20:55</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€198,14"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€150,72"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€103,31"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">HA S2</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709710946">
+  <general>
+   <startdate>2022-09-12 00:21:19</startdate>
+   <players>
+    <player bet="€14,68" name="MP1969" win="€0" seat="1" dealer="1" chips="€197,64"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€149,72"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€103,31"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€37,82" name="13373678" win="€29,93" seat="10" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">H7 SA</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2,50" type="3" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 SJ S9</cards>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+   <action sum="€3,25" type="5" no="9" player="MP1969"/>
+   <action sum="€12,18" type="23" no="10" player="13373678"/>
+   <action sum="€8,93" type="3" no="11" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€23,14" type="5" no="12" player="13373678"/>
+   <action sum="€0" type="0" no="13" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709710998">
+  <general>
+   <startdate>2022-09-12 00:22:11</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€182,96"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€149,22"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€102,31"/>
+    <player bet="€1" name="DangerBeach" win="€1" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€116,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <cards type="Pocket" player="13373678">C7 SQ</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711007">
+  <general>
+   <startdate>2022-09-12 00:22:20</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€182,96"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€149,22"/>
+    <player bet="€2,50" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€101,81"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,76"/>
+    <player bet="€13" name="13373678" win="€5,50" seat="10" dealer="0" chips="€116,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">D9 S9</cards>
+   <action sum="€13" type="23" no="7" player="13373678"/>
+   <action sum="€0" type="0" no="8" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711041">
+  <general>
+   <startdate>2022-09-12 00:22:47</startdate>
+   <players>
+    <player bet="€3" name="MP1969" win="€0" seat="1" dealer="0" chips="€182,96"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€149,22"/>
+    <player bet="€5,14" name="AllGlorytoJC" win="€6,31" seat="5" dealer="0" chips="€100"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€325,26"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€119,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C4 S3</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2" type="3" no="7" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ SJ D9</cards>
+   <action sum="€0" type="4" no="8" player="MP1969"/>
+   <action sum="€2,14" type="5" no="9" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="10" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709711058">
+  <general>
+   <startdate>2022-09-12 00:23:08</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€179,96"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€149,22"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€103,31"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="1" chips="€119,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C8 H9</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709711071">
+  <general>
+   <startdate>2022-09-12 00:23:24</startdate>
+   <players>
+    <player bet="€5" name="MP1969" win="€0" seat="1" dealer="1" chips="€179,46"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€148,22"/>
+    <player bet="€10,25" name="AllGlorytoJC" win="€10,19" seat="5" dealer="0" chips="€103,31"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€120,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">D10 C7</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€5" type="23" no="7" player="AllGlorytoJC"/>
+   <action sum="€4" type="3" no="8" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H7 S9</cards>
+   <action sum="€0" type="4" no="9" player="AllGlorytoJC"/>
+   <action sum="€0" type="4" no="10" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action sum="€5,25" type="5" no="11" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="12" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709711093">
+  <general>
+   <startdate>2022-09-12 00:23:47</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€174,46"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€147,72"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€108,50"/>
+    <player bet="€1" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€325,26"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="0" chips="€120,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 C6</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709711107">
+  <general>
+   <startdate>2022-09-12 00:24:06</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€174,46"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,72"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€108"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€324,26"/>
+    <player bet="€1" name="13373678" win="€1" seat="10" dealer="0" chips="€122,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 CA</cards>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709711116">
+  <general>
+   <startdate>2022-09-12 00:24:16</startdate>
+   <players>
+    <player bet="€2" name="MP1969" win="€0" seat="1" dealer="0" chips="€174,46"/>
+    <player bet="€3,48" name="IamOnTabZ" win="€4,37" seat="3" dealer="0" chips="€147,72"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€108"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€323,76"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€122,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2" type="23" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">C10 H8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="7" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ H3 D3</cards>
+   <action sum="€0" type="4" no="8" player="MP1969"/>
+   <action sum="€1,48" type="5" no="9" player="IamOnTabZ"/>
+   <action sum="€0" type="0" no="10" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709711134">
+  <general>
+   <startdate>2022-09-12 00:24:39</startdate>
+   <players>
+    <player bet="€3,20" name="MP1969" win="€5,24" seat="1" dealer="0" chips="€172,46"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€150,09"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€108"/>
+    <player bet="€2,20" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€323,76"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€122,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€2,20" type="23" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">H10 C6</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1,70" type="3" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D6 DK</cards>
+   <action sum="€1" type="5" no="8" player="MP1969"/>
+   <action sum="€0" type="0" no="9" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709711167">
+  <general>
+   <startdate>2022-09-12 00:25:11</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€175,50"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€149,09"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€108"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€321,56"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="0" chips="€122,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">D5 C5</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711187">
+  <general>
+   <startdate>2022-09-12 00:25:31</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€175,50"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€148,59"/>
+    <player bet="€2,98" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€107"/>
+    <player bet="€11,68" name="13373678" win="€6,75" seat="10" dealer="0" chips="€123,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0,50" type="3" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HA S6</cards>
+   <action sum="€0" type="4" no="6" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 DA S10</cards>
+   <action sum="€1,98" type="5" no="7" player="AllGlorytoJC"/>
+   <action sum="€1,98" type="3" no="8" player="13373678"/>
+   <action sum="€0" type="0" no="9" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" type="4" no="10" player="AllGlorytoJC"/>
+   <action sum="€8,70" type="5" no="11" player="13373678"/>
+   <action sum="€0" type="0" no="12" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711221">
+  <general>
+   <startdate>2022-09-12 00:26:06</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€174,50"/>
+    <player bet="€2,30" name="IamOnTabZ" win="€2,50" seat="3" dealer="0" chips="€148,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€104,02"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€127,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2,30" type="23" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C3 C10</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709711339">
+  <general>
+   <startdate>2022-09-12 00:26:28</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€173,50"/>
+    <player bet="€2,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€150,09"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€104,02"/>
+    <player bet="€6,62" name="13373678" win="€5,34" seat="10" dealer="1" chips="€127,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D7 DK</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€1,50" type="3" no="6" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HQ C9</cards>
+   <action sum="€0" type="4" no="7" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" type="4" no="9" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€0" type="4" no="11" player="IamOnTabZ"/>
+   <action sum="€4,12" type="5" no="12" player="13373678"/>
+   <action sum="€0" type="0" no="13" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709711388">
+  <general>
+   <startdate>2022-09-12 00:27:09</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€173"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,59"/>
+    <player bet="€1" name="AllGlorytoJC" win="€1" seat="5" dealer="0" chips="€104,02"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="13373678">D3 H10</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709711397">
+  <general>
+   <startdate>2022-09-12 00:27:18</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€173"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€147,09"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€104,52"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€1" seat="8" dealer="0" chips="€100"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <cards type="Pocket" player="13373678">S9 S5</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711410">
+  <general>
+   <startdate>2022-09-12 00:27:30</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€173"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€2,50" name="AllGlorytoJC" win="€2,50" seat="5" dealer="1" chips="€104,02"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€100,50"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="6" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C7 H10</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709711424">
+  <general>
+   <startdate>2022-09-12 00:27:46</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€173"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€3" name="AllGlorytoJC" win="€2,50" seat="5" dealer="0" chips="€105,52"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="1" chips="€100"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€128,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H6 HJ</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709711438">
+  <general>
+   <startdate>2022-09-12 00:28:03</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€172"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€107,02"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€100"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="1" chips="€128,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">CQ CJ</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709711451">
+  <general>
+   <startdate>2022-09-12 00:28:23</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€171,50"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€146,09"/>
+    <player bet="€2,30" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€107,02"/>
+    <player bet="€3,83" name="CykaJa3ve3da" win="€4,95" seat="8" dealer="0" chips="€100"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,30" type="23" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C2 C7</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€1,30" type="3" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S8 H2</cards>
+   <action sum="€0" type="4" no="8" player="AllGlorytoJC"/>
+   <action sum="€1,53" type="5" no="9" player="CykaJa3ve3da"/>
+   <action sum="€0" type="0" no="10" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709711628">
+  <general>
+   <startdate>2022-09-12 00:28:54</startdate>
+   <players>
+    <player bet="€2,30" name="MP1969" win="€0" seat="1" dealer="0" chips="€171,50"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€145,59"/>
+    <player bet="€28,22" name="AllGlorytoJC" win="€59,20" seat="5" dealer="0" chips="€104,72"/>
+    <player bet="€2,30" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€321,56"/>
+    <player bet="€28,22" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€102,65"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">HA HK</cards>
+   <action sum="€2,30" type="23" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H4 D10</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2,30" type="3" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">SQ DJ</cards>
+   <action sum="€1,80" type="3" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€1,30" type="3" no="8" player="DangerBeach"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S10 H3</cards>
+   <action sum="€3,03" type="5" no="9" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="10" player="DangerBeach"/>
+   <action sum="€10,66" type="23" no="11" player="CykaJa3ve3da"/>
+   <action sum="€0" type="0" no="12" player="MP1969"/>
+   <action sum="€7,63" type="3" no="13" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€0" type="4" no="14" player="AllGlorytoJC"/>
+   <action sum="€0" type="4" no="15" player="CykaJa3ve3da"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€15,26" type="5" no="16" player="AllGlorytoJC"/>
+   <action sum="€15,26" type="3" no="17" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3709712418">
+  <general>
+   <startdate>2022-09-12 00:30:08</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€169,20"/>
+    <player bet="€2,30" name="IamOnTabZ" win="€2,50" seat="3" dealer="0" chips="€145,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€135,70"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€319,26"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€100"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 S4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2,30" type="23" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="8" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3709712450">
+  <general>
+   <startdate>2022-09-12 00:30:58</startdate>
+   <players>
+    <player bet="€5" name="MP1969" win="€0" seat="1" dealer="0" chips="€169,20"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€10,75" name="AllGlorytoJC" win="€11,16" seat="5" dealer="0" chips="€135,70"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€318,76"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€100"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€129,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€5" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="7" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">D3 SK</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€4" type="3" no="9" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S8 C2</cards>
+   <action sum="€0" type="4" no="10" player="MP1969"/>
+   <action sum="€5,75" type="5" no="11" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="12" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709712477">
+  <general>
+   <startdate>2022-09-12 00:31:33</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€164,20"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€3" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€141,86"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,76"/>
+    <player bet="€9" name="CykaJa3ve3da" win="€7,50" seat="8" dealer="1" chips="€100"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€128,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€9" type="23" no="6" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H10 D6</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="8" player="MP1969"/>
+   <action sum="€0" type="0" no="9" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709712498">
+  <general>
+   <startdate>2022-09-12 00:32:01</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€163,20"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€147,09"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€138,86"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,76"/>
+    <player bet="€7,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€104,50"/>
+    <player bet="€7,50" name="13373678" win="€16" seat="10" dealer="1" chips="€128,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">S5 H5</cards>
+   <action sum="€2,30" type="23" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C6 H6</cards>
+   <action sum="€7,50" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="8" player="IamOnTabZ"/>
+   <action sum="€5,20" type="3" no="9" player="CykaJa3ve3da"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H9 SJ</cards>
+   <action sum="€0" type="4" no="10" player="CykaJa3ve3da"/>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€0" type="4" no="12" player="CykaJa3ve3da"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action sum="€0" type="4" no="14" player="CykaJa3ve3da"/>
+   <action sum="€0" type="4" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712575">
+  <general>
+   <startdate>2022-09-12 00:33:43</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€162,70"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€146,09"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€138,86"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,76"/>
+    <player bet="€2,30" name="CykaJa3ve3da" win="€2,50" seat="8" dealer="0" chips="€100"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€136,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,30" type="23" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H2 CQ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="8" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709712596">
+  <general>
+   <startdate>2022-09-12 00:34:05</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€162,70"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€145,59"/>
+    <player bet="€12" name="AllGlorytoJC" win="€6" seat="5" dealer="0" chips="€137,86"/>
+    <player bet="€1" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€318,76"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€2,50" name="13373678" win="€0" seat="10" dealer="0" chips="€136,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C4 CK</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€12" type="23" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="8" player="DangerBeach"/>
+   <action sum="€0" type="0" no="9" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712615">
+  <general>
+   <startdate>2022-09-12 00:34:31</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€162,70"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€145,59"/>
+    <player bet="€18,75" name="AllGlorytoJC" win="€18,91" seat="5" dealer="1" chips="€141,36"/>
+    <player bet="€0,50" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€317,76"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€9" name="13373678" win="€0" seat="10" dealer="0" chips="€134,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S4 D4</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€9" type="23" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="7" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="8" player="CykaJa3ve3da"/>
+   <action sum="€6,50" type="3" no="9" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C8 HJ</cards>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+   <action sum="€9,75" type="5" no="11" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712646">
+  <general>
+   <startdate>2022-09-12 00:35:12</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€162,70"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€145,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€151,27"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€317,26"/>
+    <player bet="€2,50" name="CykaJa3ve3da" win="€2" seat="8" dealer="0" chips="€100,50"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€125,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,50" type="23" no="7" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">D6 HK</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712655">
+  <general>
+   <startdate>2022-09-12 00:35:25</startdate>
+   <players>
+    <player bet="€3" name="MP1969" win="€0" seat="1" dealer="0" chips="€162,70"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€145,59"/>
+    <player bet="€7,29" name="AllGlorytoJC" win="€6,31" seat="5" dealer="0" chips="€151,27"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€317,26"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="1" chips="€101,50"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€124,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="6" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C3 C4</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2" type="3" no="8" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S7 D9</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€4,29" type="5" no="10" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="11" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709712677">
+  <general>
+   <startdate>2022-09-12 00:35:57</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,70"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€145,59"/>
+    <player bet="€3" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€154,58"/>
+    <player bet="€10" name="DangerBeach" win="€7,50" seat="6" dealer="0" chips="€317,26"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€10" type="23" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">HQ H6</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="8" player="IamOnTabZ"/>
+   <action sum="€0" type="0" no="9" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709712707">
+  <general>
+   <startdate>2022-09-12 00:36:28</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="1" chips="€159,20"/>
+    <player bet="€4,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€144,59"/>
+    <player bet="€4,50" name="AllGlorytoJC" win="€8,73" seat="5" dealer="0" chips="€151,58"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€321,76"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C3 HA</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">CA S6</cards>
+   <action sum="€3" type="23" no="7" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">DA S7</cards>
+   <action sum="€2" type="3" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ SQ D3</cards>
+   <action sum="€1,50" type="5" no="9" player="IamOnTabZ"/>
+   <action sum="€1,50" type="3" no="10" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" type="4" no="11" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="12" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" type="4" no="13" player="IamOnTabZ"/>
+   <action sum="€0" type="4" no="14" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709712845">
+  <general>
+   <startdate>2022-09-12 00:37:08</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,20"/>
+    <player bet="€2,50" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€140,09"/>
+    <player bet="€59,75" name="AllGlorytoJC" win="€120" seat="5" dealer="0" chips="€155,81"/>
+    <player bet="€59,75" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€321,76"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C10 C7</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="5" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">CK DK</cards>
+   <action sum="€10" type="23" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">CA SK</cards>
+   <action sum="€24,50" type="23" no="8" player="DangerBeach"/>
+   <action sum="€0" type="0" no="9" player="IamOnTabZ"/>
+   <action sum="€14,50" type="3" no="10" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S9 C4</cards>
+   <action sum="€0" type="4" no="11" player="AllGlorytoJC"/>
+   <action sum="€11" type="5" no="12" player="DangerBeach"/>
+   <action sum="€11" type="3" no="13" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" type="4" no="14" player="AllGlorytoJC"/>
+   <action sum="€0" type="4" no="15" player="DangerBeach"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€24,25" type="5" no="16" player="AllGlorytoJC"/>
+   <action sum="€24,25" type="3" no="17" player="DangerBeach"/>
+  </round>
+ </game>
+ <game gamecode="3709713031">
+  <general>
+   <startdate>2022-09-12 00:38:32</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,20"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€137,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€216,06"/>
+    <player bet="€3" name="DangerBeach" win="€2" seat="6" dealer="0" chips="€262,01"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="DangerBeach"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK H9</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€3" type="23" no="7" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="8" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3709713043">
+  <general>
+   <startdate>2022-09-12 00:38:52</startdate>
+   <players>
+    <player bet="€0" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,20"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€137,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="1" chips="€263,01"/>
+    <player bet="€2,50" name="CykaJa3ve3da" win="€2" seat="8" dealer="0" chips="€100,50"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="6" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,50" type="23" no="7" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C5 HK</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713060">
+  <general>
+   <startdate>2022-09-12 00:39:08</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,20"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€137,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€263,01"/>
+    <player bet="€2,20" name="CykaJa3ve3da" win="€2,50" seat="8" dealer="1" chips="€101,50"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€122,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="5" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,20" type="23" no="6" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C6 D7</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="8" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709713076">
+  <general>
+   <startdate>2022-09-12 00:39:25</startdate>
+   <players>
+    <player bet="€2,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€158,20"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€137,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€263,01"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€4,48" name="13373678" win="€5,82" seat="10" dealer="1" chips="€122,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="4" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C5 CA</cards>
+   <action sum="€2,50" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2" type="3" no="7" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="8" player="IamOnTabZ"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C6 D5</cards>
+   <action sum="€0" type="4" no="9" player="MP1969"/>
+   <action sum="€1,98" type="5" no="10" player="13373678"/>
+   <action sum="€0" type="0" no="11" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709713103">
+  <general>
+   <startdate>2022-09-12 00:40:00</startdate>
+   <players>
+    <player bet="€7,05" name="MP1969" win="€6,31" seat="1" dealer="1" chips="€155,70"/>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€136,59"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€0" name="DangerBeach" win="€0" seat="6" dealer="0" chips="€263,01"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€2,50" name="13373678" win="€0" seat="10" dealer="0" chips="€125,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action sum="€0" type="0" no="3" player="DangerBeach"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H3 C3</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€2,50" type="3" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ DK SA</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€4,55" type="5" no="10" player="MP1969"/>
+   <action sum="€0" type="0" no="11" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713134">
+  <general>
+   <startdate>2022-09-12 00:40:50</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€159,51"/>
+    <player bet="€5" name="IamOnTabZ" win="€3,50" seat="3" dealer="1" chips="€136,09"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€215,06"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="0" chips="€123,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA D8</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="4" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€5" type="23" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="7" player="CykaJa3ve3da"/>
+   <action sum="€0" type="0" no="8" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709713154">
+  <general>
+   <startdate>2022-09-12 00:41:10</startdate>
+   <players>
+    <player bet="€20,65" name="MP1969" win="€16,90" seat="1" dealer="0" chips="€158,51"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€138,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€214,56"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€102"/>
+    <player bet="€8,46" name="13373678" win="€0" seat="10" dealer="0" chips="€123,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€1" type="3" no="3" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="6" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C6 CA</cards>
+   <action sum="€5" type="23" no="7" player="13373678"/>
+   <action sum="€4" type="3" no="8" player="MP1969"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 DJ DQ</cards>
+   <action sum="€3,46" type="5" no="9" player="13373678"/>
+   <action sum="€3,46" type="3" no="10" player="MP1969"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+   <action sum="€12,19" type="5" no="12" player="MP1969"/>
+   <action sum="€0" type="0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713207">
+  <general>
+   <startdate>2022-09-12 00:42:25</startdate>
+   <players>
+    <player bet="€1" name="MP1969" win="€0" seat="1" dealer="0" chips="€166,95"/>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€138,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€214,56"/>
+    <player bet="€2,20" name="CykaJa3ve3da" win="€2,50" seat="8" dealer="1" chips="€101,50"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€114,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="MP1969"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,20" type="23" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H9 SK</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="7" player="MP1969"/>
+  </round>
+ </game>
+ <game gamecode="3709713244">
+  <general>
+   <startdate>2022-09-12 00:43:16</startdate>
+   <players>
+    <player bet="€0,50" name="MP1969" win="€0" seat="1" dealer="0" chips="€165,95"/>
+    <player bet="€1" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€138,59"/>
+    <player bet="€3" name="AllGlorytoJC" win="€2,50" seat="5" dealer="0" chips="€214,56"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€114,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="MP1969"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H7 SQ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MP1969">X X</cards>
+   <action sum="€0" type="0" no="6" player="MP1969"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="7" player="IamOnTabZ"/>
+  </round>
+ </game>
+ <game gamecode="3709713264">
+  <general>
+   <startdate>2022-09-12 00:43:36</startdate>
+   <players>
+    <player bet="€0" name="IamOnTabZ" win="€0" seat="3" dealer="1" chips="€137,59"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€1" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€2,50" name="13373678" win="€2,50" seat="10" dealer="0" chips="€114,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 HQ</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="4" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="6" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3709713278">
+  <general>
+   <startdate>2022-09-12 00:43:50</startdate>
+   <players>
+    <player bet="€2,30" name="IamOnTabZ" win="€2,50" seat="3" dealer="0" chips="€137,59"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="1" chips="€215,56"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€102"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€115,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€2,30" type="23" no="3" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="5" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C5 DJ</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713308">
+  <general>
+   <startdate>2022-09-12 00:44:32</startdate>
+   <players>
+    <player bet="€1" name="IamOnTabZ" win="€1" seat="3" dealer="0" chips="€139,09"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€215,56"/>
+    <player bet="€0" name="CykaJa3ve3da" win="€0" seat="8" dealer="1" chips="€101,50"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€114,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="IamOnTabZ"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H2 CJ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713325">
+  <general>
+   <startdate>2022-09-12 00:44:46</startdate>
+   <players>
+    <player bet="€0,50" name="IamOnTabZ" win="€0" seat="3" dealer="0" chips="€139,59"/>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€215,56"/>
+    <player bet="€2,30" name="CykaJa3ve3da" win="€2,50" seat="8" dealer="0" chips="€101,50"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€114,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="IamOnTabZ"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,30" type="23" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C3 DA</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="IamOnTabZ">X X</cards>
+   <action sum="€0" type="0" no="5" player="IamOnTabZ"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709713366">
+  <general>
+   <startdate>2022-09-12 00:45:10</startdate>
+   <players>
+    <player bet="€2,50" name="AllGlorytoJC" win="€2,50" seat="5" dealer="1" chips="€214,56"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€103"/>
+    <player bet="€1" name="13373678" win="€0" seat="10" dealer="0" chips="€114,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H10 H5</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713460">
+  <general>
+   <startdate>2022-09-12 00:45:25</startdate>
+   <players>
+    <player bet="€1" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€216,06"/>
+    <player bet="€2,20" name="CykaJa3ve3da" win="€2,50" seat="8" dealer="1" chips="€102,50"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="10" dealer="0" chips="€113,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2,20" type="23" no="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">D10 C9</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709713580">
+  <general>
+   <startdate>2022-09-12 00:45:49</startdate>
+   <players>
+    <player bet="€6" name="AllGlorytoJC" win="€0" seat="5" dealer="0" chips="€215,06"/>
+    <player bet="€12" name="CykaJa3ve3da" win="€11,64" seat="8" dealer="0" chips="€104"/>
+    <player bet="€0" name="13373678" win="€0" seat="10" dealer="1" chips="€112,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€1" type="2" no="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 S9</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€3" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€2" type="3" no="5" player="CykaJa3ve3da"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D6 CA</cards>
+   <action sum="€3" type="5" no="6" player="AllGlorytoJC"/>
+   <action sum="€9" type="23" no="7" player="CykaJa3ve3da"/>
+   <action sum="€0" type="0" no="8" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709713610">
+  <general>
+   <startdate>2022-09-12 00:46:28</startdate>
+   <players>
+    <player bet="€6,13" name="AllGlorytoJC" win="€5,34" seat="5" dealer="1" chips="€209,06"/>
+    <player bet="€0,50" name="CykaJa3ve3da" win="€0" seat="8" dealer="0" chips="€109,64"/>
+    <player bet="€2,50" name="13373678" win="€0" seat="10" dealer="0" chips="€112,72"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="CykaJa3ve3da"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" type="0" no="4" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">C8 SA</cards>
+   <action sum="€1,50" type="3" no="5" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK D9 H10</cards>
+   <action sum="€0" type="4" no="6" player="13373678"/>
+   <action sum="€3,63" type="5" no="7" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+</session>

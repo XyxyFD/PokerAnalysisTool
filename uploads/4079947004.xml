@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4079947004">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:32</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-07-30 23:29:11</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€7,50</bets>
+  <wins>€1,50</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€45,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3698913200">
+  <general>
+   <startdate>2022-07-30 23:29:11</startdate>
+   <players>
+    <player name="Player 1" seat="1" chips="€49,25" win="€0,50" bet="€0,50" dealer="0"/>
+    <player name="Player 5" seat="5" chips="€50,69" win="€0" bet="€0,25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" sum="€0,25" no="1"/>
+   <action player="Player 1" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3698913211">
+  <general>
+   <startdate>2022-07-30 23:29:18</startdate>
+   <players>
+    <player name="Player 1" seat="1" chips="€49,50" win="€1,94" bet="€2" dealer="1"/>
+    <player name="Player 5" seat="5" chips="€50,44" win="€0" bet="€1" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" sum="€0,25" no="1"/>
+   <action player="Player 5" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="23" sum="€1" no="3"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="3" sum="€0,50" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S6 D10</cards>
+   <action player="Player 5" type="4" sum="€0" no="5"/>
+   <action player="Player 1" type="4" sum="€0" no="6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="Player 5" type="4" sum="€0" no="7"/>
+   <action player="Player 1" type="4" sum="€0" no="8"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action player="Player 5" type="4" sum="€0" no="9"/>
+   <action player="Player 1" type="5" sum="€1" no="10"/>
+   <action player="Player 5" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3698913272">
+  <general>
+   <startdate>2022-07-30 23:29:49</startdate>
+   <players>
+    <player name="BRIII" seat="1" chips="€50,44" win="€0" bet="€0,25" dealer="0"/>
+    <player name="13373678" seat="3" chips="€50" win="€0,50" bet="€0,50" dealer="0"/>
+    <player name="1254879896" seat="5" chips="€50" win="€0" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BRIII" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ S7</cards>
+   <cards player="1254879896" type="Pocket">X X</cards>
+   <action player="1254879896" type="0" sum="€0" no="3"/>
+   <cards player="BRIII" type="Pocket">X X</cards>
+   <action player="BRIII" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3698913283">
+  <general>
+   <startdate>2022-07-30 23:29:56</startdate>
+   <players>
+    <player name="BRIII" seat="1" chips="€50,19" win="€0" bet="€0" dealer="1"/>
+    <player name="13373678" seat="3" chips="€50,25" win="€1" bet="€1,50" dealer="0"/>
+    <player name="1254879896" seat="5" chips="€50" win="€0" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="1254879896" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BRIII" type="Pocket">X X</cards>
+   <action player="BRIII" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">HA HK</cards>
+   <action player="13373678" type="23" sum="€1,50" no="4"/>
+   <cards player="1254879896" type="Pocket">X X</cards>
+   <action player="1254879896" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3698913314">
+  <general>
+   <startdate>2022-07-30 23:30:11</startdate>
+   <players>
+    <player name="13373678" seat="3" chips="€50,75" win="€0" bet="€5,50" dealer="0"/>
+    <player name="1254879896" seat="5" chips="€50" win="€11" bet="€12,50" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1254879896" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1254879896" type="Pocket">X X</cards>
+   <action player="1254879896" type="23" sum="€1" no="3"/>
+   <cards player="13373678" type="Pocket">H8 HK</cards>
+   <action player="13373678" type="23" sum="€5,50" no="4"/>
+   <action player="1254879896" type="23" sum="€12,50" no="5"/>
+   <action player="13373678" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+</session>

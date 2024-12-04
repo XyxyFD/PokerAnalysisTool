@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4072363419">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:43:43</duration>
+  <gamecount>78</gamecount>
+  <startdate>2022-04-12 14:23:16</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€96,37</bets>
+  <wins>€40</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€53,04</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3672990508">
+  <general>
+   <startdate>2022-04-12 14:23:16</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€76,99" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 CJ</cards>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990523">
+  <general>
+   <startdate>2022-04-12 14:23:25</startdate>
+   <players>
+    <player name="AllOver" bet="€1,45" chips="€76,99" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50,25" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€4,60" chips="€50" seat="8" win="€3,06" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">SQ D5</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="3" player="snakes" sum="€0,95"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 HJ D10</cards>
+   <action no="7" type="4" player="snakes" sum="€0"/>
+   <action no="8" type="4" player="AllOver" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="9" type="5" player="snakes" sum="€3,15"/>
+   <action no="10" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990567">
+  <general>
+   <startdate>2022-04-12 14:23:52</startdate>
+   <players>
+    <player name="AllOver" bet="€4,90" chips="€75,54" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€10,17" chips="€50" seat="6" win="€10,24" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€51,61" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0,50" chips="€50" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="GERALTvonRIVA" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 D9</cards>
+   <action no="5" type="23" player="13373678" sum="€4,90"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <action no="8" type="3" player="AllOver" sum="€3,45"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ H2 DQ</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€5,27"/>
+   <action no="11" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990612">
+  <general>
+   <startdate>2022-04-12 14:24:24</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€3,27" chips="€70,64" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€6,91" chips="€51,36" seat="8" win="€7,07" dealer="1"/>
+    <player name="GERALTvonRIVA" bet="€0,25" chips="€50" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="GERALTvonRIVA" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C4 S7</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="3" player="snakes" sum="€1,45"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S3 H9</cards>
+   <action no="9" type="5" player="AllOver" sum="€1,82"/>
+   <action no="10" type="3" player="snakes" sum="€1,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action no="11" type="4" player="AllOver" sum="€0"/>
+   <action no="12" type="5" player="snakes" sum="€3,64"/>
+   <action no="13" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990754">
+  <general>
+   <startdate>2022-04-12 14:24:59</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€67,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50" seat="5" win="€1,25" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€55,16" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€50" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">H9 SQ</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="6" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990780">
+  <general>
+   <startdate>2022-04-12 14:25:17</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€0,25" chips="€66,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50,75" seat="5" win="€0,50" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€55,16" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€50" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <cards type="Pocket" player="13373678">H9 DK</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="5" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990816">
+  <general>
+   <startdate>2022-04-12 14:25:38</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€66,62" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€51" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1" chips="€55,16" seat="8" win="€1,25" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€50" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="23" player="snakes" sum="€1"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="4" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S4 D3</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990841">
+  <general>
+   <startdate>2022-04-12 14:25:56</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€10,41" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€66,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€54,84" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€10,41" chips="€55,91" seat="8" win="€20,44" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€50" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="3" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">DA CK</cards>
+   <action no="4" type="23" player="SAFEM00N" sum="€1,25"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D9 DQ</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">S5 S3</cards>
+   <action no="8" type="3" player="snakes" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H5 DJ</cards>
+   <action no="9" type="4" player="snakes" sum="€0"/>
+   <action no="10" type="5" player="SAFEM00N" sum="€1,65"/>
+   <action no="11" type="3" player="snakes" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="12" type="4" player="snakes" sum="€0"/>
+   <action no="13" type="5" player="SAFEM00N" sum="€4"/>
+   <action no="14" type="3" player="snakes" sum="€4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action no="15" type="4" player="snakes" sum="€0"/>
+   <action no="16" type="5" player="SAFEM00N" sum="€3,51"/>
+   <action no="17" type="3" player="snakes" sum="€3,51"/>
+  </round>
+ </game>
+ <game gamecode="3672990952">
+  <general>
+   <startdate>2022-04-12 14:27:19</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€66,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€54,59" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€6,40" chips="€65,94" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€16,38" chips="€50" seat="10" win="€12,42" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="GERALTvonRIVA" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D6 H9</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="3" player="snakes" sum="€0,25"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="8" type="23" player="GERALTvonRIVA" sum="€2,50"/>
+   <action no="9" type="3" player="snakes" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 S9 S5</cards>
+   <action no="10" type="4" player="snakes" sum="€0"/>
+   <action no="11" type="4" player="GERALTvonRIVA" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action no="12" type="4" player="snakes" sum="€0"/>
+   <action no="13" type="5" player="GERALTvonRIVA" sum="€3,90"/>
+   <action no="14" type="3" player="snakes" sum="€3,90"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action no="15" type="4" player="snakes" sum="€0"/>
+   <action no="16" type="5" player="GERALTvonRIVA" sum="€9,98"/>
+   <action no="17" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672990995">
+  <general>
+   <startdate>2022-04-12 14:27:52</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€66,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€54,59" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€59,54" seat="8" win="€1,22" dealer="1"/>
+    <player name="GERALTvonRIVA" bet="€0,25" chips="€56,02" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="GERALTvonRIVA" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ S6</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">H2 H10</cards>
+   <action no="6" type="3" player="snakes" sum="€0,50"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">C7 D5</cards>
+   <action no="8" type="4" player="SAFEM00N" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CA DQ</cards>
+   <action no="9" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="10" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action no="11" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="12" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action no="13" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="14" type="4" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991038">
+  <general>
+   <startdate>2022-04-12 14:28:20</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€66,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1" chips="€54,59" seat="6" win="€1,25" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€60,26" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,77" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C8 CQ</cards>
+   <action no="4" type="23" player="13373678" sum="€1"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="6" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991057">
+  <general>
+   <startdate>2022-04-12 14:28:34</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€3,75" chips="€66,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€7,75" chips="€60,26" seat="8" win="€7,76" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,77" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ H4</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="5" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="3" player="AllOver" sum="€1,50"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D10 C2</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="5" player="snakes" sum="€2"/>
+   <action no="11" type="3" player="AllOver" sum="€2"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action no="12" type="4" player="AllOver" sum="€0"/>
+   <action no="13" type="5" player="snakes" sum="€4"/>
+   <action no="14" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991129">
+  <general>
+   <startdate>2022-04-12 14:29:14</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€62,37" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€55,34" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€64,27" seat="8" win="€1,25" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,77" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="4" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C8 D10</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991153">
+  <general>
+   <startdate>2022-04-12 14:29:30</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€62,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€54,84" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€65,02" seat="8" win="€0,50" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,77" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="3" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 D3</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991187">
+  <general>
+   <startdate>2022-04-12 14:29:51</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€62,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50" seat="5" win="€1,25" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€54,59" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€65,27" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0,50" chips="€55,77" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="GERALTvonRIVA" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C5 HQ</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="8" type="0" player="GERALTvonRIVA" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991234">
+  <general>
+   <startdate>2022-04-12 14:30:23</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€50" seat="1" win="€0,50" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€62,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€54,59" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€65,02" seat="8" win="€0" dealer="1"/>
+    <player name="GERALTvonRIVA" bet="€0,25" chips="€55,27" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="GERALTvonRIVA" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S10 C4</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991255">
+  <general>
+   <startdate>2022-04-12 14:30:36</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€50,25" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€62,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50,75" seat="5" win="€1,25" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€54,59" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€65,02" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,02" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D7 HJ</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="6" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991291">
+  <general>
+   <startdate>2022-04-12 14:31:00</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€0,25" chips="€61,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,25" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€2,15" chips="€54,59" seat="6" win="€2,67" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€65,02" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,02" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA SJ</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="5" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="3" player="PKeinonen" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D3 C5</cards>
+   <action no="9" type="4" player="PKeinonen" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€0,90"/>
+   <action no="11" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991375">
+  <general>
+   <startdate>2022-04-12 14:31:49</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€61,62" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50,25" seat="5" win="€1" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€56,01" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€65,02" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,02" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="4" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C2 D4</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991513">
+  <general>
+   <startdate>2022-04-12 14:32:18</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,25" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€5" chips="€61,62" seat="3" win="€3,25" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€55,51" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€65,02" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€55,02" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="3" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="23" player="SAFEM00N" sum="€1,25"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="23" player="AllOver" sum="€5"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S6 S2</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="0" player="snakes" sum="€0"/>
+   <action no="9" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991547">
+  <general>
+   <startdate>2022-04-12 14:32:43</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€63,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€10,19" chips="€55,26" seat="6" win="€8,73" dealer="1"/>
+    <player name="snakes" bet="€4,25" chips="€64,52" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0,50" chips="€55,02" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="GERALTvonRIVA" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C4 CK</cards>
+   <action no="6" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="23" player="snakes" sum="€4,25"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="8" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <action no="9" type="3" player="13373678" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C7 SK</cards>
+   <action no="10" type="4" player="snakes" sum="€0"/>
+   <action no="11" type="5" player="13373678" sum="€5,94"/>
+   <action no="12" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991645">
+  <general>
+   <startdate>2022-04-12 14:33:57</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,50" chips="€50" seat="1" win="€1,22" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€63,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€59,74" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€60,27" seat="8" win="€0" dealer="1"/>
+    <player name="GERALTvonRIVA" bet="€0,25" chips="€54,52" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="GERALTvonRIVA" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">CQ D8</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="3" player="snakes" sum="€0,50"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="4" player="SAFEM00N" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D10 H6</cards>
+   <action no="9" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="10" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action no="11" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="12" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action no="13" type="5" player="SAFEM00N" sum="€1"/>
+   <action no="14" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672991772">
+  <general>
+   <startdate>2022-04-12 14:35:37</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€50,72" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€63,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50,75" seat="5" win="€1,25" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€59,74" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€59,77" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€54,27" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S2 SA</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="6" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672992652">
+  <general>
+   <startdate>2022-04-12 14:36:11</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50,47" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€1,25" chips="€63,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1,25" chips="€59,74" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€4,57" chips="€59,77" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€8,69" chips="€54,27" seat="10" win="€11,78" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ SK</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="3" player="snakes" sum="€1,25"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="5" type="3" player="GERALTvonRIVA" sum="€1,25"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="3" player="AllOver" sum="€1"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C8 S10</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="4" player="13373678" sum="€0"/>
+   <action no="11" type="4" player="snakes" sum="€0"/>
+   <action no="12" type="5" player="GERALTvonRIVA" sum="€3,32"/>
+   <action no="13" type="0" player="AllOver" sum="€0"/>
+   <action no="14" type="0" player="13373678" sum="€0"/>
+   <action no="15" type="3" player="snakes" sum="€3,32"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="16" type="4" player="snakes" sum="€0"/>
+   <action no="17" type="5" player="GERALTvonRIVA" sum="€4,12"/>
+   <action no="18" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672992765">
+  <general>
+   <startdate>2022-04-12 14:37:28</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50,47" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€61,87" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€51" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€58,49" seat="6" win="€0,50" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€55,20" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 C8</cards>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="4" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672992792">
+  <general>
+   <startdate>2022-04-12 14:37:45</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50,47" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€61,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50,75" seat="5" win="€1,25" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€58,74" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€55,20" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="3" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">H8 D9</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672992814">
+  <general>
+   <startdate>2022-04-12 14:38:02</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€50,47" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€61,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€58,49" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€54,70" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0,50" chips="€61,48" seat="10" win="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="GERALTvonRIVA" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">CJ S6</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672992866">
+  <general>
+   <startdate>2022-04-12 14:38:36</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€11,40" chips="€50,47" seat="1" win="€13,10" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€61,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1,25" chips="€58,49" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€6" chips="€54,45" seat="8" win="€0" dealer="1"/>
+    <player name="GERALTvonRIVA" bet="€0,25" chips="€61,73" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="GERALTvonRIVA" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK S8</cards>
+   <action no="5" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="3" player="snakes" sum="€1,25"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="7" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="23" player="SAFEM00N" sum="€6"/>
+   <action no="9" type="0" player="13373678" sum="€0"/>
+   <action no="10" type="3" player="snakes" sum="€4,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S4 C9</cards>
+   <action no="11" type="5" player="SAFEM00N" sum="€5,40"/>
+   <action no="12" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993147">
+  <general>
+   <startdate>2022-04-12 14:39:12</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,50" chips="€57,57" seat="1" win="€1" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€61,87" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€57,24" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€48,45" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ D2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="6" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="23" player="SAFEM00N" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993182">
+  <general>
+   <startdate>2022-04-12 14:39:31</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€58,07" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€1,25" chips="€61,37" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,25" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1,25" chips="€57,24" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€6,25" chips="€48,45" seat="8" win="€4,85" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ SA</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="3" player="snakes" sum="€1,25"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="5" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="3" player="AllOver" sum="€1"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="3" player="PKeinonen" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C5 H10</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="4" player="PKeinonen" sum="€0"/>
+   <action no="11" type="4" player="13373678" sum="€0"/>
+   <action no="12" type="5" player="snakes" sum="€5"/>
+   <action no="13" type="0" player="AllOver" sum="€0"/>
+   <action no="14" type="0" player="PKeinonen" sum="€0"/>
+   <action no="15" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993343">
+  <general>
+   <startdate>2022-04-12 14:40:19</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,25" chips="€58,07" seat="1" win="€1,25" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€60,12" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€55,99" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€52,05" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="4" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="23" player="SAFEM00N" sum="€1,25"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 HA</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993370">
+  <general>
+   <startdate>2022-04-12 14:40:37</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€58,82" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50" seat="5" win="€1,25" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€55,49" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€52,05" seat="8" win="€0" dealer="0"/>
+    <player name="GERALTvonRIVA" bet="€0" chips="€61,48" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action no="3" type="0" player="GERALTvonRIVA" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S9 D2</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993394">
+  <general>
+   <startdate>2022-04-12 14:40:51</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€58,82" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50,75" seat="5" win="€1,25" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€55,24" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€51,55" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C2 HQ</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993419">
+  <general>
+   <startdate>2022-04-12 14:41:06</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€58,32" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€19,86" chips="€55,24" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€51,30" chips="€51,30" seat="8" win="€39,25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 D5</cards>
+   <action no="4" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="3" player="snakes" sum="€1,25"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H3 S6</cards>
+   <action no="8" type="5" player="13373678" sum="€2,14"/>
+   <action no="9" type="3" player="snakes" sum="€2,14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action no="10" type="5" player="13373678" sum="€4,96"/>
+   <action no="11" type="3" player="snakes" sum="€4,96"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action no="12" type="5" player="13373678" sum="€11,51"/>
+   <action no="13" type="23" player="snakes" sum="€42,95"/>
+   <action no="14" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993477">
+  <general>
+   <startdate>2022-04-12 14:41:50</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€58,07" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€0,25" chips="€59,62" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€51,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€2,25" chips="€70,69" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€4,87" chips="€24,50" seat="10" win="€5,10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+   <action no="3" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 D4</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="23" player="snakes" sum="€2,25"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="3" player="tyoehtosopimus" sum="€1,75"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="9" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA H6 CQ</cards>
+   <action no="10" type="4" player="snakes" sum="€0"/>
+   <action no="11" type="5" player="tyoehtosopimus" sum="€2,62"/>
+   <action no="12" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993519">
+  <general>
+   <startdate>2022-04-12 14:42:26</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€58,07" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€1,45" chips="€59,37" seat="3" win="€1,25" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€51" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€68,44" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€27,35" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C3 S2</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993549">
+  <general>
+   <startdate>2022-04-12 14:42:42</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,25" chips="€58,07" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€2,62" chips="€68,44" seat="8" win="€2,67" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€27,35" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="23" player="SAFEM00N" sum="€1,25"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C6 C4</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="3" player="snakes" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C2 C8</cards>
+   <action no="9" type="4" player="snakes" sum="€0"/>
+   <action no="10" type="4" player="SAFEM00N" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action no="11" type="5" player="snakes" sum="€1,37"/>
+   <action no="12" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993597">
+  <general>
+   <startdate>2022-04-12 14:43:14</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,25" chips="€56,82" seat="1" win="€1,25" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€69,86" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0,50" chips="€27,35" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="23" player="SAFEM00N" sum="€1,25"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S5 D9</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="8" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993628">
+  <general>
+   <startdate>2022-04-12 14:43:30</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€57,57" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€1,45" chips="€60,12" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€5,40" chips="€69,61" seat="8" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€9,40" chips="€26,85" seat="10" win="€12,37" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S5 DJ</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="3" player="snakes" sum="€1,45"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="23" player="tyoehtosopimus" sum="€5,40"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="0" player="SAFEM00N" sum="€0"/>
+   <action no="9" type="0" player="AllOver" sum="€0"/>
+   <action no="10" type="3" player="snakes" sum="€3,95"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 DA HJ</cards>
+   <action no="11" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="12" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="13" type="5" player="tyoehtosopimus" sum="€4"/>
+   <action no="14" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993737">
+  <general>
+   <startdate>2022-04-12 14:44:37</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,75" chips="€57,07" seat="1" win="€1,70" dealer="0"/>
+    <player name="AllOver" bet="€1,75" chips="€58,67" seat="3" win="€1,70" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€64,21" seat="8" win="€1,70" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€33,82" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">H6 C2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">DQ CK</cards>
+   <action no="5" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">SQ DA</cards>
+   <action no="7" type="3" player="SAFEM00N" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">S9 SJ</cards>
+   <action no="8" type="3" player="AllOver" sum="€1,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H8 C5</cards>
+   <action no="9" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="10" type="4" player="AllOver" sum="€0"/>
+   <action no="11" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="12" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="13" type="4" player="AllOver" sum="€0"/>
+   <action no="14" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action no="15" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="16" type="4" player="AllOver" sum="€0"/>
+   <action no="17" type="4" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993806">
+  <general>
+   <startdate>2022-04-12 14:45:19</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,02" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€17,75" chips="€58,62" seat="3" win="€34,91" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50,75" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€17,75" chips="€64,16" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€33,82" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 D4</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">S10 SJ</cards>
+   <action no="4" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">DA H8</cards>
+   <action no="7" type="3" player="AllOver" sum="€1,50"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C7 SA</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="5" player="snakes" sum="€4"/>
+   <action no="11" type="3" player="AllOver" sum="€4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="12" type="4" player="AllOver" sum="€0"/>
+   <action no="13" type="5" player="snakes" sum="€12"/>
+   <action no="14" type="3" player="AllOver" sum="€12"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action no="15" type="4" player="AllOver" sum="€0"/>
+   <action no="16" type="4" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993868">
+  <general>
+   <startdate>2022-04-12 14:45:59</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,02" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€6" chips="€75,78" seat="3" win="€4,13" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€46,41" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€33,82" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="3" player="AllOver" sum="€1,75"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 C9</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D9 S9</cards>
+   <action no="9" type="4" player="snakes" sum="€0"/>
+   <action no="10" type="5" player="AllOver" sum="€4,25"/>
+   <action no="11" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993897">
+  <general>
+   <startdate>2022-04-12 14:46:19</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,02" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€3,87" chips="€78,16" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€3,87" chips="€44,66" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€12,17" chips="€33,82" seat="10" win="€11,51" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="3" player="AllOver" sum="€1,50"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">H10 C3</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="3" player="snakes" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA SJ H5</cards>
+   <action no="9" type="4" player="snakes" sum="€0"/>
+   <action no="10" type="5" player="tyoehtosopimus" sum="€2,37"/>
+   <action no="11" type="3" player="AllOver" sum="€2,37"/>
+   <action no="12" type="3" player="snakes" sum="€2,37"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action no="13" type="4" player="snakes" sum="€0"/>
+   <action no="14" type="5" player="tyoehtosopimus" sum="€8,30"/>
+   <action no="15" type="0" player="AllOver" sum="€0"/>
+   <action no="16" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993940">
+  <general>
+   <startdate>2022-04-12 14:46:50</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,02" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€1,45" chips="€74,29" seat="3" win="€1,25" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€40,79" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0,50" chips="€41,46" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C9 DQ</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="8" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672993961">
+  <general>
+   <startdate>2022-04-12 14:47:03</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€2,50" chips="€57,02" seat="1" win="€1,94" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€75,04" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€40,54" seat="8" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€1" chips="€40,96" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">H6 CA</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="3" player="tyoehtosopimus" sum="€0,25"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="4" player="SAFEM00N" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SK S3</cards>
+   <action no="9" type="5" player="tyoehtosopimus" sum="€0,50"/>
+   <action no="10" type="3" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="11" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="12" type="5" player="SAFEM00N" sum="€1,50"/>
+   <action no="13" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672994251">
+  <general>
+   <startdate>2022-04-12 14:47:47</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€57,96" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€75,04" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€40,54" seat="8" win="€1,25" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€39,96" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ H6</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672994276">
+  <general>
+   <startdate>2022-04-12 14:48:07</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,71" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€0,25" chips="€74,54" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€41,29" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€1,50" chips="€39,96" seat="10" win="€1,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA D5</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672994310">
+  <general>
+   <startdate>2022-04-12 14:48:28</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€57,71" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€74,29" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€1,50" chips="€50" seat="5" win="€1" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€41,29" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€40,71" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S7 S3</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672994371">
+  <general>
+   <startdate>2022-04-12 14:49:04</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€2,52" chips="€57,71" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€74,29" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€2,52" chips="€50,50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€6,94" chips="€40,71" seat="10" win="€7,58" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="23" player="SAFEM00N" sum="€1,10"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="3" player="PKeinonen" sum="€1,10"/>
+   <cards type="Pocket" player="13373678">S6 S9</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="3" player="tyoehtosopimus" sum="€0,60"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 SQ DJ</cards>
+   <action no="8" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="9" type="5" player="SAFEM00N" sum="€1,42"/>
+   <action no="10" type="3" player="PKeinonen" sum="€1,42"/>
+   <action no="11" type="23" player="tyoehtosopimus" sum="€5,84"/>
+   <action no="12" type="0" player="SAFEM00N" sum="€0"/>
+   <action no="13" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995303">
+  <general>
+   <startdate>2022-04-12 14:50:20</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,50" chips="€55,19" seat="1" win="€0,50" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€74,29" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€45,77" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK H3</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995333">
+  <general>
+   <startdate>2022-04-12 14:50:40</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€55,44" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0,50" chips="€74,29" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€50" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,75" chips="€41,29" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€45,52" chips="€45,52" seat="10" win="€91,04" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+   <action no="3" type="2" player="snakes" sum="€0,75"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">D10 C10</cards>
+   <action no="4" type="23" player="PKeinonen" sum="€2"/>
+   <cards type="Pocket" player="13373678">C9 D3</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">DA HA</cards>
+   <action no="7" type="23" player="tyoehtosopimus" sum="€6"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="9" type="0" player="AllOver" sum="€0"/>
+   <action no="10" type="23" player="PKeinonen" sum="€50"/>
+   <action no="11" type="7" player="tyoehtosopimus" sum="€39,52"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S4 SK</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+  </round>
+ </game>
+ <game gamecode="3672995402">
+  <general>
+   <startdate>2022-04-12 14:51:32</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€55,19" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€1,45" chips="€73,79" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€3,48" chips="€50" seat="5" win="€2,82" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€91,04" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S4 H5</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="3" player="PKeinonen" sum="€0,95"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HA H8</cards>
+   <action no="8" type="4" player="AllOver" sum="€0"/>
+   <action no="9" type="4" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action no="10" type="4" player="AllOver" sum="€0"/>
+   <action no="11" type="5" player="PKeinonen" sum="€2,03"/>
+   <action no="12" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995525">
+  <general>
+   <startdate>2022-04-12 14:52:01</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€55,19" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€72,34" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€51,37" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0,50" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€91,04" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DJ H4</cards>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995540">
+  <general>
+   <startdate>2022-04-12 14:52:13</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€55,19" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€72,34" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€1,50" chips="€51,12" seat="5" win="€1,25" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50,25" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€40,54" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€91,04" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D10 D2</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="8" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995597">
+  <general>
+   <startdate>2022-04-12 14:52:48</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,50" chips="€55,19" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€72,34" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,87" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€5" chips="€40,04" seat="8" win="€3,50" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0,50" chips="€91,04" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="23" player="SAFEM00N" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C3 S6</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="23" player="snakes" sum="€5"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="8" type="0" player="tyoehtosopimus" sum="€0"/>
+   <action no="9" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995624">
+  <general>
+   <startdate>2022-04-12 14:53:07</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€1,45" chips="€53,69" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€3,90" chips="€72,34" seat="3" win="€3,06" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€51,87" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€42,04" seat="8" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€90,54" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="SAFEM00N" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 H3</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="8" type="3" player="SAFEM00N" sum="€0,95"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C7 D2</cards>
+   <action no="9" type="4" player="SAFEM00N" sum="€0"/>
+   <action no="10" type="5" player="AllOver" sum="€2,45"/>
+   <action no="11" type="0" player="SAFEM00N" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995660">
+  <general>
+   <startdate>2022-04-12 14:53:31</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0,25" chips="€52,24" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€8,57" chips="€73,95" seat="3" win="€16,87" dealer="0"/>
+    <player name="PKeinonen" bet="€8,57" chips="€51,87" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€42,04" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€90,29" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="SAFEM00N" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">SQ SJ</cards>
+   <action no="3" type="23" player="PKeinonen" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CQ H6</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="7" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">H5 D5</cards>
+   <action no="8" type="3" player="AllOver" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H8 HJ</cards>
+   <action no="9" type="4" player="AllOver" sum="€0"/>
+   <action no="10" type="5" player="PKeinonen" sum="€2"/>
+   <action no="11" type="3" player="AllOver" sum="€2"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action no="12" type="4" player="AllOver" sum="€0"/>
+   <action no="13" type="5" player="PKeinonen" sum="€5,07"/>
+   <action no="14" type="3" player="AllOver" sum="€5,07"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="15" type="4" player="AllOver" sum="€0"/>
+   <action no="16" type="4" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995734">
+  <general>
+   <startdate>2022-04-12 14:54:26</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€51,99" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€1,45" chips="€82,25" seat="3" win="€1" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€42,04" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€90,29" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 DK</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="6" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="23" player="AllOver" sum="€1,45"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995772">
+  <general>
+   <startdate>2022-04-12 14:54:55</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€51,99" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€82,75" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€50" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€1,50" chips="€90,29" seat="10" win="€1,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="5" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S6 HJ</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995801">
+  <general>
+   <startdate>2022-04-12 14:55:15</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€51,99" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€82,75" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€50" seat="8" win="€0,50" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€91,04" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="4" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">CQ S4</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995833">
+  <general>
+   <startdate>2022-04-12 14:55:37</startdate>
+   <players>
+    <player name="SAFEM00N" bet="€0" chips="€51,99" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€82,75" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€12,54" chips="€50" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€50,25" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€30,27" chips="€91,04" seat="10" win="€24,57" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SAFEM00N">X X</cards>
+   <action no="3" type="0" player="SAFEM00N" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 DK</cards>
+   <action no="6" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="8" type="3" player="tyoehtosopimus" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D8 CJ</cards>
+   <action no="9" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€1,81"/>
+   <action no="11" type="3" player="tyoehtosopimus" sum="€1,81"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action no="12" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="13" type="5" player="13373678" sum="€4,20"/>
+   <action no="14" type="23" player="tyoehtosopimus" sum="€9,48"/>
+   <action no="15" type="3" player="13373678" sum="€5,28"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action no="16" type="5" player="tyoehtosopimus" sum="€17,73"/>
+   <action no="17" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995914">
+  <general>
+   <startdate>2022-04-12 14:56:38</startdate>
+   <players>
+    <player name="AllOver" bet="€0,50" chips="€82,75" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€50" seat="8" win="€1,25" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€103,07" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">CA H2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672995933">
+  <general>
+   <startdate>2022-04-12 14:56:51</startdate>
+   <players>
+    <player name="AllOver" bet="€0,25" chips="€82,25" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1,25" chips="€50" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,25" chips="€50,75" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€5,50" chips="€102,82" seat="10" win="€4,50" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK H10</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="3" player="snakes" sum="€1,25"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="23" player="tyoehtosopimus" sum="€5,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+   <action no="9" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996000">
+  <general>
+   <startdate>2022-04-12 14:57:37</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€82" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€50" seat="6" win="€0,50" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€49,50" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€106,07" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 CK</cards>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996033">
+  <general>
+   <startdate>2022-04-12 14:57:57</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€82" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€1,50" chips="€50,25" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€4,50" chips="€49,50" seat="8" win="€3" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€106,07" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D10 HA</cards>
+   <action no="6" type="23" player="13373678" sum="€1,50"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="23" player="snakes" sum="€4,50"/>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996074">
+  <general>
+   <startdate>2022-04-12 14:58:25</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€82" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€11,02" chips="€50" seat="6" win="€6,18" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€51" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€3,06" chips="€106,07" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 HA</cards>
+   <action no="5" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="3" player="tyoehtosopimus" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C7 H10</cards>
+   <action no="8" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="9" type="5" player="13373678" sum="€1,81"/>
+   <action no="10" type="3" player="tyoehtosopimus" sum="€1,81"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="11" type="4" player="tyoehtosopimus" sum="€0"/>
+   <action no="12" type="5" player="13373678" sum="€7,96"/>
+   <action no="13" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996134">
+  <general>
+   <startdate>2022-04-12 14:59:03</startdate>
+   <players>
+    <player name="AllOver" bet="€0,50" chips="€82" seat="3" win="€0,50" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€53,12" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€50,75" seat="8" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€103,01" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">D7 S10</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996194">
+  <general>
+   <startdate>2022-04-12 14:59:38</startdate>
+   <players>
+    <player name="AllOver" bet="€0,25" chips="€82,25" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€53,12" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€50,75" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€1,50" chips="€102,76" seat="10" win="€1,25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 D7</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="4" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996208">
+  <general>
+   <startdate>2022-04-12 14:59:56</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€82" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€0,25" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€53,12" seat="6" win="€0,50" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€50,75" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€103,51" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C3</cards>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996230">
+  <general>
+   <startdate>2022-04-12 15:00:07</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€82" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€1,50" chips="€53,37" seat="6" win="€1" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€50,75" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€103,51" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">H10 HJ</cards>
+   <action no="6" type="23" player="13373678" sum="€1,50"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996289">
+  <general>
+   <startdate>2022-04-12 15:00:45</startdate>
+   <players>
+    <player name="AllOver" bet="€3,06" chips="€82" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€6,24" chips="€53,87" seat="6" win="€6,18" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€103,51" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">HA H7</cards>
+   <action no="4" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="5" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="3" player="AllOver" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SJ DK</cards>
+   <action no="7" type="4" player="AllOver" sum="€0"/>
+   <action no="8" type="5" player="13373678" sum="€1,81"/>
+   <action no="9" type="3" player="AllOver" sum="€1,81"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="10" type="4" player="AllOver" sum="€0"/>
+   <action no="11" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action no="12" type="4" player="AllOver" sum="€0"/>
+   <action no="13" type="5" player="13373678" sum="€3,18"/>
+   <action no="14" type="0" player="AllOver" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996352">
+  <general>
+   <startdate>2022-04-12 15:01:27</startdate>
+   <players>
+    <player name="AllOver" bet="€0,25" chips="€78,94" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€9,83" chips="€50" seat="5" win="€8,15" dealer="0"/>
+    <player name="13373678" bet="€3,95" chips="€56,99" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,25" chips="€50,25" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€103,26" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+   <action no="3" type="1" player="snakes" sum="€0,25"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 H7</cards>
+   <action no="4" type="23" player="13373678" sum="€1,50"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="7" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="8" type="3" player="PKeinonen" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D9 H3</cards>
+   <action no="9" type="4" player="PKeinonen" sum="€0"/>
+   <action no="10" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action no="11" type="5" player="PKeinonen" sum="€2,45"/>
+   <action no="12" type="3" player="13373678" sum="€2,45"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action no="13" type="5" player="PKeinonen" sum="€5,88"/>
+   <action no="14" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996433">
+  <general>
+   <startdate>2022-04-12 15:02:28</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€78,69" seat="3" win="€0" dealer="1"/>
+    <player name="PKeinonen" bet="€4,50" chips="€54,20" seat="5" win="€3,50" dealer="0"/>
+    <player name="13373678" bet="€0,50" chips="€53,04" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€50" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€1,50" chips="€103,26" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="PKeinonen" sum="€0,25"/>
+   <action no="2" type="2" player="13373678" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="3" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="5" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="6" type="23" player="PKeinonen" sum="€4,50"/>
+   <cards type="Pocket" player="13373678">S4 DJ</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <action no="8" type="0" player="tyoehtosopimus" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996481">
+  <general>
+   <startdate>2022-04-12 15:03:05</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€78,69" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€56,20" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" bet="€0,25" chips="€52,54" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€0,50" chips="€50" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€1,50" chips="€101,76" seat="10" win="€1,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="snakes" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="3" type="23" player="tyoehtosopimus" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="4" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="5" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 D9</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="7" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996511">
+  <general>
+   <startdate>2022-04-12 15:03:21</startdate>
+   <players>
+    <player name="AllOver" bet="€0" chips="€78,69" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€56,20" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€52,29" seat="6" win="€0" dealer="1"/>
+    <player name="snakes" bet="€0,25" chips="€49,50" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0,50" chips="€102,51" seat="10" win="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="snakes" sum="€0,25"/>
+   <action no="2" type="2" player="tyoehtosopimus" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ D6</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996547">
+  <general>
+   <startdate>2022-04-12 15:03:45</startdate>
+   <players>
+    <player name="DonkeyStyle" bet="€0,50" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€0" chips="€78,69" seat="3" win="€0" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€56,20" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€1,25" chips="€52,29" seat="6" win="€1,25" dealer="0"/>
+    <player name="snakes" bet="€0" chips="€49,25" seat="8" win="€0" dealer="1"/>
+    <player name="tyoehtosopimus" bet="€0,25" chips="€102,76" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="tyoehtosopimus" sum="€0,25"/>
+   <action no="2" type="2" player="DonkeyStyle" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="3" type="0" player="AllOver" sum="€0"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="4" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">SJ CA</cards>
+   <action no="5" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="6" type="0" player="snakes" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="7" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="8" type="0" player="DonkeyStyle" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996791">
+  <general>
+   <startdate>2022-04-12 15:04:07</startdate>
+   <players>
+    <player name="DonkeyStyle" bet="€1,75" chips="€50" seat="1" win="€0" dealer="0"/>
+    <player name="AllOver" bet="€5,84" chips="€78,69" seat="3" win="€5,10" dealer="0"/>
+    <player name="PKeinonen" bet="€0" chips="€56,20" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€53,04" seat="6" win="€0" dealer="0"/>
+    <player name="snakes" bet="€1,75" chips="€49,25" seat="8" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€102,51" seat="10" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="DonkeyStyle" sum="€0,25"/>
+   <action no="2" type="2" player="AllOver" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="3" type="0" player="PKeinonen" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 S9</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="snakes">X X</cards>
+   <action no="5" type="23" player="snakes" sum="€1,75"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="6" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="7" type="3" player="DonkeyStyle" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="8" type="3" player="AllOver" sum="€1,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D10 C2</cards>
+   <action no="9" type="4" player="DonkeyStyle" sum="€0"/>
+   <action no="10" type="4" player="AllOver" sum="€0"/>
+   <action no="11" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="12" type="4" player="DonkeyStyle" sum="€0"/>
+   <action no="13" type="4" player="AllOver" sum="€0"/>
+   <action no="14" type="4" player="snakes" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action no="15" type="4" player="DonkeyStyle" sum="€0"/>
+   <action no="16" type="5" player="AllOver" sum="€4,09"/>
+   <action no="17" type="0" player="snakes" sum="€0"/>
+   <action no="18" type="0" player="DonkeyStyle" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3672996917">
+  <general>
+   <startdate>2022-04-12 15:05:37</startdate>
+   <players>
+    <player name="DonkeyStyle" bet="€1,50" chips="€50" seat="1" win="€0" dealer="1"/>
+    <player name="AllOver" bet="€4,23" chips="€82,04" seat="3" win="€3,40" dealer="0"/>
+    <player name="PKeinonen" bet="€0,50" chips="€56,20" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" bet="€0" chips="€53,04" seat="6" win="€0" dealer="0"/>
+    <player name="tyoehtosopimus" bet="€0" chips="€102,51" seat="10" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="AllOver" sum="€0,25"/>
+   <action no="2" type="2" player="PKeinonen" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C5 H5</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="tyoehtosopimus">X X</cards>
+   <action no="4" type="0" player="tyoehtosopimus" sum="€0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="5" type="23" player="DonkeyStyle" sum="€1,50"/>
+   <cards type="Pocket" player="AllOver">X X</cards>
+   <action no="6" type="3" player="AllOver" sum="€1,25"/>
+   <cards type="Pocket" player="PKeinonen">X X</cards>
+   <action no="7" type="0" player="PKeinonen" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 HA C2</cards>
+   <action no="8" type="4" player="AllOver" sum="€0"/>
+   <action no="9" type="4" player="DonkeyStyle" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action no="10" type="5" player="AllOver" sum="€2,73"/>
+   <action no="11" type="0" player="DonkeyStyle" sum="€0"/>
+  </round>
+ </game>
+</session>

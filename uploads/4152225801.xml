@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4152225801">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:00:45</duration>
+  <gamecount>1</gamecount>
+  <startdate>2024-10-13 01:45:20</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,20</bets>
+  <wins>€0</wins>
+  <chipsin>€97,80</chipsin>
+  <chipsout>€97,80</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3938280074">
+  <general>
+   <startdate>2024-10-13 01:45:20</startdate>
+   <players>
+    <player seat="1" name="FutsalinTyty" bet="€3,65" dealer="1" win="€4,27" chips="€101,50"/>
+    <player seat="3" name="13373678" bet="€2,20" dealer="0" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="FutsalinTyty" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="FutsalinTyty" type="Pocket">X X</cards>
+   <action no="3" player="FutsalinTyty" type="23" sum="€2,20"/>
+   <cards player="13373678" type="Pocket">H10 C8</cards>
+   <action no="4" player="13373678" type="3" sum="€1,20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ SK C4</cards>
+   <action no="5" player="13373678" type="4" sum="€0"/>
+   <action no="6" player="FutsalinTyty" type="5" sum="€1,45"/>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

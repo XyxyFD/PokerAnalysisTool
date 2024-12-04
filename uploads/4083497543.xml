@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083497543">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:40</duration>
+  <gamecount>4</gamecount>
+  <startdate>2022-09-15 18:40:09</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€60,75</bets>
+  <wins>€34,50</wins>
+  <chipsin>€97,50</chipsin>
+  <chipsout>€102,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3710567778">
+  <general>
+   <startdate>2022-09-15 18:40:09</startdate>
+   <players>
+    <player name="13373678" chips="€100" bet="€2,50" seat="1" win="€0" dealer="0"/>
+    <player name="DangerBeach" chips="€100" bet="€3,95" seat="5" win="€4,85" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="DangerBeach" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action type="23" player="DangerBeach" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="13373678">C10 HK</cards>
+   <action type="3" player="13373678" sum="€1,50" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S3 S6</cards>
+   <action type="4" player="13373678" sum="€0" no="5"/>
+   <action type="5" player="DangerBeach" sum="€1,45" no="6"/>
+   <action type="0" player="13373678" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3710567821">
+  <general>
+   <startdate>2022-09-15 18:40:32</startdate>
+   <players>
+    <player name="13373678" chips="€100" bet="€43,75" seat="1" win="€34,50" dealer="1"/>
+    <player name="DangerBeach" chips="€102,35" bet="€17,50" seat="5" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="DangerBeach" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ SK</cards>
+   <action type="23" player="13373678" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action type="3" player="DangerBeach" sum="€1,50" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ C7 D4</cards>
+   <action type="4" player="DangerBeach" sum="€0" no="5"/>
+   <action type="5" player="13373678" sum="€2,50" no="6"/>
+   <action type="3" player="DangerBeach" sum="€2,50" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="4" player="DangerBeach" sum="€0" no="8"/>
+   <action type="5" player="13373678" sum="€12,50" no="9"/>
+   <action type="3" player="DangerBeach" sum="€12,50" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action type="4" player="DangerBeach" sum="€0" no="11"/>
+   <action type="5" player="13373678" sum="€26,25" no="12"/>
+   <action type="0" player="DangerBeach" sum="€0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3710568038">
+  <general>
+   <startdate>2022-09-15 18:41:52</startdate>
+   <players>
+    <player name="13373678" chips="€117" bet="€12" seat="1" win="€0" dealer="0"/>
+    <player name="justMEjustFTS" chips="€100" bet="€1" seat="3" win="€0" dealer="0"/>
+    <player name="DangerBeach" chips="€100" bet="€26,50" seat="5" win="€25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="justMEjustFTS" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action type="23" player="DangerBeach" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="13373678">SJ SK</cards>
+   <action type="23" player="13373678" sum="€12" no="4"/>
+   <cards type="Pocket" player="justMEjustFTS">X X</cards>
+   <action type="0" player="justMEjustFTS" sum="€0" no="5"/>
+   <action type="23" player="DangerBeach" sum="€26,50" no="6"/>
+   <action type="0" player="13373678" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3710568098">
+  <general>
+   <startdate>2022-09-15 18:42:23</startdate>
+   <players>
+    <player name="13373678" chips="€105" bet="€2,50" seat="1" win="€0" dealer="1"/>
+    <player name="DangerBeach" chips="€113" bet="€0,50" seat="5" win="€0" dealer="0"/>
+    <player name="KKoiraJussi" chips="€100" bet="€6,50" seat="6" win="€5,34" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="DangerBeach" sum="€0,50" no="1"/>
+   <action type="2" player="KKoiraJussi" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 SK</cards>
+   <action type="23" player="13373678" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action type="0" player="DangerBeach" sum="€0" no="4"/>
+   <cards type="Pocket" player="KKoiraJussi">X X</cards>
+   <action type="3" player="KKoiraJussi" sum="€1,50" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S5 SJ</cards>
+   <action type="4" player="KKoiraJussi" sum="€0" no="6"/>
+   <action type="4" player="13373678" sum="€0" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="5" player="KKoiraJussi" sum="€4" no="8"/>
+   <action type="0" player="13373678" sum="€0" no="9"/>
+  </round>
+ </game>
+</session>

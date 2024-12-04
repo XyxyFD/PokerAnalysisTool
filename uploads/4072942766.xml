@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4072942766">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:06:06</duration>
+  <gamecount>9</gamecount>
+  <startdate>2022-04-20 11:33:17</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€28,05</bets>
+  <wins>€21,20</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€60,16</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3674933370">
+  <general>
+   <startdate>2022-04-20 11:33:17</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€50" dealer="0" bet="€0,50" seat="1"/>
+    <player win="€0" name="DonkeyStyle" chips="€52,88" dealer="0" bet="€0" seat="5"/>
+    <player win="€0" name="Rasierklinge" chips="€51,50" dealer="1" bet="€0" seat="6"/>
+    <player win="€1" name="BadforKings39" chips="€52,41" dealer="0" bet="€1,50" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="BadforKings39"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="3" type="0" sum="€0" player="DonkeyStyle"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="4" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="5" type="23" sum="€1,50" player="BadforKings39"/>
+   <cards type="Pocket" player="13373678">CA S3</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3674933394">
+  <general>
+   <startdate>2022-04-20 11:33:37</startdate>
+   <players>
+    <player win="€2,91" name="13373678" chips="€50" dealer="0" bet="€5,25" seat="1"/>
+    <player win="€0" name="Rasierklinge" chips="€51,50" dealer="0" bet="€1,50" seat="6"/>
+    <player win="€0" name="BadforKings39" chips="€52,91" dealer="1" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="Rasierklinge"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="3" type="0" sum="€0" player="BadforKings39"/>
+   <cards type="Pocket" player="13373678">SA C10</cards>
+   <action no="4" type="23" sum="€1,50" player="13373678"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="5" type="3" sum="€1" player="Rasierklinge"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 DK SQ</cards>
+   <action no="6" type="5" sum="€3,75" player="13373678"/>
+   <action no="7" type="0" sum="€0" player="Rasierklinge"/>
+  </round>
+ </game>
+ <game gamecode="3674933426">
+  <general>
+   <startdate>2022-04-20 11:34:03</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€51,41" dealer="1" bet="€0" seat="1"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€0,25" seat="6"/>
+    <player win="€1,22" name="BadforKings39" chips="€52,91" dealer="0" bet="€1,37" seat="8"/>
+    <player win="€0" name="rampai" chips="€50" dealer="0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Rasierklinge"/>
+   <action no="2" type="2" sum="€0,50" player="BadforKings39"/>
+   <action no="3" type="2" sum="€0,50" player="rampai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="4" type="4" sum="€0" player="rampai"/>
+   <cards type="Pocket" player="13373678">HQ D5</cards>
+   <action no="5" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="6" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="7" type="4" sum="€0" player="BadforKings39"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C6 DQ</cards>
+   <action no="8" type="4" sum="€0" player="BadforKings39"/>
+   <action no="9" type="4" sum="€0" player="rampai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action no="10" type="4" sum="€0" player="BadforKings39"/>
+   <action no="11" type="4" sum="€0" player="rampai"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action no="12" type="5" sum="€0,87" player="BadforKings39"/>
+   <action no="13" type="0" sum="€0" player="rampai"/>
+  </round>
+ </game>
+ <game gamecode="3674933463">
+  <general>
+   <startdate>2022-04-20 11:34:36</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€51,41" dealer="0" bet="€0" seat="1"/>
+    <player win="€4,24" name="Roxi0" chips="€20" dealer="0" bet="€2,06" seat="3"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="1" bet="€0" seat="6"/>
+    <player win="€0" name="BadforKings39" chips="€53,63" dealer="0" bet="€0,25" seat="8"/>
+    <player win="€0" name="rampai" chips="€49,50" dealer="0" bet="€2,06" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="BadforKings39"/>
+   <action no="2" type="2" sum="€0,50" player="rampai"/>
+   <action no="3" type="2" sum="€0,50" player="Roxi0"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 S6</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="Roxi0">SA H8</cards>
+   <action no="5" type="4" sum="€0" player="Roxi0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="6" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="7" type="0" sum="€0" player="BadforKings39"/>
+   <cards type="Pocket" player="rampai">D9 C3</cards>
+   <action no="8" type="4" sum="€0" player="rampai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D4 DA</cards>
+   <action no="9" type="4" sum="€0" player="rampai"/>
+   <action no="10" type="4" sum="€0" player="Roxi0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action no="11" type="4" sum="€0" player="rampai"/>
+   <action no="12" type="4" sum="€0" player="Roxi0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action no="13" type="5" sum="€1,56" player="rampai"/>
+   <action no="14" type="3" sum="€1,56" player="Roxi0"/>
+  </round>
+ </game>
+ <game gamecode="3674933521">
+  <general>
+   <startdate>2022-04-20 11:35:17</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€51,41" dealer="0" bet="€0,50" seat="1"/>
+    <player win="€0" name="Roxi0" chips="€22,18" dealer="0" bet="€0" seat="3"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€0" seat="6"/>
+    <player win="€0" name="BadforKings39" chips="€53,38" dealer="1" bet="€7,22" seat="8"/>
+    <player win="€14,49" name="rampai" chips="€47,44" dealer="0" bet="€17,67" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="rampai"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Roxi0">X X</cards>
+   <action no="3" type="0" sum="€0" player="Roxi0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="4" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="5" type="23" sum="€1,25" player="BadforKings39"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="6" type="3" sum="€1" player="rampai"/>
+   <cards type="Pocket" player="13373678">S8 S3</cards>
+   <action no="7" type="0" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S7 H2</cards>
+   <action no="8" type="4" sum="€0" player="rampai"/>
+   <action no="9" type="5" sum="€0,99" player="BadforKings39"/>
+   <action no="10" type="3" sum="€0,99" player="rampai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action no="11" type="5" sum="€4,98" player="rampai"/>
+   <action no="12" type="3" sum="€4,98" player="BadforKings39"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action no="13" type="5" sum="€10,45" player="rampai"/>
+   <action no="14" type="0" sum="€0" player="BadforKings39"/>
+  </round>
+ </game>
+ <game gamecode="3674933694">
+  <general>
+   <startdate>2022-04-20 11:37:00</startdate>
+   <players>
+    <player win="€1" name="13373678" chips="€50,91" dealer="0" bet="€1,50" seat="1"/>
+    <player win="€0" name="Roxi0" chips="€22,18" dealer="0" bet="€0,50" seat="3"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€0" seat="6"/>
+    <player win="€0" name="BadforKings39" chips="€50" dealer="0" bet="€0" seat="8"/>
+    <player win="€0" name="rampai" chips="€54,71" dealer="1" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="Roxi0"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="3" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="4" type="0" sum="€0" player="BadforKings39"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="5" type="0" sum="€0" player="rampai"/>
+   <cards type="Pocket" player="13373678">SK CK</cards>
+   <action no="6" type="23" sum="€1,50" player="13373678"/>
+   <cards type="Pocket" player="Roxi0">X X</cards>
+   <action no="7" type="0" sum="€0" player="Roxi0"/>
+  </round>
+ </game>
+ <game gamecode="3674933715">
+  <general>
+   <startdate>2022-04-20 11:37:16</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€51,41" dealer="1" bet="€0" seat="1"/>
+    <player win="€0" name="Roxi0" chips="€21,68" dealer="0" bet="€0,25" seat="3"/>
+    <player win="€0" name="DonkeyStyle" chips="€52,88" dealer="0" bet="€0,50" seat="5"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€0" seat="6"/>
+    <player win="€1,25" name="BadforKings39" chips="€50" dealer="0" bet="€1,25" seat="8"/>
+    <player win="€0" name="rampai" chips="€54,71" dealer="0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Roxi0"/>
+   <action no="2" type="2" sum="€0,50" player="DonkeyStyle"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="3" type="0" sum="€0" player="Rasierklinge"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="4" type="23" sum="€1,25" player="BadforKings39"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="5" type="0" sum="€0" player="rampai"/>
+   <cards type="Pocket" player="13373678">CQ S10</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="Roxi0">X X</cards>
+   <action no="7" type="0" sum="€0" player="Roxi0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="8" type="0" sum="€0" player="DonkeyStyle"/>
+  </round>
+ </game>
+ <game gamecode="3674933736">
+  <general>
+   <startdate>2022-04-20 11:37:37</startdate>
+   <players>
+    <player win="€17,29" name="13373678" chips="€51,41" dealer="0" bet="€20,30" seat="1"/>
+    <player win="€0" name="Roxi0" chips="€21,43" dealer="1" bet="€0" seat="3"/>
+    <player win="€0" name="DonkeyStyle" chips="€52,38" dealer="0" bet="€0,25" seat="5"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€0,50" seat="6"/>
+    <player win="€0" name="BadforKings39" chips="€50,75" dealer="0" bet="€0" seat="8"/>
+    <player win="€0" name="rampai" chips="€54,71" dealer="0" bet="€8,54" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="DonkeyStyle"/>
+   <action no="2" type="2" sum="€0,50" player="Rasierklinge"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action no="3" type="0" sum="€0" player="BadforKings39"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="rampai"/>
+   <cards type="Pocket" player="13373678">H9 C9</cards>
+   <action no="5" type="23" sum="€5" player="13373678"/>
+   <cards type="Pocket" player="Roxi0">X X</cards>
+   <action no="6" type="0" sum="€0" player="Roxi0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="7" type="0" sum="€0" player="DonkeyStyle"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="8" type="0" sum="€0" player="Rasierklinge"/>
+   <action no="9" type="3" sum="€3,50" player="rampai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ SK HA</cards>
+   <action no="10" type="4" sum="€0" player="rampai"/>
+   <action no="11" type="5" sum="€3,54" player="13373678"/>
+   <action no="12" type="3" sum="€3,54" player="rampai"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="13" type="4" sum="€0" player="rampai"/>
+   <action no="14" type="5" sum="€11,76" player="13373678"/>
+   <action no="15" type="0" sum="€0" player="rampai"/>
+  </round>
+ </game>
+ <game gamecode="3674933797">
+  <general>
+   <startdate>2022-04-20 11:38:32</startdate>
+   <players>
+    <player win="€0" name="13373678" chips="€60,16" dealer="0" bet="€0" seat="1"/>
+    <player win="€0" name="Roxi0" chips="€21,43" dealer="0" bet="€0" seat="3"/>
+    <player win="€0" name="DonkeyStyle" chips="€52,13" dealer="1" bet="€0" seat="5"/>
+    <player win="€0" name="Rasierklinge" chips="€50" dealer="0" bet="€1,50" seat="6"/>
+    <player win="€2,91" name="rampai" chips="€46,17" dealer="0" bet="€5,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="Rasierklinge"/>
+   <action no="2" type="2" sum="€0,50" player="rampai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 C8</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="Roxi0">X X</cards>
+   <action no="4" type="0" sum="€0" player="Roxi0"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="5" type="0" sum="€0" player="DonkeyStyle"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action no="6" type="23" sum="€1,50" player="Rasierklinge"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action no="7" type="3" sum="€1" player="rampai"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C10 D2</cards>
+   <action no="8" type="4" sum="€0" player="Rasierklinge"/>
+   <action no="9" type="5" sum="€3,75" player="rampai"/>
+   <action no="10" type="0" sum="€0" player="Rasierklinge"/>
+  </round>
+ </game>
+</session>

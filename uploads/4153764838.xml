@@ -1,0 +1,4112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4153764838">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>01:00:42</duration>
+  <gamecount>123</gamecount>
+  <startdate>2024-10-30 18:57:25</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€235,56</bets>
+  <wins>€131,42</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€76,49</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3943573890">
+  <general>
+   <startdate>2024-10-30 18:57:25</startdate>
+   <players>
+    <player dealer="0" bet="€5,50" win="€0" chips="€50" seat="1" name="Player 1"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€5,50" win="€11,16" chips="€256,73" seat="5" name="Player 5"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="8" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 5" type="1"/>
+   <action sum="€0,50" no="2" player="Player 8" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">HA CJ</cards>
+   <action sum="€1,25" no="3" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">DK DA</cards>
+   <action sum="€5,50" no="5" player="Player 5" type="23"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 8" type="0"/>
+   <action sum="€4,25" no="7" player="Player 1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 C7 S3</cards>
+   <action sum="€0" no="8" player="Player 5" type="4"/>
+   <action sum="€0" no="9" player="Player 1" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" no="10" player="Player 5" type="4"/>
+   <action sum="€0" no="11" player="Player 1" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="12" player="Player 5" type="4"/>
+   <action sum="€0" no="13" player="Player 1" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3943574016">
+  <general>
+   <startdate>2024-10-30 18:58:32</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="1" name="Player 1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="Player 3"/>
+    <player dealer="1" bet="€0" win="€0" chips="€262,39" seat="5" name="Player 5"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="8" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 8" type="1"/>
+   <action sum="€0,50" no="2" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 5" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943574046">
+  <general>
+   <startdate>2024-10-30 18:58:44</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="1" name="Player 1"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€0" win="€0" chips="€262,39" seat="5" name="Player 5"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 1" type="1"/>
+   <action sum="€0,50" no="2" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 5" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 8" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943574069">
+  <general>
+   <startdate>2024-10-30 18:58:57</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="1" name="Player 1"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€262,39" seat="5" name="Player 5"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 3" type="1"/>
+   <action sum="€0,50" no="2" player="Player 5" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 8" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943574117">
+  <general>
+   <startdate>2024-10-30 18:59:19</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€262,64" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="Unelmavene"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 D6</cards>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Unelmavene" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943574193">
+  <general>
+   <startdate>2024-10-30 19:00:07</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€1,11" win="€1,25" chips="€262,39" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="8" name="Unelmavene"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Unelmavene" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="5" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">HQ H2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Unelmavene" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943575497">
+  <general>
+   <startdate>2024-10-30 19:00:33</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€3,12" win="€2,62" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,10" win="€0" chips="€50" seat="8" name="Unelmavene"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€20" seat="10" name="zero2809"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Unelmavene" type="1"/>
+   <action sum="€0,50" no="2" player="zero2809" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HJ S2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0,85" no="7" player="Unelmavene" type="3"/>
+   <cards player="zero2809" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="zero2809" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 S9 HQ</cards>
+   <action sum="€0" no="9" player="Unelmavene" type="4"/>
+   <action sum="€0" no="10" player="ancoratu" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€0" no="11" player="Unelmavene" type="4"/>
+   <action sum="€2,02" no="12" player="ancoratu" type="5"/>
+   <action sum="€0" no="13" player="Unelmavene" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943575874">
+  <general>
+   <startdate>2024-10-30 19:01:20</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,52" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€1,25" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="Unelmavene"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€19,50" seat="10" name="zero2809"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="zero2809" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="4" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">D3 D5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Unelmavene" type="0"/>
+   <cards player="zero2809" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="zero2809" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943575918">
+  <general>
+   <startdate>2024-10-30 19:01:46</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€51,52" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,89" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€2,67" win="€2,96" chips="€50" seat="8" name="Unelmavene"/>
+    <player dealer="1" bet="€1,15" win="€0" chips="€19,25" seat="10" name="zero2809"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">SJ D6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€1,15" no="5" player="Unelmavene" type="23"/>
+   <cards player="zero2809" type="Pocket">X X</cards>
+   <action sum="€1,15" no="6" player="zero2809" type="3"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C3 DJ</cards>
+   <action sum="€1,52" no="9" player="Unelmavene" type="5"/>
+   <action sum="€0" no="10" player="zero2809" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943575973">
+  <general>
+   <startdate>2024-10-30 19:02:20</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,50" win="€1" chips="€51,02" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€263,89" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,81" seat="8" name="Unelmavene"/>
+    <player dealer="0" bet="€0" win="€0" chips="€18,10" seat="10" name="zero2809"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CQ D7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Unelmavene" type="0"/>
+   <cards player="zero2809" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="zero2809" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943575997">
+  <general>
+   <startdate>2024-10-30 19:02:37</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51,52" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€263,39" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,81" seat="8" name="Unelmavene"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S3 H3</cards>
+   <cards player="Unelmavene" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Unelmavene" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943576041">
+  <general>
+   <startdate>2024-10-30 19:03:02</startdate>
+   <players>
+    <player dealer="0" bet="€24" win="€17,46" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,52" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€9" win="€0" chips="€50,25" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S5 DA</cards>
+   <action sum="€1,50" no="5" player="13373678" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="bonski22" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 D10 C6</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€1,50" no="8" player="bonski22" type="5"/>
+   <action sum="€1,50" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€6" no="11" player="bonski22" type="5"/>
+   <action sum="€6" no="12" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€0" no="13" player="13373678" type="4"/>
+   <action sum="€15" no="14" player="bonski22" type="5"/>
+   <action sum="€0" no="15" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943576269">
+  <general>
+   <startdate>2024-10-30 19:04:55</startdate>
+   <players>
+    <player dealer="0" bet="€24" win="€0" chips="€58,46" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€24" win="€46,55" chips="€51,52" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S7 H3</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="bonski22" type="Pocket">C8 H8</cards>
+   <action sum="€1,50" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">S9 H10</cards>
+   <action sum="€1" no="6" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 CK HJ</cards>
+   <action sum="€0" no="7" player="bonski22" type="4"/>
+   <action sum="€0" no="8" player="ancoratu" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€4,50" no="9" player="bonski22" type="5"/>
+   <action sum="€4,50" no="10" player="ancoratu" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action sum="€18" no="11" player="bonski22" type="5"/>
+   <action sum="€18" no="12" player="ancoratu" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943577304">
+  <general>
+   <startdate>2024-10-30 19:05:55</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€74,07" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">SJ D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943577328">
+  <general>
+   <startdate>2024-10-30 19:06:08</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€73,82" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€263,39" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D8 C4</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943577366">
+  <general>
+   <startdate>2024-10-30 19:06:29</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,57" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€2,49" win="€4,83" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€2,49" win="€0" chips="€50" seat="8" name="MiMiMiMiMiMi"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="MiMiMiMiMiMi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DA S9</cards>
+   <action sum="€1,50" no="6" player="13373678" type="23"/>
+   <cards player="MiMiMiMiMiMi" type="Pocket">CQ SK</cards>
+   <action sum="€1" no="7" player="MiMiMiMiMiMi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 D8 C3</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="MiMiMiMiMiMi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="MiMiMiMiMiMi" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0,99" no="12" player="13373678" type="5"/>
+   <action sum="€0,99" no="13" player="MiMiMiMiMiMi" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943577495">
+  <general>
+   <startdate>2024-10-30 19:07:32</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,57" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€52,34" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="8" name="MiMiMiMiMiMi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MiMiMiMiMiMi" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HA H7</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="MiMiMiMiMiMi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MiMiMiMiMiMi" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943577532">
+  <general>
+   <startdate>2024-10-30 19:07:53</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,57" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€53,09" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="MiMiMiMiMiMi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€49,50" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C5 H4</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="MiMiMiMiMiMi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MiMiMiMiMiMi" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943577569">
+  <general>
+   <startdate>2024-10-30 19:08:09</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,11" win="€0" chips="€74,57" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,97" win="€2,40" chips="€263,14" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€53,09" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="MiMiMiMiMiMi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">D6 H2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="MiMiMiMiMiMi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MiMiMiMiMiMi" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0,61" no="8" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S8 C9</cards>
+   <action sum="€0" no="9" player="ancoratu" type="4"/>
+   <action sum="€0" no="10" player="orochi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action sum="€0" no="11" player="ancoratu" type="4"/>
+   <action sum="€0,86" no="12" player="orochi" type="5"/>
+   <action sum="€0" no="13" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943578973">
+  <general>
+   <startdate>2024-10-30 19:09:13</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€73,46" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€264,43" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€53,09" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€50" seat="8" name="MiMiMiMiMiMi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 C3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="MiMiMiMiMiMi" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="MiMiMiMiMiMi" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579014">
+  <general>
+   <startdate>2024-10-30 19:09:38</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€73,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€263,93" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€53,09" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="MiMiMiMiMiMi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MiMiMiMiMiMi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MiMiMiMiMiMi" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D10 H5</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579049">
+  <general>
+   <startdate>2024-10-30 19:09:57</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€73,21" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€263,68" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€52,59" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C9 H2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579100">
+  <general>
+   <startdate>2024-10-30 19:10:19</startdate>
+   <players>
+    <player dealer="0" bet="€50" win="€98,75" chips="€50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,68" seat="5" name="orochi"/>
+    <player dealer="1" bet="€52,34" win="€0" chips="€52,34" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€49,50" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C7 C6</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">SQ S2</cards>
+   <action sum="€5,50" no="7" player="bonski22" type="23"/>
+   <action sum="€4,25" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H3 S8</cards>
+   <action sum="€5,62" no="9" player="bonski22" type="5"/>
+   <action sum="€5,62" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€11,24" no="11" player="bonski22" type="5"/>
+   <action sum="€11,24" no="12" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" no="13" player="bonski22" type="4"/>
+   <action sum="€29,98" no="14" player="13373678" type="5"/>
+   <action sum="€27,64" no="15" player="bonski22" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3943579304">
+  <general>
+   <startdate>2024-10-30 19:12:00</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€98,75" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€73,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,68" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H10 C5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579336">
+  <general>
+   <startdate>2024-10-30 19:12:16</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€0" chips="€98,50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€6" win="€3" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€263,68" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 H8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€6" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579652">
+  <general>
+   <startdate>2024-10-30 19:12:42</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€263,18" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 SJ</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579699">
+  <general>
+   <startdate>2024-10-30 19:13:02</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€3,75" win="€0" chips="€262,93" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="8" name="step30"/>
+    <player dealer="0" bet="€12" win="€8" chips="€49,25" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€3,75" no="6" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">HA S7</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="step30" type="0"/>
+   <action sum="€2,50" no="9" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D8 CQ</cards>
+   <action sum="€0" no="10" player="121050" type="4"/>
+   <action sum="€0" no="11" player="orochi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€8,25" no="12" player="121050" type="5"/>
+   <action sum="€0" no="13" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579768">
+  <general>
+   <startdate>2024-10-30 19:13:39</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="1" bet="€1,25" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€49,50" seat="8" name="step30"/>
+    <player dealer="0" bet="€5" win="€3,64" chips="€53,50" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C3 CQ</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="step30" type="3"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0,75" no="8" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H2 D2</cards>
+   <action sum="€0" no="9" player="step30" type="4"/>
+   <action sum="€0" no="10" player="121050" type="4"/>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" no="12" player="step30" type="4"/>
+   <action sum="€3,75" no="13" player="121050" type="5"/>
+   <action sum="€0" no="14" player="13373678" type="0"/>
+   <action sum="€0" no="15" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579877">
+  <general>
+   <startdate>2024-10-30 19:14:38</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€48,25" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€55,89" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HA C6</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579924">
+  <general>
+   <startdate>2024-10-30 19:15:02</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€96,75" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€48,25" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€55,64" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S3 C4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579946">
+  <general>
+   <startdate>2024-10-30 19:15:15</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€96,50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€76,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€48,25" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€55,64" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 H9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943579992">
+  <general>
+   <startdate>2024-10-30 19:15:42</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,50" win="€1" chips="€258,68" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€48,25" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€55,64" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">D4 HJ</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581232">
+  <general>
+   <startdate>2024-10-30 19:16:01</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€48,25" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€55,64" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H9 C8</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581292">
+  <general>
+   <startdate>2024-10-30 19:16:27</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,71" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,72" win="€2,40" chips="€259,18" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€47,75" seat="8" name="step30"/>
+    <player dealer="0" bet="€1,11" win="€0" chips="€55,64" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="5" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S5 C3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0,61" no="8" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 H3 S8</cards>
+   <action sum="€0" no="9" player="121050" type="4"/>
+   <action sum="€0,61" no="10" player="orochi" type="5"/>
+   <action sum="€0" no="11" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581345">
+  <general>
+   <startdate>2024-10-30 19:16:56</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€76,71" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€260,47" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€47,50" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€54,53" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H5 C8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581368">
+  <general>
+   <startdate>2024-10-30 19:17:07</startdate>
+   <players>
+    <player dealer="0" bet="€50" win="€49,50" chips="€76,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€260,47" seat="5" name="orochi"/>
+    <player dealer="0" bet="€50" win="€49,50" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€47,50" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€54,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA HK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="ancoratu" type="Pocket">DA CK</cards>
+   <action sum="€6" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <action sum="€4,75" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S10 SA</cards>
+   <action sum="€7,50" no="9" player="ancoratu" type="5"/>
+   <action sum="€7,50" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€0" no="11" player="ancoratu" type="4"/>
+   <action sum="€9,07" no="12" player="13373678" type="5"/>
+   <action sum="€9,07" no="13" player="ancoratu" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action sum="€0" no="14" player="ancoratu" type="4"/>
+   <action sum="€27,43" no="15" player="13373678" type="5"/>
+   <action sum="€27,43" no="16" player="ancoratu" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943581531">
+  <general>
+   <startdate>2024-10-30 19:18:29</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€0" chips="€76,46" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€259,97" seat="5" name="orochi"/>
+    <player dealer="0" bet="€6,50" win="€2,75" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€47,50" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€54,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">SQ DK</cards>
+   <action sum="€6,50" no="7" player="13373678" type="23"/>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581581">
+  <general>
+   <startdate>2024-10-30 19:18:53</startdate>
+   <players>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€75,21" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€259,72" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51,50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€47,50" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€54,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S4 H8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943581624">
+  <general>
+   <startdate>2024-10-30 19:19:13</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€47" win="€50,66" chips="€259,72" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€47" win="€50,67" chips="€47" seat="8" name="step30"/>
+    <player dealer="0" bet="€8,83" win="€0" chips="€54,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">DK DA</cards>
+   <action sum="€1,11" no="4" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">C2 S3</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">HA HK</cards>
+   <action sum="€2,22" no="6" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,72" no="7" player="121050" type="3"/>
+   <action sum="€8,83" no="8" player="orochi" type="23"/>
+   <action sum="€6,61" no="9" player="step30" type="3"/>
+   <action sum="€6,61" no="10" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D7 CK</cards>
+   <action sum="€0" no="11" player="step30" type="4"/>
+   <action sum="€0" no="12" player="121050" type="4"/>
+   <action sum="€2,65" no="13" player="orochi" type="5"/>
+   <action sum="€5,30" no="14" player="step30" type="23"/>
+   <action sum="€0" no="15" player="121050" type="0"/>
+   <action sum="€2,65" no="16" player="orochi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action sum="€32,87" no="17" player="step30" type="5"/>
+   <action sum="€32,87" no="18" player="orochi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+  </round>
+ </game>
+ <game gamecode="3943582669">
+  <general>
+   <startdate>2024-10-30 19:20:52</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€97,25" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€75,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,38" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50,67" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€45,45" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C10 D2</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943582726">
+  <general>
+   <startdate>2024-10-30 19:21:19</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€96,75" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,50" win="€0" chips="€76,71" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€263,38" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€4,75" win="€3,16" chips="€50,67" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€45,20" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C7 H8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€1,50" no="5" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1" no="8" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C6 HK</cards>
+   <action sum="€0" no="9" player="ancoratu" type="4"/>
+   <action sum="€3,25" no="10" player="step30" type="5"/>
+   <action sum="€0" no="11" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943583066">
+  <general>
+   <startdate>2024-10-30 19:21:58</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€96,50" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€75,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€263,38" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€45,20" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 H10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943583102">
+  <general>
+   <startdate>2024-10-30 19:22:19</startdate>
+   <players>
+    <player dealer="0" bet="€14,24" win="€0" chips="€96,50" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€74,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€262,88" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€52" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€28,85" win="€28,35" chips="€45,20" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€4,50" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C4 D4</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€3,25" no="9" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D10 HJ</cards>
+   <action sum="€0" no="10" player="121050" type="4"/>
+   <action sum="€4,87" no="11" player="bonski22" type="5"/>
+   <action sum="€9,74" no="12" player="121050" type="23"/>
+   <action sum="€4,87" no="13" player="bonski22" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€14,61" no="14" player="121050" type="5"/>
+   <action sum="€0" no="15" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943583254">
+  <general>
+   <startdate>2024-10-30 19:23:45</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€82,26" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,96" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€262,63" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51,50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€59,31" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S4 C9</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943583286">
+  <general>
+   <startdate>2024-10-30 19:24:00</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€82,26" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€262,63" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€52,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€59,31" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DJ S5</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943583572">
+  <general>
+   <startdate>2024-10-30 19:24:13</startdate>
+   <players>
+    <player dealer="0" bet="€5,50" win="€2,75" chips="€82,26" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€262,63" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€51,25" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€59,56" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HA H6</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€5,50" no="8" player="bonski22" type="23"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584522">
+  <general>
+   <startdate>2024-10-30 19:24:41</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€83,76" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€74,96" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€262,63" seat="5" name="orochi"/>
+    <player dealer="0" bet="€9,05" win="€5,23" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="1" bet="€2,32" win="€0" chips="€59,31" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HK HJ</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="121050" type="3"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 DK C4</cards>
+   <action sum="€1,07" no="9" player="13373678" type="5"/>
+   <action sum="€1,07" no="10" player="121050" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€0" no="12" player="121050" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€6,73" no="13" player="13373678" type="5"/>
+   <action sum="€0" no="14" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584619">
+  <general>
+   <startdate>2024-10-30 19:25:28</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€74,46" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€262,63" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€56,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D6 H3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584647">
+  <general>
+   <startdate>2024-10-30 19:25:44</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€14,40" win="€16,72" chips="€262,88" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€8,37" win="€0" chips="€56,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€5,50" no="7" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">C3 S2</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€4,25" no="9" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D7 DK</cards>
+   <action sum="€2,87" no="10" player="orochi" type="5"/>
+   <action sum="€2,87" no="11" player="121050" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€0" no="12" player="orochi" type="4"/>
+   <action sum="€0" no="13" player="121050" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action sum="€6,03" no="14" player="orochi" type="5"/>
+   <action sum="€0" no="15" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584726">
+  <general>
+   <startdate>2024-10-30 19:26:26</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€1,11" win="€1,25" chips="€271,23" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€52,41" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€52,33" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€48,62" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="6" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S5 S2</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584769">
+  <general>
+   <startdate>2024-10-30 19:26:47</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€271,98" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€52,16" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51,83" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€48,62" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DJ S3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584794">
+  <general>
+   <startdate>2024-10-30 19:26:58</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€271,98" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,16" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€48,87" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">CK D2</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584822">
+  <general>
+   <startdate>2024-10-30 19:27:12</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€83,76" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€74,21" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€271,98" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€52,16" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,58" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€48,62" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DK CA</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584870">
+  <general>
+   <startdate>2024-10-30 19:27:36</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€10,25" win="€12,13" chips="€73,71" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€271,98" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€6" win="€0" chips="€51,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€48,62" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 DJ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€6" no="7" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+   <action sum="€4,50" no="9" player="step30" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S3 S10</cards>
+   <action sum="€4,25" no="10" player="ancoratu" type="5"/>
+   <action sum="€0" no="11" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943584946">
+  <general>
+   <startdate>2024-10-30 19:28:15</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€79,84" win="€0" chips="€79,84" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€271,48" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€45,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€48,62" win="€96,49" chips="€48,62" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">DA H10</cards>
+   <action sum="€1,25" no="4" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">HJ HK</cards>
+   <action sum="€4" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D8 C5</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€2,75" no="9" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S3 H7</cards>
+   <action sum="€0" no="10" player="121050" type="4"/>
+   <action sum="€0" no="11" player="ancoratu" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" no="12" player="121050" type="4"/>
+   <action sum="€2,97" no="13" player="ancoratu" type="5"/>
+   <action sum="€2,97" no="14" player="121050" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action sum="€0" no="15" player="121050" type="4"/>
+   <action sum="€72,87" no="16" player="ancoratu" type="5"/>
+   <action sum="€41,65" no="17" player="121050" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3943585908">
+  <general>
+   <startdate>2024-10-30 19:29:14</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€271,23" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€52,41" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€45,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€96,49" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C3 D5</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943585932">
+  <general>
+   <startdate>2024-10-30 19:29:26</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€271,23" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€52,16" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€45,83" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€96,49" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">CJ C7</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943585955">
+  <general>
+   <startdate>2024-10-30 19:29:38</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€271,23" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€52,16" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€45,58" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€95,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HK H4</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586133">
+  <general>
+   <startdate>2024-10-30 19:29:57</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€83,01" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,75" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€0" chips="€271,23" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€2,22" win="€2,97" chips="€45,58" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€95,74" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S5 CK</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€2,22" no="5" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+   <action sum="€0" no="9" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586186">
+  <general>
+   <startdate>2024-10-30 19:30:21</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€82,76" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€270,12" seat="5" name="orochi"/>
+    <player dealer="0" bet="€2,50" win="€0" chips="€52,91" seat="6" name="13373678"/>
+    <player dealer="0" bet="€8,25" win="€5,58" chips="€47,44" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€95,74" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 D9</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+   <action sum="€1,25" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 C10 H8</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€5,75" no="11" player="step30" type="5"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586279">
+  <general>
+   <startdate>2024-10-30 19:31:11</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€82,76" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,50" win="€1" chips="€269,62" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,41" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,52" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€95,74" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">H5 DJ</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586309">
+  <general>
+   <startdate>2024-10-30 19:31:31</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€82,76" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€270,12" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,52" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€95,74" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D6 CA</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="step30" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586616">
+  <general>
+   <startdate>2024-10-30 19:31:51</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€1,25" chips="€270,12" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,02" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€95,74" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="5" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S2 D3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943586661">
+  <general>
+   <startdate>2024-10-30 19:32:16</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€83,51" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€50" win="€49,63" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€270,87" win="€49,62" chips="€270,87" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€49,77" seat="8" name="step30"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€95,24" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">HK SA</cards>
+   <action sum="€1,10" no="3" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">DA DK</cards>
+   <action sum="€3,75" no="4" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S5 H4</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+   <action sum="€10,40" no="9" player="ancoratu" type="23"/>
+   <action sum="€270,87" no="10" player="orochi" type="23"/>
+   <action sum="€39,60" no="11" player="ancoratu" type="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C4 HJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+  </round>
+ </game>
+ <game gamecode="3943587901">
+  <general>
+   <startdate>2024-10-30 19:33:04</startdate>
+   <players>
+    <player dealer="0" bet="€3" win="€2,91" chips="€83,01" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,50" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€270,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,77" seat="8" name="step30"/>
+    <player dealer="1" bet="€0" win="€0" chips="€94,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S7 H10</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1" no="8" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S5 H4</cards>
+   <action sum="€1,50" no="9" player="bonski22" type="5"/>
+   <action sum="€0" no="10" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943587949">
+  <general>
+   <startdate>2024-10-30 19:33:33</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€84,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€270,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,77" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€94,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 CQ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943587985">
+  <general>
+   <startdate>2024-10-30 19:33:51</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€85,17" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€269,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€49,77" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€94,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="step30" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="step30" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H9 S10</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943588020">
+  <general>
+   <startdate>2024-10-30 19:34:12</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,92" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,50" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,50" win="€2,91" chips="€49,77" seat="8" name="step30"/>
+    <player dealer="0" bet="€0" win="€0" chips="€94,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="step30" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D5 DQ</cards>
+   <action sum="€1,50" no="7" player="13373678" type="23"/>
+   <cards player="step30" type="Pocket">DA S10</cards>
+   <action sum="€1" no="8" player="step30" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 HQ DK</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€0" no="10" player="step30" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€0" no="12" player="step30" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" no="13" player="13373678" type="4"/>
+   <action sum="€0" no="14" player="step30" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3943588096">
+  <general>
+   <startdate>2024-10-30 19:34:54</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,92" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€51,18" win="€0" chips="€51,18" seat="8" name="step30"/>
+    <player dealer="0" bet="€51,18" win="€101,96" chips="€94,99" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="step30" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">SJ H6</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="step30" type="Pocket">HK DK</cards>
+   <action sum="€2,20" no="7" player="step30" type="23"/>
+   <cards player="121050" type="Pocket">CA DA</cards>
+   <action sum="€8,80" no="8" player="121050" type="23"/>
+   <action sum="€0" no="9" player="ancoratu" type="0"/>
+   <action sum="€6,60" no="10" player="step30" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C6 H4</cards>
+   <action sum="€18,70" no="11" player="step30" type="5"/>
+   <action sum="€37,40" no="12" player="121050" type="23"/>
+   <action sum="€23,68" no="13" player="step30" type="7"/>
+   <action sum="€4,98" no="14" player="121050" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+  </round>
+ </game>
+ <game gamecode="3943588194">
+  <general>
+   <startdate>2024-10-30 19:35:51</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€85,92" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€1,25" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€145,77" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S4 D9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589193">
+  <general>
+   <startdate>2024-10-30 19:36:08</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,50" win="€1" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€270,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€145,77" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 HQ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589229">
+  <general>
+   <startdate>2024-10-30 19:36:26</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50,50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€269,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€145,77" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HJ C6</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589254">
+  <general>
+   <startdate>2024-10-30 19:36:39</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€50,50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€146,52" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DA S2</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589286">
+  <general>
+   <startdate>2024-10-30 19:36:57</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,25" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€146,52" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">HJ D3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589308">
+  <general>
+   <startdate>2024-10-30 19:37:13</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,25" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€146,77" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S2 S3</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589321">
+  <general>
+   <startdate>2024-10-30 19:37:23</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€85,92" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€51,25" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€50" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€146,52" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">CA DQ</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589360">
+  <general>
+   <startdate>2024-10-30 19:37:41</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€25,99" win="€0" chips="€50,75" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€269,74" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€25,99" win="€50,98" chips="€146,52" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK S5</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">DA SK</cards>
+   <action sum="€1,25" no="5" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">DJ D10</cards>
+   <action sum="€6" no="7" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+   <action sum="€4,75" no="9" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H2 D9</cards>
+   <action sum="€0" no="10" player="ancoratu" type="4"/>
+   <action sum="€0" no="11" player="121050" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€9,37" no="12" player="ancoratu" type="5"/>
+   <action sum="€9,37" no="13" player="121050" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€10,62" no="14" player="ancoratu" type="5"/>
+   <action sum="€10,62" no="15" player="121050" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943589445">
+  <general>
+   <startdate>2024-10-30 19:38:27</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€269,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 S5</cards>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589484">
+  <general>
+   <startdate>2024-10-30 19:38:49</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C5 H7</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589502">
+  <general>
+   <startdate>2024-10-30 19:38:59</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D2 H10</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589526">
+  <general>
+   <startdate>2024-10-30 19:39:12</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€85,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€171,76" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H2 H5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589551">
+  <general>
+   <startdate>2024-10-30 19:39:22</startdate>
+   <players>
+    <player dealer="0" bet="€1,50" win="€1" chips="€85,92" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C8 D4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589583">
+  <general>
+   <startdate>2024-10-30 19:39:38</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK H5</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589621">
+  <general>
+   <startdate>2024-10-30 19:39:59</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€1,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€268,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€6,50" win="€2,75" chips="€50,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€172,26" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">DJ SA</cards>
+   <action sum="€6,50" no="8" player="13373678" type="23"/>
+   <action sum="€0" no="9" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589662">
+  <general>
+   <startdate>2024-10-30 19:40:19</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€52,25" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€172,26" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S4 HJ</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589690">
+  <general>
+   <startdate>2024-10-30 19:40:33</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€52" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€172,26" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">H2 D2</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589720">
+  <general>
+   <startdate>2024-10-30 19:40:49</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,75" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€171,76" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">CQ H7</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943589741">
+  <general>
+   <startdate>2024-10-30 19:41:02</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€86,67" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€1,25" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S9 S2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943590886">
+  <general>
+   <startdate>2024-10-30 19:41:21</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€268,99" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H5 D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591181">
+  <general>
+   <startdate>2024-10-30 19:41:43</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€21,37" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€268,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€52,75" win="€41,69" chips="€52,75" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">SK DA</cards>
+   <action sum="€6,50" no="8" player="13373678" type="23"/>
+   <action sum="€5,25" no="9" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S8 DJ</cards>
+   <action sum="€4,37" no="10" player="13373678" type="5"/>
+   <action sum="€4,37" no="11" player="ancoratu" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€10,50" no="12" player="13373678" type="5"/>
+   <action sum="€10,50" no="13" player="ancoratu" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action sum="€31,38" no="14" player="13373678" type="5"/>
+   <action sum="€0" no="15" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591370">
+  <general>
+   <startdate>2024-10-30 19:43:26</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€73,07" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S10 C5</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591400">
+  <general>
+   <startdate>2024-10-30 19:43:44</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€72,82" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,50" win="€1" chips="€51" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€171,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S6 D4</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591432">
+  <general>
+   <startdate>2024-10-30 19:43:58</startdate>
+   <players>
+    <player dealer="0" bet="€2,50" win="€2,43" chips="€86,42" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€72,82" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51,50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€171,01" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">D3 HK</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="7" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0,75" no="8" player="bonski22" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H3 D4</cards>
+   <action sum="€0" no="9" player="121050" type="4"/>
+   <action sum="€1,25" no="10" player="bonski22" type="5"/>
+   <action sum="€0" no="11" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591614">
+  <general>
+   <startdate>2024-10-30 19:44:33</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€87,60" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€72,82" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€169,76" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">SK D9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943591653">
+  <general>
+   <startdate>2024-10-30 19:44:52</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€87,35" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€72,82" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€170,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CQ S2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943592826">
+  <general>
+   <startdate>2024-10-30 19:45:03</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€87,35" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€1,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€268,49" seat="5" name="orochi"/>
+    <player dealer="0" bet="€4,68" win="€2,67" chips="€72,82" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€170,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C6 CK</cards>
+   <action sum="€0,75" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ HQ HA</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€0" no="10" player="ancoratu" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€3,43" no="11" player="13373678" type="5"/>
+   <action sum="€0" no="12" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943592913">
+  <general>
+   <startdate>2024-10-30 19:45:43</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€87,35" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€3,75" win="€2,95" chips="€268,24" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€74,24" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€51,50" seat="8" name="KankkaAnkka"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€3,75" no="5" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">S4 S5</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943592957">
+  <general>
+   <startdate>2024-10-30 19:46:01</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€87,35" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€270,09" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0" win="€0" chips="€73,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€170,51" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="ancoratu" type="23"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">C7 SJ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943592988">
+  <general>
+   <startdate>2024-10-30 19:46:14</startdate>
+   <players>
+    <player dealer="0" bet="€1,11" win="€3,23" chips="€87,35" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€0" chips="€270,09" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,99" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€1,11" win="€0" chips="€170,01" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">C5 S5</cards>
+   <action sum="€1,11" no="4" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">HK H6</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">C9 S10</cards>
+   <action sum="€0,86" no="7" player="121050" type="3"/>
+   <cards player="bonski22" type="Pocket">S8 S9</cards>
+   <action sum="€0,61" no="8" player="bonski22" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D8 D2</cards>
+   <action sum="€0" no="9" player="121050" type="4"/>
+   <action sum="€0" no="10" player="bonski22" type="4"/>
+   <action sum="€0" no="11" player="orochi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action sum="€0" no="12" player="121050" type="4"/>
+   <action sum="€0" no="13" player="bonski22" type="4"/>
+   <action sum="€0" no="14" player="orochi" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" no="15" player="121050" type="4"/>
+   <action sum="€0" no="16" player="bonski22" type="4"/>
+   <action sum="€0" no="17" player="orochi" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3943593104">
+  <general>
+   <startdate>2024-10-30 19:47:13</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€89,47" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,75" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1,11" win="€1,25" chips="€268,98" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€168,90" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">HA S8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593138">
+  <general>
+   <startdate>2024-10-30 19:47:30</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€89,22" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€269,73" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€168,90" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="orochi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593200">
+  <general>
+   <startdate>2024-10-30 19:48:01</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€89,97" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€1" win="€1" chips="€269,23" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€73,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€168,90" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="orochi" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">D2 CQ</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593241">
+  <general>
+   <startdate>2024-10-30 19:48:24</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€89,97" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€1,11" win="€1,25" chips="€269,73" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€73,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€168,90" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€1,11" no="6" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">C5 H4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593279">
+  <general>
+   <startdate>2024-10-30 19:48:45</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€89,97" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€270,48" seat="5" name="orochi"/>
+    <player dealer="1" bet="€1,25" win="€0" chips="€73,24" seat="6" name="13373678"/>
+    <player dealer="0" bet="€5,50" win="€0" chips="€50,25" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€5,50" win="€11,88" chips="€168,90" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">CA S8</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">CQ HA</cards>
+   <action sum="€5,50" no="7" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">SQ HQ</cards>
+   <action sum="€5" no="8" player="121050" type="3"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H9 S9</cards>
+   <action sum="€0" no="10" player="KankkaAnkka" type="4"/>
+   <action sum="€0" no="11" player="121050" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" no="12" player="KankkaAnkka" type="4"/>
+   <action sum="€0" no="13" player="121050" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action sum="€0" no="14" player="KankkaAnkka" type="4"/>
+   <action sum="€0" no="15" player="121050" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3943593388">
+  <general>
+   <startdate>2024-10-30 19:49:39</startdate>
+   <players>
+    <player dealer="0" bet="€12" win="€5,82" chips="€89,97" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€3" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€270,48" seat="5" name="orochi"/>
+    <player dealer="0" bet="€0" win="€0" chips="€71,99" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€175,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="orochi" type="0"/>
+   <cards player="13373678" type="Pocket">S10 H5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="ancoratu" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 CJ C8</cards>
+   <action sum="€1,50" no="8" player="bonski22" type="5"/>
+   <action sum="€1,50" no="9" player="ancoratu" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€9" no="10" player="bonski22" type="5"/>
+   <action sum="€0" no="11" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593489">
+  <general>
+   <startdate>2024-10-30 19:50:34</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€92,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€71,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€175,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ CK</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593507">
+  <general>
+   <startdate>2024-10-30 19:50:45</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€92,79" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€10,56" win="€8,49" chips="€50" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€72,24" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€44,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€4" win="€0" chips="€175,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€4" no="5" player="ancoratu" type="23"/>
+   <cards player="13373678" type="Pocket">DK S2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <action sum="€2,75" no="8" player="121050" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ H2 C10</cards>
+   <action sum="€0" no="9" player="121050" type="4"/>
+   <action sum="€6,56" no="10" player="ancoratu" type="5"/>
+   <action sum="€0" no="11" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593580">
+  <general>
+   <startdate>2024-10-30 19:51:20</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€92,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€54,49" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€71,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="13373678" type="Pocket">C3 DJ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943593864">
+  <general>
+   <startdate>2024-10-30 19:51:30</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€92,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€54,49" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€10,25" win="€8,25" chips="€71,99" seat="6" name="13373678"/>
+    <player dealer="1" bet="€3,75" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€171,53" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="13373678" type="Pocket">S9 CA</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€3,75" no="5" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <action sum="€10,25" no="8" player="13373678" type="23"/>
+   <action sum="€0" no="9" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595011">
+  <general>
+   <startdate>2024-10-30 19:52:07</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€92,29" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€50" win="€98,75" chips="€54,49" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€50" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 D7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">CJ CK</cards>
+   <action sum="€1,25" no="4" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">C9 CA</cards>
+   <action sum="€6" no="7" player="ancoratu" type="23"/>
+   <action sum="€4,75" no="8" player="KankkaAnkka" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 C2 D8</cards>
+   <action sum="€0" no="9" player="ancoratu" type="4"/>
+   <action sum="€6,24" no="10" player="KankkaAnkka" type="5"/>
+   <action sum="€18,48" no="11" player="ancoratu" type="23"/>
+   <action sum="€44" no="12" player="KankkaAnkka" type="23"/>
+   <action sum="€25,52" no="13" player="ancoratu" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+  </round>
+ </game>
+ <game gamecode="3943595299">
+  <general>
+   <startdate>2024-10-30 19:53:30</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€92,04" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€103,24" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="Lohimedaljonki" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">DA S7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595330">
+  <general>
+   <startdate>2024-10-30 19:53:46</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" win="€0" chips="€92,04" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€4" win="€3,25" chips="€102,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,25" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Lohimedaljonki" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€4" no="6" player="ancoratu" type="23"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">D10 D4</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€0" no="9" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595389">
+  <general>
+   <startdate>2024-10-30 19:54:14</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€90,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€75,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="121050" type="23"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">C3 C6</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KankkaAnkka" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595432">
+  <general>
+   <startdate>2024-10-30 19:54:37</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€90,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="1" bet="€0" win="€0" chips="€75,74" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€172,03" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="121050" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">DJ C6</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="121050" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595464">
+  <general>
+   <startdate>2024-10-30 19:54:52</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€91,54" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€75,74" seat="6" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€171,53" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="121050" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">H8 D8</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595506">
+  <general>
+   <startdate>2024-10-30 19:55:16</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€91,04" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">C7 C4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595528">
+  <general>
+   <startdate>2024-10-30 19:55:30</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€90,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€105,24" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,10" win="€1,25" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="Lohimedaljonki" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 D9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="KankkaAnkka" type="23"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Lohimedaljonki" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943595553">
+  <general>
+   <startdate>2024-10-30 19:55:50</startdate>
+   <players>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€90,79" seat="1" name="bonski22"/>
+    <player dealer="1" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Lohimedaljonki" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KankkaAnkka" type="0"/>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D2</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943596338">
+  <general>
+   <startdate>2024-10-30 19:56:21</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€91,54" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€75,99" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€171,28" seat="10" name="121050"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KankkaAnkka" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <cards player="121050" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="121050" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">C10 S3</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943596364">
+  <general>
+   <startdate>2024-10-30 19:56:36</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€91,54" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€75,74" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€20" seat="10" name="WAHOOrensOOHn"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KankkaAnkka" type="1"/>
+   <action sum="€0,50" no="2" player="WAHOOrensOOHn" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">S2 CA</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KankkaAnkka" type="0"/>
+   <cards player="WAHOOrensOOHn" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="WAHOOrensOOHn" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943596392">
+  <general>
+   <startdate>2024-10-30 19:56:51</startdate>
+   <players>
+    <player dealer="0" bet="€7" win="€3,75" chips="€91,54" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="1" bet="€1,25" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€50" seat="10" name="WAHOOrensOOHn"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="WAHOOrensOOHn" type="1"/>
+   <action sum="€0,50" no="2" player="bonski22" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">SK C7</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="KankkaAnkka" type="23"/>
+   <cards player="WAHOOrensOOHn" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="WAHOOrensOOHn" type="3"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€7" no="8" player="bonski22" type="23"/>
+   <action sum="€0" no="9" player="KankkaAnkka" type="0"/>
+   <action sum="€0" no="10" player="WAHOOrensOOHn" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943596446">
+  <general>
+   <startdate>2024-10-30 19:57:22</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€94,04" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€104,99" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€50" seat="8" name="KankkaAnkka"/>
+    <player dealer="1" bet="€0" win="€0" chips="€48,75" seat="10" name="WAHOOrensOOHn"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="bonski22" type="1"/>
+   <action sum="€0,50" no="2" player="ancoratu" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Lohimedaljonki" type="0"/>
+   <cards player="13373678" type="Pocket">S6 S4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="KankkaAnkka" type="23"/>
+   <cards player="WAHOOrensOOHn" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="WAHOOrensOOHn" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="bonski22" type="0"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="ancoratu" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943596476">
+  <general>
+   <startdate>2024-10-30 19:57:44</startdate>
+   <players>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€93,79" seat="1" name="bonski22"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€104,49" seat="3" name="ancoratu"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="5" name="Lohimedaljonki"/>
+    <player dealer="0" bet="€0" win="€0" chips="€76,49" seat="6" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,75" seat="8" name="KankkaAnkka"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50" seat="10" name="WAHOOrensOOHn"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ancoratu" type="1"/>
+   <action sum="€0,50" no="2" player="Lohimedaljonki" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 S2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KankkaAnkka" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KankkaAnkka" type="0"/>
+   <cards player="WAHOOrensOOHn" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="WAHOOrensOOHn" type="0"/>
+   <cards player="bonski22" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="bonski22" type="23"/>
+   <cards player="ancoratu" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="ancoratu" type="0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Lohimedaljonki" type="0"/>
+  </round>
+ </game>
+</session>

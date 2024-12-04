@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4082901565">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:25:16</duration>
+  <gamecount>38</gamecount>
+  <startdate>2022-09-07 21:12:37</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€143,64</bets>
+  <wins>€157,60</wins>
+  <chipsin>€54,86</chipsin>
+  <chipsout>€121,09</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3708575010">
+  <general>
+   <startdate>2022-09-07 21:12:37</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€32,17" win="€10,03" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€5,17" win="€0" name="EliRis92" chips="€30,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK CK</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,75" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C10 H10</cards>
+   <action no="5" type="4" sum="€0" player="EliRis92"/>
+   <action no="6" type="5" sum="€0,82" player="13373678"/>
+   <action no="7" type="3" sum="€0,82" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="8" type="4" sum="€0" player="EliRis92"/>
+   <action no="9" type="5" sum="€3,10" player="13373678"/>
+   <action no="10" type="3" sum="€3,10" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action no="11" type="4" sum="€0" player="EliRis92"/>
+   <action no="12" type="5" sum="€27" player="13373678"/>
+   <action no="13" type="0" sum="€0" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708575111">
+  <general>
+   <startdate>2022-09-07 21:13:22</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€54,86"/>
+    <player seat="3" dealer="1" bet="€1" win="€0,97" name="EliRis92" chips="€25,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="3" type="3" sum="€0,25" player="EliRis92"/>
+   <cards type="Pocket" player="13373678">H7 C3</cards>
+   <action no="4" type="4" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 SJ H6</cards>
+   <action no="5" type="4" sum="€0" player="13373678"/>
+   <action no="6" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="7" type="4" sum="€0" player="13373678"/>
+   <action no="8" type="5" sum="€0,50" player="EliRis92"/>
+   <action no="9" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708575179">
+  <general>
+   <startdate>2022-09-07 21:13:47</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€1,25" win="€0" name="13373678" chips="€54,36"/>
+    <player seat="3" dealer="0" bet="€20,62" win="€20,61" name="EliRis92" chips="€25,80"/>
+    <player seat="5" dealer="0" bet="€10" win="€0" name="seed100" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="seed100"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 S2</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€1" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="23" sum="€6" player="seed100"/>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+   <action no="7" type="3" sum="€4,75" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA CK H6</cards>
+   <action no="8" type="4" sum="€0" player="EliRis92"/>
+   <action no="9" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action no="10" type="5" sum="€4" player="EliRis92"/>
+   <action no="11" type="3" sum="€4" player="seed100"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action no="12" type="5" sum="€10,62" player="EliRis92"/>
+   <action no="13" type="0" sum="€0" player="seed100"/>
+  </round>
+ </game>
+ <game gamecode="3708575320">
+  <general>
+   <startdate>2022-09-07 21:14:43</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€19,52" win="€11,03" name="13373678" chips="€53,11"/>
+    <player seat="3" dealer="1" bet="€5,31" win="€0" name="EliRis92" chips="€36,41"/>
+    <player seat="5" dealer="0" bet="€0,25" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA CA</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€1,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="0" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 C4 SJ</cards>
+   <action no="7" type="4" sum="€0" player="13373678"/>
+   <action no="8" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action no="9" type="5" sum="€4,06" player="13373678"/>
+   <action no="10" type="3" sum="€4,06" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action no="11" type="5" sum="€14,21" player="13373678"/>
+   <action no="12" type="0" sum="€0" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708575403">
+  <general>
+   <startdate>2022-09-07 21:15:12</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€58,83"/>
+    <player seat="3" dealer="0" bet="€0,50" win="€0" name="EliRis92" chips="€31,10"/>
+    <player seat="5" dealer="1" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€3,50" win="€1,50" name="DangerBeach" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PopDonkey"/>
+   <action no="2" type="2" sum="€0,50" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 H10</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="3" sum="€0,25" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="7" type="23" sum="€3,50" player="DangerBeach"/>
+   <action no="8" type="0" sum="€0" player="EliRis92"/>
+   <action no="9" type="0" sum="€0" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3708575550">
+  <general>
+   <startdate>2022-09-07 21:15:41</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€58,83"/>
+    <player seat="3" dealer="0" bet="€2" win="€1,46" name="EliRis92" chips="€30,60"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="1" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0" name="DangerBeach" chips="€51"/>
+    <player seat="10" dealer="0" bet="€0,50" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="DangerBeach"/>
+   <action no="2" type="2" sum="€0,50" player="JamesBoon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 S4</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="7" type="3" sum="€0,25" player="DangerBeach"/>
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="8" type="4" sum="€0" player="JamesBoon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D7 C10</cards>
+   <action no="9" type="4" sum="€0" player="DangerBeach"/>
+   <action no="10" type="4" sum="€0" player="JamesBoon"/>
+   <action no="11" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="12" type="4" sum="€0" player="DangerBeach"/>
+   <action no="13" type="4" sum="€0" player="JamesBoon"/>
+   <action no="14" type="5" sum="€1,50" player="EliRis92"/>
+   <action no="15" type="0" sum="€0" player="DangerBeach"/>
+   <action no="16" type="0" sum="€0" player="JamesBoon"/>
+  </round>
+ </game>
+ <game gamecode="3708575697">
+  <general>
+   <startdate>2022-09-07 21:16:34</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€58,83"/>
+    <player seat="3" dealer="0" bet="€8" win="€10,19" name="EliRis92" chips="€31,56"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="1" bet="€0" win="€0" name="DangerBeach" chips="€50,50"/>
+    <player seat="10" dealer="0" bet="€5" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="JamesBoon"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="3" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="4" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="5" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="6" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="7" type="23" sum="€2,50" player="JamesBoon"/>
+   <cards type="Pocket" player="13373678">D4 SK</cards>
+   <action no="8" type="0" sum="€0" player="13373678"/>
+   <action no="9" type="3" sum="€2" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 D8 CJ</cards>
+   <action no="10" type="4" sum="€0" player="JamesBoon"/>
+   <action no="11" type="5" sum="€1" player="EliRis92"/>
+   <action no="12" type="3" sum="€1" player="JamesBoon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action no="13" type="4" sum="€0" player="JamesBoon"/>
+   <action no="14" type="5" sum="€1,50" player="EliRis92"/>
+   <action no="15" type="3" sum="€1,50" player="JamesBoon"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action no="16" type="4" sum="€0" player="JamesBoon"/>
+   <action no="17" type="5" sum="€3" player="EliRis92"/>
+   <action no="18" type="0" sum="€0" player="JamesBoon"/>
+  </round>
+ </game>
+ <game gamecode="3708577166">
+  <general>
+   <startdate>2022-09-07 21:17:41</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,25" win="€0" name="13373678" chips="€58,33"/>
+    <player seat="3" dealer="0" bet="€0,50" win="€0,50" name="EliRis92" chips="€36,75"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="DangerBeach" chips="€50,50"/>
+    <player seat="10" dealer="1" bet="€0" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="3" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="4" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="5" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="6" type="0" sum="€0" player="JamesBoon"/>
+   <cards type="Pocket" player="13373678">C4 C10</cards>
+   <action no="7" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708577520">
+  <general>
+   <startdate>2022-09-07 21:17:59</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0" win="€0" name="13373678" chips="€58,08"/>
+    <player seat="3" dealer="0" bet="€13,50" win="€13,10" name="EliRis92" chips="€37"/>
+    <player seat="5" dealer="0" bet="€13,50" win="€13,09" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="DangerBeach" chips="€50,50"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="seed100"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="3" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="4" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="5" type="0" sum="€0" player="JamesBoon"/>
+   <cards type="Pocket" player="13373678">D6 C2</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">S7 H2</cards>
+   <action no="7" type="3" sum="€0,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">C7 DK</cards>
+   <action no="8" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C9 D3</cards>
+   <action no="9" type="5" sum="€1" player="EliRis92"/>
+   <action no="10" type="3" sum="€1" player="seed100"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action no="11" type="5" sum="€2" player="EliRis92"/>
+   <action no="12" type="3" sum="€2" player="seed100"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action no="13" type="5" sum="€3,50" player="EliRis92"/>
+   <action no="14" type="23" sum="€10" player="seed100"/>
+   <action no="15" type="3" sum="€6,50" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708577669">
+  <general>
+   <startdate>2022-09-07 21:18:56</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€58,08"/>
+    <player seat="3" dealer="1" bet="€1,75" win="€0" name="EliRis92" chips="€36,60"/>
+    <player seat="5" dealer="0" bet="€0,25" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€3,62" win="€3,64" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="DangerBeach" chips="€50,50"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="3" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="4" type="0" sum="€0" player="JamesBoon"/>
+   <cards type="Pocket" player="13373678">S2 D10</cards>
+   <action no="5" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="6" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="7" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="8" type="4" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C7 H2</cards>
+   <action no="9" type="4" sum="€0" player="PopDonkey"/>
+   <action no="10" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="11" type="5" sum="€1,25" player="PopDonkey"/>
+   <action no="12" type="3" sum="€1,25" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action no="13" type="5" sum="€1,87" player="PopDonkey"/>
+   <action no="14" type="0" sum="€0" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708577760">
+  <general>
+   <startdate>2022-09-07 21:19:27</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€4,25" win="€0" name="13373678" chips="€58,08"/>
+    <player seat="3" dealer="0" bet="€8,87" win="€8,97" name="EliRis92" chips="€34,85"/>
+    <player seat="5" dealer="1" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,25" win="€0" name="PopDonkey" chips="€51,89"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0" name="DangerBeach" chips="€50,50"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="JamesBoon" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PopDonkey"/>
+   <action no="2" type="2" sum="€0,50" player="DangerBeach"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JamesBoon">X X</cards>
+   <action no="3" type="0" sum="€0" player="JamesBoon"/>
+   <cards type="Pocket" player="13373678">DA D2</cards>
+   <action no="4" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="5" type="3" sum="€1,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="6" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="7" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="8" type="0" sum="€0" player="DangerBeach"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 S2 D7</cards>
+   <action no="9" type="4" sum="€0" player="13373678"/>
+   <action no="10" type="5" sum="€1" player="EliRis92"/>
+   <action no="11" type="3" sum="€1" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="12" type="4" sum="€0" player="13373678"/>
+   <action no="13" type="5" sum="€2" player="EliRis92"/>
+   <action no="14" type="3" sum="€2" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action no="15" type="4" sum="€0" player="13373678"/>
+   <action no="16" type="5" sum="€4,62" player="EliRis92"/>
+   <action no="17" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708578449">
+  <general>
+   <startdate>2022-09-07 21:20:37</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€53,83"/>
+    <player seat="3" dealer="0" bet="€2,50" win="€1,22" name="EliRis92" chips="€39,57"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="1" bet="€0" win="€0" name="PopDonkey" chips="€51,64"/>
+    <player seat="8" dealer="0" bet="€0,25" win="€0" name="DangerBeach" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="DangerBeach"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="3" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="4" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="5" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="6" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">S7 D4</cards>
+   <action no="7" type="4" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CJ DJ</cards>
+   <action no="8" type="4" sum="€0" player="13373678"/>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action no="10" type="4" sum="€0" player="13373678"/>
+   <action no="11" type="5" sum="€2" player="EliRis92"/>
+   <action no="12" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708578555">
+  <general>
+   <startdate>2022-09-07 21:21:22</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,25" win="€0" name="13373678" chips="€53,33"/>
+    <player seat="3" dealer="0" bet="€0,50" win="€0,50" name="EliRis92" chips="€40,29"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€51,64"/>
+    <player seat="8" dealer="1" bet="€0" win="€0" name="DangerBeach" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="3" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="4" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="5" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">CJ S7</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708578613">
+  <general>
+   <startdate>2022-09-07 21:21:42</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0" win="€0" name="13373678" chips="€53,08"/>
+    <player seat="3" dealer="0" bet="€1,50" win="€0,97" name="EliRis92" chips="€40,54"/>
+    <player seat="5" dealer="0" bet="€0,50" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€51,64"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="DangerBeach" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="seed100"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="3" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="4" type="0" sum="€0" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">D7 H5</cards>
+   <action no="5" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="6" type="3" sum="€0,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="7" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ HA C3</cards>
+   <action no="8" type="4" sum="€0" player="EliRis92"/>
+   <action no="9" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="10" type="4" sum="€0" player="EliRis92"/>
+   <action no="11" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action no="12" type="5" sum="€1" player="EliRis92"/>
+   <action no="13" type="0" sum="€0" player="seed100"/>
+  </round>
+ </game>
+ <game gamecode="3708578687">
+  <general>
+   <startdate>2022-09-07 21:22:11</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€7,75" win="€0" name="13373678" chips="€53,08"/>
+    <player seat="3" dealer="1" bet="€17,75" win="€19,40" name="EliRis92" chips="€41,01"/>
+    <player seat="5" dealer="0" bet="€0,25" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€51,64"/>
+    <player seat="8" dealer="0" bet="€3,75" win="€0" name="DangerBeach" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action no="3" type="23" sum="€1,10" player="DangerBeach"/>
+   <cards type="Pocket" player="13373678">DA D2</cards>
+   <action no="4" type="23" sum="€3,75" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="5" type="3" sum="€3,75" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="6" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="7" type="0" sum="€0" player="PopDonkey"/>
+   <action no="8" type="3" sum="€2,65" player="DangerBeach"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ C6 CA</cards>
+   <action no="9" type="4" sum="€0" player="DangerBeach"/>
+   <action no="10" type="4" sum="€0" player="13373678"/>
+   <action no="11" type="5" sum="€4" player="EliRis92"/>
+   <action no="12" type="0" sum="€0" player="DangerBeach"/>
+   <action no="13" type="3" sum="€4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action no="14" type="4" sum="€0" player="13373678"/>
+   <action no="15" type="5" sum="€10" player="EliRis92"/>
+   <action no="16" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708578822">
+  <general>
+   <startdate>2022-09-07 21:23:05</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€1,50" win="€1,22" name="EliRis92" chips="€52,66"/>
+    <player seat="5" dealer="1" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,25" win="€0" name="PopDonkey" chips="€51,14"/>
+    <player seat="10" dealer="0" bet="€0,50" win="€0" name="MaxCashHero" chips="€20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PopDonkey"/>
+   <action no="2" type="2" sum="€0,50" player="MaxCashHero"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ S8</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="MaxCashHero">X X</cards>
+   <action no="7" type="4" sum="€0" player="MaxCashHero"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H8 H5</cards>
+   <action no="8" type="4" sum="€0" player="MaxCashHero"/>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action no="10" type="4" sum="€0" player="MaxCashHero"/>
+   <action no="11" type="5" sum="€1" player="EliRis92"/>
+   <action no="12" type="0" sum="€0" player="MaxCashHero"/>
+  </round>
+ </game>
+ <game gamecode="3708578889">
+  <general>
+   <startdate>2022-09-07 21:23:36</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€15,75" win="€10,43" name="EliRis92" chips="€53,38"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="1" bet="€5" win="€0" name="PopDonkey" chips="€50,89"/>
+    <player seat="10" dealer="0" bet="€0,25" win="€0" name="MaxCashHero" chips="€25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="MaxCashHero"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="3" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="4" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="5" type="23" sum="€2" player="PopDonkey"/>
+   <cards type="Pocket" player="MaxCashHero">X X</cards>
+   <action no="6" type="0" sum="€0" player="MaxCashHero"/>
+   <cards type="Pocket" player="13373678">S10 HK</cards>
+   <action no="7" type="0" sum="€0" player="13373678"/>
+   <action no="8" type="3" sum="€1,50" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S5 C9</cards>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+   <action no="10" type="5" sum="€3" player="PopDonkey"/>
+   <action no="11" type="3" sum="€3" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action no="12" type="4" sum="€0" player="EliRis92"/>
+   <action no="13" type="4" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action no="14" type="5" sum="€10,75" player="EliRis92"/>
+   <action no="15" type="0" sum="€0" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3708579018">
+  <general>
+   <startdate>2022-09-07 21:24:30</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,25" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€5,50" win="€10,91" name="EliRis92" chips="€58,81"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€5,50" win="€0" name="superm" chips="€20"/>
+    <player seat="10" dealer="1" bet="€0" win="€0" name="MaxCashHero" chips="€25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+   <action no="3" type="2" sum="€0,50" player="superm"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="4" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="5" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">D4 C7</cards>
+   <action no="6" type="4" sum="€0" player="superm"/>
+   <cards type="Pocket" player="MaxCashHero">X X</cards>
+   <action no="7" type="0" sum="€0" player="MaxCashHero"/>
+   <cards type="Pocket" player="13373678">H4 H8</cards>
+   <action no="8" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">DA S6</cards>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S4 D6</cards>
+   <action no="10" type="4" sum="€0" player="EliRis92"/>
+   <action no="11" type="5" sum="€0,50" player="superm"/>
+   <action no="12" type="3" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action no="13" type="4" sum="€0" player="EliRis92"/>
+   <action no="14" type="5" sum="€1" player="superm"/>
+   <action no="15" type="23" sum="€2" player="EliRis92"/>
+   <action no="16" type="23" sum="€3" player="superm"/>
+   <action no="17" type="3" sum="€1" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action no="18" type="4" sum="€0" player="EliRis92"/>
+   <action no="19" type="5" sum="€1,50" player="superm"/>
+   <action no="20" type="3" sum="€1,50" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708579122">
+  <general>
+   <startdate>2022-09-07 21:25:12</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€1,50" win="€0,97" name="EliRis92" chips="€64,22"/>
+    <player seat="5" dealer="0" bet="€0,50" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="superm" chips="€14,50"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="MaxCashHero" chips="€25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="seed100"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="3" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="4" type="0" sum="€0" player="superm"/>
+   <cards type="Pocket" player="MaxCashHero">X X</cards>
+   <action no="5" type="0" sum="€0" player="MaxCashHero"/>
+   <cards type="Pocket" player="13373678">H4 S8</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="7" type="3" sum="€0,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="8" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S7 C10</cards>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+   <action no="10" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action no="11" type="5" sum="€1" player="EliRis92"/>
+   <action no="12" type="0" sum="€0" player="seed100"/>
+  </round>
+ </game>
+ <game gamecode="3708579348">
+  <general>
+   <startdate>2022-09-07 21:26:03</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="1" bet="€7,75" win="€0" name="EliRis92" chips="€64,69"/>
+    <player seat="5" dealer="0" bet="€4" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€0" win="€0" name="superm" chips="€14,50"/>
+    <player seat="10" dealer="0" bet="€7,75" win="€19,40" name="MaxCashHero" chips="€25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="3" type="0" sum="€0" player="superm"/>
+   <cards type="Pocket" player="MaxCashHero">HK CQ</cards>
+   <action no="4" type="23" sum="€1,50" player="MaxCashHero"/>
+   <cards type="Pocket" player="13373678">C8 H9</cards>
+   <action no="5" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">CJ H3</cards>
+   <action no="6" type="3" sum="€1,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="7" type="3" sum="€1,25" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="8" type="0" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK C5 C6</cards>
+   <action no="9" type="4" sum="€0" player="seed100"/>
+   <action no="10" type="4" sum="€0" player="MaxCashHero"/>
+   <action no="11" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="12" type="5" sum="€2,50" player="seed100"/>
+   <action no="13" type="3" sum="€2,50" player="MaxCashHero"/>
+   <action no="14" type="3" sum="€2,50" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action no="15" type="4" sum="€0" player="seed100"/>
+   <action no="16" type="5" sum="€3,75" player="MaxCashHero"/>
+   <action no="17" type="3" sum="€3,75" player="EliRis92"/>
+   <action no="18" type="0" sum="€0" player="seed100"/>
+  </round>
+ </game>
+ <game gamecode="3708580711">
+  <general>
+   <startdate>2022-09-07 21:27:07</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€14,50" win="€0" name="EliRis92" chips="€56,94"/>
+    <player seat="5" dealer="1" bet="€1,50" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€50" win="€43,64" name="PopDonkey" chips="€50"/>
+    <player seat="8" dealer="0" bet="€14,50" win="€0" name="superm" chips="€14,50"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="MaxCashHero" chips="€36,65"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PopDonkey"/>
+   <action no="2" type="2" sum="€0,50" player="superm"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaxCashHero">X X</cards>
+   <action no="3" type="0" sum="€0" player="MaxCashHero"/>
+   <cards type="Pocket" player="13373678">D3 HQ</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="5" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="6" type="23" sum="€1,50" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">HK HA</cards>
+   <action no="7" type="23" sum="€7,50" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">CK CJ</cards>
+   <action no="8" type="23" sum="€14,50" player="superm"/>
+   <action no="9" type="3" sum="€14" player="EliRis92"/>
+   <action no="10" type="0" sum="€0" player="seed100"/>
+   <action no="11" type="23" sum="€50" player="PopDonkey"/>
+   <action no="12" type="0" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D8 S2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+  </round>
+ </game>
+ <game gamecode="3708580854">
+  <general>
+   <startdate>2022-09-07 21:28:01</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€26,75" win="€52" name="13373678" chips="€50"/>
+    <player seat="3" dealer="0" bet="€26,75" win="€0" name="EliRis92" chips="€42,44"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="1" bet="€0" win="€0" name="PopDonkey" chips="€79,14"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="3" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="4" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="13373678">C9 DQ</cards>
+   <action no="5" type="23" sum="€1,50" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">HA DA</cards>
+   <action no="6" type="3" sum="€1" player="EliRis92"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 SQ D6</cards>
+   <action no="7" type="4" sum="€0" player="13373678"/>
+   <action no="8" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action no="9" type="5" sum="€3,75" player="13373678"/>
+   <action no="10" type="3" sum="€3,75" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action no="11" type="5" sum="€21,50" player="13373678"/>
+   <action no="12" type="3" sum="€21,50" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708580960">
+  <general>
+   <startdate>2022-09-07 21:28:37</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0" win="€0" name="13373678" chips="€75,25"/>
+    <player seat="3" dealer="0" bet="€6,50" win="€7,76" name="EliRis92" chips="€15,69"/>
+    <player seat="5" dealer="0" bet="€2" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€79,14"/>
+    <player seat="8" dealer="0" bet="€3" win="€0" name="superm" chips="€20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="EliRis92"/>
+   <action no="2" type="2" sum="€0,50" player="seed100"/>
+   <action no="3" type="1" sum="€0,25" player="superm"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="4" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="5" type="3" sum="€0,25" player="superm"/>
+   <cards type="Pocket" player="13373678">S5 DK</cards>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="7" type="3" sum="€0,25" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="8" type="4" sum="€0" player="seed100"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D6 H7</cards>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+   <action no="10" type="5" sum="€1,50" player="seed100"/>
+   <action no="11" type="3" sum="€1,50" player="superm"/>
+   <action no="12" type="3" sum="€1,50" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action no="13" type="4" sum="€0" player="EliRis92"/>
+   <action no="14" type="4" sum="€0" player="seed100"/>
+   <action no="15" type="5" sum="€1" player="superm"/>
+   <action no="16" type="23" sum="€4,50" player="EliRis92"/>
+   <action no="17" type="0" sum="€0" player="seed100"/>
+   <action no="18" type="0" sum="€0" player="superm"/>
+  </round>
+ </game>
+ <game gamecode="3708581892">
+  <general>
+   <startdate>2022-09-07 21:29:37</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€2" win="€0" name="13373678" chips="€75,25"/>
+    <player seat="3" dealer="1" bet="€3,50" win="€0" name="EliRis92" chips="€20,45"/>
+    <player seat="5" dealer="0" bet="€0,25" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€79,14"/>
+    <player seat="8" dealer="0" bet="€4,50" win="€9,46" name="superm" chips="€17"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="3" type="3" sum="€0,50" player="superm"/>
+   <cards type="Pocket" player="13373678">C9 CK</cards>
+   <action no="4" type="23" sum="€2" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="5" type="3" sum="€2" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="6" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="7" type="0" sum="€0" player="PopDonkey"/>
+   <action no="8" type="3" sum="€1,50" player="superm"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ DA D2</cards>
+   <action no="9" type="4" sum="€0" player="superm"/>
+   <action no="10" type="4" sum="€0" player="13373678"/>
+   <action no="11" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="12" type="5" sum="€1,50" player="superm"/>
+   <action no="13" type="0" sum="€0" player="13373678"/>
+   <action no="14" type="3" sum="€1,50" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="15" type="5" sum="€1" player="superm"/>
+   <action no="16" type="0" sum="€0" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708582035">
+  <general>
+   <startdate>2022-09-07 21:30:33</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€73,25"/>
+    <player seat="3" dealer="0" bet="€1,50" win="€1,46" name="EliRis92" chips="€16,95"/>
+    <player seat="5" dealer="1" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0,50" win="€0" name="PopDonkey" chips="€78,64"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0" name="superm" chips="€22,96"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="PopDonkey"/>
+   <action no="2" type="2" sum="€0,50" player="superm"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 H4</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="3" sum="€0,25" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="7" type="4" sum="€0" player="superm"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 S2 HK</cards>
+   <action no="8" type="4" sum="€0" player="PopDonkey"/>
+   <action no="9" type="4" sum="€0" player="superm"/>
+   <action no="10" type="4" sum="€0" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="11" type="4" sum="€0" player="PopDonkey"/>
+   <action no="12" type="4" sum="€0" player="superm"/>
+   <action no="13" type="5" sum="€1" player="EliRis92"/>
+   <action no="14" type="0" sum="€0" player="PopDonkey"/>
+   <action no="15" type="0" sum="€0" player="superm"/>
+  </round>
+ </game>
+ <game gamecode="3708582132">
+  <general>
+   <startdate>2022-09-07 21:31:10</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0" win="€0" name="13373678" chips="€73,25"/>
+    <player seat="3" dealer="0" bet="€12,75" win="€8,73" name="EliRis92" chips="€17,91"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="1" bet="€0" win="€0" name="PopDonkey" chips="€78,14"/>
+    <player seat="8" dealer="0" bet="€3,75" win="€0" name="superm" chips="€22,46"/>
+    <player seat="10" dealer="0" bet="€1,50" win="€0" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="superm"/>
+   <action no="2" type="2" sum="€0,50" player="HahnrichHimler"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK D4</cards>
+   <action no="3" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">X X</cards>
+   <action no="4" type="3" sum="€0,50" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="5" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="6" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">X X</cards>
+   <action no="7" type="3" sum="€0,25" player="superm"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="8" type="4" sum="€0" player="HahnrichHimler"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C3 H9</cards>
+   <action no="9" type="5" sum="€1" player="superm"/>
+   <action no="10" type="3" sum="€1" player="HahnrichHimler"/>
+   <action no="11" type="3" sum="€1" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="12" type="4" sum="€0" player="superm"/>
+   <action no="13" type="4" sum="€0" player="HahnrichHimler"/>
+   <action no="14" type="5" sum="€2,25" player="EliRis92"/>
+   <action no="15" type="3" sum="€2,25" player="superm"/>
+   <action no="16" type="0" sum="€0" player="HahnrichHimler"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action no="17" type="4" sum="€0" player="superm"/>
+   <action no="18" type="5" sum="€9" player="EliRis92"/>
+   <action no="19" type="0" sum="€0" player="superm"/>
+  </round>
+ </game>
+ <game gamecode="3708582262">
+  <general>
+   <startdate>2022-09-07 21:31:56</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€73,25"/>
+    <player seat="3" dealer="0" bet="€4" win="€0" name="EliRis92" chips="€22,89"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€78,14"/>
+    <player seat="8" dealer="1" bet="€4" win="€8,49" name="superm" chips="€18,71"/>
+    <player seat="10" dealer="0" bet="€0,25" win="€0" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="HahnrichHimler"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="EliRis92">S9 D9</cards>
+   <action no="3" type="23" sum="€1" player="EliRis92"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="4" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="5" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">D7 DA</cards>
+   <action no="6" type="3" sum="€1" player="superm"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="7" type="0" sum="€0" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">SQ H8</cards>
+   <action no="8" type="0" sum="€0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 HA SK</cards>
+   <action no="9" type="4" sum="€0" player="EliRis92"/>
+   <action no="10" type="5" sum="€1" player="superm"/>
+   <action no="11" type="3" sum="€1" player="EliRis92"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="12" type="4" sum="€0" player="EliRis92"/>
+   <action no="13" type="5" sum="€1" player="superm"/>
+   <action no="14" type="3" sum="€1" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action no="15" type="4" sum="€0" player="EliRis92"/>
+   <action no="16" type="5" sum="€1" player="superm"/>
+   <action no="17" type="3" sum="€1" player="EliRis92"/>
+  </round>
+ </game>
+ <game gamecode="3708582380">
+  <general>
+   <startdate>2022-09-07 21:32:42</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€23,20" win="€63,79" name="13373678" chips="€72,75"/>
+    <player seat="3" dealer="0" bet="€18,89" win="€0" name="EliRis92" chips="€18,89"/>
+    <player seat="5" dealer="0" bet="€0" win="€0" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€0" win="€0" name="PopDonkey" chips="€78,14"/>
+    <player seat="8" dealer="0" bet="€23,20" win="€0" name="superm" chips="€23,20"/>
+    <player seat="10" dealer="1" bet="€0" win="€0" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="EliRis92"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="3" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action no="4" type="0" sum="€0" player="PopDonkey"/>
+   <cards type="Pocket" player="superm">S4 S7</cards>
+   <action no="5" type="3" sum="€0,50" player="superm"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="6" type="0" sum="€0" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">S2 SA</cards>
+   <action no="7" type="23" sum="€2,50" player="13373678"/>
+   <cards type="Pocket" player="EliRis92">D8 HJ</cards>
+   <action no="8" type="3" sum="€2" player="EliRis92"/>
+   <action no="9" type="3" sum="€2" player="superm"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ SQ C9</cards>
+   <action no="10" type="4" sum="€0" player="13373678"/>
+   <action no="11" type="4" sum="€0" player="EliRis92"/>
+   <action no="12" type="4" sum="€0" player="superm"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="13" type="5" sum="€5,62" player="13373678"/>
+   <action no="14" type="3" sum="€5,62" player="EliRis92"/>
+   <action no="15" type="23" sum="€20,70" player="superm"/>
+   <action no="16" type="3" sum="€15,08" player="13373678"/>
+   <action no="17" type="7" sum="€10,77" player="EliRis92"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+  </round>
+ </game>
+ <game gamecode="3708582543">
+  <general>
+   <startdate>2022-09-07 21:33:43</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€0" win="€0" name="13373678" chips="€113,34"/>
+    <player seat="5" dealer="0" bet="€1,50" win="€1,46" name="seed100" chips="€50"/>
+    <player seat="6" dealer="0" bet="€1,50" win="€1,45" name="PopDonkey" chips="€78,14"/>
+    <player seat="10" dealer="0" bet="€0" win="€0" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="seed100"/>
+   <action no="2" type="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="3" type="0" sum="€0" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">H9 C4</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="seed100">SK HA</cards>
+   <action no="5" type="23" sum="€1,50" player="seed100"/>
+   <cards type="Pocket" player="PopDonkey">CA D10</cards>
+   <action no="6" type="3" sum="€1" player="PopDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H6 D7</cards>
+   <action no="7" type="4" sum="€0" player="seed100"/>
+   <action no="8" type="4" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="9" type="4" sum="€0" player="seed100"/>
+   <action no="10" type="4" sum="€0" player="PopDonkey"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action no="11" type="4" sum="€0" player="seed100"/>
+   <action no="12" type="4" sum="€0" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3708582674">
+  <general>
+   <startdate>2022-09-07 21:34:34</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€2,25" win="€4,37" name="13373678" chips="€113,34"/>
+    <player seat="10" dealer="0" bet="€2,25" win="€0" name="HahnrichHimler" chips="€50"/>
+    <player seat="5" dealer="1" bet="€0" win="€0" name="seed100" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="HahnrichHimler"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action no="3" type="0" sum="€0" player="seed100"/>
+   <cards type="Pocket" player="HahnrichHimler">HK CJ</cards>
+   <action no="4" type="23" sum="€1,50" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">C8 DQ</cards>
+   <action no="5" type="3" sum="€1" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA H8 H5</cards>
+   <action no="6" type="5" sum="€0,75" player="HahnrichHimler"/>
+   <action no="7" type="3" sum="€0,75" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action no="8" type="4" sum="€0" player="HahnrichHimler"/>
+   <action no="9" type="4" sum="€0" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="10" type="4" sum="€0" player="HahnrichHimler"/>
+   <action no="11" type="4" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708584065">
+  <general>
+   <startdate>2022-09-07 21:35:18</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,25" win="€0" name="13373678" chips="€115,46"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="1" bet="€1,25" win="€1,25" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="1765969689"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">DQ C6</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="5" type="0" sum="€0" player="1765969689"/>
+  </round>
+ </game>
+ <game gamecode="3708584769">
+  <general>
+   <startdate>2022-09-07 21:35:33</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€1,25" win="€1,25" name="13373678" chips="€115,21"/>
+    <player seat="8" dealer="0" bet="€0,25" win="€0" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="0" bet="€0,50" win="€0" name="HahnrichHimler" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="1765969689"/>
+   <action no="2" type="2" sum="€0,50" player="HahnrichHimler"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 SA</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="4" type="0" sum="€0" player="1765969689"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="5" type="0" sum="€0" player="HahnrichHimler"/>
+  </round>
+ </game>
+ <game gamecode="3708584795">
+  <general>
+   <startdate>2022-09-07 21:35:44</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€5" win="€3" name="13373678" chips="€115,96"/>
+    <player seat="8" dealer="1" bet="€0" win="€0" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="0" bet="€1,50" win="€0" name="HahnrichHimler" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="HahnrichHimler"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="3" type="0" sum="€0" player="1765969689"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">D10 SK</cards>
+   <action no="5" type="23" sum="€5" player="13373678"/>
+   <action no="6" type="0" sum="€0" player="HahnrichHimler"/>
+  </round>
+ </game>
+ <game gamecode="3708584875">
+  <general>
+   <startdate>2022-09-07 21:36:11</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,25" win="€0" name="13373678" chips="€117,46"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0,50" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="1" bet="€0" win="€0" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="1765969689"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="3" type="0" sum="€0" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">D10 S6</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708584905">
+  <general>
+   <startdate>2022-09-07 21:36:20</startdate>
+   <players>
+    <player seat="1" dealer="1" bet="€1,25" win="€0" name="13373678" chips="€117,21"/>
+    <player seat="8" dealer="0" bet="€0,25" win="€0" name="1765969689" chips="€50,25"/>
+    <player seat="10" dealer="0" bet="€5" win="€2,75" name="HahnrichHimler" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="1765969689"/>
+   <action no="2" type="2" sum="€0,50" player="HahnrichHimler"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SJ H10</cards>
+   <action no="3" type="23" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="4" type="0" sum="€0" player="1765969689"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="5" type="23" sum="€5" player="HahnrichHimler"/>
+   <action no="6" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708584949">
+  <general>
+   <startdate>2022-09-07 21:36:37</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€115,96"/>
+    <player seat="8" dealer="1" bet="€0" win="€0" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="0" bet="€1,50" win="€1" name="HahnrichHimler" chips="€51,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="HahnrichHimler"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="3" type="0" sum="€0" player="1765969689"/>
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="4" type="23" sum="€1,50" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">C10 S2</cards>
+   <action no="5" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3708584979">
+  <general>
+   <startdate>2022-09-07 21:36:50</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€12,25" win="€12,13" name="13373678" chips="€115,46"/>
+    <player seat="8" dealer="0" bet="€0,50" win="€0" name="1765969689" chips="€50"/>
+    <player seat="10" dealer="1" bet="€6" win="€0" name="HahnrichHimler" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="13373678"/>
+   <action no="2" type="2" sum="€0,50" player="1765969689"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HahnrichHimler">X X</cards>
+   <action no="3" type="23" sum="€1,25" player="HahnrichHimler"/>
+   <cards type="Pocket" player="13373678">CJ DQ</cards>
+   <action no="4" type="23" sum="€6" player="13373678"/>
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="5" type="0" sum="€0" player="1765969689"/>
+   <action no="6" type="3" sum="€4,75" player="HahnrichHimler"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C5 C3</cards>
+   <action no="7" type="4" sum="€0" player="13373678"/>
+   <action no="8" type="4" sum="€0" player="HahnrichHimler"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="9" type="5" sum="€6,25" player="13373678"/>
+   <action no="10" type="0" sum="€0" player="HahnrichHimler"/>
+  </round>
+ </game>
+ <game gamecode="3708585105">
+  <general>
+   <startdate>2022-09-07 21:37:32</startdate>
+   <players>
+    <player seat="1" dealer="0" bet="€0,50" win="€0" name="13373678" chips="€121,59"/>
+    <player seat="8" dealer="1" bet="€1" win="€1" name="1765969689" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" sum="€0,25" player="1765969689"/>
+   <action no="2" type="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="1765969689">X X</cards>
+   <action no="3" type="23" sum="€1" player="1765969689"/>
+   <cards type="Pocket" player="13373678">HK D7</cards>
+   <action no="4" type="0" sum="€0" player="13373678"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077017073">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 13, 488049772</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:04:59</duration>
+  <gamecount>14</gamecount>
+  <startdate>2022-06-17 11:00:10</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€25,60</bets>
+  <wins>€18,70</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€104,68</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688768160">
+  <general>
+   <startdate>2022-06-17 11:00:10</startdate>
+   <players>
+    <player win="€1" name="13373678" dealer="0" seat="1" chips="€100" bet="€1"/>
+    <player win="€0" name="MichaelLudwig" dealer="1" seat="5" chips="€100" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="MichaelLudwig" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 DA</cards>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" player="MichaelLudwig" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3688768172">
+  <general>
+   <startdate>2022-06-17 11:00:17</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="1" seat="1" chips="€100,50" bet="€0,50"/>
+    <player win="€1" name="MichaelLudwig" dealer="0" seat="5" chips="€100" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="MichaelLudwig" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <cards type="Pocket" player="13373678">CJ D5</cards>
+   <action type="0" player="13373678" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3688768189">
+  <general>
+   <startdate>2022-06-17 11:00:29</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="0" seat="1" chips="€100" bet="€0,50"/>
+    <player win="€0" name="H00KED" dealer="0" seat="3" chips="€100" bet="€11,50"/>
+    <player win="€22,79" name="MichaelLudwig" dealer="1" seat="5" chips="€100,50" bet="€28,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="H00KED" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="23" player="MichaelLudwig" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="13373678">SQ D6</cards>
+   <action type="0" player="13373678" sum="€0" no="4"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="23" player="H00KED" sum="€11,50" no="5"/>
+   <action type="3" player="MichaelLudwig" sum="€9" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C6 C7</cards>
+   <action type="4" player="H00KED" sum="€0" no="7"/>
+   <action type="4" player="MichaelLudwig" sum="€0" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action type="4" player="H00KED" sum="€0" no="9"/>
+   <action type="4" player="MichaelLudwig" sum="€0" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action type="4" player="H00KED" sum="€0" no="11"/>
+   <action type="5" player="MichaelLudwig" sum="€17" no="12"/>
+   <action type="0" player="H00KED" sum="€0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3688768295">
+  <general>
+   <startdate>2022-06-17 11:01:44</startdate>
+   <players>
+    <player win="€2,50" name="13373678" dealer="1" seat="1" chips="€100" bet="€2,50"/>
+    <player win="€0" name="H00KED" dealer="0" seat="3" chips="€100" bet="€0,50"/>
+    <player win="€0" name="MichaelLudwig" dealer="0" seat="5" chips="€111,79" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="H00KED" sum="€0,50" no="1"/>
+   <action type="2" player="MichaelLudwig" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 H8</cards>
+   <action type="23" player="13373678" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="4"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" player="MichaelLudwig" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3688768322">
+  <general>
+   <startdate>2022-06-17 11:02:04</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="0" seat="1" chips="€101,50" bet="€0"/>
+    <player win="€2,50" name="H00KED" dealer="1" seat="3" chips="€100" bet="€2,50"/>
+    <player win="€0" name="MichaelLudwig" dealer="0" seat="5" chips="€110,79" bet="€0,50"/>
+    <player win="€0" name="Thx4nix" dealer="0" seat="6" chips="€100" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="MichaelLudwig" sum="€0,50" no="1"/>
+   <action type="2" player="Thx4nix" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 D2</cards>
+   <action type="0" player="13373678" sum="€0" no="3"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="23" player="H00KED" sum="€2,50" no="4"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" player="MichaelLudwig" sum="€0" no="5"/>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action type="0" player="Thx4nix" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3688768351">
+  <general>
+   <startdate>2022-06-17 11:02:24</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="0" seat="1" chips="€101,50" bet="€1"/>
+    <player win="€2,50" name="H00KED" dealer="0" seat="3" chips="€101,50" bet="€2,50"/>
+    <player win="€0" name="MichaelLudwig" dealer="1" seat="5" chips="€110,29" bet="€0"/>
+    <player win="€0" name="Thx4nix" dealer="0" seat="6" chips="€100" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thx4nix" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="23" player="H00KED" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" player="MichaelLudwig" sum="€0" no="4"/>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action type="0" player="Thx4nix" sum="€0" no="5"/>
+   <cards type="Pocket" player="13373678">H4 DK</cards>
+   <action type="0" player="13373678" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3688768390">
+  <general>
+   <startdate>2022-06-17 11:02:51</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="0" seat="1" chips="€100,50" bet="€0,50"/>
+    <player win="€0" name="H00KED" dealer="0" seat="3" chips="€103" bet="€1"/>
+    <player win="€2,50" name="MichaelLudwig" dealer="0" seat="5" chips="€110,29" bet="€2,50"/>
+    <player win="€0" name="Thx4nix" dealer="1" seat="6" chips="€100" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="H00KED" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="23" player="MichaelLudwig" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action type="0" player="Thx4nix" sum="€0" no="4"/>
+   <cards type="Pocket" player="13373678">D2 H3</cards>
+   <action type="0" player="13373678" sum="€0" no="5"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3688768401">
+  <general>
+   <startdate>2022-06-17 11:03:01</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="1" seat="1" chips="€100" bet="€2,50"/>
+    <player win="€0" name="H00KED" dealer="0" seat="3" chips="€102" bet="€0,50"/>
+    <player win="€5,50" name="bet4Joe" dealer="0" seat="10" chips="€100" bet="€11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="H00KED" sum="€0,50" no="1"/>
+   <action type="2" player="bet4Joe" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 SA</cards>
+   <action type="23" player="13373678" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="4"/>
+   <cards type="Pocket" player="bet4Joe">X X</cards>
+   <action type="23" player="bet4Joe" sum="€11" no="5"/>
+   <action type="0" player="13373678" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3688768461">
+  <general>
+   <startdate>2022-06-17 11:03:47</startdate>
+   <players>
+    <player win="€1" name="H00KED" dealer="0" seat="3" chips="€101,50" bet="€1"/>
+    <player win="€0" name="bet4Joe" dealer="1" seat="10" chips="€103" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="bet4Joe" sum="€0,50" no="1"/>
+   <action type="2" player="H00KED" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <cards type="Pocket" player="bet4Joe">X X</cards>
+   <action type="0" player="bet4Joe" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3688768471">
+  <general>
+   <startdate>2022-06-17 11:03:54</startdate>
+   <players>
+    <player win="€11,20" name="13373678" dealer="0" seat="1" chips="€97,50" bet="€12,10"/>
+    <player win="€0" name="H00KED" dealer="1" seat="3" chips="€102" bet="€5,52"/>
+    <player win="€0" name="bet4Joe" dealer="0" seat="10" chips="€102,50" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="bet4Joe" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="23" player="H00KED" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="bet4Joe">X X</cards>
+   <action type="0" player="bet4Joe" sum="€0" no="4"/>
+   <cards type="Pocket" player="13373678">DA D8</cards>
+   <action type="3" player="13373678" sum="€1,50" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C6 DK</cards>
+   <action type="4" player="13373678" sum="€0" no="6"/>
+   <action type="5" player="H00KED" sum="€3,02" no="7"/>
+   <action type="23" player="13373678" sum="€9,60" no="8"/>
+   <action type="0" player="H00KED" sum="€0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3688768524">
+  <general>
+   <startdate>2022-06-17 11:04:36</startdate>
+   <players>
+    <player win="€0" name="13373678" dealer="0" seat="1" chips="€103,18" bet="€0,50"/>
+    <player win="€1" name="H00KED" dealer="0" seat="3" chips="€100" bet="€1"/>
+    <player win="€0" name="bet4Joe" dealer="1" seat="10" chips="€102" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="H00KED" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <cards type="Pocket" player="bet4Joe">X X</cards>
+   <action type="0" player="bet4Joe" sum="€0" no="3"/>
+   <cards type="Pocket" player="13373678">S4 DQ</cards>
+   <action type="0" player="13373678" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3688768617">
+  <general>
+   <startdate>2022-06-17 11:04:44</startdate>
+   <players>
+    <player win="€1" name="13373678" dealer="0" seat="1" chips="€102,68" bet="€1"/>
+    <player win="€0" name="H00KED" dealer="1" seat="3" chips="€100,50" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="H00KED" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 SK</cards>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3688768629">
+  <general>
+   <startdate>2022-06-17 11:04:51</startdate>
+   <players>
+    <player win="€2" name="13373678" dealer="1" seat="1" chips="€103,18" bet="€2,50"/>
+    <player win="€0" name="H00KED" dealer="0" seat="3" chips="€100" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" sum="€0,50" no="1"/>
+   <action type="2" player="H00KED" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ CA</cards>
+   <action type="23" player="13373678" sum="€2,50" no="3"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3688768648">
+  <general>
+   <startdate>2022-06-17 11:05:05</startdate>
+   <players>
+    <player win="€1" name="13373678" dealer="0" seat="1" chips="€104,18" bet="€1"/>
+    <player win="€0" name="H00KED" dealer="1" seat="3" chips="€100" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="H00KED" sum="€0,50" no="1"/>
+   <action type="2" player="13373678" sum="€1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 S6</cards>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action type="0" player="H00KED" sum="€0" no="3"/>
+  </round>
+ </game>
+</session>

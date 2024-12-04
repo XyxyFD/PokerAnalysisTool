@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4078585443">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 18, 488050912</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:10:16</duration>
+  <gamecount>23</gamecount>
+  <startdate>2022-07-10 23:09:56</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€101,89</bets>
+  <wins>€143,48</wins>
+  <chipsin>€49</chipsin>
+  <chipsout>€105,41</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3694271403">
+  <general>
+   <startdate>2022-07-10 23:09:56</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="1" bet="€1"/>
+    <player name="Teilzeitwappler" chips="€50" dealer="1" win="€1,94" seat="3" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€1" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C4 S4</cards>
+   <action sum="€0,50" player="13373678" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S2 H10</cards>
+   <action sum="€0" player="13373678" no="5" type="4"/>
+   <action sum="€1" player="Teilzeitwappler" no="6" type="5"/>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271492">
+  <general>
+   <startdate>2022-07-10 23:10:47</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="1" bet="€2,50"/>
+    <player name="Teilzeitwappler" chips="€50,94" dealer="0" win="€4,85" seat="3" bet="€7,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CQ SJ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Teilzeitwappler" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA HQ S2</cards>
+   <action sum="€0" player="Teilzeitwappler" no="5" type="4"/>
+   <action sum="€0" player="13373678" no="6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="7" type="5"/>
+   <action sum="€1,25" player="13373678" no="8" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€5" player="Teilzeitwappler" no="9" type="5"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271581">
+  <general>
+   <startdate>2022-07-10 23:11:35</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="1" bet="€1,25"/>
+    <player name="Teilzeitwappler" chips="€53,29" dealer="1" win="€2,43" seat="3" bet="€3,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C6 S6</cards>
+   <action sum="€0,75" player="13373678" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SJ DQ</cards>
+   <action sum="€0" player="13373678" no="5" type="4"/>
+   <action sum="€1,87" player="Teilzeitwappler" no="6" type="5"/>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271627">
+  <general>
+   <startdate>2022-07-10 23:12:03</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" win="€2,43" seat="1" bet="€3,12"/>
+    <player name="Teilzeitwappler" chips="€54,47" dealer="0" win="€0" seat="3" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 D6</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Teilzeitwappler" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 H4 DK</cards>
+   <action sum="€0" player="Teilzeitwappler" no="5" type="4"/>
+   <action sum="€1,87" player="13373678" no="6" type="5"/>
+   <action sum="€0" player="Teilzeitwappler" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271668">
+  <general>
+   <startdate>2022-07-10 23:12:24</startdate>
+   <players>
+    <player name="13373678" chips="€51,18" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€53,22" dealer="1" win="€0" seat="3" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 CA</cards>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0" player="Teilzeitwappler" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271678">
+  <general>
+   <startdate>2022-07-10 23:12:31</startdate>
+   <players>
+    <player name="13373678" chips="€51,43" dealer="1" win="€0" seat="1" bet="€1,25"/>
+    <player name="Teilzeitwappler" chips="€52,97" dealer="0" win="€2,50" seat="3" bet="€3,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 SK</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€3,50" player="Teilzeitwappler" no="4" type="23"/>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271710">
+  <general>
+   <startdate>2022-07-10 23:12:51</startdate>
+   <players>
+    <player name="13373678" chips="€50,18" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€54,22" dealer="1" win="€1" seat="3" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">D2 H7</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271723">
+  <general>
+   <startdate>2022-07-10 23:12:59</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="1" bet="€0,25"/>
+    <player name="Teilzeitwappler" chips="€54,72" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D4 C3</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271738">
+  <general>
+   <startdate>2022-07-10 23:13:06</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€54,97" dealer="1" win="€1" seat="3" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">D10 S6</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271944">
+  <general>
+   <startdate>2022-07-10 23:13:21</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" win="€1" seat="1" bet="€1,25"/>
+    <player name="Teilzeitwappler" chips="€55,47" dealer="0" win="€0" seat="3" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ CJ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0" player="Teilzeitwappler" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271960">
+  <general>
+   <startdate>2022-07-10 23:13:29</startdate>
+   <players>
+    <player name="13373678" chips="€50,50" dealer="0" win="€36,02" seat="1" bet="€18,26"/>
+    <player name="Teilzeitwappler" chips="€54,97" dealer="1" win="€0" seat="3" bet="€18,26"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">SA C10</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">CK HQ</cards>
+   <action sum="€5,50" player="13373678" no="4" type="23"/>
+   <action sum="€4,25" player="Teilzeitwappler" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C5 S10</cards>
+   <action sum="€3,63" player="13373678" no="6" type="5"/>
+   <action sum="€3,63" player="Teilzeitwappler" no="7" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+   <action sum="€0" player="Teilzeitwappler" no="9" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€9,13" player="13373678" no="10" type="5"/>
+   <action sum="€9,13" player="Teilzeitwappler" no="11" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694272089">
+  <general>
+   <startdate>2022-07-10 23:14:43</startdate>
+   <players>
+    <player name="13373678" chips="€68,26" dealer="1" win="€0" seat="1" bet="€2,25"/>
+    <player name="Teilzeitwappler" chips="€36,71" dealer="0" win="€4,37" seat="3" bet="€6,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 S8</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Teilzeitwappler" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HJ H3</cards>
+   <action sum="€0" player="Teilzeitwappler" no="5" type="4"/>
+   <action sum="€0" player="13373678" no="6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€1" player="Teilzeitwappler" no="7" type="5"/>
+   <action sum="€1" player="13373678" no="8" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€4,50" player="Teilzeitwappler" no="9" type="5"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272567">
+  <general>
+   <startdate>2022-07-10 23:15:31</startdate>
+   <players>
+    <player name="13373678" chips="€66,01" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€38,83" dealer="1" win="€0" seat="3" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK SQ</cards>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0" player="Teilzeitwappler" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272584">
+  <general>
+   <startdate>2022-07-10 23:15:38</startdate>
+   <players>
+    <player name="13373678" chips="€66,26" dealer="1" win="€0" seat="1" bet="€0,25"/>
+    <player name="Teilzeitwappler" chips="€38,58" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C3 D2</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272595">
+  <general>
+   <startdate>2022-07-10 23:15:45</startdate>
+   <players>
+    <player name="13373678" chips="€66,01" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€38,83" dealer="1" win="€0" seat="3" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D5 S9</cards>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0" player="Teilzeitwappler" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272606">
+  <general>
+   <startdate>2022-07-10 23:15:53</startdate>
+   <players>
+    <player name="13373678" chips="€66,26" dealer="1" win="€0" seat="1" bet="€6,24"/>
+    <player name="Teilzeitwappler" chips="€38,58" dealer="0" win="€12,11" seat="3" bet="€21,74"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H4 DQ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Teilzeitwappler" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 D4 D3</cards>
+   <action sum="€0" player="Teilzeitwappler" no="5" type="4"/>
+   <action sum="€1,87" player="13373678" no="6" type="5"/>
+   <action sum="€1,87" player="Teilzeitwappler" no="7" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€3,12" player="Teilzeitwappler" no="8" type="5"/>
+   <action sum="€3,12" player="13373678" no="9" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action sum="€15,50" player="Teilzeitwappler" no="10" type="5"/>
+   <action sum="€0" player="13373678" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272716">
+  <general>
+   <startdate>2022-07-10 23:16:48</startdate>
+   <players>
+    <player name="13373678" chips="€60,02" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€44,45" dealer="1" win="€0,97" seat="3" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€0,25" player="Teilzeitwappler" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">S7 H2</cards>
+   <action sum="€0" player="13373678" no="4" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C3 SQ</cards>
+   <action sum="€0" player="13373678" no="5" type="4"/>
+   <action sum="€1" player="Teilzeitwappler" no="6" type="5"/>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272761">
+  <general>
+   <startdate>2022-07-10 23:17:14</startdate>
+   <players>
+    <player name="13373678" chips="€59,52" dealer="1" win="€0" seat="1" bet="€4,50"/>
+    <player name="Teilzeitwappler" chips="€44,92" dealer="0" win="€9,22" seat="3" bet="€9,25"/>
+    <player name="sniffdachs" chips="€50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="sniffdachs" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK C6</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€4,50" player="Teilzeitwappler" no="4" type="23"/>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0" player="sniffdachs" no="5" type="0"/>
+   <action sum="€3,25" player="13373678" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D3 HQ</cards>
+   <action sum="€0" player="Teilzeitwappler" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€4,75" player="Teilzeitwappler" no="9" type="5"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272832">
+  <general>
+   <startdate>2022-07-10 23:17:59</startdate>
+   <players>
+    <player name="13373678" chips="€55,02" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Teilzeitwappler" chips="€49,64" dealer="1" win="€1,25" seat="3" bet="€1,25"/>
+    <player name="sniffdachs" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="sniffdachs" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Teilzeitwappler" no="3" type="23"/>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0" player="sniffdachs" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">CJ D2</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272849">
+  <general>
+   <startdate>2022-07-10 23:18:08</startdate>
+   <players>
+    <player name="13373678" chips="€54,52" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Teilzeitwappler" chips="€50,39" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+    <player name="sniffdachs" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Teilzeitwappler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Teilzeitwappler" type="Pocket">X X</cards>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0" player="sniffdachs" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">C3 C6</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272867">
+  <general>
+   <startdate>2022-07-10 23:18:17</startdate>
+   <players>
+    <player name="13373678" chips="€54,27" dealer="1" win="€101,03" seat="1" bet="€54,27"/>
+    <player name="Teilzeitwappler" chips="€50,64" dealer="0" win="€0" seat="3" bet="€50,64"/>
+    <player name="sniffdachs" chips="€50" dealer="0" win="€0" seat="6" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Teilzeitwappler" no="1" type="1"/>
+   <action sum="€0,50" player="sniffdachs" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 S10</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Teilzeitwappler" type="Pocket">S4 D4</cards>
+   <action sum="€1" player="Teilzeitwappler" no="4" type="3"/>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0,75" player="sniffdachs" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C2 H6</cards>
+   <action sum="€2,47" player="Teilzeitwappler" no="6" type="5"/>
+   <action sum="€0" player="sniffdachs" no="7" type="0"/>
+   <action sum="€8,37" player="13373678" no="8" type="23"/>
+   <action sum="€5,90" player="Teilzeitwappler" no="9" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€6,76" player="Teilzeitwappler" no="10" type="5"/>
+   <action sum="€6,76" player="13373678" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€11,22" player="Teilzeitwappler" no="12" type="5"/>
+   <action sum="€37,89" player="13373678" no="13" type="23"/>
+   <action sum="€23,04" player="Teilzeitwappler" no="14" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3694273988">
+  <general>
+   <startdate>2022-07-10 23:19:31</startdate>
+   <players>
+    <player name="13373678" chips="€104,66" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="sniffdachs" chips="€50" dealer="1" win="€0" seat="6" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="sniffdachs" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 C7</cards>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0" player="sniffdachs" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274007">
+  <general>
+   <startdate>2022-07-10 23:19:40</startdate>
+   <players>
+    <player name="13373678" chips="€104,91" dealer="1" win="€1" seat="1" bet="€1,25"/>
+    <player name="sniffdachs" chips="€50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="sniffdachs" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 DK</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="sniffdachs" type="Pocket">X X</cards>
+   <action sum="€0" player="sniffdachs" no="4" type="0"/>
+  </round>
+ </game>
+</session>

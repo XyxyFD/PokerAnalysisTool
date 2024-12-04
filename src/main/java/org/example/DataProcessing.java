@@ -404,6 +404,35 @@ public class  DataProcessing {
             return "0";
         }
     }
+    //does the same as determineCallPos, but it works with the fullActionString
+    public static String determineCallPos2(String fullAction) {
+        String[] actions = fullAction.split(":");
+        List<String> callers = new ArrayList<>();
+        boolean raiseOccurred = false;
+
+        for (String act : actions) {
+            if (act.contains("FLOP")) {
+                break;
+            }
+            if (act.contains("r")) {
+                raiseOccurred = true;
+                callers.clear();
+            }
+            if (raiseOccurred && act.contains("_c")) {
+                callers.add(act.split("_")[0]);
+            }
+        }
+
+        if (callers.size() == 1) {
+
+            return callers.get(0);  // Return the single caller's position
+        } else if (callers.size() > 1) {
+
+            return String.valueOf(callers.size());  // Return the number of callers as a String
+        } else {
+            return "0";
+        }
+    }
     public static void determinePotType(PokerHand hand, DataBlock block) {
         String[] actions = block.getFullAction().split(":");
         int raiseCount = 0;
@@ -790,11 +819,16 @@ public class  DataProcessing {
             block.setStabTurn(false);
             return;
         }
+        if (block.isCbet()) {
+            block.setStabTurn(false);
+            return;
+        }
 
 
 
         // Durchlaufe die Aktionen
         boolean isFlop = false;
+        boolean isTurn = false;
         boolean possibleStab = false;
         String[] actions = block.getFullAction().split(":");
 
@@ -803,18 +837,17 @@ public class  DataProcessing {
                 isFlop = true;
             }
             if (act.contains("TURN")) {
-                if(possibleStab){
-                    if(act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_r") ||
-                    act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_c")){
-                        block.setStabTurn(true);
-                        return;
-                    }else{
-                        block.setStabTurn(false);
-                    }
-                }else {
-                    break;
+                isTurn = true;
+                isFlop = false;
+            }
+            if(isTurn & possibleStab){
+                if(act.contains(determineCallPos2(block.getFullAction()) + "_b")){
+                    block.setStabTurn(true);
+                    return;
                 }
             }
+
+
             if (isFlop && act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_x")) {
                 possibleStab = true;
             }
@@ -823,6 +856,8 @@ public class  DataProcessing {
                 return;
             }
         }
+        block.setStabTurn(false);
+
     }
 
 
@@ -986,6 +1021,11 @@ public class  DataProcessing {
     public static void isBetAfterCheckRiver(PokerHand hand, DataBlock block) {
         if (determineAggrIP(hand, block) == 1 || determineAggrIP(hand, block) == -1) {
             block.setBetAfterCheckRiver(false);
+            return;
+        }
+        if(!block.isCallTurnBarrel()){
+            block.setBetAfterCheckRiver(false);
+            return;
         }
 
         String[] actions = block.getFullAction().split(":");
@@ -1001,6 +1041,7 @@ public class  DataProcessing {
             }
             if (checkOccurred && act.contains("_b")) {
                 block.setBetAfterCheckRiver(true);
+                return;
             }
         }
 
@@ -1013,6 +1054,7 @@ public class  DataProcessing {
         }
         if(!block.isCbetCall()){
             block.setStabRiver(false);
+            return;
         }
 
         String[] actions = block.getFullAction().split(":");
@@ -1031,11 +1073,8 @@ public class  DataProcessing {
             }else if(isTurn && act.contains(determineLastAggressorPreflop(block.getFullAction() + "_x"))){
                 possibleStab = true;
             }else if(isRiver && possibleStab){
-                if(act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_c") || act.contains(determineLastAggressorPreflop(block.getFullAction()) + "_r")){
+                if(act.contains(determineCallPos2(block.getFullAction()) + "_b")){
                     block.setStabRiver(true);
-                    return;
-                }else{
-                    block.setStabRiver(false);
                     return;
                 }
             }else if (isRiver && !possibleStab){
@@ -1161,7 +1200,7 @@ public class  DataProcessing {
             }
             if (isRiver && act.contains("_r")) {
                 block.setRaise3Barrel(true);
-
+                return;
             }
         }
 

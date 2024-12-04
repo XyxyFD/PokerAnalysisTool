@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077452368">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:21</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-06-24 00:28:37</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,50</bets>
+  <wins>€0</wins>
+  <chipsin>€97,50</chipsin>
+  <chipsout>€97,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3690342764">
+  <general>
+   <startdate>2022-06-24 00:28:37</startdate>
+   <players>
+    <player bet="€2,50" name="13373678" dealer="1" chips="€100" win="€0" seat="1"/>
+    <player bet="€10" name="MiuMau2000" dealer="0" chips="€205,93" win="€5" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="MiuMau2000" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 S6</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="MiuMau2000" type="Pocket">X X</cards>
+   <action player="MiuMau2000" sum="€10" type="23" no="4"/>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+</session>

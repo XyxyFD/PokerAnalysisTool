@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081158719">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:24</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-14 18:36:55</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1</bets>
+  <wins>€0</wins>
+  <chipsin>€132,30</chipsin>
+  <chipsout>€132,30</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702586529">
+  <general>
+   <startdate>2022-08-14 18:36:55</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1" chips="€133,30"/>
+    <player seat="3" name="ShibaInu0" win="€1,94" dealer="1" bet="€2,32" chips="€20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="ShibaInu0" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ShibaInu0" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="ShibaInu0" type="23"/>
+   <cards player="13373678" type="Pocket">H4 H3</cards>
+   <action sum="€0,50" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D9 S4</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,32" no="6" player="ShibaInu0" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+</session>

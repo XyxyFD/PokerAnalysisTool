@@ -1,0 +1,4065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076370311">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>01:00:12</duration>
+  <gamecount>110</gamecount>
+  <startdate>2022-06-07 18:05:33</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€169,54</bets>
+  <wins>€115,13</wins>
+  <chipsin>€201,25</chipsin>
+  <chipsout>€208,08</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3686500335">
+  <general>
+   <startdate>2022-06-07 18:05:33</startdate>
+   <players>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€52,41" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="kided69" chips="€56,15" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€52,76" bet="€4,21"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€163,48" bet="€0,25"/>
+    <player seat="10" win="€8,41" dealer="0" name="AllGlorytoJC" chips="€58,89" bet="€4,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="kided69">X X</cards>
+   <action type="0" sum="€0" no="4" player="kided69"/>
+   <cards type="Pocket" player="Kakkelberg">HA HK</cards>
+   <action type="23" sum="€1,10" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">H3 DA</cards>
+   <action type="3" sum="€0,60" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S8 S9</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="9" player="Kakkelberg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action type="5" sum="€1,61" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,61" no="11" player="Kakkelberg"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action type="4" sum="€0" no="12" player="AllGlorytoJC"/>
+   <action type="5" sum="€1,50" no="13" player="Kakkelberg"/>
+   <action type="3" sum="€1,50" no="14" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686501346">
+  <general>
+   <startdate>2022-06-07 18:06:03</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€205,69" bet="€4,44"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€52,41" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="kided69" chips="€56,15" bet="€4,44"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="BobGermanman" chips="€163,23" bet="€0"/>
+    <player seat="10" win="€12,92" dealer="0" name="AllGlorytoJC" chips="€63,09" bet="€13,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="kided69">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="kided69"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H8 SK</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S2 H2</cards>
+   <action type="5" sum="€0,99" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€0,99" no="10" player="13373678"/>
+   <action type="3" sum="€0,99" no="11" player="kided69"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action type="5" sum="€2,95" no="12" player="AllGlorytoJC"/>
+   <action type="3" sum="€2,95" no="13" player="13373678"/>
+   <action type="3" sum="€2,95" no="14" player="kided69"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action type="5" sum="€8,79" no="15" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="16" player="13373678"/>
+   <action type="0" sum="€0" no="17" player="kided69"/>
+  </round>
+ </game>
+ <game gamecode="3686501417">
+  <general>
+   <startdate>2022-06-07 18:06:46</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€201,25" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€52,41" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€163,23" bet="€0"/>
+    <player seat="10" win="€1,25" dealer="1" name="AllGlorytoJC" chips="€71,57" bet="€1,25"/>
+    <player seat="5" win="€0" dealer="0" name="kided69" chips="€51,71" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="kided69">X X</cards>
+   <action type="0" sum="€0" no="3" player="kided69"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,25" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H2 H8</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="8" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686501449">
+  <general>
+   <startdate>2022-06-07 18:07:07</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€201" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€51,91" bet="€1"/>
+    <player seat="6" win="€1,94" dealer="0" name="Kakkelberg" chips="€50" bet="€2,64"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€163,23" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€72,32" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H4 DJ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€1" no="6" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="3" sum="€0,50" no="7" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H9 C3</cards>
+   <action type="4" sum="€0" no="8" player="Renofix1408"/>
+   <action type="5" sum="€1,64" no="9" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="10" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686501505">
+  <general>
+   <startdate>2022-06-07 18:07:36</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€201" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€50,91" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50,94" bet="€0,25"/>
+    <player seat="8" win="€0,50" dealer="0" name="BobGermanman" chips="€163,23" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€72,32" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D2 CK</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686501541">
+  <general>
+   <startdate>2022-06-07 18:07:54</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€201" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50,91" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€50,69" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€163,48" bet="€0,25"/>
+    <player seat="10" win="€0,50" dealer="0" name="AllGlorytoJC" chips="€72,32" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="13373678">C6 H5</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686501567">
+  <general>
+   <startdate>2022-06-07 18:08:14</startdate>
+   <players>
+    <player seat="1" win="€19,72" dealer="0" name="13373678" chips="€201" bet="€10,04"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50,91" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50,69" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="BobGermanman" chips="€163,23" bet="€10,04"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€72,57" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">S7 C7</cards>
+   <action type="23" sum="€1,25" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H9 S9</cards>
+   <action type="23" sum="€6" no="7" player="13373678"/>
+   <action type="3" sum="€4,75" no="8" player="BobGermanman"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C8 SA</cards>
+   <action type="5" sum="€4,04" no="9" player="13373678"/>
+   <action type="3" sum="€4,04" no="10" player="BobGermanman"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+   <action type="4" sum="€0" no="12" player="BobGermanman"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686501659">
+  <general>
+   <startdate>2022-06-07 18:09:06</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€210,68" bet="€0,25"/>
+    <player seat="3" win="€16,73" dealer="0" name="Renofix1408" chips="€50,91" bet="€16,62"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€25,37" bet="€1"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50,69" bet="€8"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€153,19" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€72,32" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="3" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1" no="4" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€3" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D5 HQ</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€8" no="9" player="Renofix1408"/>
+   <action type="0" sum="€0" no="10" player="nikke43"/>
+   <action type="3" sum="€5" no="11" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ CQ C4</cards>
+   <action type="5" sum="€8,62" no="12" player="Renofix1408"/>
+   <action type="0" sum="€0" no="13" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686501916">
+  <general>
+   <startdate>2022-06-07 18:10:17</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€210,43" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,64" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€24,37" bet="€24,37"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€153,19" bet="€0"/>
+    <player seat="10" win="€47,51" dealer="0" name="AllGlorytoJC" chips="€72,32" bet="€72,32"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">H5 C5</cards>
+   <action type="23" sum="€1,50" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">SQ CJ</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="7" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">S10 H9</cards>
+   <action type="3" sum="€1" no="8" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 S5 D10</cards>
+   <action type="4" sum="€0" no="9" player="nikke43"/>
+   <action type="5" sum="€1,07" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,07" no="11" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action type="5" sum="€2,69" no="12" player="nikke43"/>
+   <action type="23" sum="€69,75" no="13" player="AllGlorytoJC"/>
+   <action type="7" sum="€19,11" no="14" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+  </round>
+ </game>
+ <game gamecode="3686502534">
+  <general>
+   <startdate>2022-06-07 18:10:59</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€210,43" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€59,39" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0,25"/>
+    <player seat="8" win="€0,50" dealer="0" name="BobGermanman" chips="€153,19" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€95,46" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C6 C9</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686502555">
+  <general>
+   <startdate>2022-06-07 18:11:09</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€210,43" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,39" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€50" bet="€1,10"/>
+    <player seat="8" win="€2,70" dealer="0" name="BobGermanman" chips="€153,44" bet="€4,70"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€95,46" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S2 C10</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€1,10" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="23" sum="€4,70" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="8" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686502598">
+  <general>
+   <startdate>2022-06-07 18:11:28</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€210,43" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,39" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€10,60"/>
+    <player seat="8" win="€21,29" dealer="1" name="BobGermanman" chips="€155,04" bet="€38,03"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,96" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€1,10" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="23" sum="€4,20" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D5 CK</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <action type="3" sum="€3,10" no="8" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C2 S7</cards>
+   <action type="4" sum="€0" no="9" player="Kakkelberg"/>
+   <action type="5" sum="€6,40" no="10" player="BobGermanman"/>
+   <action type="3" sum="€6,40" no="11" player="Kakkelberg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action type="4" sum="€0" no="12" player="Kakkelberg"/>
+   <action type="5" sum="€27,43" no="13" player="BobGermanman"/>
+   <action type="0" sum="€0" no="14" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686502696">
+  <general>
+   <startdate>2022-06-07 18:12:19</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€209,93" bet="€4,50"/>
+    <player seat="3" win="€8,73" dealer="0" name="Renofix1408" chips="€59,39" bet="€9"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,73" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€94,71" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D10 DA</cards>
+   <action type="23" sum="€1,50" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€4,50" no="7" player="Renofix1408"/>
+   <action type="3" sum="€3" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK H4 S3</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="5" sum="€4,50" no="10" player="Renofix1408"/>
+   <action type="0" sum="€0" no="11" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686502775">
+  <general>
+   <startdate>2022-06-07 18:12:56</startdate>
+   <players>
+    <player seat="1" win="€1,25" dealer="1" name="13373678" chips="€205,43" bet="€1,25"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€63,62" bet="€0,25"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,73" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,71" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S5 S3</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686502817">
+  <general>
+   <startdate>2022-06-07 18:13:18</startdate>
+   <players>
+    <player seat="1" win="€1,25" dealer="0" name="13373678" chips="€206,18" bet="€1,25"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€63,37" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,73" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,71" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S4 SA</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="7" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686502840">
+  <general>
+   <startdate>2022-06-07 18:13:33</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,93" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€63,37" bet="€0"/>
+    <player seat="6" win="€10,77" dealer="1" name="Kakkelberg" chips="€50" bet="€10,18"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,23" bet="€5,30"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,71" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 D9</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€1,10" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="3" sum="€0,85" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CK S7</cards>
+   <action type="5" sum="€0,81" no="8" player="BobGermanman"/>
+   <action type="23" sum="€4,20" no="9" player="Kakkelberg"/>
+   <action type="3" sum="€3,39" no="10" player="BobGermanman"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action type="4" sum="€0" no="11" player="BobGermanman"/>
+   <action type="5" sum="€4,88" no="12" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="13" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686502921">
+  <general>
+   <startdate>2022-06-07 18:14:14</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,93" bet="€0,50"/>
+    <player seat="3" win="€1,25" dealer="0" name="Renofix1408" chips="€63,37" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="BobGermanman" chips="€159,93" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,21" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H3 HQ</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686502956">
+  <general>
+   <startdate>2022-06-07 18:14:28</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,43" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€64,12" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€159,93" bet="€0"/>
+    <player seat="10" win="€1,25" dealer="1" name="AllGlorytoJC" chips="€93,96" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,25" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C10 H7</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="7" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686502996">
+  <general>
+   <startdate>2022-06-07 18:14:46</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€206,18" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€63,62" bet="€0,25"/>
+    <player seat="6" win="€0,50" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€159,93" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,71" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D9 H2</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686503013">
+  <general>
+   <startdate>2022-06-07 18:14:56</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,18" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€63,37" bet="€2,73"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,72" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€159,93" bet="€0,50"/>
+    <player seat="10" win="€6,03" dealer="0" name="AllGlorytoJC" chips="€94,71" bet="€2,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">CK HK</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H5 D7</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">S10 SJ</cards>
+   <action type="3" sum="€1,50" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="7" player="BobGermanman"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D4 SA</cards>
+   <action type="5" sum="€1,23" no="8" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,23" no="9" player="Renofix1408"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="11" player="Renofix1408"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action type="4" sum="€0" no="12" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="13" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686503099">
+  <general>
+   <startdate>2022-06-07 18:15:37</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,18" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€60,64" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€20" bet="€5,49"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€10,89" dealer="0" name="BobGermanman" chips="€159,43" bet="€5,24"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€98,01" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,75" no="3" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK D4</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">C8 HA</cards>
+   <action type="23" sum="€1,50" no="6" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">SK HQ</cards>
+   <action type="3" sum="€1,25" no="8" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="9" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HK HJ</cards>
+   <action type="4" sum="€0" no="10" player="BobGermanman"/>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="5" sum="€1,87" no="12" player="BobGermanman"/>
+   <action type="23" sum="€3,74" no="13" player="nikke43"/>
+   <action type="3" sum="€1,87" no="14" player="BobGermanman"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action type="4" sum="€0" no="15" player="BobGermanman"/>
+   <action type="4" sum="€0" no="16" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686503165">
+  <general>
+   <startdate>2022-06-07 18:16:12</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,18" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€60,64" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€14,51" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="BobGermanman" chips="€165,08" bet="€0"/>
+    <player seat="10" win="€1" dealer="0" name="AllGlorytoJC" chips="€97,51" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="4" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S3 H2</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686503194">
+  <general>
+   <startdate>2022-06-07 18:16:26</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€205,68" bet="€0,25"/>
+    <player seat="3" win="€0,50" dealer="0" name="Renofix1408" chips="€60,64" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€14,51" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,08" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€98,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="3" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D4 S9</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686504197">
+  <general>
+   <startdate>2022-06-07 18:16:56</startdate>
+   <players>
+    <player seat="1" win="€2,91" dealer="1" name="13373678" chips="€205,43" bet="€3,23"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€60,89" bet="€1,25"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€14,51" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€55,47" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,08" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€98,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HA HJ</cards>
+   <action type="23" sum="€1,25" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="3" sum="€1" no="7" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="8" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D3 SA</cards>
+   <action type="4" sum="€0" no="9" player="Renofix1408"/>
+   <action type="5" sum="€1,98" no="10" player="13373678"/>
+   <action type="0" sum="€0" no="11" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686504274">
+  <general>
+   <startdate>2022-06-07 18:17:36</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€207,09" bet="€2,90"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€59,64" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€14,01" bet="€1,25"/>
+    <player seat="6" win="€6,84" dealer="0" name="Kakkelberg" chips="€55,47" bet="€14,46"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,08" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€98,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="nikke43"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">DA HQ</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="3" sum="€1" no="7" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 D7 C7</cards>
+   <action type="4" sum="€0" no="9" player="nikke43"/>
+   <action type="4" sum="€0" no="10" player="Kakkelberg"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action type="4" sum="€0" no="12" player="nikke43"/>
+   <action type="5" sum="€1,65" no="13" player="Kakkelberg"/>
+   <action type="3" sum="€1,65" no="14" player="13373678"/>
+   <action type="0" sum="€0" no="15" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action type="5" sum="€11,56" no="16" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="17" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686504414">
+  <general>
+   <startdate>2022-06-07 18:18:49</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,19" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,64" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="nikke43" chips="€12,76" bet="€5,50"/>
+    <player seat="6" win="€11,16" dealer="0" name="Kakkelberg" chips="€59,41" bet="€14,93"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€165,08" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€98,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HJ H5</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€5,50" no="7" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="8" player="BobGermanman"/>
+   <action type="3" sum="€4" no="9" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 SQ SA</cards>
+   <action type="4" sum="€0" no="10" player="Kakkelberg"/>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="5" sum="€9,43" no="12" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="13" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686504480">
+  <general>
+   <startdate>2022-06-07 18:19:25</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,19" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,64" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€7,26" bet="€7,26"/>
+    <player seat="6" win="€15,78" dealer="1" name="Kakkelberg" chips="€65,07" bet="€7,26"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€164,58" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€98,01" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA D9</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">H8 H7</cards>
+   <action type="3" sum="€0,50" no="5" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">DA HA</cards>
+   <action type="23" sum="€1,50" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="7" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€1" no="8" player="AllGlorytoJC"/>
+   <action type="3" sum="€1" no="9" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D5 C8</cards>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+   <action type="5" sum="€3,89" no="12" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="7" sum="€5,76" no="14" player="nikke43"/>
+   <action type="3" sum="€1,87" no="15" player="Kakkelberg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="3686505454">
+  <general>
+   <startdate>2022-06-07 18:20:07</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,19" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,64" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€73,59" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="BobGermanman" chips="€164,33" bet="€0"/>
+    <player seat="10" win="€1" dealer="0" name="AllGlorytoJC" chips="€96,51" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="5" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H10 S2</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686505502">
+  <general>
+   <startdate>2022-06-07 18:20:25</startdate>
+   <players>
+    <player seat="1" win="€3,40" dealer="0" name="13373678" chips="€203,69" bet="€3,81"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,64" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€73,59" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€164,33" bet="€1,50"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€97,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S10 SJ</cards>
+   <action type="3" sum="€1,25" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="7" player="Renofix1408"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S3 C3</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+   <action type="4" sum="€0" no="9" player="BobGermanman"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action type="5" sum="€2,31" no="10" player="13373678"/>
+   <action type="0" sum="€0" no="11" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686505594">
+  <general>
+   <startdate>2022-06-07 18:21:11</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€205,59" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€59,14" bet="€0,25"/>
+    <player seat="6" win="€0,50" dealer="0" name="Kakkelberg" chips="€73,59" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€162,83" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€97,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H6 D10</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686505622">
+  <general>
+   <startdate>2022-06-07 18:21:24</startdate>
+   <players>
+    <player seat="1" win="€1,25" dealer="0" name="13373678" chips="€205,59" bet="€1,25"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€58,89" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€73,84" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€162,83" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€97,01" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="BobGermanman"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HJ H10</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="7" player="BobGermanman"/>
+  </round>
+ </game>
+ <game gamecode="3686505661">
+  <general>
+   <startdate>2022-06-07 18:21:43</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,34" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€58,89" bet="€0"/>
+    <player seat="6" win="€1,25" dealer="1" name="Kakkelberg" chips="€73,59" bet="€1,10"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€162,33" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€97,01" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BobGermanman"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DJ C7</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€1,10" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="6" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686505691">
+  <general>
+   <startdate>2022-06-07 18:22:03</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€206,34" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€58,89" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€20" bet="€7,75"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€74,34" bet="€0"/>
+    <player seat="8" win="€15,52" dealer="1" name="BobGermanman" chips="€162,08" bet="€18,70"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€96,51" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+   <action type="2" sum="€0,75" no="3" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="23" sum="€4,50" no="7" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="8" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D9 SA</cards>
+   <action type="0" sum="€0" no="9" player="13373678"/>
+   <action type="3" sum="€3" no="10" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 DJ H9</cards>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+   <action type="4" sum="€0" no="12" player="BobGermanman"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action type="4" sum="€0" no="13" player="nikke43"/>
+   <action type="5" sum="€3" no="14" player="BobGermanman"/>
+   <action type="3" sum="€3" no="15" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" sum="€0" no="16" player="nikke43"/>
+   <action type="5" sum="€11,20" no="17" player="BobGermanman"/>
+   <action type="0" sum="€0" no="18" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686505867">
+  <general>
+   <startdate>2022-06-07 18:23:31</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€205,84" bet="€1,50"/>
+    <player seat="3" win="€2,91" dealer="0" name="Renofix1408" chips="€58,89" bet="€2,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€74,34" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€170,10" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€96,26" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S6 S9</cards>
+   <action type="23" sum="€1,50" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="3" sum="€1" no="7" player="Renofix1408"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D3 H2</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+   <action type="5" sum="€1" no="9" player="Renofix1408"/>
+   <action type="0" sum="€0" no="10" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686505914">
+  <general>
+   <startdate>2022-06-07 18:24:01</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€204,34" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€60,30" bet="€60,30"/>
+    <player seat="5" win="€23,76" dealer="0" name="nikke43" chips="€12,25" bet="€12,25"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€74,34" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€170,10" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€96,26" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="4" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D2 HQ</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">H7 C7</cards>
+   <action type="23" sum="€1" no="7" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">H6 C5</cards>
+   <action type="3" sum="€0,50" no="8" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C9 S8</cards>
+   <action type="5" sum="€1" no="9" player="Renofix1408"/>
+   <action type="3" sum="€1" no="10" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="4" sum="€0" no="11" player="Renofix1408"/>
+   <action type="5" sum="€2" no="12" player="nikke43"/>
+   <action type="23" sum="€58,30" no="13" player="Renofix1408"/>
+   <action type="7" sum="€8,25" no="14" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+  </round>
+ </game>
+ <game gamecode="3686505997">
+  <general>
+   <startdate>2022-06-07 18:24:43</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,34" bet="€22,23"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€23,76" bet="€0,25"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€74,34" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="BobGermanman" chips="€170,10" bet="€0"/>
+    <player seat="10" win="€43,84" dealer="0" name="AllGlorytoJC" chips="€96,26" bet="€22,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="nikke43"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BobGermanman">X X</cards>
+   <action type="0" sum="€0" no="3" player="BobGermanman"/>
+   <cards type="Pocket" player="AllGlorytoJC">DJ D10</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HK HQ</cards>
+   <action type="23" sum="€4,50" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="7" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="8" player="Kakkelberg"/>
+   <action type="3" sum="€3" no="9" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 D7</cards>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+   <action type="5" sum="€4,87" no="11" player="13373678"/>
+   <action type="3" sum="€4,87" no="12" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action type="4" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="5" sum="€12,86" no="14" player="13373678"/>
+   <action type="3" sum="€12,86" no="15" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action type="4" sum="€0" no="16" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="17" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686506095">
+  <general>
+   <startdate>2022-06-07 18:25:34</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,11" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="nikke43" chips="€23,51" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€73,84" bet="€0,25"/>
+    <player seat="10" win="€0,50" dealer="0" name="AllGlorytoJC" chips="€117,87" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="13373678">C9 H3</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="5" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686506147">
+  <general>
+   <startdate>2022-06-07 18:26:01</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,11" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€47,15" dealer="0" name="nikke43" chips="€23,51" bet="€23,51"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€73,59" bet="€23,51"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€118,12" bet="€1,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">C8 C6</cards>
+   <action type="3" sum="€0,50" no="4" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">H6 H4</cards>
+   <action type="23" sum="€1,10" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€0,85" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">DK S5</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <action type="3" sum="€0,60" no="8" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S6 C9</cards>
+   <action type="4" sum="€0" no="9" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="10" player="nikke43"/>
+   <action type="4" sum="€0" no="11" player="Kakkelberg"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="4" sum="€0" no="12" player="AllGlorytoJC"/>
+   <action type="5" sum="€0,50" no="13" player="nikke43"/>
+   <action type="23" sum="€2,50" no="14" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="15" player="AllGlorytoJC"/>
+   <action type="23" sum="€22,41" no="16" player="nikke43"/>
+   <action type="3" sum="€19,91" no="17" player="Kakkelberg"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+  </round>
+ </game>
+ <game gamecode="3686506254">
+  <general>
+   <startdate>2022-06-07 18:26:56</startdate>
+   <players>
+    <player seat="1" win="€1,50" dealer="0" name="13373678" chips="€181,61" bet="€2,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€47,15" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50,08" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="rampai" chips="€50" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€117,02" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="3" player="rampai"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="4" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action type="4" sum="€0" no="6" player="rampai"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">CJ SJ</cards>
+   <action type="23" sum="€2,50" no="8" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="9" player="Renofix1408"/>
+   <action type="0" sum="€0" no="10" player="rampai"/>
+  </round>
+ </game>
+ <game gamecode="3686507236">
+  <general>
+   <startdate>2022-06-07 18:27:22</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€182,61" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€47,15" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€50,08" bet="€0"/>
+    <player seat="10" win="€1,25" dealer="0" name="AllGlorytoJC" chips="€117,02" bet="€1,50"/>
+    <player seat="8" win="€0" dealer="0" name="rampai" chips="€49,50" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="rampai">X X</cards>
+   <action type="0" sum="€0" no="4" player="rampai"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">SQ C2</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="7" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="8" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686507265">
+  <general>
+   <startdate>2022-06-07 18:27:40</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,61" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€46,65" bet="€1,88"/>
+    <player seat="6" win="€3,65" dealer="0" name="Kakkelberg" chips="€50,08" bet="€1,88"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€117,77" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="nikke43"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H3 SQ</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">S10 S8</cards>
+   <action type="3" sum="€0,25" no="6" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">DJ C2</cards>
+   <action type="4" sum="€0" no="7" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA D4 HJ</cards>
+   <action type="4" sum="€0" no="8" player="nikke43"/>
+   <action type="5" sum="€0,50" no="9" player="Kakkelberg"/>
+   <action type="3" sum="€0,50" no="10" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+   <action type="5" sum="€0,88" no="12" player="Kakkelberg"/>
+   <action type="3" sum="€0,88" no="13" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action type="4" sum="€0" no="14" player="nikke43"/>
+   <action type="4" sum="€0" no="15" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686507319">
+  <general>
+   <startdate>2022-06-07 18:28:11</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,61" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="nikke43" chips="€44,77" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€51,85" bet="€0,25"/>
+    <player seat="10" win="€3,16" dealer="0" name="AllGlorytoJC" chips="€117,77" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 H4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€1" no="7" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA SQ</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="9" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686507368">
+  <general>
+   <startdate>2022-06-07 18:28:37</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,61" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€43,27" bet="€0"/>
+    <player seat="10" win="€1,25" dealer="1" name="AllGlorytoJC" chips="€119,43" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="3" player="nikke43"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H8 HJ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686507540">
+  <general>
+   <startdate>2022-06-07 18:28:57</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€182,36" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€43,27" bet="€0,50"/>
+    <player seat="10" win="€1,25" dealer="0" name="AllGlorytoJC" chips="€120,18" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H5 S9</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="6" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686507579">
+  <general>
+   <startdate>2022-06-07 18:29:21</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€182,36" bet="€2,75"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€5,82" dealer="0" name="nikke43" chips="€42,77" bet="€4,25"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€51,60" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€120,93" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="nikke43"/>
+   <action type="2" sum="€0,50" no="2" player="Kakkelberg"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C7 CA</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="3" sum="€1" no="6" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK HA HQ</cards>
+   <action type="5" sum="€1,50" no="8" player="nikke43"/>
+   <action type="3" sum="€1,50" no="9" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="4" sum="€0" no="10" player="nikke43"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action type="5" sum="€1,50" no="12" player="nikke43"/>
+   <action type="0" sum="€0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686507669">
+  <general>
+   <startdate>2022-06-07 18:30:13</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€179,61" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="nikke43" chips="€45,84" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€51,10" bet="€0,25"/>
+    <player seat="8" win="€7,27" dealer="0" name="habitus" chips="€25" bet="€3,62"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€120,93" bet="€3,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kakkelberg"/>
+   <action type="2" sum="€0,50" no="2" player="habitus"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">S2 SA</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D10 CQ</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="6" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kakkelberg"/>
+   <cards type="Pocket" player="habitus">DK D7</cards>
+   <action type="3" sum="€1" no="8" player="habitus"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 DJ C9</cards>
+   <action type="4" sum="€0" no="9" player="habitus"/>
+   <action type="5" sum="€1,62" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,62" no="11" player="habitus"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="4" sum="€0" no="12" player="habitus"/>
+   <action type="4" sum="€0" no="13" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action type="5" sum="€0,50" no="14" player="habitus"/>
+   <action type="3" sum="€0,50" no="15" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686507729">
+  <general>
+   <startdate>2022-06-07 18:30:47</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€179,61" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€18,52" dealer="0" name="nikke43" chips="€45,84" bet="€18,71"/>
+    <player seat="6" win="€0" dealer="1" name="Kakkelberg" chips="€50,85" bet="€9,17"/>
+    <player seat="8" win="€0" dealer="0" name="habitus" chips="€28,65" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€117,31" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="habitus"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK C8</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="3" sum="€1,50" no="6" player="Kakkelberg"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="0" sum="€0" no="7" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D10 DJ</cards>
+   <action type="5" sum="€1,87" no="9" player="nikke43"/>
+   <action type="23" sum="€7,67" no="10" player="Kakkelberg"/>
+   <action type="3" sum="€5,80" no="11" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action type="4" sum="€0" no="12" player="nikke43"/>
+   <action type="4" sum="€0" no="13" player="Kakkelberg"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action type="5" sum="€9,54" no="14" player="nikke43"/>
+   <action type="0" sum="€0" no="15" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686507803">
+  <general>
+   <startdate>2022-06-07 18:31:34</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€179,61" bet="€6"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€55,19" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€41,68" bet="€0"/>
+    <player seat="8" win="€17,46" dealer="1" name="habitus" chips="€28,40" bet="€28,40"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€116,81" bet="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="4" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kakkelberg"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€6" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C10 HA</cards>
+   <action type="3" sum="€5,50" no="8" player="13373678"/>
+   <action type="3" sum="€4,50" no="9" player="habitus"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S8 H2</cards>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+   <action type="5" sum="€22,40" no="12" player="habitus"/>
+   <action type="0" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="14" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686507882">
+  <general>
+   <startdate>2022-06-07 18:32:13</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€173,61" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€1,50"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€55,19" bet="€15,38"/>
+    <player seat="6" win="€31,53" dealer="0" name="Kakkelberg" chips="€50" bet="€15,38"/>
+    <player seat="8" win="€0" dealer="0" name="habitus" chips="€39,86" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€110,81" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nikke43">HQ CQ</cards>
+   <action type="3" sum="€0,50" no="3" player="nikke43"/>
+   <cards type="Pocket" player="Kakkelberg">S9 S8</cards>
+   <action type="23" sum="€1,50" no="4" player="Kakkelberg"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="0" sum="€0" no="5" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">SK H3</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="3" sum="€1" no="8" player="Renofix1408"/>
+   <action type="3" sum="€1" no="9" player="nikke43"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D8 D7</cards>
+   <action type="4" sum="€0" no="10" player="Renofix1408"/>
+   <action type="4" sum="€0" no="11" player="nikke43"/>
+   <action type="5" sum="€3,89" no="12" player="Kakkelberg"/>
+   <action type="0" sum="€0" no="13" player="Renofix1408"/>
+   <action type="3" sum="€3,89" no="14" player="nikke43"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="5" sum="€1,50" no="15" player="nikke43"/>
+   <action type="23" sum="€7,49" no="16" player="Kakkelberg"/>
+   <action type="3" sum="€5,99" no="17" player="nikke43"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action type="5" sum="€2,50" no="18" player="nikke43"/>
+   <action type="3" sum="€2,50" no="19" player="Kakkelberg"/>
+  </round>
+ </game>
+ <game gamecode="3686507995">
+  <general>
+   <startdate>2022-06-07 18:33:14</startdate>
+   <players>
+    <player seat="1" win="€8,59" dealer="1" name="13373678" chips="€173,36" bet="€8,17"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€39,81" bet="€3,75"/>
+    <player seat="8" win="€0" dealer="0" name="habitus" chips="€39,86" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€110,81" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="Kakkelberg" chips="€66,15" bet="€1,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="nikke43"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kakkelberg">X X</cards>
+   <action type="23" sum="€1,10" no="3" player="Kakkelberg"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="0" sum="€0" no="4" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S10 D10</cards>
+   <action type="23" sum="€3,75" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="7" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="3" sum="€3,25" no="8" player="nikke43"/>
+   <action type="0" sum="€0" no="9" player="Kakkelberg"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ D6 C5</cards>
+   <action type="4" sum="€0" no="10" player="nikke43"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action type="4" sum="€0" no="12" player="nikke43"/>
+   <action type="5" sum="€4,42" no="13" player="13373678"/>
+   <action type="0" sum="€0" no="14" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686508092">
+  <general>
+   <startdate>2022-06-07 18:34:06</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,20" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€36,06" bet="€0,25"/>
+    <player seat="6" win="€0,50" dealer="0" name="dwightshrute" chips="€50" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="habitus" chips="€39,86" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€110,81" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="nikke43"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="0" sum="€0" no="3" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C6 CQ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="6" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="7" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686508139">
+  <general>
+   <startdate>2022-06-07 18:34:27</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,20" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€1,10"/>
+    <player seat="5" win="€0" dealer="1" name="nikke43" chips="€35,81" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€50,25" bet="€0,25"/>
+    <player seat="8" win="€2,45" dealer="0" name="habitus" chips="€39,86" bet="€3,20"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€110,81" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="habitus"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H3 S8</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€1,10" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="6" player="nikke43"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="23" sum="€3,20" no="8" player="habitus"/>
+   <action type="0" sum="€0" no="9" player="Renofix1408"/>
+  </round>
+ </game>
+ <game gamecode="3686508174">
+  <general>
+   <startdate>2022-06-07 18:34:45</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,20" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€35,81" bet="€4,62"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="habitus" chips="€41,21" bet="€0,25"/>
+    <player seat="10" win="€9,21" dealer="0" name="AllGlorytoJC" chips="€110,81" bet="€9,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="habitus"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 S9</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="4" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="nikke43"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="habitus">X X</cards>
+   <action type="0" sum="€0" no="7" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€1" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S10 S7</cards>
+   <action type="4" sum="€0" no="9" player="AllGlorytoJC"/>
+   <action type="5" sum="€1,62" no="10" player="nikke43"/>
+   <action type="3" sum="€1,62" no="11" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action type="4" sum="€0" no="12" player="AllGlorytoJC"/>
+   <action type="5" sum="€1,50" no="13" player="nikke43"/>
+   <action type="23" sum="€6" no="14" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="15" player="nikke43"/>
+  </round>
+ </game>
+ <game gamecode="3686508777">
+  <general>
+   <startdate>2022-06-07 18:35:34</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,20" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€50" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€31,19" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€50" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="habitus" chips="€40,96" bet="€40,96"/>
+    <player seat="10" win="€80,92" dealer="0" name="AllGlorytoJC" chips="€115,40" bet="€40,96"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="3" player="Renofix1408"/>
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="4" player="nikke43"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="habitus">CK C10</cards>
+   <action type="23" sum="€1,50" no="6" player="habitus"/>
+   <cards type="Pocket" player="AllGlorytoJC">D3 S3</cards>
+   <action type="23" sum="€5" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S9 S10</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€3,50" no="9" player="habitus"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H6 C2</cards>
+   <action type="5" sum="€5,25" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€5,25" no="11" player="habitus"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action type="5" sum="€10,50" no="12" player="AllGlorytoJC"/>
+   <action type="3" sum="€10,50" no="13" player="habitus"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" sum="€0" no="14" player="AllGlorytoJC"/>
+   <action type="5" sum="€20,21" no="15" player="habitus"/>
+   <action type="3" sum="€20,21" no="16" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686508939">
+  <general>
+   <startdate>2022-06-07 18:36:52</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€177,70" bet="€0,25"/>
+    <player seat="3" win="€2,75" dealer="0" name="Renofix1408" chips="€50" bet="€5"/>
+    <player seat="5" win="€0" dealer="0" name="nikke43" chips="€31,19" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€155,36" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Renofix1408"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="nikke43">X X</cards>
+   <action type="0" sum="€0" no="3" player="nikke43"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,25" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H4 D6</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="23" sum="€5" no="7" player="Renofix1408"/>
+   <action type="0" sum="€0" no="8" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686509982">
+  <general>
+   <startdate>2022-06-07 18:37:26</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€177,45" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Renofix1408" chips="€51,50" bet="€0,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€50" bet="€0,50"/>
+    <player seat="10" win="€1,25" dealer="0" name="AllGlorytoJC" chips="€154,11" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Renofix1408"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D2 C4</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Renofix1408">X X</cards>
+   <action type="0" sum="€0" no="5" player="Renofix1408"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686510021">
+  <general>
+   <startdate>2022-06-07 18:37:46</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€177,45" bet="€2,65"/>
+    <player seat="6" win="€5,39" dealer="1" name="dwightshrute" chips="€50" bet="€5,65"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€154,86" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S5 S6</cards>
+   <action type="3" sum="€0,75" no="5" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 SQ D6</cards>
+   <action type="4" sum="€0" no="6" player="13373678"/>
+   <action type="5" sum="€1,40" no="7" player="dwightshrute"/>
+   <action type="3" sum="€1,40" no="8" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="5" sum="€3" no="10" player="dwightshrute"/>
+   <action type="0" sum="€0" no="11" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686510100">
+  <general>
+   <startdate>2022-06-07 18:38:31</startdate>
+   <players>
+    <player seat="1" win="€1" dealer="0" name="13373678" chips="€174,80" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€52,74" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€154,61" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">CJ C10</cards>
+   <action type="23" sum="€1,50" no="4" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686510111">
+  <general>
+   <startdate>2022-06-07 18:38:39</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€175,30" bet="€0"/>
+    <player seat="6" win="€2,43" dealer="0" name="dwightshrute" chips="€52,24" bet="€2,75"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€1,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€154,61" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S7 C9</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="3" sum="€0,75" no="6" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 C2 SA</cards>
+   <action type="5" sum="€1,50" no="7" player="dwightshrute"/>
+   <action type="0" sum="€0" no="8" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686510158">
+  <general>
+   <startdate>2022-06-07 18:39:04</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€175,30" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€53,42" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,25"/>
+    <player seat="10" win="€0,50" dealer="0" name="AllGlorytoJC" chips="€154,61" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="13373678">H3 S4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686510185">
+  <general>
+   <startdate>2022-06-07 18:39:21</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€175,30" bet="€0,50"/>
+    <player seat="6" win="€40,73" dealer="0" name="dwightshrute" chips="€53,42" bet="€53,42"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€154,86" bet="€20,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€5" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S5 D3</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <action type="3" sum="€3,75" no="7" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C7 SJ</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="9" player="dwightshrute"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="5" sum="€5,25" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€5,25" no="11" player="dwightshrute"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action type="5" sum="€10,50" no="12" player="AllGlorytoJC"/>
+   <action type="23" sum="€43,17" no="13" player="dwightshrute"/>
+   <action type="0" sum="€0" no="14" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686510396">
+  <general>
+   <startdate>2022-06-07 18:40:22</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,80" bet="€0,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€73,40" bet="€1,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€2,67" dealer="1" name="AllGlorytoJC" chips="€134,11" bet="€2,15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S3 C5</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="3" sum="€0,75" no="6" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S7 CJ</cards>
+   <action type="4" sum="€0" no="7" player="dwightshrute"/>
+   <action type="5" sum="€0,90" no="8" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="9" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686510444">
+  <general>
+   <startdate>2022-06-07 18:40:44</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€174,55" bet="€0"/>
+    <player seat="6" win="€3,50" dealer="0" name="dwightshrute" chips="€72,15" bet="€5,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€135,53" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S4 S2</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€5,50" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686510484">
+  <general>
+   <startdate>2022-06-07 18:41:07</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,55" bet="€0"/>
+    <player seat="6" win="€1,25" dealer="1" name="dwightshrute" chips="€74,15" bet="€1,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€134,03" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK S4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686510523">
+  <general>
+   <startdate>2022-06-07 18:41:30</startdate>
+   <players>
+    <player seat="1" win="€0,50" dealer="0" name="13373678" chips="€174,55" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,53" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ H4</cards>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686510543">
+  <general>
+   <startdate>2022-06-07 18:41:37</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,80" bet="€0,25"/>
+    <player seat="5" win="€0,50" dealer="0" name="Kokelas90" chips="€47,30" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€133,28" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H4 H3</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686510589">
+  <general>
+   <startdate>2022-06-07 18:42:02</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€174,55" bet="€0"/>
+    <player seat="5" win="€8,25" dealer="0" name="Kokelas90" chips="€47,55" bet="€8,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,28" bet="€4"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H4 D7</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€1,25" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 DQ C7</cards>
+   <action type="5" sum="€2,50" no="8" player="Kokelas90"/>
+   <action type="3" sum="€2,50" no="9" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action type="5" sum="€4,25" no="10" player="Kokelas90"/>
+   <action type="0" sum="€0" no="11" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686510665">
+  <general>
+   <startdate>2022-06-07 18:42:40</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,55" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€51,80" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,40" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,50"/>
+    <player seat="10" win="€1,25" dealer="0" name="AllGlorytoJC" chips="€129,28" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S2 D8</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686510704">
+  <general>
+   <startdate>2022-06-07 18:42:58</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,55" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€51,80" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€74,15" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,25"/>
+    <player seat="10" win="€0,50" dealer="0" name="AllGlorytoJC" chips="€130,03" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="13373678">D8 SK</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686511245">
+  <general>
+   <startdate>2022-06-07 18:43:19</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€174,55" bet="€0,50"/>
+    <player seat="5" win="€8,23" dealer="0" name="Kokelas90" chips="€51,80" bet="€3,99"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,15" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€130,28" bet="€3,99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">HA S7</cards>
+   <action type="3" sum="€0,50" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">C7 S8</cards>
+   <action type="3" sum="€0,25" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S5 SK</cards>
+   <action type="4" sum="€0" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C2 CJ</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action type="5" sum="€0,99" no="11" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="12" player="13373678"/>
+   <action type="3" sum="€0,99" no="13" player="Kokelas90"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action type="5" sum="€2,50" no="14" player="AllGlorytoJC"/>
+   <action type="3" sum="€2,50" no="15" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686511365">
+  <general>
+   <startdate>2022-06-07 18:44:13</startdate>
+   <players>
+    <player seat="1" win="€3,50" dealer="0" name="13373678" chips="€174,05" bet="€6"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€50" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€56,04" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,15" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€1,50"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€126,29" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C10 CK</cards>
+   <action type="23" sum="€6" no="7" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="8" player="Vinc01"/>
+   <action type="0" sum="€0" no="9" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686511418">
+  <general>
+   <startdate>2022-06-07 18:44:42</startdate>
+   <players>
+    <player seat="1" win="€3,64" dealer="1" name="13373678" chips="€176,05" bet="€3,72"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€49,50" bet="€1,25"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€56,04" bet="€1,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,15" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€126,29" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HQ CQ</cards>
+   <action type="23" sum="€1,25" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€1" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D9 H3</cards>
+   <action type="4" sum="€0" no="9" player="Vinc01"/>
+   <action type="4" sum="€0" no="10" player="Kokelas90"/>
+   <action type="5" sum="€2,47" no="11" player="13373678"/>
+   <action type="0" sum="€0" no="12" player="Vinc01"/>
+   <action type="0" sum="€0" no="13" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686511519">
+  <general>
+   <startdate>2022-06-07 18:45:29</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,44" bet="€0"/>
+    <player seat="3" win="€5,96" dealer="1" name="Vinc01" chips="€48,25" bet="€5,15"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€54,79" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,15" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€5,97" dealer="0" name="AllGlorytoJC" chips="€126,29" bet="€5,15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">H6 HA</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C8 S7</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">CA C4</cards>
+   <action type="3" sum="€1,50" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="8" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 S2 S10</cards>
+   <action type="4" sum="€0" no="9" player="Kokelas90"/>
+   <action type="5" sum="€1,65" no="10" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,65" no="11" player="Vinc01"/>
+   <action type="0" sum="€0" no="12" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action type="4" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="14" player="Vinc01"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action type="4" sum="€0" no="15" player="AllGlorytoJC"/>
+   <action type="5" sum="€2" no="16" player="Vinc01"/>
+   <action type="3" sum="€2" no="17" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686511599">
+  <general>
+   <startdate>2022-06-07 18:46:09</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,44" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€49,06" bet="€0,50"/>
+    <player seat="5" win="€1,70" dealer="1" name="Kokelas90" chips="€53,29" bet="€2,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€73,65" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€127,11" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C5 C2</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="4" sum="€0" no="8" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S6 D3</cards>
+   <action type="4" sum="€0" no="9" player="llIIIlllIIIlll"/>
+   <action type="4" sum="€0" no="10" player="Vinc01"/>
+   <action type="4" sum="€0" no="11" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="4" sum="€0" no="12" player="llIIIlllIIIlll"/>
+   <action type="4" sum="€0" no="13" player="Vinc01"/>
+   <action type="5" sum="€1,75" no="14" player="Kokelas90"/>
+   <action type="0" sum="€0" no="15" player="llIIIlllIIIlll"/>
+   <action type="0" sum="€0" no="16" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686511648">
+  <general>
+   <startdate>2022-06-07 18:46:33</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,44" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€48,56" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€54,49" bet="€7"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€73,40" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0,25"/>
+    <player seat="10" win="€13,82" dealer="0" name="AllGlorytoJC" chips="€127,11" bet="€16,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 D2</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€1,75" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€7" no="8" player="AllGlorytoJC"/>
+   <action type="3" sum="€5,25" no="9" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HA HJ</cards>
+   <action type="5" sum="€9,40" no="10" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="11" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686511752">
+  <general>
+   <startdate>2022-06-07 18:47:19</startdate>
+   <players>
+    <player seat="1" win="€0,50" dealer="0" name="13373678" chips="€178,44" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€48,56" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€47,49" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€73,40" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,93" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 H10</cards>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686512763">
+  <general>
+   <startdate>2022-06-07 18:47:34</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,69" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€48,56" bet="€2,13"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€47,49" bet="€0"/>
+    <player seat="6" win="€4,38" dealer="0" name="dwightshrute" chips="€73,40" bet="€3,13"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€133,68" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D7 H3</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="Vinc01"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S8 H8</cards>
+   <action type="4" sum="€0" no="9" player="Vinc01"/>
+   <action type="5" sum="€0,88" no="10" player="dwightshrute"/>
+   <action type="3" sum="€0,88" no="11" player="Vinc01"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action type="4" sum="€0" no="12" player="Vinc01"/>
+   <action type="5" sum="€1" no="13" player="dwightshrute"/>
+   <action type="0" sum="€0" no="14" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686512830">
+  <general>
+   <startdate>2022-06-07 18:48:05</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€178,44" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€46,43" bet="€1,50"/>
+    <player seat="5" win="€2,91" dealer="0" name="Kokelas90" chips="€47,49" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€75,65" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,68" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S8 CQ</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">D3 D10</cards>
+   <action type="3" sum="€0,25" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">C10 H2</cards>
+   <action type="4" sum="€0" no="8" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 D4 C6</cards>
+   <action type="4" sum="€0" no="9" player="Vinc01"/>
+   <action type="4" sum="€0" no="10" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action type="4" sum="€0" no="11" player="Vinc01"/>
+   <action type="5" sum="€1" no="12" player="Kokelas90"/>
+   <action type="3" sum="€1" no="13" player="Vinc01"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action type="4" sum="€0" no="14" player="Vinc01"/>
+   <action type="4" sum="€0" no="15" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686512900">
+  <general>
+   <startdate>2022-06-07 18:48:43</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,44" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Vinc01" chips="€44,93" bet="€0"/>
+    <player seat="5" win="€1" dealer="0" name="Kokelas90" chips="€48,90" bet="€1,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€75,65" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,68" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H10 D5</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€1,50" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="8" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686512926">
+  <general>
+   <startdate>2022-06-07 18:48:58</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€178,44" bet="€6,25"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€44,93" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€49,40" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€75,15" bet="€0,25"/>
+    <player seat="8" win="€18,43" dealer="0" name="llIIIlllIIIlll" chips="€50" bet="€15,75"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€133,68" bet="€6,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H9 D9</cards>
+   <action type="3" sum="€1,50" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="23" sum="€6,25" no="8" player="llIIIlllIIIlll"/>
+   <action type="3" sum="€4,75" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€4,75" no="10" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 HQ D8</cards>
+   <action type="5" sum="€9,50" no="11" player="llIIIlllIIIlll"/>
+   <action type="0" sum="€0" no="12" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686513002">
+  <general>
+   <startdate>2022-06-07 18:49:33</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€172,19" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€44,93" bet="€0"/>
+    <player seat="5" win="€20,24" dealer="0" name="Kokelas90" chips="€49,40" bet="€31,18"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€74,90" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€62,18" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€127,43" bet="€10,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ C10</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€2,50" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€2" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S4 DQ</cards>
+   <action type="4" sum="€0" no="9" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="10" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action type="5" sum="€3,46" no="11" player="AllGlorytoJC"/>
+   <action type="23" sum="€7,81" no="12" player="Kokelas90"/>
+   <action type="3" sum="€4,35" no="13" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action type="4" sum="€0" no="14" player="AllGlorytoJC"/>
+   <action type="5" sum="€20,87" no="15" player="Kokelas90"/>
+   <action type="0" sum="€0" no="16" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686513085">
+  <general>
+   <startdate>2022-06-07 18:50:13</startdate>
+   <players>
+    <player seat="1" win="€33,02" dealer="0" name="13373678" chips="€172,19" bet="€33,82"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€44,93" bet="€11,35"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€59,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€61,93" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€117,12" bet="€11,35"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HA S7</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ SJ H7</cards>
+   <action type="5" sum="€0,99" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€0,99" no="10" player="13373678"/>
+   <action type="23" sum="€1,98" no="11" player="Vinc01"/>
+   <action type="3" sum="€0,99" no="12" player="AllGlorytoJC"/>
+   <action type="3" sum="€0,99" no="13" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="4" sum="€0" no="14" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="15" player="13373678"/>
+   <action type="5" sum="€1,50" no="16" player="Vinc01"/>
+   <action type="3" sum="€1,50" no="17" player="AllGlorytoJC"/>
+   <action type="23" sum="€8,87" no="18" player="13373678"/>
+   <action type="3" sum="€7,37" no="19" player="Vinc01"/>
+   <action type="3" sum="€7,37" no="20" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" sum="€0" no="21" player="AllGlorytoJC"/>
+   <action type="5" sum="€22,47" no="22" player="13373678"/>
+   <action type="0" sum="€0" no="23" player="Vinc01"/>
+   <action type="0" sum="€0" no="24" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686513797">
+  <general>
+   <startdate>2022-06-07 18:51:20</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€193,86" bet="€0,25"/>
+    <player seat="3" win="€0,50" dealer="0" name="Vinc01" chips="€33,58" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€59,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€61,93" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€105,77" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D2 CJ</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686513909">
+  <general>
+   <startdate>2022-06-07 18:51:31</startdate>
+   <players>
+    <player seat="1" win="€4,50" dealer="1" name="13373678" chips="€193,61" bet="€5"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€33,83" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€59,33" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€74,90" bet="€1,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€61,93" bet="€1,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€105,77" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="3" sum="€1,25" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">CJ HJ</cards>
+   <action type="23" sum="€5" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="8" player="Kokelas90"/>
+   <action type="0" sum="€0" no="9" player="dwightshrute"/>
+   <action type="0" sum="€0" no="10" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686513957">
+  <general>
+   <startdate>2022-06-07 18:51:56</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€196,86" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Vinc01" chips="€33,58" bet="€6,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€58,83" bet="€0,50"/>
+    <player seat="6" win="€13,10" dealer="0" name="dwightshrute" chips="€73,65" bet="€6,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€60,68" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€105,77" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D9 C2</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">H2 C5</cards>
+   <action type="3" sum="€0,50" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">D8 D5</cards>
+   <action type="4" sum="€0" no="8" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S3 H5</cards>
+   <action type="4" sum="€0" no="9" player="Kokelas90"/>
+   <action type="4" sum="€0" no="10" player="dwightshrute"/>
+   <action type="5" sum="€1,50" no="11" player="Vinc01"/>
+   <action type="0" sum="€0" no="12" player="Kokelas90"/>
+   <action type="3" sum="€1,50" no="13" player="dwightshrute"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action type="4" sum="€0" no="14" player="dwightshrute"/>
+   <action type="5" sum="€1" no="15" player="Vinc01"/>
+   <action type="23" sum="€3" no="16" player="dwightshrute"/>
+   <action type="3" sum="€2" no="17" player="Vinc01"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action type="4" sum="€0" no="18" player="dwightshrute"/>
+   <action type="5" sum="€1,50" no="19" player="Vinc01"/>
+   <action type="3" sum="€1,50" no="20" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686514068">
+  <general>
+   <startdate>2022-06-07 18:52:48</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€196,86" bet="€0"/>
+    <player seat="3" win="€1,22" dealer="0" name="Vinc01" chips="€27,08" bet="€1,50"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€58,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€80,25" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€60,68" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€105,77" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S10 D4</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="4" sum="€0" no="8" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HQ HA</cards>
+   <action type="4" sum="€0" no="9" player="llIIIlllIIIlll"/>
+   <action type="5" sum="€1" no="10" player="Vinc01"/>
+   <action type="0" sum="€0" no="11" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686514109">
+  <general>
+   <startdate>2022-06-07 18:53:08</startdate>
+   <players>
+    <player seat="1" win="€3,40" dealer="0" name="13373678" chips="€196,86" bet="€2,15"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€27,80" bet="€1"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€58,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€80" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€60,18" bet="€1"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€105,77" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK C8</cards>
+   <action type="23" sum="€1" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€1" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="3" sum="€0,75" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S2 C10</cards>
+   <action type="4" sum="€0" no="9" player="llIIIlllIIIlll"/>
+   <action type="5" sum="€1,15" no="10" player="13373678"/>
+   <action type="0" sum="€0" no="11" player="Vinc01"/>
+   <action type="0" sum="€0" no="12" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686514159">
+  <general>
+   <startdate>2022-06-07 18:53:36</startdate>
+   <players>
+    <player seat="1" win="€5,82" dealer="0" name="13373678" chips="€199,26" bet="€3"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€26,80" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€58,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€80" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€59,18" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€105,27" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">S8 H8</cards>
+   <action type="23" sum="€1,50" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S10 CJ</cards>
+   <action type="3" sum="€1" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK D9 C3</cards>
+   <action type="5" sum="€1,50" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,50" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action type="4" sum="€0" no="11" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action type="4" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="14" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686514225">
+  <general>
+   <startdate>2022-06-07 18:54:12</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€202,08" bet="€0,25"/>
+    <player seat="3" win="€6,30" dealer="0" name="Vinc01" chips="€26,80" bet="€4,12"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€58,33" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€80" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€59,18" bet="€3,12"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€102,27" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">HK C8</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€1" no="8" player="Vinc01"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 H7 C3</cards>
+   <action type="4" sum="€0" no="9" player="Vinc01"/>
+   <action type="5" sum="€1,62" no="10" player="llIIIlllIIIlll"/>
+   <action type="3" sum="€1,62" no="11" player="Vinc01"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action type="5" sum="€1" no="12" player="Vinc01"/>
+   <action type="0" sum="€0" no="13" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686514301">
+  <general>
+   <startdate>2022-06-07 18:54:51</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€201,83" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€29,98" bet="€1,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€58,33" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€80" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,06" bet="€0"/>
+    <player seat="10" win="€3,40" dealer="0" name="AllGlorytoJC" chips="€102,27" bet="€3,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H2 D4</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="8" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 CQ CK</cards>
+   <action type="4" sum="€0" no="9" player="Vinc01"/>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="4" sum="€0" no="11" player="Vinc01"/>
+   <action type="5" sum="€2,31" no="12" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="13" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686514357">
+  <general>
+   <startdate>2022-06-07 18:55:20</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€201,83" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Vinc01" chips="€28,48" bet="€0"/>
+    <player seat="5" win="€19,88" dealer="0" name="Kokelas90" chips="€57,83" bet="€31"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€80" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,06" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€104,17" bet="€10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">DK D2</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="8" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 S10 S2</cards>
+   <action type="5" sum="€3" no="9" player="Kokelas90"/>
+   <action type="3" sum="€3" no="10" player="AllGlorytoJC"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action type="5" sum="€5,50" no="11" player="Kokelas90"/>
+   <action type="3" sum="€5,50" no="12" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action type="5" sum="€21" no="13" player="Kokelas90"/>
+   <action type="0" sum="€0" no="14" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686515478">
+  <general>
+   <startdate>2022-06-07 18:55:59</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€201,83" bet="€2"/>
+    <player seat="3" win="€4,61" dealer="0" name="Vinc01" chips="€28,48" bet="€4"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€67,71" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€79,50" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,06" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,17" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C9 H9</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="23" sum="€2" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="8" player="llIIIlllIIIlll"/>
+   <action type="3" sum="€0,75" no="9" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H2 CK</cards>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="5" sum="€2" no="11" player="Vinc01"/>
+   <action type="0" sum="€0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686515577">
+  <general>
+   <startdate>2022-06-07 18:56:51</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€199,83" bet="€0"/>
+    <player seat="3" win="€2,81" dealer="0" name="Vinc01" chips="€31,09" bet="€3,32"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€67,71" bet="€0"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€79,25" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€55,56" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€94,17" bet="€1,32"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 H3</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 SK C2</cards>
+   <action type="5" sum="€0,82" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€0,82" no="10" player="Vinc01"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action type="4" sum="€0" no="11" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="12" player="Vinc01"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action type="4" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="5" sum="€2" no="14" player="Vinc01"/>
+   <action type="0" sum="€0" no="15" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686515648">
+  <general>
+   <startdate>2022-06-07 18:57:26</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€199,83" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,58" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€67,71" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€79,25" bet="€0"/>
+    <player seat="8" win="€1,25" dealer="1" name="llIIIlllIIIlll" chips="€55,31" bet="€1"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€92,85" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="23" sum="€1" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">CK D3</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686515675">
+  <general>
+   <startdate>2022-06-07 18:57:40</startdate>
+   <players>
+    <player seat="1" win="€7" dealer="0" name="13373678" chips="€199,33" bet="€10"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,58" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€67,71" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€79,25" bet="€2"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,06" bet="€2"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€92,60" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€2" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="3" sum="€2" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">DA DK</cards>
+   <action type="23" sum="€10" no="7" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="8" player="Vinc01"/>
+   <action type="0" sum="€0" no="9" player="Kokelas90"/>
+   <action type="0" sum="€0" no="10" player="dwightshrute"/>
+   <action type="0" sum="€0" no="11" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686515754">
+  <general>
+   <startdate>2022-06-07 18:58:23</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€204,33" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,08" bet="€0,25"/>
+    <player seat="5" win="€4,61" dealer="0" name="Kokelas90" chips="€67,21" bet="€6,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€77,25" bet="€1,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€54,06" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€92,60" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€1,50" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H6 CA</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€1" no="8" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S4 H5</cards>
+   <action type="5" sum="€4,75" no="9" player="Kokelas90"/>
+   <action type="0" sum="€0" no="10" player="dwightshrute"/>
+   <action type="0" sum="€0" no="11" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686515816">
+  <general>
+   <startdate>2022-06-07 18:58:54</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,33" bet="€0"/>
+    <player seat="3" win="€31,95" dealer="1" name="Vinc01" chips="€31,83" bet="€31,83"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,32" bet="€0,25"/>
+    <player seat="6" win="€31,96" dealer="0" name="dwightshrute" chips="€75,75" bet="€31,83"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€54,06" bet="€1,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€91,10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="dwightshrute"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C7 S3</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">S10 SQ</cards>
+   <action type="3" sum="€1,50" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">D9 DQ</cards>
+   <action type="3" sum="€1" no="8" player="dwightshrute"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H8 H5</cards>
+   <action type="4" sum="€0" no="9" player="dwightshrute"/>
+   <action type="4" sum="€0" no="10" player="llIIIlllIIIlll"/>
+   <action type="4" sum="€0" no="11" player="Vinc01"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="5" sum="€2,42" no="12" player="dwightshrute"/>
+   <action type="0" sum="€0" no="13" player="llIIIlllIIIlll"/>
+   <action type="23" sum="€4,84" no="14" player="Vinc01"/>
+   <action type="3" sum="€2,42" no="15" player="dwightshrute"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action type="5" sum="€9,50" no="16" player="dwightshrute"/>
+   <action type="23" sum="€25,49" no="17" player="Vinc01"/>
+   <action type="3" sum="€15,99" no="18" player="dwightshrute"/>
+  </round>
+ </game>
+ <game gamecode="3686515912">
+  <general>
+   <startdate>2022-06-07 18:59:43</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,33" bet="€0"/>
+    <player seat="3" win="€1,25" dealer="0" name="Vinc01" chips="€31,95" bet="€1,50"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€70,07" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€75,88" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€52,56" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€91,10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="dwightshrute"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S3 HA</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="7" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="8" player="llIIIlllIIIlll"/>
+  </round>
+ </game>
+ <game gamecode="3686515943">
+  <general>
+   <startdate>2022-06-07 18:59:58</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,33" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,70" bet="€2"/>
+    <player seat="5" win="€4,61" dealer="0" name="Kokelas90" chips="€70,07" bet="€2"/>
+    <player seat="6" win="€0" dealer="1" name="dwightshrute" chips="€75,63" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€52,06" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€91,10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 H2</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">S8 H6</cards>
+   <action type="3" sum="€0,50" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">H8 C8</cards>
+   <action type="23" sum="€2" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="6" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,50" no="9" player="Vinc01"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D9 HK</cards>
+   <action type="4" sum="€0" no="10" player="Vinc01"/>
+   <action type="4" sum="€0" no="11" player="Kokelas90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action type="4" sum="€0" no="12" player="Vinc01"/>
+   <action type="4" sum="€0" no="13" player="Kokelas90"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action type="4" sum="€0" no="14" player="Vinc01"/>
+   <action type="4" sum="€0" no="15" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686516028">
+  <general>
+   <startdate>2022-06-07 19:00:42</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€204,33" bet="€0,50"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€30,70" bet="€2,25"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€72,68" bet="€2,25"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€75,63" bet="€0"/>
+    <player seat="8" win="€7,28" dealer="1" name="llIIIlllIIIlll" chips="€51,81" bet="€6,75"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€90,60" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€2,25" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="5" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="3" sum="€2,25" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H8 H4</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€1,75" no="9" player="Vinc01"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ DK H10</cards>
+   <action type="4" sum="€0" no="10" player="Vinc01"/>
+   <action type="4" sum="€0" no="11" player="Kokelas90"/>
+   <action type="5" sum="€4,50" no="12" player="llIIIlllIIIlll"/>
+   <action type="0" sum="€0" no="13" player="Vinc01"/>
+   <action type="0" sum="€0" no="14" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686516096">
+  <general>
+   <startdate>2022-06-07 19:01:20</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€203,83" bet="€0,25"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€28,45" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,43" bet="€0"/>
+    <player seat="6" win="€1,25" dealer="0" name="dwightshrute" chips="€75,63" bet="€1,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,84" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€90,35" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">D10 S8</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="8" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686516118">
+  <general>
+   <startdate>2022-06-07 19:01:32</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€203,58" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€27,95" bet="€0,25"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,43" bet="€0,50"/>
+    <player seat="6" win="€0" dealer="0" name="dwightshrute" chips="€76,38" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,84" bet="€0"/>
+    <player seat="10" win="€1,25" dealer="0" name="AllGlorytoJC" chips="€90,35" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="dwightshrute">X X</cards>
+   <action type="0" sum="€0" no="3" player="dwightshrute"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">C10 D5</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="7" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="8" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686516145">
+  <general>
+   <startdate>2022-06-07 19:01:48</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€203,58" bet="€1,50"/>
+    <player seat="3" win="€8,45" dealer="1" name="Vinc01" chips="€27,70" bet="€5,46"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€69,93" bet="€0,25"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,84" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€91,10" bet="€3,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S7 C7</cards>
+   <action type="3" sum="€1,50" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€1,50" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S9 DA</cards>
+   <action type="5" sum="€1,73" no="8" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="9" player="13373678"/>
+   <action type="23" sum="€3,96" no="10" player="Vinc01"/>
+   <action type="0" sum="€0" no="11" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686516190">
+  <general>
+   <startdate>2022-06-07 19:02:13</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€202,08" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,92" bet="€0,50"/>
+    <player seat="5" win="€1,75" dealer="1" name="Kokelas90" chips="€69,68" bet="€3"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,34" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€87,87" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 H2</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€3" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="6" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="7" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="8" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686516232">
+  <general>
+   <startdate>2022-06-07 19:02:33</startdate>
+   <players>
+    <player seat="1" win="€12,38" dealer="0" name="13373678" chips="€202,08" bet="€6,13"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€32,42" bet="€6,13"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,93" bet="€0"/>
+    <player seat="8" win="€0" dealer="1" name="llIIIlllIIIlll" chips="€56,09" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€87,37" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="AllGlorytoJC"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">SA SJ</cards>
+   <action type="3" sum="€0,50" no="3" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="4" player="Kokelas90"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="5" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€0,25" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">H3 HQ</cards>
+   <action type="4" sum="€0" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ C5 CQ</cards>
+   <action type="4" sum="€0" no="8" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="5" sum="€2" no="10" player="Vinc01"/>
+   <action type="0" sum="€0" no="11" player="AllGlorytoJC"/>
+   <action type="3" sum="€2" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="Vinc01"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action type="5" sum="€3,63" no="15" player="13373678"/>
+   <action type="3" sum="€3,63" no="16" player="Vinc01"/>
+  </round>
+ </game>
+ <game gamecode="3686516302">
+  <general>
+   <startdate>2022-06-07 19:03:09</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€208,33" bet="€0,25"/>
+    <player seat="3" win="€0,50" dealer="0" name="Vinc01" chips="€26,29" bet="€0,50"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,93" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,09" bet="€0"/>
+    <player seat="10" win="€0" dealer="1" name="AllGlorytoJC" chips="€86,87" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Vinc01"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="3" player="Kokelas90"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="4" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">SJ C8</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3686516324">
+  <general>
+   <startdate>2022-06-07 19:03:20</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="1" name="13373678" chips="€208,08" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€26,54" bet="€8,25"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,93" bet="€0,50"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,09" bet="€0"/>
+    <player seat="10" win="€16,49" dealer="0" name="AllGlorytoJC" chips="€86,87" bet="€8,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Vinc01"/>
+   <action type="2" sum="€0,50" no="2" player="Kokelas90"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">DA DK</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S6 HQ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">DJ HA</cards>
+   <action type="3" sum="€1,25" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="7" player="Kokelas90"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C5 H9</cards>
+   <action type="4" sum="€0" no="8" player="Vinc01"/>
+   <action type="5" sum="€1,75" no="9" player="AllGlorytoJC"/>
+   <action type="3" sum="€1,75" no="10" player="Vinc01"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action type="4" sum="€0" no="11" player="Vinc01"/>
+   <action type="4" sum="€0" no="12" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action type="5" sum="€5" no="13" player="Vinc01"/>
+   <action type="3" sum="€5" no="14" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3686516402">
+  <general>
+   <startdate>2022-06-07 19:04:00</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€208,08" bet="€0"/>
+    <player seat="3" win="€0" dealer="1" name="Vinc01" chips="€18,29" bet="€0"/>
+    <player seat="5" win="€0" dealer="0" name="Kokelas90" chips="€70,43" bet="€4,50"/>
+    <player seat="6" win="€10,19" dealer="0" name="MichaelLudwig" chips="€50" bet="€11"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,09" bet="€0"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€95,11" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Kokelas90"/>
+   <action type="2" sum="€0,50" no="2" player="MichaelLudwig"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="3" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">S3 D2</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="6" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Kokelas90"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="3" sum="€1" no="8" player="MichaelLudwig"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ CJ H8</cards>
+   <action type="5" sum="€3" no="9" player="Kokelas90"/>
+   <action type="23" sum="€9,50" no="10" player="MichaelLudwig"/>
+   <action type="0" sum="€0" no="11" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="12" player="Kokelas90"/>
+  </round>
+ </game>
+ <game gamecode="3686517542">
+  <general>
+   <startdate>2022-06-07 19:04:55</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€208,08" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€18,29" bet="€0"/>
+    <player seat="5" win="€0" dealer="1" name="Kokelas90" chips="€65,93" bet="€0"/>
+    <player seat="6" win="€0" dealer="0" name="MichaelLudwig" chips="€55,69" bet="€0,25"/>
+    <player seat="8" win="€0,50" dealer="0" name="llIIIlllIIIlll" chips="€56,09" bet="€0,50"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€93,61" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="MichaelLudwig"/>
+   <action type="2" sum="€0,50" no="2" player="llIIIlllIIIlll"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="0" sum="€0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="13373678">CJ S8</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="0" sum="€0" no="5" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="0" sum="€0" no="6" player="Kokelas90"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" sum="€0" no="7" player="MichaelLudwig"/>
+  </round>
+ </game>
+ <game gamecode="3686518245">
+  <general>
+   <startdate>2022-06-07 19:05:08</startdate>
+   <players>
+    <player seat="1" win="€0" dealer="0" name="13373678" chips="€208,08" bet="€0"/>
+    <player seat="3" win="€0" dealer="0" name="Vinc01" chips="€18,29" bet="€3"/>
+    <player seat="5" win="€8,97" dealer="0" name="Kokelas90" chips="€65,93" bet="€7,62"/>
+    <player seat="6" win="€0" dealer="1" name="MichaelLudwig" chips="€55,44" bet="€0"/>
+    <player seat="8" win="€0" dealer="0" name="llIIIlllIIIlll" chips="€56,34" bet="€0,25"/>
+    <player seat="10" win="€0" dealer="0" name="AllGlorytoJC" chips="€93,61" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="llIIIlllIIIlll"/>
+   <action type="2" sum="€0,50" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 H4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Vinc01">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Vinc01"/>
+   <cards type="Pocket" player="Kokelas90">X X</cards>
+   <action type="23" sum="€3" no="5" player="Kokelas90"/>
+   <cards type="Pocket" player="MichaelLudwig">X X</cards>
+   <action type="0" sum="€0" no="6" player="MichaelLudwig"/>
+   <cards type="Pocket" player="llIIIlllIIIlll">X X</cards>
+   <action type="0" sum="€0" no="7" player="llIIIlllIIIlll"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action type="3" sum="€2,50" no="8" player="AllGlorytoJC"/>
+   <action type="3" sum="€2,50" no="9" player="Vinc01"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D4 DK</cards>
+   <action type="4" sum="€0" no="10" player="AllGlorytoJC"/>
+   <action type="4" sum="€0" no="11" player="Vinc01"/>
+   <action type="5" sum="€4,62" no="12" player="Kokelas90"/>
+   <action type="0" sum="€0" no="13" player="AllGlorytoJC"/>
+   <action type="0" sum="€0" no="14" player="Vinc01"/>
+  </round>
+ </game>
+</session>

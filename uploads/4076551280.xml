@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076551280">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 12, 488044423</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:06:12</duration>
+  <gamecount>9</gamecount>
+  <startdate>2022-06-10 11:02:31</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€57,48</bets>
+  <wins>€107,20</wins>
+  <chipsin>€49,98</chipsin>
+  <chipsout>€104,72</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687141250">
+  <general>
+   <startdate>2022-06-10 11:02:31</startdate>
+   <players>
+    <player chips="€53,88" bet="€3,50" win="€4,37" seat="3" name="Player 3" dealer="0"/>
+    <player chips="€96,66" bet="€0,50" win="€0" seat="5" name="Player 5" dealer="0"/>
+    <player chips="€24,27" bet="€2" win="€0" seat="6" name="Player 6" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 3" type="1" sum="€0,25"/>
+   <action no="2" player="Player 5" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="3" player="Player 6" type="3" sum="€0,50"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="4" player="Player 3" type="23" sum="€1"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="5" player="Player 5" type="0" sum="€0"/>
+   <action no="6" player="Player 6" type="3" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ C4 DQ</cards>
+   <action no="7" player="Player 3" type="4" sum="€0"/>
+   <action no="8" player="Player 6" type="5" sum="€1"/>
+   <action no="9" player="Player 3" type="3" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action no="10" player="Player 3" type="5" sum="€1,50"/>
+   <action no="11" player="Player 6" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687141348">
+  <general>
+   <startdate>2022-06-10 11:03:03</startdate>
+   <players>
+    <player chips="€56,25" bet="€4" win="€0" seat="3" name="Player 3" dealer="1"/>
+    <player chips="€96,16" bet="€0,25" win="€0" seat="5" name="Player 5" dealer="0"/>
+    <player chips="€22,27" bet="€4" win="€8" seat="6" name="Player 6" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 5" type="1" sum="€0,25"/>
+   <action no="2" player="Player 6" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">H9 D7</cards>
+   <action no="3" player="Player 3" type="3" sum="€0,50"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">DQ SA</cards>
+   <action no="5" player="Player 6" type="23" sum="€1,50"/>
+   <action no="6" player="Player 3" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK DA S3</cards>
+   <action no="7" player="Player 6" type="4" sum="€0"/>
+   <action no="8" player="Player 3" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action no="9" player="Player 6" type="5" sum="€1"/>
+   <action no="10" player="Player 3" type="3" sum="€1"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action no="11" player="Player 6" type="5" sum="€1,50"/>
+   <action no="12" player="Player 3" type="3" sum="€1,50"/>
+  </round>
+ </game>
+ <game gamecode="3687141389">
+  <general>
+   <startdate>2022-06-10 11:03:32</startdate>
+   <players>
+    <player chips="€52,25" bet="€0" win="€0" seat="3" name="977583" dealer="0"/>
+    <player chips="€95,91" bet="€0" win="€0" seat="5" name="TopDonkey" dealer="1"/>
+    <player chips="€26,27" bet="€0,50" win="€0,49" seat="6" name="ud97" dealer="0"/>
+    <player chips="€50" bet="€0,50" win="€0,48" seat="8" name="13373678" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="ud97" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="977583" type="Pocket">X X</cards>
+   <action no="3" player="977583" type="0" sum="€0"/>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action no="4" player="TopDonkey" type="0" sum="€0"/>
+   <cards player="ud97" type="Pocket">S5 H6</cards>
+   <action no="5" player="ud97" type="3" sum="€0,25"/>
+   <cards player="13373678" type="Pocket">D3 H8</cards>
+   <action no="6" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D10 H2</cards>
+   <action no="7" player="ud97" type="4" sum="€0"/>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="9" player="ud97" type="4" sum="€0"/>
+   <action no="10" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action no="11" player="ud97" type="4" sum="€0"/>
+   <action no="12" player="13373678" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687141457">
+  <general>
+   <startdate>2022-06-10 11:04:18</startdate>
+   <players>
+    <player chips="€52,25" bet="€26,26" win="€0" seat="3" name="977583" dealer="0"/>
+    <player chips="€95,91" bet="€0" win="€0" seat="5" name="TopDonkey" dealer="0"/>
+    <player chips="€26,26" bet="€26,26" win="€53,52" seat="6" name="ud97" dealer="1"/>
+    <player chips="€50" bet="€2" win="€0" seat="8" name="13373678" dealer="0"/>
+    <player chips="€50" bet="€0,50" win="€0" seat="10" name="RaneIsHere" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="RaneIsHere" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="977583" type="Pocket">S7 D7</cards>
+   <action no="3" player="977583" type="23" sum="€2"/>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action no="4" player="TopDonkey" type="0" sum="€0"/>
+   <cards player="ud97" type="Pocket">D9 DJ</cards>
+   <action no="5" player="ud97" type="3" sum="€2"/>
+   <cards player="13373678" type="Pocket">C10 D10</cards>
+   <action no="6" player="13373678" type="3" sum="€1,75"/>
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="7" player="RaneIsHere" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C6 SA</cards>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+   <action no="9" player="977583" type="4" sum="€0"/>
+   <action no="10" player="ud97" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="11" player="13373678" type="4" sum="€0"/>
+   <action no="12" player="977583" type="5" sum="€3,25"/>
+   <action no="13" player="ud97" type="3" sum="€3,25"/>
+   <action no="14" player="13373678" type="0" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action no="15" player="977583" type="5" sum="€7"/>
+   <action no="16" player="ud97" type="23" sum="€21,01"/>
+   <action no="17" player="977583" type="3" sum="€14,01"/>
+  </round>
+ </game>
+ <game gamecode="3687141546">
+  <general>
+   <startdate>2022-06-10 11:05:31</startdate>
+   <players>
+    <player chips="€25,99" bet="€0,50" win="€0,50" seat="3" name="977583" dealer="0"/>
+    <player chips="€95,91" bet="€0" win="€0" seat="5" name="TopDonkey" dealer="0"/>
+    <player chips="€53,52" bet="€0" win="€0" seat="6" name="ud97" dealer="0"/>
+    <player chips="€50" bet="€0" win="€0" seat="8" name="13373678" dealer="1"/>
+    <player chips="€50" bet="€0,25" win="€0" seat="10" name="RaneIsHere" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="RaneIsHere" type="1" sum="€0,25"/>
+   <action no="2" player="977583" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="977583" type="Pocket">X X</cards>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action no="3" player="TopDonkey" type="0" sum="€0"/>
+   <cards player="ud97" type="Pocket">X X</cards>
+   <action no="4" player="ud97" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D3 HA</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="6" player="RaneIsHere" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687141563">
+  <general>
+   <startdate>2022-06-10 11:05:44</startdate>
+   <players>
+    <player chips="€26,24" bet="€0,25" win="€0" seat="3" name="977583" dealer="0"/>
+    <player chips="€95,91" bet="€4,06" win="€0" seat="5" name="TopDonkey" dealer="0"/>
+    <player chips="€53,52" bet="€50" win="€0" seat="6" name="ud97" dealer="0"/>
+    <player chips="€50" bet="€50" win="€102,81" seat="8" name="13373678" dealer="0"/>
+    <player chips="€50" bet="€0" win="€0" seat="10" name="RaneIsHere" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="977583" type="1" sum="€0,25"/>
+   <action no="2" player="TopDonkey" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="ud97" type="Pocket">HK DQ</cards>
+   <action no="3" player="ud97" type="3" sum="€0,50"/>
+   <cards player="13373678" type="Pocket">C9 D9</cards>
+   <action no="4" player="13373678" type="23" sum="€2"/>
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="5" player="RaneIsHere" type="0" sum="€0"/>
+   <cards player="977583" type="Pocket">X X</cards>
+   <action no="6" player="977583" type="0" sum="€0"/>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action no="7" player="TopDonkey" type="3" sum="€1,50"/>
+   <action no="8" player="ud97" type="3" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S10 S9</cards>
+   <action no="9" player="TopDonkey" type="4" sum="€0"/>
+   <action no="10" player="ud97" type="4" sum="€0"/>
+   <action no="11" player="13373678" type="5" sum="€2,06"/>
+   <action no="12" player="TopDonkey" type="3" sum="€2,06"/>
+   <action no="13" player="ud97" type="3" sum="€2,06"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="14" player="TopDonkey" type="4" sum="€0"/>
+   <action no="15" player="ud97" type="5" sum="€2,50"/>
+   <action no="16" player="13373678" type="23" sum="€13,15"/>
+   <action no="17" player="TopDonkey" type="0" sum="€0"/>
+   <action no="18" player="ud97" type="3" sum="€10,65"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action no="19" player="ud97" type="4" sum="€0"/>
+   <action no="20" player="13373678" type="5" sum="€32,79"/>
+   <action no="21" player="ud97" type="3" sum="€32,79"/>
+  </round>
+ </game>
+ <game gamecode="3687141661">
+  <general>
+   <startdate>2022-06-10 11:07:04</startdate>
+   <players>
+    <player chips="€25,99" bet="€25,99" win="€0" seat="3" name="977583" dealer="1"/>
+    <player chips="€91,85" bet="€38,15" win="€54" seat="5" name="TopDonkey" dealer="0"/>
+    <player chips="€3,52" bet="€3,52" win="€0" seat="6" name="ud97" dealer="0"/>
+    <player chips="€102,81" bet="€0" win="€0" seat="8" name="13373678" dealer="0"/>
+    <player chips="€50" bet="€0" win="€0" seat="10" name="RaneIsHere" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="TopDonkey" type="1" sum="€0,25"/>
+   <action no="2" player="ud97" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 D6</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="4" player="RaneIsHere" type="0" sum="€0"/>
+   <cards player="977583" type="Pocket">H9 D9</cards>
+   <action no="5" player="977583" type="23" sum="€1"/>
+   <cards player="TopDonkey" type="Pocket">HA CA</cards>
+   <action no="6" player="TopDonkey" type="23" sum="€3,50"/>
+   <cards player="ud97" type="Pocket">C4 S4</cards>
+   <action no="7" player="ud97" type="7" sum="€3,02"/>
+   <action no="8" player="977583" type="3" sum="€2,52"/>
+   <action no="9" player="TopDonkey" type="3" sum="€0,02"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S2 H3</cards>
+   <action no="10" player="TopDonkey" type="5" sum="€5,28"/>
+   <action no="11" player="977583" type="3" sum="€5,28"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action no="12" player="TopDonkey" type="5" sum="€29,35"/>
+   <action no="13" player="977583" type="7" sum="€17,19"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+  </round>
+ </game>
+ <game gamecode="3687141741">
+  <general>
+   <startdate>2022-06-10 11:07:59</startdate>
+   <players>
+    <player chips="€119,86" bet="€0" win="€0" seat="5" name="TopDonkey" dealer="1"/>
+    <player chips="€102,81" bet="€1,50" win="€1" seat="8" name="13373678" dealer="0"/>
+    <player chips="€50" bet="€0,50" win="€0" seat="10" name="RaneIsHere" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="RaneIsHere" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action no="3" player="TopDonkey" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HJ HQ</cards>
+   <action no="4" player="13373678" type="23" sum="€1,50"/>
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="5" player="RaneIsHere" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687141769">
+  <general>
+   <startdate>2022-06-10 11:08:20</startdate>
+   <players>
+    <player chips="€103,31" bet="€3,48" win="€2,91" seat="8" name="13373678" dealer="0"/>
+    <player chips="€50" bet="€1,50" win="€0" seat="10" name="RaneIsHere" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="RaneIsHere" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RaneIsHere" type="Pocket">X X</cards>
+   <action no="3" player="RaneIsHere" type="23" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">H7 D10</cards>
+   <action no="4" player="13373678" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ H8 DQ</cards>
+   <action no="5" player="13373678" type="4" sum="€0"/>
+   <action no="6" player="RaneIsHere" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action no="7" player="13373678" type="5" sum="€1,98"/>
+   <action no="8" player="RaneIsHere" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

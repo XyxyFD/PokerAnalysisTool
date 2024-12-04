@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081117206">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:36</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-14 00:40:52</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€25</bets>
+  <wins>€24,50</wins>
+  <chipsin>€62</chipsin>
+  <chipsout>€62</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702452199">
+  <general>
+   <startdate>2022-08-14 00:40:52</startdate>
+   <players>
+    <player bet="€25" seat="1" win="€24,50" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€12,50" seat="5" win="€0" chips="€159,20" name="tipstops" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">DK HA</cards>
+   <action player="13373678" sum="€5" type="23" no="4"/>
+   <action player="tipstops" sum="€3,75" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H3 H2</cards>
+   <action player="13373678" sum="€7,50" type="5" no="6"/>
+   <action player="tipstops" sum="€7,50" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="13373678" sum="€12,50" type="5" no="8"/>
+   <action player="tipstops" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+</session>

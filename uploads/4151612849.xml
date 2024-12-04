@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4151612849">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:00:43</duration>
+  <gamecount>3</gamecount>
+  <startdate>2024-10-06 21:35:40</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,75</bets>
+  <wins>€0</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€49,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3936163473">
+  <general>
+   <startdate>2024-10-06 21:35:40</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" win="€0,50" seat="1" chips="€50,85" name="BlackRiverDrift"/>
+    <player bet="€0,25" dealer="1" win="€0" seat="5" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="BlackRiverDrift" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S10 H2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3936164203">
+  <general>
+   <startdate>2024-10-06 21:35:48</startdate>
+   <players>
+    <player bet="€3,27" dealer="1" win="€2,43" seat="1" chips="€51,10" name="BlackRiverDrift"/>
+    <player bet="€1,25" dealer="0" win="€0" seat="5" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">S9 D10</cards>
+   <action player="13373678" type="3" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 CQ H5</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="BlackRiverDrift" type="5" no="6" sum="€2,02"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3936164283">
+  <general>
+   <startdate>2024-10-06 21:36:17</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" win="€0,50" seat="1" chips="€52,28" name="BlackRiverDrift"/>
+    <player bet="€0,25" dealer="1" win="€0" seat="5" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="BlackRiverDrift" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S8 D4</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+</session>

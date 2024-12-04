@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081430390">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:38</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-08-18 19:10:41</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€6,25</bets>
+  <wins>€1</wins>
+  <chipsin>€45</chipsin>
+  <chipsout>€50,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3703550525">
+  <general>
+   <startdate>2022-08-18 19:10:41</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="0" seat="1" bet="€5" win="€0"/>
+    <player name="CallOnMe" chips="€50" dealer="1" seat="3" bet="€11,50" win="€10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">H4 H5</cards>
+   <action player="13373678" type="23" no="4" sum="€5"/>
+   <action player="CallOnMe" type="23" no="5" sum="€11,50"/>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550565">
+  <general>
+   <startdate>2022-08-18 19:11:06</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" seat="1" bet="€1,25" win="€1"/>
+    <player name="CallOnMe" chips="€55" dealer="0" seat="3" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="CallOnMe" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 SK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+</session>

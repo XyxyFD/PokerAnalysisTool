@@ -1,0 +1,4479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081154077">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:53:36</duration>
+  <gamecount>193</gamecount>
+  <startdate>2022-08-14 17:38:13</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€563,97</bets>
+  <wins>€417,89</wins>
+  <chipsin>€50,50</chipsin>
+  <chipsout>€133,30</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702572298">
+  <general>
+   <startdate>2022-08-14 17:38:13</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK C7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702572316">
+  <general>
+   <startdate>2022-08-14 17:38:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€50,50"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H5 D2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702572321">
+  <general>
+   <startdate>2022-08-14 17:38:28</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€15,13" dealer="1" bet="€7,80" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€7,80" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 C4</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">DK D8</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ CK H6</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,87" no="6" player="13373678" type="5"/>
+   <action sum="€1,87" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€4,68" no="9" player="13373678" type="5"/>
+   <action sum="€4,68" no="10" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702573348">
+  <general>
+   <startdate>2022-08-14 17:39:06</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="0" bet="€2,07" chips="€57,33"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€2,07" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">D7 D4</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DJ SQ</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 C8 DQ</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702573404">
+  <general>
+   <startdate>2022-08-14 17:39:44</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€59,28"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€47,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D5 CJ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702573416">
+  <general>
+   <startdate>2022-08-14 17:39:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€59,03"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€3,12" chips="€48,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DA C8</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 C10 D10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€1,87" no="10" player="LazyKoala" type="5"/>
+   <action sum="€0" no="11" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702573974">
+  <general>
+   <startdate>2022-08-14 17:40:25</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€57,78"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H8 C2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702573983">
+  <general>
+   <startdate>2022-08-14 17:40:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€57,53"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C10 D2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702573997">
+  <general>
+   <startdate>2022-08-14 17:40:38</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€57,03"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 HA</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574005">
+  <general>
+   <startdate>2022-08-14 17:40:44</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€57,53"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€1,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">S9 DK</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DJ S8</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H3 DA</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702574065">
+  <general>
+   <startdate>2022-08-14 17:41:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€14,64" chips="€56,28"/>
+    <player seat="3" name="LazyKoala" win="€28,78" dealer="0" bet="€51,43" chips="€51,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ H6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€2,75" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H8 S6</cards>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€10,64" no="8" player="LazyKoala" type="5"/>
+   <action sum="€10,64" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action sum="€36,79" no="10" player="LazyKoala" type="5"/>
+   <action sum="€0" no="11" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574114">
+  <general>
+   <startdate>2022-08-14 17:42:04</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€65,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C10 C5</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S7 S8</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574145">
+  <general>
+   <startdate>2022-08-14 17:42:23</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€66,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 SK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574158">
+  <general>
+   <startdate>2022-08-14 17:42:32</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€15,13" dealer="0" bet="€7,80" chips="€50,50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€7,80" chips="€66,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">D4 HA</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C5 C10</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 S10 C8</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€1,87" no="7" player="13373678" type="5"/>
+   <action sum="€1,87" no="8" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€4,68" no="9" player="13373678" type="5"/>
+   <action sum="€4,68" no="10" player="LazyKoala" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702574220">
+  <general>
+   <startdate>2022-08-14 17:43:12</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€57,83"/>
+    <player seat="3" name="LazyKoala" win="€2,50" dealer="0" bet="€4" chips="€58,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 HJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574244">
+  <general>
+   <startdate>2022-08-14 17:43:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€56,58"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€59,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D4 H9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574263">
+  <general>
+   <startdate>2022-08-14 17:43:43</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€56,08"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€60,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">SQ H3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574275">
+  <general>
+   <startdate>2022-08-14 17:43:48</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€55,83"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€60,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C8 H4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574286">
+  <general>
+   <startdate>2022-08-14 17:43:57</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€55,33"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€60,95"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ DA</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574298">
+  <general>
+   <startdate>2022-08-14 17:44:04</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€5" chips="€55,83"/>
+    <player seat="3" name="LazyKoala" win="€9,70" dealer="1" bet="€12,50" chips="€60,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">CK SQ</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€3,75" no="5" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H8 D6</cards>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+   <action sum="€0" no="7" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€7,50" no="9" player="LazyKoala" type="5"/>
+   <action sum="€0" no="10" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574364">
+  <general>
+   <startdate>2022-08-14 17:44:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€50,83"/>
+    <player seat="3" name="LazyKoala" win="€2,50" dealer="0" bet="€4" chips="€65,15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 H7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574379">
+  <general>
+   <startdate>2022-08-14 17:44:56</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€66,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D3 SQ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574393">
+  <general>
+   <startdate>2022-08-14 17:45:06</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="1" bet="€3,43" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€2,07" chips="€66,90"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK DQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H7 SQ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0,82" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€1,36" no="9" player="13373678" type="5"/>
+   <action sum="€0" no="10" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574428">
+  <general>
+   <startdate>2022-08-14 17:45:26</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€51,95"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€64,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D2 S5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574438">
+  <general>
+   <startdate>2022-08-14 17:45:34</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€51,45"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€65,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 C9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574444">
+  <general>
+   <startdate>2022-08-14 17:45:40</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="0" bet="€2,50" chips="€51,20"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€65,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H8 S7</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 SQ H10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€1,25" no="7" player="13373678" type="5"/>
+   <action sum="€0" no="8" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574494">
+  <general>
+   <startdate>2022-08-14 17:46:13</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€52,38"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€64,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D3 H4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574503">
+  <general>
+   <startdate>2022-08-14 17:46:19</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€52,13"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€64,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK C8</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574664">
+  <general>
+   <startdate>2022-08-14 17:46:24</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€52,38" chips="€52,38"/>
+    <player seat="3" name="LazyKoala" win="€104,26" dealer="0" bet="€64,33" chips="€64,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA CK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">CJ CA</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€10,25" no="5" player="13373678" type="23"/>
+   <action sum="€6,25" no="6" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H4 C5</cards>
+   <action sum="€0" no="7" player="LazyKoala" type="4"/>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€10,25" no="9" player="LazyKoala" type="5"/>
+   <action sum="€10,25" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€43,83" no="11" player="LazyKoala" type="5"/>
+   <action sum="€31,88" no="12" player="13373678" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3702574737">
+  <general>
+   <startdate>2022-08-14 17:47:14</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€116,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA S10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574753">
+  <general>
+   <startdate>2022-08-14 17:47:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€50,25"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€115,96"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S5 C4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574763">
+  <general>
+   <startdate>2022-08-14 17:47:28</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,50" dealer="0" bet="€5" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€116,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C8 S8</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€0" no="5" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574776">
+  <general>
+   <startdate>2022-08-14 17:47:41</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€6,06" dealer="1" bet="€7,80" chips="€51,25"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€3,12" chips="€114,96"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ CJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C8 D5</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,87" no="6" player="13373678" type="5"/>
+   <action sum="€1,87" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+   <action sum="€4,68" no="11" player="13373678" type="5"/>
+   <action sum="€0" no="12" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702574853">
+  <general>
+   <startdate>2022-08-14 17:48:24</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€17,41" chips="€54,19"/>
+    <player seat="3" name="LazyKoala" win="€34,32" dealer="1" bet="€63,72" chips="€111,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H7 S9</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HA H8</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€3,72" no="7" player="13373678" type="23"/>
+   <action sum="€2,90" no="8" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€4,97" no="9" player="13373678" type="5"/>
+   <action sum="€12,44" no="10" player="LazyKoala" type="23"/>
+   <action sum="€7,47" no="11" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+   <action sum="€46,31" no="13" player="LazyKoala" type="5"/>
+   <action sum="€0" no="14" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702575342">
+  <general>
+   <startdate>2022-08-14 17:49:16</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="1" bet="€5,17" chips="€50"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€2,07" chips="€128,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ DJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S9 CQ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0,82" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€3,10" no="9" player="13373678" type="5"/>
+   <action sum="€0" no="10" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576336">
+  <general>
+   <startdate>2022-08-14 17:49:40</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€51,95"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€126,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA DJ</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576345">
+  <general>
+   <startdate>2022-08-14 17:49:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€52,20"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€126,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H2 C8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576359">
+  <general>
+   <startdate>2022-08-14 17:49:51</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€51,95"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€126,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 SK</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576366">
+  <general>
+   <startdate>2022-08-14 17:49:56</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€52,20"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€126,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S5 D9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576377">
+  <general>
+   <startdate>2022-08-14 17:50:02</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,50" dealer="0" bet="€5" chips="€51,95"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€126,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">CK CQ</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€0" no="5" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576402">
+  <general>
+   <startdate>2022-08-14 17:50:17</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€53,20"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€125,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S3 SJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576410">
+  <general>
+   <startdate>2022-08-14 17:50:25</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€53,70"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€124,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S4 H8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576418">
+  <general>
+   <startdate>2022-08-14 17:50:32</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="1" bet="€2,07" chips="€53,20"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€2,07" chips="€125,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA S2</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">D9 CK</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S4 H5</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€0,82" no="7" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702576456">
+  <general>
+   <startdate>2022-08-14 17:50:59</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€55,15"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€123,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S5 CJ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576473">
+  <general>
+   <startdate>2022-08-14 17:51:11</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€54,65"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 S6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576484">
+  <general>
+   <startdate>2022-08-14 17:51:19</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€55,15"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€123,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 D9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576489">
+  <general>
+   <startdate>2022-08-14 17:51:24</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€54,65"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€123,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 H4</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576506">
+  <general>
+   <startdate>2022-08-14 17:51:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="0" bet="€3,12" chips="€55,15"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€123,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C10 D7</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 C2 C8</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€1,87" no="7" player="13373678" type="5"/>
+   <action sum="€0" no="8" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702576550">
+  <general>
+   <startdate>2022-08-14 17:51:55</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€76,64" dealer="1" bet="€38,57" chips="€56,33"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€38,57" chips="€122,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 D10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">SJ CQ</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€2,75" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ S9 C9</cards>
+   <action sum="€2,64" no="6" player="LazyKoala" type="5"/>
+   <action sum="€2,64" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€4,38" no="9" player="13373678" type="5"/>
+   <action sum="€4,38" no="10" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+   <action sum="€27,55" no="12" player="13373678" type="5"/>
+   <action sum="€27,55" no="13" player="LazyKoala" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702576827">
+  <general>
+   <startdate>2022-08-14 17:52:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€21,16" chips="€94,40"/>
+    <player seat="3" name="LazyKoala" win="€41,82" dealer="1" bet="€40,66" chips="€83,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DJ CJ</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€12,75" no="5" player="LazyKoala" type="23"/>
+   <action sum="€7,75" no="6" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DK H3</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€8,41" no="8" player="LazyKoala" type="5"/>
+   <action sum="€8,41" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€19,50" no="11" player="LazyKoala" type="5"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577508">
+  <general>
+   <startdate>2022-08-14 17:53:41</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€73,24"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€104,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 D6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577520">
+  <general>
+   <startdate>2022-08-14 17:53:49</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€73,74"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€103,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 D10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577533">
+  <general>
+   <startdate>2022-08-14 17:53:54</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€4,37" chips="€73,99"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€103,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK CK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H9 C9</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" no="7" player="LazyKoala" type="4"/>
+   <action sum="€3,12" no="8" player="13373678" type="5"/>
+   <action sum="€0" no="9" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577570">
+  <general>
+   <startdate>2022-08-14 17:54:20</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€2,07" chips="€75,17"/>
+    <player seat="3" name="LazyKoala" win="€4,02" dealer="1" bet="€5,17" chips="€102,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 S4</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D3 H10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€3,10" no="11" player="LazyKoala" type="5"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577621">
+  <general>
+   <startdate>2022-08-14 17:54:55</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€3,12" chips="€73,10"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€104,15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H5 H7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CQ S2</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,87" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577638">
+  <general>
+   <startdate>2022-08-14 17:55:07</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€74,28"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€102,90"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C7 S2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577655">
+  <general>
+   <startdate>2022-08-14 17:55:20</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€5" chips="€73,78"/>
+    <player seat="3" name="LazyKoala" win="€9,70" dealer="0" bet="€8,30" chips="€103,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 SK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€5" no="4" player="LazyKoala" type="23"/>
+   <action sum="€3,75" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D3 H4</cards>
+   <action sum="€3,30" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577691">
+  <general>
+   <startdate>2022-08-14 17:55:41</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€68,78"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€3,12" chips="€108,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">HK D3</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ CJ D2</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,87" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577715">
+  <general>
+   <startdate>2022-08-14 17:55:59</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,07" chips="€67,53"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€109,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 D6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S3 C5</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577747">
+  <general>
+   <startdate>2022-08-14 17:56:23</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€68,71"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€108,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S2 C10</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577772">
+  <general>
+   <startdate>2022-08-14 17:56:37</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€68,21"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€108,53"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK D10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577781">
+  <general>
+   <startdate>2022-08-14 17:56:44</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€68,71"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€108,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D4 S2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577801">
+  <general>
+   <startdate>2022-08-14 17:56:52</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€10,03" dealer="1" bet="€5,17" chips="€68,21"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€5,17" chips="€108,53"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ C6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">S3 SA</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ C3 SQ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0,82" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€3,10" no="9" player="13373678" type="5"/>
+   <action sum="€3,10" no="10" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702577837">
+  <general>
+   <startdate>2022-08-14 17:57:18</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,50" dealer="0" bet="€5" chips="€73,07"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€103,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">HK CQ</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€0" no="5" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577872">
+  <general>
+   <startdate>2022-08-14 17:57:33</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€10,03" dealer="1" bet="€5,17" chips="€74,32"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€5,17" chips="€102,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 CJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">D8 HQ</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ SK C6</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0,82" no="7" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action sum="€3,10" no="9" player="LazyKoala" type="5"/>
+   <action sum="€3,10" no="10" player="13373678" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702577922">
+  <general>
+   <startdate>2022-08-14 17:58:01</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€79,18"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€96,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 HQ</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702577931">
+  <general>
+   <startdate>2022-08-14 17:58:06</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0" chips="€79,43"/>
+    <player seat="3" name="LazyKoala" win="€8,69" dealer="0" bet="€4,48" chips="€96,69"/>
+    <player seat="5" name="CallOnMe" win="€0" dealer="0" bet="€4,48" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 S3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="LazyKoala" type="Pocket">HJ CJ</cards>
+   <action sum="€1,50" no="4" player="LazyKoala" type="23"/>
+   <cards player="CallOnMe" type="Pocket">H9 H7</cards>
+   <action sum="€1" no="5" player="CallOnMe" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D2 C9</cards>
+   <action sum="€0,99" no="6" player="LazyKoala" type="5"/>
+   <action sum="€2,98" no="7" player="CallOnMe" type="23"/>
+   <action sum="€1,99" no="8" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+   <action sum="€0" no="10" player="CallOnMe" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+   <action sum="€0" no="12" player="CallOnMe" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702578008">
+  <general>
+   <startdate>2022-08-14 17:58:47</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€79,43"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0" chips="€100,90"/>
+    <player seat="5" name="CallOnMe" win="€1" dealer="0" bet="€1,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="CallOnMe" type="23"/>
+   <cards player="13373678" type="Pocket">S6 H8</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702578031">
+  <general>
+   <startdate>2022-08-14 17:58:59</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,25" chips="€78,93"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€100,90"/>
+    <player seat="5" name="CallOnMe" win="€2,67" dealer="1" bet="€3,17" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="CallOnMe" type="23"/>
+   <cards player="13373678" type="Pocket">HK S8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="5" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H5 D10</cards>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+   <action sum="€0" no="7" player="CallOnMe" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€0" no="9" player="CallOnMe" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+   <action sum="€1,92" no="11" player="CallOnMe" type="5"/>
+   <action sum="€0" no="12" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702578080">
+  <general>
+   <startdate>2022-08-14 17:59:37</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€78,68"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,25" chips="€99,65"/>
+    <player seat="5" name="CallOnMe" win="€2,67" dealer="0" bet="€3,17" chips="€51,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 H8</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0,75" no="5" player="CallOnMe" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C8 S6</cards>
+   <action sum="€0" no="6" player="CallOnMe" type="4"/>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€1,92" no="8" player="CallOnMe" type="5"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702578151">
+  <general>
+   <startdate>2022-08-14 18:00:15</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€77,43"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€9,29" chips="€99,40"/>
+    <player seat="5" name="CallOnMe" win="€18,51" dealer="0" bet="€15,01" chips="€53,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€5,50" no="4" player="CallOnMe" type="23"/>
+   <cards player="13373678" type="Pocket">SA D2</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <action sum="€4,25" no="6" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H7 S8</cards>
+   <action sum="€0" no="7" player="CallOnMe" type="4"/>
+   <action sum="€3,79" no="8" player="LazyKoala" type="5"/>
+   <action sum="€3,79" no="9" player="CallOnMe" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" no="10" player="CallOnMe" type="4"/>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action sum="€5,72" no="12" player="CallOnMe" type="5"/>
+   <action sum="€0" no="13" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702578268">
+  <general>
+   <startdate>2022-08-14 18:01:25</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,25" chips="€76,93"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€90,11"/>
+    <player seat="5" name="CallOnMe" win="€0" dealer="1" bet="€0" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CallOnMe" type="0"/>
+   <cards player="13373678" type="Pocket">D10 C2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579270">
+  <general>
+   <startdate>2022-08-14 18:01:43</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="0" bet="€1,25" chips="€76,68"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€90,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">S5 DJ</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D6 SK</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S9 CA</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702579338">
+  <general>
+   <startdate>2022-08-14 18:02:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€3,12" chips="€77,86"/>
+    <player seat="3" name="LazyKoala" win="€6,06" dealer="0" bet="€3,12" chips="€89,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 HK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">H7 D6</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C6 C8</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€1,87" no="7" player="LazyKoala" type="5"/>
+   <action sum="€1,87" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702579412">
+  <general>
+   <startdate>2022-08-14 18:03:17</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€74,74"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€92,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D3 H7</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579425">
+  <general>
+   <startdate>2022-08-14 18:03:25</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€74,24"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€92,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H6 S9</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579445">
+  <general>
+   <startdate>2022-08-14 18:03:36</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€74,74"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€92,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 H10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579453">
+  <general>
+   <startdate>2022-08-14 18:03:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€4,37" chips="€74,99"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€91,80"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 D10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H4 SJ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€3,12" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579479">
+  <general>
+   <startdate>2022-08-14 18:03:59</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€76,17"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€90,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 DQ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579493">
+  <general>
+   <startdate>2022-08-14 18:04:08</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="1" bet="€2,07" chips="€75,67"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€2,07" chips="€91,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 HQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">SA D7</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S8 S6</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0,82" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702579582">
+  <general>
+   <startdate>2022-08-14 18:05:03</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€77,62"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€88,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 DK</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579594">
+  <general>
+   <startdate>2022-08-14 18:05:09</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€77,87"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€88,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C10 D4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579606">
+  <general>
+   <startdate>2022-08-14 18:05:15</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€77,62"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€88,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ D10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579617">
+  <general>
+   <startdate>2022-08-14 18:05:20</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€77,87"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€88,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D7 S4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579629">
+  <general>
+   <startdate>2022-08-14 18:05:26</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€77,62"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€88,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S10 C6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579642">
+  <general>
+   <startdate>2022-08-14 18:05:34</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€77,12"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€89,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK DA</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579662">
+  <general>
+   <startdate>2022-08-14 18:05:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€77,62"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€88,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H4 DA</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 C2 H6</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579699">
+  <general>
+   <startdate>2022-08-14 18:06:09</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€76,37"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€90,16"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 HA</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579707">
+  <general>
+   <startdate>2022-08-14 18:06:16</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€76,87"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€89,66"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C2 HJ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579716">
+  <general>
+   <startdate>2022-08-14 18:06:22</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,07" chips="€76,37"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€90,16"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ D10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 HJ DJ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579748">
+  <general>
+   <startdate>2022-08-14 18:06:41</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€22,50" chips="€77,55"/>
+    <player seat="3" name="LazyKoala" win="€44,50" dealer="1" bet="€88,91" chips="€88,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">CQ SK</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€3,75" no="5" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ CJ H4</cards>
+   <action sum="€5" no="6" player="13373678" type="5"/>
+   <action sum="€5" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€12,50" no="9" player="LazyKoala" type="5"/>
+   <action sum="€12,50" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€66,41" no="12" player="LazyKoala" type="5"/>
+   <action sum="€0" no="13" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702579845">
+  <general>
+   <startdate>2022-08-14 18:07:39</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,07" chips="€55,05"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€110,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 H7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C4 D6</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580071">
+  <general>
+   <startdate>2022-08-14 18:08:04</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€56,23"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€109,66"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 C8</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ S6 C6</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580097">
+  <general>
+   <startdate>2022-08-14 18:08:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€7,76" dealer="1" bet="€6,64" chips="€54,98"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€4" chips="€110,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CQ C6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€2,75" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C2 C3</cards>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+   <action sum="€2,64" no="7" player="13373678" type="5"/>
+   <action sum="€0" no="8" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580157">
+  <general>
+   <startdate>2022-08-14 18:08:52</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€4,02" dealer="0" bet="€4,97" chips="€58,74"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€2,07" chips="€106,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S2 D2</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D5 H2</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€3,72" no="7" player="13373678" type="23"/>
+   <action sum="€0" no="8" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580197">
+  <general>
+   <startdate>2022-08-14 18:09:17</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€60,69"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€104,77"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 C10</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580212">
+  <general>
+   <startdate>2022-08-14 18:09:31</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€61,19"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€104,27"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 D3</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580218">
+  <general>
+   <startdate>2022-08-14 18:09:37</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,50" chips="€61,44"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€104,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA D5</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D6 D3</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,25" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580253">
+  <general>
+   <startdate>2022-08-14 18:09:54</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€62,62"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€102,77"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C8 H9</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580262">
+  <general>
+   <startdate>2022-08-14 18:10:00</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€62,87"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€102,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C3 D9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580271">
+  <general>
+   <startdate>2022-08-14 18:10:08</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€62,62"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€102,77"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H5 SQ</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ C10 C9</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580299">
+  <general>
+   <startdate>2022-08-14 18:10:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€61,37"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€103,95"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 CJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580311">
+  <general>
+   <startdate>2022-08-14 18:10:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€61,87"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€103,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 HK</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580324">
+  <general>
+   <startdate>2022-08-14 18:10:35</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€62,12"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€103,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 H6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580335">
+  <general>
+   <startdate>2022-08-14 18:10:43</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€62,62"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€102,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 H5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580355">
+  <general>
+   <startdate>2022-08-14 18:10:55</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€62,12"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€103,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 C5</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580368">
+  <general>
+   <startdate>2022-08-14 18:11:01</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€62,62"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€102,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H6 CA</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580380">
+  <general>
+   <startdate>2022-08-14 18:11:08</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€62,87"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€102,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ CK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580392">
+  <general>
+   <startdate>2022-08-14 18:11:16</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€63,37"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€101,95"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D5 C2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580406">
+  <general>
+   <startdate>2022-08-14 18:11:23</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€62,87"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€102,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S2 DJ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580414">
+  <general>
+   <startdate>2022-08-14 18:11:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€62,62"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€102,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA D10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580425">
+  <general>
+   <startdate>2022-08-14 18:11:34</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,50" chips="€62,87"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€102,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 S7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S2 S9</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,25" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580940">
+  <general>
+   <startdate>2022-08-14 18:11:57</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€64,05"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€101,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DA H5</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H9 S7</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580959">
+  <general>
+   <startdate>2022-08-14 18:12:16</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€62,80"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€102,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 C4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580968">
+  <general>
+   <startdate>2022-08-14 18:12:22</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€62,55"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€102,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CQ D10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702580978">
+  <general>
+   <startdate>2022-08-14 18:12:28</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,07" chips="€62,80"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€102,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 S2</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 DK SK</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702581004">
+  <general>
+   <startdate>2022-08-14 18:12:42</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,50" dealer="0" bet="€5" chips="€63,98"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€101,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">CJ DA</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€0" no="5" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582007">
+  <general>
+   <startdate>2022-08-14 18:13:01</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€65,23"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€99,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA D7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582027">
+  <general>
+   <startdate>2022-08-14 18:13:17</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€41" dealer="0" bet="€20,75" chips="€65,73"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€20,75" chips="€99,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">C9 SK</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D9 D10</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€3,75" no="5" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C7 DJ</cards>
+   <action sum="€3,30" no="6" player="13373678" type="5"/>
+   <action sum="€3,30" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€12,45" no="8" player="13373678" type="5"/>
+   <action sum="€12,45" no="9" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702582101">
+  <general>
+   <startdate>2022-08-14 18:14:05</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€85,98"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="0" bet="€2,07" chips="€78,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 C8</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ C2 SJ</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0,82" no="7" player="LazyKoala" type="5"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582138">
+  <general>
+   <startdate>2022-08-14 18:14:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€84,73"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€79,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S3 H10</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582152">
+  <general>
+   <startdate>2022-08-14 18:14:40</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€84,23"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€80,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C3 D4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582162">
+  <general>
+   <startdate>2022-08-14 18:14:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€83,98"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€80,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA H3</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582171">
+  <general>
+   <startdate>2022-08-14 18:14:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€84,23"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€80,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA H9</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582182">
+  <general>
+   <startdate>2022-08-14 18:14:58</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="0" bet="€1,25" chips="€84,73"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€79,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">D7 SQ</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H6 C6</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 HJ H2</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702582237">
+  <general>
+   <startdate>2022-08-14 18:15:37</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€85,91"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€78,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C2 D7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582244">
+  <general>
+   <startdate>2022-08-14 18:15:43</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€85,66"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€78,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 C3</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582250">
+  <general>
+   <startdate>2022-08-14 18:15:48</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€85,91"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€78,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C10 S3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582452">
+  <general>
+   <startdate>2022-08-14 18:15:54</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€85,66"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€78,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 C4</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582466">
+  <general>
+   <startdate>2022-08-14 18:16:00</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€85,91"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€78,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 HK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582484">
+  <general>
+   <startdate>2022-08-14 18:16:14</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€86,41"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€78,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C10 S9</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S5 C7</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582500">
+  <general>
+   <startdate>2022-08-14 18:16:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€85,16"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€79,24"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 H5</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582519">
+  <general>
+   <startdate>2022-08-14 18:16:38</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€41" dealer="0" bet="€85,66" chips="€85,66"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€20,75" chips="€78,74"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DA CA</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€3,75" no="5" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 S6 SJ</cards>
+   <action sum="€3,30" no="6" player="13373678" type="5"/>
+   <action sum="€3,30" no="7" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action sum="€12,45" no="8" player="13373678" type="5"/>
+   <action sum="€12,45" no="9" player="LazyKoala" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action sum="€64,91" no="10" player="13373678" type="5"/>
+   <action sum="€0" no="11" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582582">
+  <general>
+   <startdate>2022-08-14 18:17:28</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€14,22" dealer="1" bet="€7,33" chips="€105,91"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€7,33" chips="€57,99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 HK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">DK D3</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H7 CK</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€1,87" no="6" player="13373678" type="5"/>
+   <action sum="€6,08" no="7" player="LazyKoala" type="23"/>
+   <action sum="€4,21" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€0" no="11" player="LazyKoala" type="4"/>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702582662">
+  <general>
+   <startdate>2022-08-14 18:18:18</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€112,80"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€50,66"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">D3 HK</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D4 C2</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582690">
+  <general>
+   <startdate>2022-08-14 18:18:36</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€111,55"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€51,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C4 D10</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582704">
+  <general>
+   <startdate>2022-08-14 18:18:44</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€2,50" chips="€111,30"/>
+    <player seat="3" name="LazyKoala" win="€4,85" dealer="1" bet="€5,93" chips="€52,09"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C4 CK</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 SA H8</cards>
+   <action sum="€1,25" no="5" player="13373678" type="5"/>
+   <action sum="€4,68" no="6" player="LazyKoala" type="23"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582742">
+  <general>
+   <startdate>2022-08-14 18:19:10</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€108,80"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€54,44"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S5 C4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582752">
+  <general>
+   <startdate>2022-08-14 18:19:15</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€108,55"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€54,69"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">CQ S6</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S9 SK</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582772">
+  <general>
+   <startdate>2022-08-14 18:19:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€107,30"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€55,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C2 H6</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582781">
+  <general>
+   <startdate>2022-08-14 18:19:34</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€107,05"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€56,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 H7</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582788">
+  <general>
+   <startdate>2022-08-14 18:19:39</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€107,30"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€55,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 S8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582801">
+  <general>
+   <startdate>2022-08-14 18:19:46</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€107,05"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€56,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S4 C6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702582816">
+  <general>
+   <startdate>2022-08-14 18:19:52</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€7,76" dealer="1" bet="€4" chips="€106,55"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€4" chips="€56,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 DJ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">H7 H8</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€2,75" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ HQ CA</cards>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action sum="€0" no="8" player="LazyKoala" type="4"/>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action sum="€0" no="10" player="LazyKoala" type="4"/>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702583435">
+  <general>
+   <startdate>2022-08-14 18:20:16</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€110,31"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€52,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 D3</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583442">
+  <general>
+   <startdate>2022-08-14 18:20:21</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€110,56"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€52,37"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C3 HQ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583455">
+  <general>
+   <startdate>2022-08-14 18:20:27</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€110,31"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€52,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H6 H8</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583462">
+  <general>
+   <startdate>2022-08-14 18:20:32</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€110,56"/>
+    <player seat="3" name="LazyKoala" win="€2,50" dealer="0" bet="€4" chips="€52,37"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 H2</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="LazyKoala" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583481">
+  <general>
+   <startdate>2022-08-14 18:20:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€9,64" dealer="0" bet="€8,25" chips="€109,31"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€4,97" chips="€53,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C6 CA</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CJ C7</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€3,72" no="7" player="13373678" type="23"/>
+   <action sum="€2,90" no="8" player="LazyKoala" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€3,28" no="9" player="13373678" type="5"/>
+   <action sum="€0" no="10" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583522">
+  <general>
+   <startdate>2022-08-14 18:21:15</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€113,98"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C10 D4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583533">
+  <general>
+   <startdate>2022-08-14 18:21:20</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€113,73"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 DQ</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583543">
+  <general>
+   <startdate>2022-08-14 18:21:27</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€113,98"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">SQ H3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583553">
+  <general>
+   <startdate>2022-08-14 18:21:38</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€113,73"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H5 SJ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583574">
+  <general>
+   <startdate>2022-08-14 18:21:47</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€113,23"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H8 D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583584">
+  <general>
+   <startdate>2022-08-14 18:21:52</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€112,98"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK D7</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583595">
+  <general>
+   <startdate>2022-08-14 18:21:59</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€113,23"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S7 D2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583605">
+  <general>
+   <startdate>2022-08-14 18:22:04</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€15,13" dealer="0" bet="€7,80" chips="€112,98"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€7,80" chips="€51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">C5 DQ</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H5 DA</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C2 C10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="LazyKoala" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€1,87" no="8" player="LazyKoala" type="5"/>
+   <action sum="€1,87" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€4,68" no="11" player="LazyKoala" type="5"/>
+   <action sum="€4,68" no="12" player="13373678" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702583673">
+  <general>
+   <startdate>2022-08-14 18:22:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€120,31"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D4 S8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583693">
+  <general>
+   <startdate>2022-08-14 18:23:00</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€120,06"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 C6</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583699">
+  <general>
+   <startdate>2022-08-14 18:23:06</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€120,31"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D3 C5</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583710">
+  <general>
+   <startdate>2022-08-14 18:23:11</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€120,06"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H7 D8</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D5 C10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702583740">
+  <general>
+   <startdate>2022-08-14 18:23:28</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€118,81"/>
+    <player seat="3" name="LazyKoala" win="€2,50" dealer="0" bet="€5" chips="€51,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK H2</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€5" no="4" player="LazyKoala" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584723">
+  <general>
+   <startdate>2022-08-14 18:23:39</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€117,56"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€52,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 C10</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584728">
+  <general>
+   <startdate>2022-08-14 18:23:45</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€117,81"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€52,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 H8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584741">
+  <general>
+   <startdate>2022-08-14 18:23:50</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€117,56"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€52,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 C6</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584752">
+  <general>
+   <startdate>2022-08-14 18:23:55</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€117,81"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€52,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ SQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584764">
+  <general>
+   <startdate>2022-08-14 18:24:05</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€118,31"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€3,12" chips="€51,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">DA S3</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 CJ H9</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,87" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702584970">
+  <general>
+   <startdate>2022-08-14 18:24:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,43" dealer="1" bet="€2,07" chips="€117,06"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€1,25" chips="€53,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK C4</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0,75" no="4" player="LazyKoala" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 D6 CA</cards>
+   <action sum="€0" no="5" player="LazyKoala" type="4"/>
+   <action sum="€0,82" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585002">
+  <general>
+   <startdate>2022-08-14 18:24:51</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€2,50" dealer="0" bet="€5" chips="€118,24"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€1,25" chips="€51,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H8 H10</cards>
+   <action sum="€5" no="4" player="13373678" type="23"/>
+   <action sum="€0" no="5" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585023">
+  <general>
+   <startdate>2022-08-14 18:25:08</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€119,49"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€50,61"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ C6</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585033">
+  <general>
+   <startdate>2022-08-14 18:25:15</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€119,99"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="1" bet="€1,25" chips="€50,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S2 H6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585051">
+  <general>
+   <startdate>2022-08-14 18:25:24</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€119,49"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50,61"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D6 S10</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585061">
+  <general>
+   <startdate>2022-08-14 18:25:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€119,24"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€50,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 HJ</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585067">
+  <general>
+   <startdate>2022-08-14 18:25:36</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€1,25" chips="€119,49"/>
+    <player seat="3" name="LazyKoala" win="€2,50" dealer="0" bet="€5" chips="€50,61"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 H7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€5" no="4" player="LazyKoala" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585093">
+  <general>
+   <startdate>2022-08-14 18:25:49</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€14,05" dealer="0" bet="€7,24" chips="€118,24"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€7,24" chips="€51,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">DA SK</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">S4 S8</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S7 S10</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="LazyKoala" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€5,17" no="10" player="13373678" type="5"/>
+   <action sum="€5,17" no="11" player="LazyKoala" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702585141">
+  <general>
+   <startdate>2022-08-14 18:26:17</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€125,05"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C5 SJ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585156">
+  <general>
+   <startdate>2022-08-14 18:26:24</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€124,80"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0,25" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 DA</cards>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585166">
+  <general>
+   <startdate>2022-08-14 18:26:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="1" bet="€1,25" chips="€125,05"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="0" bet="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA C7</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585178">
+  <general>
+   <startdate>2022-08-14 18:26:36</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€125,55"/>
+    <player seat="3" name="LazyKoala" win="€2,43" dealer="1" bet="€2,07" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">H4 HK</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 CQ D6</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585211">
+  <general>
+   <startdate>2022-08-14 18:26:57</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0,25" chips="€124,30"/>
+    <player seat="3" name="LazyKoala" win="€0,50" dealer="0" bet="€0,50" chips="€51,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="LazyKoala" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H2 C3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585220">
+  <general>
+   <startdate>2022-08-14 18:27:02</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€10,03" dealer="0" bet="€5,17" chips="€124,05"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€5,17" chips="€51,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">DA D3</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="13373678" type="Pocket">C7 SA</cards>
+   <action sum="€0,75" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D10 D7</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0,82" no="6" player="LazyKoala" type="5"/>
+   <action sum="€0,82" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€3,10" no="9" player="LazyKoala" type="5"/>
+   <action sum="€3,10" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€0" no="12" player="LazyKoala" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702585274">
+  <general>
+   <startdate>2022-08-14 18:27:33</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0" chips="€128,91"/>
+    <player seat="3" name="LazyKoala" win="€1" dealer="0" bet="€1,50" chips="€50"/>
+    <player seat="5" name="Michi77" win="€0" dealer="0" bet="€0,50" chips="€20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="LazyKoala" type="1"/>
+   <action sum="€0,50" no="2" player="Michi77" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 H6</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="LazyKoala" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Michi77" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585284">
+  <general>
+   <startdate>2022-08-14 18:27:43</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0" chips="€128,91"/>
+    <player seat="3" name="LazyKoala" win="€0" dealer="1" bet="€0" chips="€50,50"/>
+    <player seat="5" name="Michi77" win="€0" dealer="0" bet="€0,25" chips="€19,50"/>
+    <player seat="6" name="CallOnMe" win="€0,50" dealer="0" bet="€0,50" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Michi77" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S9 D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="LazyKoala" type="0"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Michi77" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585307">
+  <general>
+   <startdate>2022-08-14 18:27:54</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,25" chips="€128,91"/>
+    <player seat="3" name="LazyKoala" win="€2,67" dealer="0" bet="€3,31" chips="€50,50"/>
+    <player seat="5" name="Michi77" win="€0" dealer="1" bet="€0" chips="€19,25"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€0,25" chips="€62,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="LazyKoala" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="CallOnMe" type="0"/>
+   <cards player="13373678" type="Pocket">CA HQ</cards>
+   <action sum="€0,75" no="6" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S7 S10</cards>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+   <action sum="€2,06" no="8" player="LazyKoala" type="5"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585336">
+  <general>
+   <startdate>2022-08-14 18:28:11</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,25" chips="€127,66"/>
+    <player seat="5" name="Michi77" win="€0,50" dealer="0" bet="€0,50" chips="€19,25"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="1" bet="€0" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Michi77" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CallOnMe" type="0"/>
+   <cards player="13373678" type="Pocket">H2 C7</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585350">
+  <general>
+   <startdate>2022-08-14 18:28:19</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1,25" dealer="1" bet="€1,25" chips="€127,41"/>
+    <player seat="5" name="Michi77" win="€0" dealer="0" bet="€0,25" chips="€19,50"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€0,50" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Michi77" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK C4</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="CallOnMe" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585370">
+  <general>
+   <startdate>2022-08-14 18:28:33</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€128,16"/>
+    <player seat="5" name="Michi77" win="€0" dealer="1" bet="€0" chips="€19,25"/>
+    <player seat="6" name="CallOnMe" win="€1" dealer="0" bet="€1,50" chips="€62,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="CallOnMe" type="23"/>
+   <cards player="13373678" type="Pocket">D9 C6</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585404">
+  <general>
+   <startdate>2022-08-14 18:28:51</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1" dealer="0" bet="€1,50" chips="€127,66"/>
+    <player seat="5" name="Michi77" win="€0" dealer="0" bet="€0,50" chips="€19,25"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="1" bet="€0" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Michi77" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CallOnMe" type="0"/>
+   <cards player="13373678" type="Pocket">S6 DA</cards>
+   <action sum="€1,50" no="4" player="13373678" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Michi77" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585446">
+  <general>
+   <startdate>2022-08-14 18:29:13</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€1,25" dealer="1" bet="€1,25" chips="€128,16"/>
+    <player seat="5" name="Michi77" win="€0" dealer="0" bet="€0,25" chips="€18,75"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€0,50" chips="€62,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Michi77" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 S8</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="CallOnMe" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585465">
+  <general>
+   <startdate>2022-08-14 18:29:26</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0,50" dealer="0" bet="€0,50" chips="€128,91"/>
+    <player seat="5" name="Michi77" win="€0" dealer="1" bet="€0" chips="€18,50"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€0,25" chips="€62,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ DQ</cards>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="CallOnMe" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585481">
+  <general>
+   <startdate>2022-08-14 18:29:33</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1,50" chips="€129,16"/>
+    <player seat="5" name="Michi77" win="€2,91" dealer="0" bet="€3" chips="€18,50"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="1" bet="€0" chips="€61,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Michi77" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CallOnMe" type="0"/>
+   <cards player="13373678" type="Pocket">C3 C4</cards>
+   <action sum="€1,50" no="4" player="13373678" type="23"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€1" no="5" player="Michi77" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S10 S4</cards>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+   <action sum="€0" no="7" player="Michi77" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€1,50" no="9" player="Michi77" type="5"/>
+   <action sum="€0" no="10" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585860">
+  <general>
+   <startdate>2022-08-14 18:30:08</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="1" bet="€0" chips="€127,66"/>
+    <player seat="5" name="Michi77" win="€0,97" dealer="0" bet="€1,20" chips="€19,91"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€0,50" chips="€61,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Michi77" type="1"/>
+   <action sum="€0,50" no="2" player="CallOnMe" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ C4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0,25" no="4" player="Michi77" type="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="CallOnMe" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S6 DK</cards>
+   <action sum="€0" no="6" player="Michi77" type="4"/>
+   <action sum="€0" no="7" player="CallOnMe" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0,70" no="8" player="Michi77" type="5"/>
+   <action sum="€0" no="9" player="CallOnMe" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702585903">
+  <general>
+   <startdate>2022-08-14 18:30:30</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€11,64" dealer="0" bet="€14,43" chips="€127,66"/>
+    <player seat="6" name="CallOnMe" win="€0" dealer="0" bet="€6" chips="€61,31"/>
+    <player seat="5" name="Michi77" win="€0" dealer="1" bet="€0" chips="€20,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CallOnMe" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Michi77" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Michi77" type="0"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="CallOnMe" type="23"/>
+   <cards player="13373678" type="Pocket">H6 D6</cards>
+   <action sum="€1" no="5" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D2 HK</cards>
+   <action sum="€0" no="6" player="CallOnMe" type="4"/>
+   <action sum="€2,25" no="7" player="13373678" type="5"/>
+   <action sum="€2,25" no="8" player="CallOnMe" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0" no="9" player="CallOnMe" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€2,25" no="11" player="CallOnMe" type="5"/>
+   <action sum="€10,68" no="12" player="13373678" type="23"/>
+   <action sum="€0" no="13" player="CallOnMe" type="0"/>
+  </round>
+ </game>
+</session>

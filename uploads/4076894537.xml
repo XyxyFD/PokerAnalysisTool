@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076894537">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:41</duration>
+  <gamecount>8</gamecount>
+  <startdate>2022-06-15 14:33:01</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€10,07</bets>
+  <wins>€3,44</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€49,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688342978">
+  <general>
+   <startdate>2022-06-15 14:33:01</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" dealer="0" name="13373678" chips="€50"/>
+    <player bet="€0,25" seat="6" win="€0" dealer="1" name="TopDonkey" chips="€51,66"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="TopDonkey"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA HJ</cards>
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="3" sum="€0" type="0" player="TopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3688343843">
+  <general>
+   <startdate>2022-06-15 14:33:07</startdate>
+   <players>
+    <player bet="€2,32" seat="1" win="€1,94" dealer="1" name="13373678" chips="€50,25"/>
+    <player bet="€1" seat="6" win="€0" dealer="0" name="TopDonkey" chips="€51,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="TopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 DJ</cards>
+   <action no="3" sum="€1" type="23" player="13373678"/>
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="4" sum="€0,50" type="3" player="TopDonkey"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 D2 C4</cards>
+   <action no="5" sum="€0" type="4" player="TopDonkey"/>
+   <action no="6" sum="€1,32" type="5" player="13373678"/>
+   <action no="7" sum="€0" type="0" player="TopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3688343917">
+  <general>
+   <startdate>2022-06-15 14:33:55</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€0" dealer="0" name="13373678" chips="€51,19"/>
+    <player bet="€3,50" seat="6" win="€2,91" dealer="1" name="TopDonkey" chips="€50,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="TopDonkey"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="3" sum="€1,50" type="23" player="TopDonkey"/>
+   <cards type="Pocket" player="13373678">D7 H6</cards>
+   <action no="4" sum="€1" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ HA C3</cards>
+   <action no="5" sum="€0" type="4" player="13373678"/>
+   <action no="6" sum="€2" type="5" player="TopDonkey"/>
+   <action no="7" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3688343946">
+  <general>
+   <startdate>2022-06-15 14:34:18</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" dealer="1" name="13373678" chips="€50"/>
+    <player bet="€0,50" seat="6" win="€0,50" dealer="0" name="TopDonkey" chips="€51,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="TopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <cards type="Pocket" player="13373678">C3 S7</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3688343952">
+  <general>
+   <startdate>2022-06-15 14:34:23</startdate>
+   <players>
+    <player bet="€3,50" seat="1" win="€0" dealer="0" name="13373678" chips="€50"/>
+    <player bet="€9,03" seat="6" win="€6,79" dealer="1" name="TopDonkey" chips="€52,07"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="TopDonkey"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="3" sum="€1,50" type="23" player="TopDonkey"/>
+   <cards type="Pocket" player="13373678">CQ S10</cards>
+   <action no="4" sum="€1" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S9 CK</cards>
+   <action no="5" sum="€0" type="4" player="13373678"/>
+   <action no="6" sum="€2" type="5" player="TopDonkey"/>
+   <action no="7" sum="€2" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="8" sum="€0" type="4" player="13373678"/>
+   <action no="9" sum="€5,53" type="5" player="TopDonkey"/>
+   <action no="10" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3688344008">
+  <general>
+   <startdate>2022-06-15 14:35:01</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1" dealer="1" name="13373678" chips="€50"/>
+    <player bet="€0,50" seat="6" win="€0" dealer="0" name="TopDonkey" chips="€55,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="TopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 SA</cards>
+   <action no="3" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="4" sum="€0" type="0" player="TopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3688344041">
+  <general>
+   <startdate>2022-06-15 14:35:20</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" dealer="0" name="13373678" chips="€50,50"/>
+    <player bet="€1,50" seat="6" win="€1" dealer="1" name="TopDonkey" chips="€54,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="TopDonkey"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <action no="3" sum="€1,50" type="23" player="TopDonkey"/>
+   <cards type="Pocket" player="13373678">C5 D9</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3688344060">
+  <general>
+   <startdate>2022-06-15 14:35:36</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" dealer="1" name="13373678" chips="€50"/>
+    <player bet="€0,50" seat="6" win="€0,50" dealer="0" name="TopDonkey" chips="€55,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="TopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TopDonkey">X X</cards>
+   <cards type="Pocket" player="13373678">D4 S9</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+</session>

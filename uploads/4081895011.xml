@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081895011">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:34</duration>
+  <gamecount>4</gamecount>
+  <startdate>2022-08-25 12:26:10</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€9,50</bets>
+  <wins>€13,63</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€55,38</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3705152998">
+  <general>
+   <startdate>2022-08-25 12:26:10</startdate>
+   <players>
+    <player seat="1" chips="€50" dealer="0" name="13373678" bet="€0,50" win="€0,50"/>
+    <player seat="10" chips="€50" dealer="1" name="KrismesLars" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="KrismesLars" type="1" no="1"/>
+   <action sum="€0,50" player="13373678" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 H8</cards>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" player="KrismesLars" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3705157986">
+  <general>
+   <startdate>2022-08-25 12:26:18</startdate>
+   <players>
+    <player seat="1" chips="€50,25" dealer="1" name="13373678" bet="€6,25" win="€12,13"/>
+    <player seat="10" chips="€50" dealer="0" name="KrismesLars" bet="€6,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" type="1" no="1"/>
+   <action sum="€0,50" player="KrismesLars" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 SK</cards>
+   <action sum="€1,25" player="13373678" type="23" no="3"/>
+   <cards player="KrismesLars" type="Pocket">S6 C7</cards>
+   <action sum="€0,75" player="KrismesLars" type="3" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C9 S7</cards>
+   <action sum="€0" player="KrismesLars" type="4" no="5"/>
+   <action sum="€1,25" player="13373678" type="5" no="6"/>
+   <action sum="€1,25" player="KrismesLars" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€0" player="KrismesLars" type="4" no="8"/>
+   <action sum="€0" player="13373678" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" player="KrismesLars" type="4" no="10"/>
+   <action sum="€3,75" player="13373678" type="5" no="11"/>
+   <action sum="€3,75" player="KrismesLars" type="3" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3705158246">
+  <general>
+   <startdate>2022-08-25 12:27:33</startdate>
+   <players>
+    <player seat="1" chips="€56,13" dealer="0" name="13373678" bet="€1,50" win="€1"/>
+    <player seat="3" chips="€50" dealer="0" name="H00KED" bet="€0,50" win="€0"/>
+    <player seat="10" chips="€50" dealer="1" name="KrismesLars" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" type="1" no="1"/>
+   <action sum="€0,50" player="H00KED" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" player="KrismesLars" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">SK S8</cards>
+   <action sum="€1,50" player="13373678" type="23" no="4"/>
+   <cards player="H00KED" type="Pocket">X X</cards>
+   <action sum="€0" player="H00KED" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3705158290">
+  <general>
+   <startdate>2022-08-25 12:27:59</startdate>
+   <players>
+    <player seat="1" chips="€56,63" dealer="0" name="13373678" bet="€1,25" win="€0"/>
+    <player seat="3" chips="€50" dealer="1" name="H00KED" bet="€2,90" win="€2,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="H00KED" type="1" no="1"/>
+   <action sum="€0,50" player="13373678" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="H00KED" type="Pocket">X X</cards>
+   <action sum="€1,25" player="H00KED" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H5 DK</cards>
+   <action sum="€0,75" player="13373678" type="3" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S10 S6</cards>
+   <action sum="€0" player="13373678" type="4" no="5"/>
+   <action sum="€1,65" player="H00KED" type="5" no="6"/>
+   <action sum="€0" player="13373678" type="0" no="7"/>
+  </round>
+ </game>
+</session>

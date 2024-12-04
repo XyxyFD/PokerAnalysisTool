@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076778499">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:22</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-06-13 17:03:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€3,50</bets>
+  <wins>€0</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€97,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687935827">
+  <general>
+   <startdate>2022-06-13 17:03:29</startdate>
+   <players>
+    <player win="€2" seat="1" dealer="1" bet="€3" name="DopeGame" chips="€100"/>
+    <player win="€0" seat="3" dealer="0" bet="€1" name="13373678" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="DopeGame" no="1" sum="€0,50"/>
+   <action type="2" player="13373678" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DopeGame">X X</cards>
+   <action type="23" player="DopeGame" no="3" sum="€3"/>
+   <cards type="Pocket" player="13373678">D6 S9</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687935846">
+  <general>
+   <startdate>2022-06-13 17:03:41</startdate>
+   <players>
+    <player win="€5" seat="1" dealer="0" bet="€10" name="DopeGame" chips="€101"/>
+    <player win="€0" seat="3" dealer="1" bet="€2,50" name="13373678" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,50"/>
+   <action type="2" player="DopeGame" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 C8</cards>
+   <action type="23" player="13373678" no="3" sum="€2,50"/>
+   <cards type="Pocket" player="DopeGame">X X</cards>
+   <action type="23" player="DopeGame" no="4" sum="€10"/>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+</session>

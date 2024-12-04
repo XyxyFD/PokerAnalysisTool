@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081428963">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:24</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-18 18:51:24</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,07</bets>
+  <wins>€2,43</wins>
+  <chipsin>€51,18</chipsin>
+  <chipsout>€51,18</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3703545349">
+  <general>
+   <startdate>2022-08-18 18:51:24</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" seat="1" bet="€2,07" win="€2,43"/>
+    <player name="VallonDarby" chips="€50" dealer="0" seat="3" bet="€1,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="VallonDarby" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK DK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ D7 CJ</cards>
+   <action player="VallonDarby" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€0,82"/>
+   <action player="VallonDarby" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+</session>

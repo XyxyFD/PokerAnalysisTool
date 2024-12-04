@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4148198904">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:11:15</duration>
+  <gamecount>19</gamecount>
+  <startdate>2024-09-01 19:05:45</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€17,10</bets>
+  <wins>€15,04</wins>
+  <chipsin>€48,50</chipsin>
+  <chipsout>€55,44</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3924668759">
+  <general>
+   <startdate>2024-09-01 19:05:45</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€90,03" win="€0" name="Player 1" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,52" win="€0" name="Player 6" dealer="0"/>
+    <player bet="€1,25" seat="8" chips="€50" win="€0" name="Player 8" dealer="1"/>
+    <player bet="€3" seat="10" chips="€74,47" win="€3" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" sum="€0,25" type="1" no="1"/>
+   <action player="Player 1" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" type="0" no="3"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€1,25" type="23" no="4"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€3" type="23" no="5"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" type="0" no="6"/>
+   <action player="Player 8" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924668793">
+  <general>
+   <startdate>2024-09-01 19:06:01</startdate>
+   <players>
+    <player bet="€4,50" seat="1" chips="€89,53" win="€2,91" name="4996057385" dealer="0"/>
+    <player bet="€1,50" seat="3" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,52" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€76,22" win="€0" name="GotUBeatB4River" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="4996057385" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="3"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="4"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="5"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0,25" type="3" no="6"/>
+   <cards player="13373678" type="Pocket">DK H2</cards>
+   <action player="13373678" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CK DJ</cards>
+   <action player="4996057385" sum="€0" type="4" no="8"/>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="4996057385" sum="€1" type="5" no="10"/>
+   <action player="13373678" sum="€1" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action player="4996057385" sum="€3" type="5" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3924669393">
+  <general>
+   <startdate>2024-09-01 19:07:00</startdate>
+   <players>
+    <player bet="€1,37" seat="1" chips="€90,94" win="€3,39" name="4996057385" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€1,37" seat="6" chips="€50,52" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€76,22" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="13326339" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bonarparti" type="Pocket">H9 HJ</cards>
+   <action player="Bonarparti" sum="€0,50" type="3" no="3"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="4"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="5"/>
+   <cards player="4996057385" type="Pocket">H3 DA</cards>
+   <action player="4996057385" sum="€0,50" type="3" no="6"/>
+   <cards player="13373678" type="Pocket">C7 H10</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C4 HA</cards>
+   <action player="13326339" sum="€0" type="4" no="9"/>
+   <action player="Bonarparti" sum="€0,87" type="5" no="10"/>
+   <action player="4996057385" sum="€0,87" type="3" no="11"/>
+   <action player="13326339" sum="€0" type="0" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="Bonarparti" sum="€0" type="4" no="13"/>
+   <action player="4996057385" sum="€0" type="4" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action player="Bonarparti" sum="€0" type="4" no="15"/>
+   <action player="4996057385" sum="€0" type="4" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3924669628">
+  <general>
+   <startdate>2024-09-01 19:08:28</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€49,50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€1,50" seat="10" chips="€76,22" win="€1,25" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13326339" sum="€0,25" type="1" no="1"/>
+   <action player="Bonarparti" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="3"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€1,50" type="23" no="4"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">D3 SA</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="7"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924669677">
+  <general>
+   <startdate>2024-09-01 19:08:47</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€1,25" seat="3" chips="€50" win="€1,25" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€49,25" win="€0" name="13326339" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€76,97" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bonarparti" sum="€0,25" type="1" no="1"/>
+   <action player="BigNitEnergy" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="3"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">DA CJ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="5"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="6"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="7"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924670695">
+  <general>
+   <startdate>2024-09-01 19:09:08</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€49,25" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€76,97" win="€0,50" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BigNitEnergy" sum="€0,25" type="1" no="1"/>
+   <action player="GotUBeatB4River" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C10 D3</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="5"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="6"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924670748">
+  <general>
+   <startdate>2024-09-01 19:09:28</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€92,96" win="€0,50" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€49,25" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="1"/>
+    <player bet="€0,25" seat="10" chips="€77,22" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GotUBeatB4River" sum="€0,25" type="1" no="1"/>
+   <action player="4996057385" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H9 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="4"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="5"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="6"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924670829">
+  <general>
+   <startdate>2024-09-01 19:09:55</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€93,21" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€50,75" win="€0,50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€49,25" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€76,97" win="€0" name="GotUBeatB4River" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="4996057385" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 H2</cards>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="3"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="4"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="5"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="6"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924671196">
+  <general>
+   <startdate>2024-09-01 19:10:23</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€51" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€49,25" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€4,10" seat="8" chips="€50" win="€2,87" name="BigNitEnergy" dealer="0"/>
+    <player bet="€1,10" seat="10" chips="€76,97" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="13326339" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="3"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€1,10" type="23" no="4"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€1,10" type="3" no="5"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">D6 S3</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 DJ D2</cards>
+   <action player="BigNitEnergy" sum="€0" type="4" no="9"/>
+   <action player="GotUBeatB4River" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="BigNitEnergy" sum="€3" type="5" no="11"/>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3924671319">
+  <general>
+   <startdate>2024-09-01 19:11:12</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€48,75" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€1,10" seat="8" chips="€51,77" win="€1,25" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13326339" sum="€0,25" type="1" no="1"/>
+   <action player="Bonarparti" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€1,10" type="23" no="3"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="4"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">C5 S9</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="7"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924671339">
+  <general>
+   <startdate>2024-09-01 19:11:24</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€48,50" win="€0" name="13326339" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€52,52" win="€0,50" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bonarparti" sum="€0,25" type="1" no="1"/>
+   <action player="BigNitEnergy" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="3"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D2 S6</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="6"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924671389">
+  <general>
+   <startdate>2024-09-01 19:11:41</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€48,50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Bonarparti" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€52,77" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€75,87" win="€0,50" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BigNitEnergy" sum="€0,25" type="1" no="1"/>
+   <action player="GotUBeatB4River" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D8 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="5"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="6"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924671467">
+  <general>
+   <startdate>2024-09-01 19:12:11</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€92,96" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€48,50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€1,25" seat="6" chips="€50" win="€1,25" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€52,52" win="€0" name="BigNitEnergy" dealer="1"/>
+    <player bet="€0,25" seat="10" chips="€76,12" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GotUBeatB4River" sum="€0,25" type="1" no="1"/>
+   <action player="4996057385" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 CA</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="4"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€1,25" type="23" no="5"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="6"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="7"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924672749">
+  <general>
+   <startdate>2024-09-01 19:12:30</startdate>
+   <players>
+    <player bet="€10,90" seat="1" chips="€92,46" win="€10,67" name="4996057385" dealer="0"/>
+    <player bet="€5,50" seat="3" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€48,50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,75" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€52,52" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="4996057385" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="3"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="4"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="5"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="6"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0,25" type="3" no="7"/>
+   <cards player="13373678" type="Pocket">SK HA</cards>
+   <action player="13373678" sum="€2,50" type="23" no="8"/>
+   <action player="4996057385" sum="€2" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C10 H8</cards>
+   <action player="4996057385" sum="€0" type="4" no="10"/>
+   <action player="13373678" sum="€3" type="5" no="11"/>
+   <action player="4996057385" sum="€8,40" type="23" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3924672901">
+  <general>
+   <startdate>2024-09-01 19:13:28</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€97,63" win="€0" name="4996057385" dealer="1"/>
+    <player bet="€6,85" seat="3" chips="€50" win="€13,29" name="13373678" dealer="0"/>
+    <player bet="€6,85" seat="5" chips="€48,50" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,75" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€52,52" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="13326339" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="3"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="4"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="5"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">DA C5</cards>
+   <action player="13373678" sum="€1,50" type="23" no="7"/>
+   <cards player="13326339" type="Pocket">H2 H10</cards>
+   <action player="13326339" sum="€1" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ HA D3</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="13326339" sum="€0,99" type="5" no="10"/>
+   <action player="13373678" sum="€0,99" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+   <action player="13326339" sum="€1,64" type="5" no="13"/>
+   <action player="13373678" sum="€1,64" type="3" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="13373678" sum="€0" type="4" no="15"/>
+   <action player="13326339" sum="€2,72" type="5" no="16"/>
+   <action player="13373678" sum="€2,72" type="3" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3924673087">
+  <general>
+   <startdate>2024-09-01 19:14:41</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€97,63" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€56,44" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€41,65" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50,75" win="€0,50" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€52,52" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13326339" sum="€0,25" type="1" no="1"/>
+   <action player="Bonarparti" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="3"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="4"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H7 S9</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924673126">
+  <general>
+   <startdate>2024-09-01 19:14:55</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€97,63" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€56,44" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€41,40" win="€0" name="13326339" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€51" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€52,52" win="€0,50" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bonarparti" sum="€0,25" type="1" no="1"/>
+   <action player="BigNitEnergy" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="3"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S7 C8</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€0" type="0" no="6"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924673188">
+  <general>
+   <startdate>2024-09-01 19:15:20</startdate>
+   <players>
+    <player bet="€8,70" seat="1" chips="€97,63" win="€8" name="4996057385" dealer="0"/>
+    <player bet="€0" seat="3" chips="€56,44" win="€0" name="13373678" dealer="0"/>
+    <player bet="€3,75" seat="5" chips="€41,40" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,75" win="€0" name="Bonarparti" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€52,77" win="€0" name="BigNitEnergy" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€75,87" win="€0" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BigNitEnergy" sum="€0,25" type="1" no="1"/>
+   <action player="GotUBeatB4River" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H7 CK</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="13326339" type="Pocket">X X</cards>
+   <action player="13326339" sum="€1,50" type="3" no="5"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="6"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="7"/>
+   <cards player="GotUBeatB4River" type="Pocket">X X</cards>
+   <action player="GotUBeatB4River" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 D3 D7</cards>
+   <action player="4996057385" sum="€2,25" type="5" no="9"/>
+   <action player="13326339" sum="€2,25" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="4996057385" sum="€4,95" type="5" no="11"/>
+   <action player="13326339" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3924673312">
+  <general>
+   <startdate>2024-09-01 19:16:09</startdate>
+   <players>
+    <player bet="€1" seat="1" chips="€101,88" win="€0" name="4996057385" dealer="0"/>
+    <player bet="€1" seat="3" chips="€56,44" win="€0" name="13373678" dealer="0"/>
+    <player bet="€16,50" seat="5" chips="€37,65" win="€0" name="13326339" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50,75" win="€0" name="Bonarparti" dealer="0"/>
+    <player bet="€0" seat="8" chips="€52,52" win="€0" name="BigNitEnergy" dealer="1"/>
+    <player bet="€16,50" seat="10" chips="€75,37" win="€33,94" name="GotUBeatB4River" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GotUBeatB4River" sum="€0,25" type="1" no="1"/>
+   <action player="4996057385" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ HA</cards>
+   <action player="13373678" sum="€1" type="23" no="3"/>
+   <cards player="13326339" type="Pocket">S5 S6</cards>
+   <action player="13326339" sum="€1" type="3" no="4"/>
+   <cards player="Bonarparti" type="Pocket">X X</cards>
+   <action player="Bonarparti" sum="€0" type="0" no="5"/>
+   <cards player="BigNitEnergy" type="Pocket">X X</cards>
+   <action player="BigNitEnergy" sum="€0" type="0" no="6"/>
+   <cards player="GotUBeatB4River" type="Pocket">HJ DA</cards>
+   <action player="GotUBeatB4River" sum="€0,75" type="3" no="7"/>
+   <cards player="4996057385" type="Pocket">X X</cards>
+   <action player="4996057385" sum="€0,50" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D7 D4</cards>
+   <action player="GotUBeatB4River" sum="€2" type="5" no="9"/>
+   <action player="4996057385" sum="€0" type="0" no="10"/>
+   <action player="13373678" sum="€0" type="0" no="11"/>
+   <action player="13326339" sum="€2" type="3" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="GotUBeatB4River" sum="€4" type="5" no="13"/>
+   <action player="13326339" sum="€4" type="3" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="GotUBeatB4River" sum="€9,50" type="5" no="15"/>
+   <action player="13326339" sum="€9,50" type="3" no="16"/>
+  </round>
+ </game>
+</session>

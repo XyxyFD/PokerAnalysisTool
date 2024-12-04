@@ -1,0 +1,3706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4082393948">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 12, 488044423</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:56:20</duration>
+  <gamecount>141</gamecount>
+  <startdate>2022-09-01 17:06:40</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€431,88</bets>
+  <wins>€182,95</wins>
+  <chipsin>€50,50</chipsin>
+  <chipsout>€63,67</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3706863389">
+  <general>
+   <startdate>2022-09-01 17:06:40</startdate>
+   <players>
+    <player name="Player 1" seat="1" chips="€20,64" win="€0" dealer="1" bet="€0,25"/>
+    <player name="Player 5" seat="5" chips="€62,20" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Player 1" no="1" sum="€0,25"/>
+   <action type="2" player="Player 5" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="0" player="Player 1" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863403">
+  <general>
+   <startdate>2022-09-01 17:06:46</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,39" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€50" win="€1" dealer="0" bet="€2"/>
+    <player name="PopDonkey" seat="5" chips="€62,45" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="0" player="PopDonkey" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">D8 C8</cards>
+   <action type="23" player="13373678" no="5" sum="€2"/>
+   <action type="0" player="OldShatterhand" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863439">
+  <general>
+   <startdate>2022-09-01 17:07:00</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,89" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€50,50" win="€2,91" dealer="0" bet="€5,25"/>
+    <player name="PopDonkey" seat="5" chips="€62,45" win="€0" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="PopDonkey" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ SK</cards>
+   <action type="23" player="13373678" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="3" player="PopDonkey" no="5" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C9 C6</cards>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+   <action type="4" player="PopDonkey" no="7" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="5" player="13373678" no="8" sum="€3,75"/>
+   <action type="0" player="PopDonkey" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863488">
+  <general>
+   <startdate>2022-09-01 17:07:23</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,89" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€51,91" win="€0" dealer="1" bet="€0"/>
+    <player name="PopDonkey" seat="5" chips="€60,95" win="€0" dealer="0" bet="€5,50"/>
+    <player name="Juhkuli" seat="6" chips="€50" win="€10,67" dealer="0" bet="€12,60"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="PopDonkey" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 C7</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="23" player="PopDonkey" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="3" player="Juhkuli" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S9 CK</cards>
+   <action type="5" player="PopDonkey" no="7" sum="€2"/>
+   <action type="3" player="Juhkuli" no="8" sum="€2"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="5" player="PopDonkey" no="9" sum="€2"/>
+   <action type="23" player="Juhkuli" no="10" sum="€9,10"/>
+   <action type="0" player="PopDonkey" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863553">
+  <general>
+   <startdate>2022-09-01 17:07:55</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,89" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€51,91" win="€0" dealer="0" bet="€1,25"/>
+    <player name="PopDonkey" seat="5" chips="€55,45" win="€0" dealer="1" bet="€1,25"/>
+    <player name="Juhkuli" seat="6" chips="€55,17" win="€4,13" dealer="0" bet="€3,37"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 D6</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="3" player="PopDonkey" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="3" player="Juhkuli" no="5" sum="€1"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 S10 H5</cards>
+   <action type="5" player="Juhkuli" no="7" sum="€2,12"/>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+   <action type="0" player="PopDonkey" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863616">
+  <general>
+   <startdate>2022-09-01 17:08:26</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,39" win="€12,80" dealer="0" bet="€19,39"/>
+    <player name="13373678" seat="3" chips="€50,66" win="€0" dealer="0" bet="€0,50"/>
+    <player name="PopDonkey" seat="5" chips="€54,20" win="€0" dealer="0" bet="€0"/>
+    <player name="Juhkuli" seat="6" chips="€58,05" win="€0" dealer="1" bet="€6,35"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="0" player="PopDonkey" no="3" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="23" player="Juhkuli" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="5" sum="€2,50"/>
+   <cards type="Pocket" player="13373678">D10 CQ</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <action type="3" player="Juhkuli" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 H2 CJ</cards>
+   <action type="4" player="OldShatterhand" no="8" sum="€0"/>
+   <action type="5" player="Juhkuli" no="9" sum="€3,85"/>
+   <action type="3" player="OldShatterhand" no="10" sum="€3,85"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action type="5" player="OldShatterhand" no="11" sum="€13,04"/>
+   <action type="0" player="Juhkuli" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863704">
+  <general>
+   <startdate>2022-09-01 17:09:07</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€25,84" win="€1,22" dealer="1" bet="€25,84"/>
+    <player name="13373678" seat="3" chips="€50,16" win="€0" dealer="0" bet="€0,25"/>
+    <player name="PopDonkey" seat="5" chips="€54,20" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Juhkuli" seat="6" chips="€51,70" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="PopDonkey" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,50"/>
+   <cards type="Pocket" player="13373678">D5 D8</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="PopDonkey">X D3</cards>
+   <action type="4" player="PopDonkey" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C10 H5</cards>
+   <action type="4" player="PopDonkey" no="7" sum="€0"/>
+   <action type="4" player="OldShatterhand" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="4" player="PopDonkey" no="9" sum="€0"/>
+   <action type="4" player="OldShatterhand" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action type="4" player="PopDonkey" no="11" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="12" sum="€25,34"/>
+   <action type="0" player="PopDonkey" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863949">
+  <general>
+   <startdate>2022-09-01 17:09:43</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€26,56" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€50" win="€1,25" dealer="1" bet="€1,25"/>
+    <player name="Juhkuli" seat="6" chips="€51,70" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 H3</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="4" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863975">
+  <general>
+   <startdate>2022-09-01 17:09:53</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€26,06" win="€0" dealer="0" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€50,75" win="€16" dealer="0" bet="€19,87"/>
+    <player name="Juhkuli" seat="6" chips="€51,45" win="€0" dealer="1" bet="€7,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="23" player="Juhkuli" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">CQ DA</cards>
+   <action type="23" player="13373678" no="5" sum="€7,50"/>
+   <action type="3" player="Juhkuli" no="6" sum="€6"/>
+   <action type="0" player="OldShatterhand" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 C6 D3</cards>
+   <action type="5" player="13373678" no="8" sum="€12,37"/>
+   <action type="0" player="Juhkuli" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864059">
+  <general>
+   <startdate>2022-09-01 17:10:38</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€24,56" win="€1,25" dealer="1" bet="€1,25"/>
+    <player name="13373678" seat="3" chips="€59,25" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Juhkuli" seat="6" chips="€43,95" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">DK H5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864087">
+  <general>
+   <startdate>2022-09-01 17:10:53</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€25,31" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€59" win="€0" dealer="1" bet="€0"/>
+    <player name="Juhkuli" seat="6" chips="€43,45" win="€1" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S8 S2</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="23" player="Juhkuli" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864111">
+  <general>
+   <startdate>2022-09-01 17:11:03</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€24,81" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€59" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Juhkuli" seat="6" chips="€43,95" win="€1,25" dealer="1" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="23" player="Juhkuli" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">C3 DK</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864131">
+  <general>
+   <startdate>2022-09-01 17:11:14</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€24,56" win="€0" dealer="1" bet="€4,75"/>
+    <player name="13373678" seat="3" chips="€58,50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Juhkuli" seat="6" chips="€47,56" win="€9,46" dealer="0" bet="€11,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HK S3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="3" player="Juhkuli" no="5" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 H3 CJ</cards>
+   <action type="4" player="Juhkuli" no="6" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="7" sum="€3,25"/>
+   <action type="3" player="Juhkuli" no="8" sum="€3,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action type="5" player="Juhkuli" no="9" sum="€6,82"/>
+   <action type="0" player="OldShatterhand" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864213">
+  <general>
+   <startdate>2022-09-01 17:11:52</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,81" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€58,25" win="€0" dealer="1" bet="€0"/>
+    <player name="Juhkuli" seat="6" chips="€52,27" win="€1" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C7 C3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="23" player="Juhkuli" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864233">
+  <general>
+   <startdate>2022-09-01 17:12:03</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,31" win="€0" dealer="0" bet="€5"/>
+    <player name="13373678" seat="3" chips="€58,25" win="€9,70" dealer="0" bet="€12,50"/>
+    <player name="Juhkuli" seat="6" chips="€52,77" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">H6 SA</cards>
+   <action type="3" player="13373678" no="5" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA HK D3</cards>
+   <action type="5" player="OldShatterhand" no="6" sum="€1,25"/>
+   <action type="3" player="13373678" no="7" sum="€1,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action type="4" player="OldShatterhand" no="8" sum="€0"/>
+   <action type="5" player="13373678" no="9" sum="€2,50"/>
+   <action type="3" player="OldShatterhand" no="10" sum="€2,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action type="4" player="OldShatterhand" no="11" sum="€0"/>
+   <action type="5" player="13373678" no="12" sum="€7,50"/>
+   <action type="0" player="OldShatterhand" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706864330">
+  <general>
+   <startdate>2022-09-01 17:12:47</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,31" win="€28,24" dealer="1" bet="€14,31"/>
+    <player name="13373678" seat="3" chips="€62,95" win="€0" dealer="0" bet="€57,50"/>
+    <player name="Juhkuli" seat="6" chips="€52,77" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">CQ SQ</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HQ DA</cards>
+   <action type="23" player="13373678" no="4" sum="€3"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="5" sum="€0"/>
+   <action type="23" player="OldShatterhand" no="6" sum="€4,50"/>
+   <action type="23" player="13373678" no="7" sum="€57,50"/>
+   <action type="7" player="OldShatterhand" no="8" sum="€9,81"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D3 C4</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="3706865420">
+  <general>
+   <startdate>2022-09-01 17:13:14</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€28,24" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€50" win="€1,25" dealer="1" bet="€1,25"/>
+    <player name="Juhkuli" seat="6" chips="€52,27" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 C8</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="4" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865445">
+  <general>
+   <startdate>2022-09-01 17:13:27</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€27,74" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€50,75" win="€1" dealer="0" bet="€2"/>
+    <player name="Juhkuli" seat="6" chips="€52,02" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">C9 S9</cards>
+   <action type="23" player="13373678" no="5" sum="€2"/>
+   <action type="0" player="OldShatterhand" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865472">
+  <general>
+   <startdate>2022-09-01 17:13:40</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€27,24" win="€0" dealer="1" bet="€4"/>
+    <player name="13373678" seat="3" chips="€51,25" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Juhkuli" seat="6" chips="€52,02" win="€8" dealer="0" bet="€9,77"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">S8 CK</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="3" player="Juhkuli" no="5" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S3 S7</cards>
+   <action type="4" player="Juhkuli" no="6" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="7" sum="€2,75"/>
+   <action type="3" player="Juhkuli" no="8" sum="€2,75"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="5" player="Juhkuli" no="9" sum="€5,77"/>
+   <action type="0" player="OldShatterhand" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865523">
+  <general>
+   <startdate>2022-09-01 17:14:02</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€23,24" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€51" win="€0" dealer="1" bet="€0"/>
+    <player name="Juhkuli" seat="6" chips="€56,02" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">C4 S3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865555">
+  <general>
+   <startdate>2022-09-01 17:14:18</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€23,49" win="€0" dealer="0" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€51" win="€2,91" dealer="0" bet="€3,62"/>
+    <player name="Juhkuli" seat="6" chips="€55,77" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="4" sum="€1"/>
+   <cards type="Pocket" player="13373678">H6 C6</cards>
+   <action type="3" player="13373678" no="5" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 H2 H3</cards>
+   <action type="5" player="OldShatterhand" no="6" sum="€0,50"/>
+   <action type="23" player="13373678" no="7" sum="€2,62"/>
+   <action type="0" player="OldShatterhand" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865595">
+  <general>
+   <startdate>2022-09-01 17:14:34</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€21,99" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€52,41" win="€1" dealer="0" bet="€1,50"/>
+    <player name="Juhkuli" seat="6" chips="€55,77" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Juhkuli" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ HJ</cards>
+   <action type="23" player="13373678" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865625">
+  <general>
+   <startdate>2022-09-01 17:14:50</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€21,99" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€52,91" win="€0" dealer="1" bet="€0"/>
+    <player name="Juhkuli" seat="6" chips="€55,27" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Juhkuli" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">C5 H9</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865646">
+  <general>
+   <startdate>2022-09-01 17:15:01</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€22,24" win="€1" dealer="0" bet="€1,25"/>
+    <player name="13373678" seat="3" chips="€52,91" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Juhkuli" seat="6" chips="€55,02" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Juhkuli">X X</cards>
+   <action type="0" player="Juhkuli" no="3" sum="€0"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">H9 S4</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865667">
+  <general>
+   <startdate>2022-09-01 17:15:10</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€22,74" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€52,41" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ HA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865686">
+  <general>
+   <startdate>2022-09-01 17:15:21</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€22,24" win="€0" dealer="1" bet="€2,50"/>
+    <player name="13373678" seat="3" chips="€52,91" win="€4,85" dealer="0" bet="€52,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">DQ D10</cards>
+   <action type="23" player="13373678" no="4" sum="€2,50"/>
+   <action type="3" player="OldShatterhand" no="5" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C8 D6</cards>
+   <action type="5" player="13373678" no="6" sum="€50,41"/>
+   <action type="0" player="OldShatterhand" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865757">
+  <general>
+   <startdate>2022-09-01 17:15:51</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,74" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€55,26" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">C4 S3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865766">
+  <general>
+   <startdate>2022-09-01 17:15:57</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€19,99" win="€0,97" dealer="1" bet="€19,99"/>
+    <player name="13373678" seat="3" chips="€55,01" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">D9 D5</cards>
+   <action type="4" player="13373678" no="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D6 H4</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="6" sum="€19,49"/>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865803">
+  <general>
+   <startdate>2022-09-01 17:16:15</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,46" win="€2,43" dealer="0" bet="€3,75"/>
+    <player name="13373678" seat="3" chips="€54,51" win="€0" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 HA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S6 DQ</cards>
+   <action type="4" player="OldShatterhand" no="5" sum="€0"/>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="5" player="OldShatterhand" no="7" sum="€2,50"/>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865855">
+  <general>
+   <startdate>2022-09-01 17:16:38</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€21,64" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€53,26" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 DJ</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865872">
+  <general>
+   <startdate>2022-09-01 17:16:45</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€21,39" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€53,51" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 DA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865891">
+  <general>
+   <startdate>2022-09-01 17:16:56</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,89" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€54,01" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ C10</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706865910">
+  <general>
+   <startdate>2022-09-01 17:17:03</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,64" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€54,26" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 HJ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866248">
+  <general>
+   <startdate>2022-09-01 17:17:14</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,14" win="€1" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€54,76" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D2 H5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866256">
+  <general>
+   <startdate>2022-09-01 17:17:20</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,64" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€54,26" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ CK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866280">
+  <general>
+   <startdate>2022-09-01 17:17:31</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,14" win="€1" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€54,76" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CJ S4</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866297">
+  <general>
+   <startdate>2022-09-01 17:17:38</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,64" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€54,26" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">C2 H4</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866304">
+  <general>
+   <startdate>2022-09-01 17:17:44</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,89" win="€1" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€54,01" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HK D3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866325">
+  <general>
+   <startdate>2022-09-01 17:17:54</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€21,39" win="€4,02" dealer="0" bet="€21,39"/>
+    <player name="13373678" seat="3" chips="€53,51" win="€0" dealer="1" bet="€2,07"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ D8</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA D5</cards>
+   <action type="4" player="OldShatterhand" no="5" sum="€0"/>
+   <action type="5" player="13373678" no="6" sum="€0,82"/>
+   <action type="3" player="OldShatterhand" no="7" sum="€0,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="4" player="OldShatterhand" no="8" sum="€0"/>
+   <action type="4" player="13373678" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action type="5" player="OldShatterhand" no="10" sum="€19,32"/>
+   <action type="0" player="13373678" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866431">
+  <general>
+   <startdate>2022-09-01 17:18:49</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€23,34" win="€1" dealer="1" bet="€1,25"/>
+    <player name="13373678" seat="3" chips="€51,44" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">D10 H5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866458">
+  <general>
+   <startdate>2022-09-01 17:18:59</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€23,84" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€50,94" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S8 SQ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866473">
+  <general>
+   <startdate>2022-09-01 17:19:07</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€23,34" win="€0" dealer="1" bet="€2,50"/>
+    <player name="13373678" seat="3" chips="€51,44" win="€4,85" dealer="0" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">D5 D9</cards>
+   <action type="3" player="13373678" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 D6 DQ</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="6" sum="€1,25"/>
+   <action type="3" player="13373678" no="7" sum="€1,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="4" player="OldShatterhand" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action type="5" player="13373678" no="10" sum="€2,50"/>
+   <action type="0" player="OldShatterhand" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866527">
+  <general>
+   <startdate>2022-09-01 17:19:37</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€20,84" win="€0" dealer="0" bet="€6,87"/>
+    <player name="13373678" seat="3" chips="€53,79" win="€13,33" dealer="1" bet="€6,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 H9</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">HK DJ</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ H6 C8</cards>
+   <action type="4" player="OldShatterhand" no="5" sum="€0"/>
+   <action type="5" player="13373678" no="6" sum="€0,82"/>
+   <action type="3" player="OldShatterhand" no="7" sum="€0,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action type="4" player="OldShatterhand" no="8" sum="€0"/>
+   <action type="5" player="13373678" no="9" sum="€2,07"/>
+   <action type="3" player="OldShatterhand" no="10" sum="€2,07"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action type="4" player="OldShatterhand" no="11" sum="€0"/>
+   <action type="5" player="13373678" no="12" sum="€2,73"/>
+   <action type="3" player="OldShatterhand" no="13" sum="€2,73"/>
+  </round>
+ </game>
+ <game gamecode="3706866603">
+  <general>
+   <startdate>2022-09-01 17:20:18</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,97" win="€0" dealer="1" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60,25" win="€1" dealer="0" bet="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">C9 D10</cards>
+   <action type="23" player="13373678" no="4" sum="€2,50"/>
+   <action type="0" player="OldShatterhand" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866629">
+  <general>
+   <startdate>2022-09-01 17:20:30</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,47" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60,75" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK S3</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866662">
+  <general>
+   <startdate>2022-09-01 17:20:45</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,97" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€61,25" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 SQ</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866668">
+  <general>
+   <startdate>2022-09-01 17:20:50</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,72" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€61,50" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">C5 H10</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866690">
+  <general>
+   <startdate>2022-09-01 17:20:58</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,97" win="€0,97" dealer="1" bet="€12,97"/>
+    <player name="13373678" seat="3" chips="€61,25" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">S6 D5</cards>
+   <action type="4" player="13373678" no="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HQ SQ</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="6" sum="€12,47"/>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866731">
+  <general>
+   <startdate>2022-09-01 17:21:16</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,44" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60,75" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">D6 C3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866743">
+  <general>
+   <startdate>2022-09-01 17:21:23</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,69" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€60,50" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 H5</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866763">
+  <general>
+   <startdate>2022-09-01 17:21:29</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,44" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60,75" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">SQ D2</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866781">
+  <general>
+   <startdate>2022-09-01 17:21:34</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,69" win="€0,97" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€60,50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">S2 H10</cards>
+   <action type="4" player="13373678" no="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S10 S7</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="6" sum="€1"/>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866821">
+  <general>
+   <startdate>2022-09-01 17:21:55</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,16" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">D9 C4</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866835">
+  <general>
+   <startdate>2022-09-01 17:22:01</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,41" win="€1" dealer="1" bet="€1,25"/>
+    <player name="13373678" seat="3" chips="€59,75" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">SJ H6</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706866860">
+  <general>
+   <startdate>2022-09-01 17:22:14</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,91" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€59,25" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 HA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868233">
+  <general>
+   <startdate>2022-09-01 17:22:24</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,41" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€59,75" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 SA</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868246">
+  <general>
+   <startdate>2022-09-01 17:22:30</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,16" win="€0" dealer="0" bet="€2,50"/>
+    <player name="13373678" seat="3" chips="€60" win="€4,85" dealer="1" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ HQ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 SJ CA</cards>
+   <action type="4" player="OldShatterhand" no="5" sum="€0"/>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action type="5" player="OldShatterhand" no="7" sum="€1,25"/>
+   <action type="3" player="13373678" no="8" sum="€1,25"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action type="4" player="OldShatterhand" no="9" sum="€0"/>
+   <action type="5" player="13373678" no="10" sum="€2,50"/>
+   <action type="0" player="OldShatterhand" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868336">
+  <general>
+   <startdate>2022-09-01 17:23:15</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€11,66" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€62,35" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 D5</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868347">
+  <general>
+   <startdate>2022-09-01 17:23:21</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€11,41" win="€2,43" dealer="0" bet="€11,41"/>
+    <player name="13373678" seat="3" chips="€62,60" win="€0" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 DQ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HJ SK</cards>
+   <action type="4" player="OldShatterhand" no="5" sum="€0"/>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="4" player="OldShatterhand" no="7" sum="€0"/>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action type="5" player="OldShatterhand" no="9" sum="€10,16"/>
+   <action type="0" player="13373678" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868449">
+  <general>
+   <startdate>2022-09-01 17:24:06</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,59" win="€0" dealer="1" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€61,35" win="€0,97" dealer="0" bet="€1,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="3" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">C9 S2</cards>
+   <action type="4" player="13373678" no="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H5 HA</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="4" player="OldShatterhand" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="5" player="13373678" no="7" sum="€1,25"/>
+   <action type="0" player="OldShatterhand" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868502">
+  <general>
+   <startdate>2022-09-01 17:24:34</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,09" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€61,82" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <cards type="Pocket" player="13373678">S2 S8</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868516">
+  <general>
+   <startdate>2022-09-01 17:24:40</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,34" win="€1" dealer="1" bet="€1,25"/>
+    <player name="13373678" seat="3" chips="€61,57" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">C4 S5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868533">
+  <general>
+   <startdate>2022-09-01 17:24:49</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€12,84" win="€2,43" dealer="0" bet="€2,50"/>
+    <player name="13373678" seat="3" chips="€61,07" win="€0" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 H2</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="3" player="OldShatterhand" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ H3 C5</cards>
+   <action type="5" player="OldShatterhand" no="5" sum="€1,25"/>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868661">
+  <general>
+   <startdate>2022-09-01 17:25:11</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€14,02" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€59,82" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ S10</cards>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868674">
+  <general>
+   <startdate>2022-09-01 17:25:16</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,77" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€60,07" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="OldShatterhand" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 S7</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="OldShatterhand">X X</cards>
+   <action type="0" player="OldShatterhand" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706868688">
+  <general>
+   <startdate>2022-09-01 17:25:25</startdate>
+   <players>
+    <player name="OldShatterhand" seat="1" chips="€13,27" win="€0" dealer="1" bet="€13,27"/>
+    <player name="13373678" seat="3" chips="€60,57" win="€26,04" dealer="0" bet="€60,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="OldShatterhand" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="OldShatterhand">HJ CA</cards>
+   <action type="23" player="OldShatterhand" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D9 D10</cards>
+   <action type="3" player="13373678" no="4" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 D5 C10</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="5" player="OldShatterhand" no="6" sum="€3"/>
+   <action type="23" player="13373678" no="7" sum="€59,07"/>
+   <action type="7" player="OldShatterhand" no="8" sum="€8,77"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+  </round>
+ </game>
+ <game gamecode="3706870505">
+  <general>
+   <startdate>2022-09-01 17:31:38</startdate>
+   <players>
+    <player name="13373678" seat="3" chips="€73,34" win="€2,43" dealer="0" bet="€4,37"/>
+    <player name="22iimmE" seat="5" chips="€35,67" win="€0" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="22iimmE" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="22iimmE">X X</cards>
+   <action type="23" player="22iimmE" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="13373678">D7 DQ</cards>
+   <action type="3" player="13373678" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C10 S2</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="4" player="22iimmE" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="5" player="13373678" no="7" sum="€3,12"/>
+   <action type="0" player="22iimmE" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706870541">
+  <general>
+   <startdate>2022-09-01 17:31:59</startdate>
+   <players>
+    <player name="13373678" seat="3" chips="€74,52" win="€0" dealer="1" bet="€1,25"/>
+    <player name="22iimmE" seat="5" chips="€34,42" win="€2,43" dealer="0" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="22iimmE" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ H3</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="22iimmE">D7 CJ</cards>
+   <action type="3" player="22iimmE" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA H4 C10</cards>
+   <action type="4" player="22iimmE" no="5" sum="€0"/>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action type="4" player="22iimmE" no="7" sum="€0"/>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action type="4" player="22iimmE" no="9" sum="€0"/>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706870941">
+  <general>
+   <startdate>2022-09-01 17:34:46</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€73,27" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">CJ D2</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706870951">
+  <general>
+   <startdate>2022-09-01 17:34:52</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,25" win="€12" dealer="1" bet="€15"/>
+    <player name="13373678" seat="3" chips="€73,02" win="€0" dealer="0" bet="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">DJ CA</cards>
+   <action type="23" player="13373678" no="4" sum="€6"/>
+   <action type="23" player="Liverman" no="5" sum="€15"/>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706870994">
+  <general>
+   <startdate>2022-09-01 17:35:15</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56,25" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€67,02" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 SK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871008">
+  <general>
+   <startdate>2022-09-01 17:35:22</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€55,75" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€67,52" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C9 C3</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871019">
+  <general>
+   <startdate>2022-09-01 17:35:27</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€55,50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€67,77" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 SA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871030">
+  <general>
+   <startdate>2022-09-01 17:35:34</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€55" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€68,27" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 DK</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871040">
+  <general>
+   <startdate>2022-09-01 17:35:39</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€54,75" win="€0" dealer="0" bet="€2,07"/>
+    <player name="13373678" seat="3" chips="€68,52" win="€4,02" dealer="1" bet="€5,17"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 DK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="3" player="Liverman" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA D9</cards>
+   <action type="4" player="Liverman" no="5" sum="€0"/>
+   <action type="5" player="13373678" no="6" sum="€0,82"/>
+   <action type="3" player="Liverman" no="7" sum="€0,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="4" player="Liverman" no="8" sum="€0"/>
+   <action type="5" player="13373678" no="9" sum="€3,10"/>
+   <action type="0" player="Liverman" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871091">
+  <general>
+   <startdate>2022-09-01 17:36:09</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€52,68" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€70,47" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 C6</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871105">
+  <general>
+   <startdate>2022-09-01 17:36:14</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€52,43" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€70,72" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ CA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871127">
+  <general>
+   <startdate>2022-09-01 17:36:26</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€51,93" win="€0" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€71,22" win="€3" dealer="0" bet="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HA CA</cards>
+   <action type="23" player="13373678" no="4" sum="€6"/>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871172">
+  <general>
+   <startdate>2022-09-01 17:36:46</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,43" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€72,72" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 C5</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871196">
+  <general>
+   <startdate>2022-09-01 17:37:00</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,93" win="€1,25" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€73,22" win="€0" dealer="0" bet="€0,25"/>
+    <player name="cocomelooon" seat="5" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="cocomelooon" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C7 C10</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="cocomelooon">X X</cards>
+   <action type="0" player="cocomelooon" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871222">
+  <general>
+   <startdate>2022-09-01 17:37:15</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,68" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€72,97" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">S5 DJ</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871470">
+  <general>
+   <startdate>2022-09-01 17:37:23</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,93" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€72,72" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 D4</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871481">
+  <general>
+   <startdate>2022-09-01 17:37:29</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,68" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€72,97" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">H5 S4</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871488">
+  <general>
+   <startdate>2022-09-01 17:37:34</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,93" win="€0" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€72,72" win="€3" dealer="0" bet="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S6 S5</cards>
+   <action type="23" player="13373678" no="4" sum="€6"/>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871525">
+  <general>
+   <startdate>2022-09-01 17:37:52</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,43" win="€2,50" dealer="0" bet="€5"/>
+    <player name="13373678" seat="3" chips="€74,22" win="€0" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK S7</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="4" sum="€5"/>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871557">
+  <general>
+   <startdate>2022-09-01 17:38:10</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,68" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€72,97" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 H6</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871565">
+  <general>
+   <startdate>2022-09-01 17:38:15</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,43" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€73,22" win="€0" dealer="1" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">C3 SQ</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871577">
+  <general>
+   <startdate>2022-09-01 17:38:21</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,68" win="€1" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€72,97" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">H2 D3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871662">
+  <general>
+   <startdate>2022-09-01 17:38:28</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€51,18" win="€0" dealer="0" bet="€10,92"/>
+    <player name="13373678" seat="3" chips="€72,47" win="€21,34" dealer="1" bet="€38,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 C6</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="3" player="Liverman" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S4 D5</cards>
+   <action type="4" player="Liverman" no="5" sum="€0"/>
+   <action type="5" player="13373678" no="6" sum="€1,87"/>
+   <action type="3" player="Liverman" no="7" sum="€1,87"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action type="4" player="Liverman" no="8" sum="€0"/>
+   <action type="5" player="13373678" no="9" sum="€7,80"/>
+   <action type="3" player="Liverman" no="10" sum="€7,80"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" player="Liverman" no="11" sum="€0"/>
+   <action type="5" player="13373678" no="12" sum="€27,30"/>
+   <action type="0" player="Liverman" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871756">
+  <general>
+   <startdate>2022-09-01 17:39:22</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45" win="€0" dealer="1" bet="€9,96"/>
+    <player name="13373678" seat="3" chips="€82,89" win="€19,42" dealer="0" bet="€24,90"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">HA H10</cards>
+   <action type="23" player="13373678" no="4" sum="€6"/>
+   <action type="3" player="Liverman" no="5" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DA CJ</cards>
+   <action type="5" player="13373678" no="6" sum="€3,96"/>
+   <action type="3" player="Liverman" no="7" sum="€3,96"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action type="5" player="13373678" no="8" sum="€14,94"/>
+   <action type="0" player="Liverman" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871825">
+  <general>
+   <startdate>2022-09-01 17:39:59</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€92,35" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 S2</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871843">
+  <general>
+   <startdate>2022-09-01 17:40:05</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€92,85" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 H6</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871854">
+  <general>
+   <startdate>2022-09-01 17:40:12</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€93,10" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DJ C10</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871949">
+  <general>
+   <startdate>2022-09-01 17:40:26</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,50" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€93,60" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 H9</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871974">
+  <general>
+   <startdate>2022-09-01 17:40:37</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,25" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€93,85" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ D8</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871984">
+  <general>
+   <startdate>2022-09-01 17:40:45</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€48,75" win="€0" dealer="1" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€94,35" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 C10</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706871990">
+  <general>
+   <startdate>2022-09-01 17:40:50</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€94,60" win="€1" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 C7</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706872379">
+  <general>
+   <startdate>2022-09-01 17:40:57</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,50" win="€12,50" dealer="1" bet="€15"/>
+    <player name="13373678" seat="3" chips="€95,10" win="€0" dealer="0" bet="€6"/>
+    <player name="Hikaru" seat="5" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Hikaru" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">DQ CK</cards>
+   <action type="23" player="13373678" no="4" sum="€6"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="5" sum="€0"/>
+   <action type="23" player="Liverman" no="6" sum="€15"/>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706872420">
+  <general>
+   <startdate>2022-09-01 17:41:20</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56" win="€0" dealer="0" bet="€19,50"/>
+    <player name="13373678" seat="3" chips="€89,10" win="€0" dealer="1" bet="€1,25"/>
+    <player name="Hikaru" seat="5" chips="€50" win="€39,04" dealer="0" bet="€19,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Hikaru" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D10 D7</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Hikaru">SJ DJ</cards>
+   <action type="23" player="Hikaru" no="4" sum="€4,50"/>
+   <cards type="Pocket" player="Liverman">HQ SK</cards>
+   <action type="3" player="Liverman" no="5" sum="€4"/>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H9 C6</cards>
+   <action type="5" player="Hikaru" no="7" sum="€5"/>
+   <action type="3" player="Liverman" no="8" sum="€5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="4" player="Hikaru" no="9" sum="€0"/>
+   <action type="5" player="Liverman" no="10" sum="€10"/>
+   <action type="3" player="Hikaru" no="11" sum="€10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action type="4" player="Hikaru" no="12" sum="€0"/>
+   <action type="4" player="Liverman" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706872556">
+  <general>
+   <startdate>2022-09-01 17:42:32</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€1" dealer="0" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Hikaru" seat="5" chips="€69,54" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CK D2</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706872579">
+  <general>
+   <startdate>2022-09-01 17:42:46</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,50" win="€0" dealer="1" bet="€7,55"/>
+    <player name="13373678" seat="3" chips="€87,35" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Hikaru" seat="5" chips="€69,54" win="€14,89" dealer="0" bet="€18,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Hikaru" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S8 CK</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="23" player="Hikaru" no="5" sum="€4,50"/>
+   <action type="3" player="Liverman" no="6" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA SJ S6</cards>
+   <action type="5" player="Hikaru" no="7" sum="€3,05"/>
+   <action type="3" player="Liverman" no="8" sum="€3,05"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="5" player="Hikaru" no="9" sum="€11"/>
+   <action type="0" player="Liverman" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706873643">
+  <general>
+   <startdate>2022-09-01 17:43:16</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45" win="€1,25" dealer="0" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€0" dealer="1" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€76,88" win="€0" dealer="0" bet="€0,25"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Hikaru" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S2 C2</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="5" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706873659">
+  <general>
+   <startdate>2022-09-01 17:43:27</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45,75" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€0" dealer="0" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€76,63" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">D8 D2</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706873696">
+  <general>
+   <startdate>2022-09-01 17:43:49</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="Hikaru" seat="5" chips="€76,63" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H3 DA</cards>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="3" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706873717">
+  <general>
+   <startdate>2022-09-01 17:44:00</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,75" win="€1,25" dealer="1" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€87,35" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Hikaru" seat="5" chips="€76,63" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Hikaru" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">H6 C2</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706873834">
+  <general>
+   <startdate>2022-09-01 17:44:15</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€0" dealer="1" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€76,13" win="€98,50" dealer="0" bet="€76,13"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Hikaru" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">S5 H9</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">C8 C9</cards>
+   <action type="23" player="Hikaru" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="JaJaNein">D10 C10</cards>
+   <action type="23" player="JaJaNein" no="6" sum="€4"/>
+   <action type="3" player="Hikaru" no="7" sum="€2,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 HK CJ</cards>
+   <action type="4" player="Hikaru" no="8" sum="€0"/>
+   <action type="5" player="JaJaNein" no="9" sum="€4"/>
+   <action type="3" player="Hikaru" no="10" sum="€4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="4" player="Hikaru" no="11" sum="€0"/>
+   <action type="5" player="JaJaNein" no="12" sum="€16"/>
+   <action type="23" player="Hikaru" no="13" sum="€68,13"/>
+   <action type="7" player="JaJaNein" no="14" sum="€26"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3706874098">
+  <general>
+   <startdate>2022-09-01 17:45:53</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€1,25" dealer="0" bet="€1,25"/>
+    <player name="Hikaru" seat="5" chips="€124,63" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 DQ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="5" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874137">
+  <general>
+   <startdate>2022-09-01 17:46:10</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Hikaru" seat="5" chips="€124,63" win="€0" dealer="0" bet="€4"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€8,49" dealer="1" bet="€12,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="23" player="Hikaru" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="4" sum="€4"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D6 H6</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <action type="3" player="Hikaru" no="7" sum="€2,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S6 C2</cards>
+   <action type="4" player="Hikaru" no="8" sum="€0"/>
+   <action type="4" player="JaJaNein" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="4" player="Hikaru" no="10" sum="€0"/>
+   <action type="5" player="JaJaNein" no="11" sum="€8,50"/>
+   <action type="0" player="Hikaru" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874225">
+  <general>
+   <startdate>2022-09-01 17:47:05</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,75" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,35" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Hikaru" seat="5" chips="€120,63" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€54,49" win="€1,25" dealer="0" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Hikaru" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">D9 D2</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874287">
+  <general>
+   <startdate>2022-09-01 17:47:33</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,10" win="€1,25" dealer="1" bet="€1,25"/>
+    <player name="Hikaru" seat="5" chips="€120,13" win="€0" dealer="0" bet="€0,25"/>
+    <player name="JaJaNein" seat="6" chips="€55,24" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Hikaru" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">DA C5</cards>
+   <action type="23" player="13373678" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="5" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874325">
+  <general>
+   <startdate>2022-09-01 17:47:52</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0" dealer="0" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€119,88" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€54,74" win="€1" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK S9</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874349">
+  <general>
+   <startdate>2022-09-01 17:48:04</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="Hikaru" seat="5" chips="€119,88" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€55,24" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK H9</cards>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="3" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874404">
+  <general>
+   <startdate>2022-09-01 17:48:23</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,25" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€88,10" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Hikaru" seat="5" chips="€119,88" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€55,24" win="€1,25" dealer="0" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Hikaru" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">C7 S7</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874430">
+  <general>
+   <startdate>2022-09-01 17:48:38</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,25" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0" dealer="1" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€119,38" win="€0" dealer="0" bet="€0,25"/>
+    <player name="JaJaNein" seat="6" chips="€55,99" win="€0,50" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Hikaru" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">H8 S3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874455">
+  <general>
+   <startdate>2022-09-01 17:48:52</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,25" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€0" dealer="0" bet="€0"/>
+    <player name="Hikaru" seat="5" chips="€119,13" win="€0" dealer="1" bet="€1,25"/>
+    <player name="JaJaNein" seat="6" chips="€56,24" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Thesharkattack13" seat="8" chips="€50" win="€2,75" dealer="0" bet="€5,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 D3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="23" player="Hikaru" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="23" player="Thesharkattack13" no="7" sum="€5,50"/>
+   <action type="0" player="Hikaru" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874529">
+  <general>
+   <startdate>2022-09-01 17:49:28</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,25" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€87,85" win="€1,25" dealer="0" bet="€1,25"/>
+    <player name="Hikaru" seat="5" chips="€117,88" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€55,99" win="€0" dealer="1" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€51,50" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA SK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="5" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="6" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706874601">
+  <general>
+   <startdate>2022-09-01 17:49:58</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€10,19" dealer="0" bet="€11,50"/>
+    <player name="13373678" seat="3" chips="€88,60" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€55,99" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€51,25" win="€0" dealer="1" bet="€5"/>
+    <player name="Hikaru" seat="5" chips="€117,88" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Hikaru">X X</cards>
+   <action type="0" player="Hikaru" no="3" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="23" player="Thesharkattack13" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="6" sum="€5"/>
+   <cards type="Pocket" player="13373678">D7 DJ</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <action type="3" player="Thesharkattack13" no="8" sum="€3,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 D2 SK</cards>
+   <action type="5" player="Liverman" no="9" sum="€6,50"/>
+   <action type="0" player="Thesharkattack13" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706875324">
+  <general>
+   <startdate>2022-09-01 17:50:26</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€55,19" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€88,10" win="€2,91" dealer="0" bet="€2,49"/>
+    <player name="JaJaNein" seat="6" chips="€55,99" win="€0" dealer="0" bet="€1,50"/>
+    <player name="Thesharkattack13" seat="8" chips="€50" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">DJ CA</cards>
+   <action type="23" player="13373678" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="3" player="JaJaNein" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C2 C5</cards>
+   <action type="5" player="13373678" no="7" sum="€0,99"/>
+   <action type="0" player="JaJaNein" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706875372">
+  <general>
+   <startdate>2022-09-01 17:50:50</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€55,19" win="€0" dealer="0" bet="€6"/>
+    <player name="13373678" seat="3" chips="€89,51" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€54,49" win="€0" dealer="0" bet="€6"/>
+    <player name="Thesharkattack13" seat="8" chips="€50" win="€17,46" dealer="0" bet="€13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D3 C3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="5" sum="€6"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="3" player="Thesharkattack13" no="6" sum="€5,50"/>
+   <action type="3" player="Liverman" no="7" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA CK</cards>
+   <action type="4" player="JaJaNein" no="8" sum="€0"/>
+   <action type="4" player="Thesharkattack13" no="9" sum="€0"/>
+   <action type="4" player="Liverman" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action type="4" player="JaJaNein" no="11" sum="€0"/>
+   <action type="5" player="Thesharkattack13" no="12" sum="€7"/>
+   <action type="0" player="Liverman" no="13" sum="€0"/>
+   <action type="0" player="JaJaNein" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706875439">
+  <general>
+   <startdate>2022-09-01 17:51:28</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€89,51" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="1" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,46" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <cards type="Pocket" player="13373678">SQ D9</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706875465">
+  <general>
+   <startdate>2022-09-01 17:51:39</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50,25" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€89,51" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,21" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA D9</cards>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="3" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="4" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706875498">
+  <general>
+   <startdate>2022-09-01 17:51:53</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€89,76" win="€0" dealer="0" bet="€0,25"/>
+    <player name="JaJaNein" seat="6" chips="€50" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,21" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 H6</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876510">
+  <general>
+   <startdate>2022-09-01 17:52:04</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€89,51" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€50,25" win="€1" dealer="0" bet="€1,50"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,21" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">C2 DK</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876541">
+  <general>
+   <startdate>2022-09-01 17:52:16</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€6"/>
+    <player name="13373678" seat="3" chips="€89,51" win="€0" dealer="0" bet="€2"/>
+    <player name="AL3K21" seat="5" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€50,75" win="€14,31" dealer="1" bet="€9,68"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,71" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+   <action type="2" player="AL3K21" no="3" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 HA</cards>
+   <action type="23" player="13373678" no="4" sum="€2"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="5" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="6" sum="€6"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="7" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="3" player="Liverman" no="8" sum="€5,50"/>
+   <action type="0" player="13373678" no="9" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H4 H2</cards>
+   <action type="4" player="Liverman" no="10" sum="€0"/>
+   <action type="5" player="JaJaNein" no="11" sum="€3,68"/>
+   <action type="0" player="Liverman" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876621">
+  <general>
+   <startdate>2022-09-01 17:52:58</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€45" win="€0" dealer="0" bet="€0,25"/>
+    <player name="13373678" seat="3" chips="€87,51" win="€0" dealer="0" bet="€0,50"/>
+    <player name="AL3K21" seat="5" chips="€49,50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€59,06" win="€1,75" dealer="0" bet="€2"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,46" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="23" player="JaJaNein" no="4" sum="€2"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="5" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">C6 C8</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <action type="0" player="AL3K21" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876671">
+  <general>
+   <startdate>2022-09-01 17:53:22</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,75" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€87,01" win="€0" dealer="0" bet="€0,25"/>
+    <player name="AL3K21" seat="5" chips="€49" win="€0,50" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€60,31" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,46" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="AL3K21" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="3" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="4" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D3 C9</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876687">
+  <general>
+   <startdate>2022-09-01 17:53:30</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€86,76" win="€0" dealer="1" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€49,25" win="€0" dealer="0" bet="€1"/>
+    <player name="JaJaNein" seat="6" chips="€60,31" win="€1,94" dealer="0" bet="€2"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,46" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="AL3K21" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 C3</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="6" sum="€0,25"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="4" player="JaJaNein" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S8 H4</cards>
+   <action type="4" player="AL3K21" no="8" sum="€0"/>
+   <action type="4" player="JaJaNein" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action type="4" player="AL3K21" no="10" sum="€0"/>
+   <action type="5" player="JaJaNein" no="11" sum="€0,50"/>
+   <action type="3" player="AL3K21" no="12" sum="€0,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action type="4" player="AL3K21" no="13" sum="€0"/>
+   <action type="5" player="JaJaNein" no="14" sum="€1"/>
+   <action type="0" player="AL3K21" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876761">
+  <general>
+   <startdate>2022-09-01 17:54:06</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€10"/>
+    <player name="13373678" seat="3" chips="€86,76" win="€0" dealer="0" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€48,25" win="€20,13" dealer="1" bet="€10"/>
+    <player name="JaJaNein" seat="6" chips="€61,25" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,46" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">H9 HK</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C6 H3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">S9 DA</cards>
+   <action type="3" player="AL3K21" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK D10 HA</cards>
+   <action type="5" player="Liverman" no="8" sum="€2,50"/>
+   <action type="3" player="AL3K21" no="9" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action type="5" player="Liverman" no="10" sum="€6"/>
+   <action type="3" player="AL3K21" no="11" sum="€6"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action type="4" player="Liverman" no="12" sum="€0"/>
+   <action type="4" player="AL3K21" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876915">
+  <general>
+   <startdate>2022-09-01 17:54:32</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€86,76" win="€0" dealer="0" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€58,38" win="€0" dealer="0" bet="€0,50"/>
+    <player name="JaJaNein" seat="6" chips="€61" win="€0" dealer="1" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,96" win="€0" dealer="0" bet="€0,50"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€1,46" dealer="0" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="TiltSister" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">S5 D7</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="5" sum="€0,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="3" player="Thesharkattack13" no="7" sum="€0,25"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="4" player="TiltSister" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 SA C4</cards>
+   <action type="4" player="Thesharkattack13" no="9" sum="€0"/>
+   <action type="4" player="TiltSister" no="10" sum="€0"/>
+   <action type="4" player="AL3K21" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action type="4" player="Thesharkattack13" no="12" sum="€0"/>
+   <action type="4" player="TiltSister" no="13" sum="€0"/>
+   <action type="4" player="AL3K21" no="14" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action type="4" player="Thesharkattack13" no="15" sum="€0"/>
+   <action type="5" player="TiltSister" no="16" sum="€0,75"/>
+   <action type="0" player="AL3K21" no="17" sum="€0"/>
+   <action type="0" player="Thesharkattack13" no="18" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706876986">
+  <general>
+   <startdate>2022-09-01 17:55:11</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€86,76" win="€0" dealer="0" bet="€21,01"/>
+    <player name="AL3K21" seat="5" chips="€57,88" win="€41,48" dealer="0" bet="€57,88"/>
+    <player name="JaJaNein" seat="6" chips="€61" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,46" win="€0" dealer="1" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50,96" win="€0" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="TiltSister" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 H6</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="5" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="6" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="7" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ C6 S5</cards>
+   <action type="4" player="13373678" no="9" sum="€0"/>
+   <action type="5" player="AL3K21" no="10" sum="€2"/>
+   <action type="23" player="13373678" no="11" sum="€6,93"/>
+   <action type="3" player="AL3K21" no="12" sum="€4,93"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action type="5" player="13373678" no="13" sum="€12,83"/>
+   <action type="3" player="AL3K21" no="14" sum="€12,83"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action type="4" player="13373678" no="15" sum="€0"/>
+   <action type="5" player="AL3K21" no="16" sum="€36,87"/>
+   <action type="0" player="13373678" no="17" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877107">
+  <general>
+   <startdate>2022-09-01 17:56:08</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€3"/>
+    <player name="13373678" seat="3" chips="€65,75" win="€0" dealer="0" bet="€4"/>
+    <player name="AL3K21" seat="5" chips="€78,35" win="€10,67" dealer="0" bet="€8"/>
+    <player name="JaJaNein" seat="6" chips="€61" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,46" win="€0" dealer="0" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50,71" win="€0" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="5" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="6" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="3" player="Liverman" no="7" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">SJ S6</cards>
+   <action type="23" player="13373678" no="8" sum="€3"/>
+   <action type="3" player="AL3K21" no="9" sum="€2,50"/>
+   <action type="3" player="Liverman" no="10" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C7 C5</cards>
+   <action type="4" player="Liverman" no="11" sum="€0"/>
+   <action type="4" player="13373678" no="12" sum="€0"/>
+   <action type="5" player="AL3K21" no="13" sum="€1"/>
+   <action type="0" player="Liverman" no="14" sum="€0"/>
+   <action type="3" player="13373678" no="15" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" player="13373678" no="16" sum="€0"/>
+   <action type="5" player="AL3K21" no="17" sum="€4"/>
+   <action type="0" player="13373678" no="18" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877218">
+  <general>
+   <startdate>2022-09-01 17:57:05</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€61,75" win="€0" dealer="0" bet="€0,25"/>
+    <player name="AL3K21" seat="5" chips="€85,02" win="€0" dealer="0" bet="€1,50"/>
+    <player name="JaJaNein" seat="6" chips="€61" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,46" win="€3,16" dealer="0" bet="€1,50"/>
+    <player name="TiltSister" seat="10" chips="€50,71" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="AL3K21" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="3" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">S4 S10</cards>
+   <action type="23" player="Thesharkattack13" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="5" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK S5</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">H10 CK</cards>
+   <action type="3" player="AL3K21" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 DA C6</cards>
+   <action type="4" player="AL3K21" no="9" sum="€0"/>
+   <action type="4" player="Thesharkattack13" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="4" player="AL3K21" no="11" sum="€0"/>
+   <action type="4" player="Thesharkattack13" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action type="4" player="AL3K21" no="13" sum="€0"/>
+   <action type="4" player="Thesharkattack13" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877303">
+  <general>
+   <startdate>2022-09-01 17:57:37</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€61,50" win="€0" dealer="1" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€83,52" win="€4,85" dealer="0" bet="€6,25"/>
+    <player name="JaJaNein" seat="6" chips="€61" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,12" win="€0" dealer="0" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50,71" win="€0" dealer="0" bet="€2,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="AL3K21" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="3" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="23" player="TiltSister" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 C2</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="7" sum="€1"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C8 HA</cards>
+   <action type="4" player="AL3K21" no="9" sum="€0"/>
+   <action type="4" player="TiltSister" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action type="4" player="AL3K21" no="11" sum="€0"/>
+   <action type="5" player="TiltSister" no="12" sum="€1"/>
+   <action type="23" player="AL3K21" no="13" sum="€5"/>
+   <action type="0" player="TiltSister" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877429">
+  <general>
+   <startdate>2022-09-01 17:58:31</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€61,50" win="€1,25" dealer="0" bet="€1,25"/>
+    <player name="AL3K21" seat="5" chips="€86,12" win="€0" dealer="1" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€60,50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Thesharkattack13" seat="8" chips="€61,12" win="€0" dealer="0" bet="€0,50"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">SQ C10</cards>
+   <action type="23" player="13373678" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="6" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="7" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877460">
+  <general>
+   <startdate>2022-09-01 17:58:45</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€62,25" win="€1,25" dealer="0" bet="€1,25"/>
+    <player name="AL3K21" seat="5" chips="€86,12" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€60,25" win="€0" dealer="1" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,62" win="€0" dealer="0" bet="€0,25"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="TiltSister" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK DJ</cards>
+   <action type="23" player="13373678" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="5" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="7" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877498">
+  <general>
+   <startdate>2022-09-01 17:59:01</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+    <player name="13373678" seat="3" chips="€63" win="€0" dealer="0" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€86,12" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€60,25" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,37" win="€0" dealer="1" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€1" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="TiltSister" no="1" sum="€0,25"/>
+   <action type="2" player="Liverman" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 C6</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="4" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="5" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="6" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="23" player="TiltSister" no="7" sum="€1,50"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877537">
+  <general>
+   <startdate>2022-09-01 17:59:18</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€49,50" win="€12,13" dealer="0" bet="€18"/>
+    <player name="13373678" seat="3" chips="€63" win="€0" dealer="0" bet="€0,50"/>
+    <player name="AL3K21" seat="5" chips="€86,12" win="€0" dealer="0" bet="€5,50"/>
+    <player name="JaJaNein" seat="6" chips="€60,25" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€60,37" win="€0" dealer="0" bet="€0,50"/>
+    <player name="TiltSister" seat="10" chips="€50,50" win="€0" dealer="1" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Liverman" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="4" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="3" player="Thesharkattack13" no="5" sum="€0,50"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="3" player="TiltSister" no="6" sum="€0,50"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="3" player="Liverman" no="7" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">S8 D9</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C3 S3</cards>
+   <action type="5" player="Liverman" no="9" sum="€2,50"/>
+   <action type="0" player="13373678" no="10" sum="€0"/>
+   <action type="3" player="AL3K21" no="11" sum="€2,50"/>
+   <action type="0" player="Thesharkattack13" no="12" sum="€0"/>
+   <action type="0" player="TiltSister" no="13" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" player="Liverman" no="14" sum="€2,50"/>
+   <action type="3" player="AL3K21" no="15" sum="€2,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action type="5" player="Liverman" no="16" sum="€12,50"/>
+   <action type="0" player="AL3K21" no="17" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877668">
+  <general>
+   <startdate>2022-09-01 18:00:19</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56,13" win="€0" dealer="1" bet="€0"/>
+    <player name="13373678" seat="3" chips="€62,50" win="€0" dealer="0" bet="€0,25"/>
+    <player name="AL3K21" seat="5" chips="€80,62" win="€5,33" dealer="0" bet="€2,62"/>
+    <player name="JaJaNein" seat="6" chips="€60,25" win="€0" dealer="0" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,87" win="€0" dealer="0" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€2,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="AL3K21" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="3" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="4" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">C9 C7</cards>
+   <action type="23" player="TiltSister" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">S2 DQ</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">S3 SJ</cards>
+   <action type="3" player="AL3K21" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 DK C4</cards>
+   <action type="4" player="AL3K21" no="9" sum="€0"/>
+   <action type="5" player="TiltSister" no="10" sum="€1,37"/>
+   <action type="3" player="AL3K21" no="11" sum="€1,37"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="4" player="AL3K21" no="12" sum="€0"/>
+   <action type="4" player="TiltSister" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action type="4" player="AL3K21" no="14" sum="€0"/>
+   <action type="4" player="TiltSister" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706877799">
+  <general>
+   <startdate>2022-09-01 18:01:26</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56,13" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€62,25" win="€2,67" dealer="1" bet="€3,31"/>
+    <player name="AL3K21" seat="5" chips="€83,33" win="€0" dealer="0" bet="€0,25"/>
+    <player name="JaJaNein" seat="6" chips="€60,25" win="€0" dealer="0" bet="€1,25"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,87" win="€0" dealer="0" bet="€0"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="AL3K21" no="1" sum="€0,25"/>
+   <action type="2" player="JaJaNein" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="3" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="4" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">C3 HA</cards>
+   <action type="23" player="13373678" no="6" sum="€1,25"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="7" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="3" player="JaJaNein" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 CK SA</cards>
+   <action type="4" player="JaJaNein" no="9" sum="€0"/>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="4" player="JaJaNein" no="11" sum="€0"/>
+   <action type="5" player="13373678" no="12" sum="€2,06"/>
+   <action type="0" player="JaJaNein" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706878880">
+  <general>
+   <startdate>2022-09-01 18:02:08</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56,13" win="€0" dealer="0" bet="€0"/>
+    <player name="13373678" seat="3" chips="€63,67" win="€0" dealer="0" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€83,08" win="€1,22" dealer="1" bet="€20"/>
+    <player name="JaJaNein" seat="6" chips="€59" win="€0" dealer="0" bet="€0,25"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,87" win="€0" dealer="0" bet="€0,50"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="JaJaNein" no="1" sum="€0,25"/>
+   <action type="2" player="Thesharkattack13" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="3" sum="€0"/>
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="0" player="Liverman" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">H3 C4</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="3" player="AL3K21" no="6" sum="€0,50"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="7" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="4" player="Thesharkattack13" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 CK SQ</cards>
+   <action type="4" player="Thesharkattack13" no="9" sum="€0"/>
+   <action type="4" player="AL3K21" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="4" player="Thesharkattack13" no="11" sum="€0"/>
+   <action type="4" player="AL3K21" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action type="4" player="Thesharkattack13" no="13" sum="€0"/>
+   <action type="5" player="AL3K21" no="14" sum="€19,50"/>
+   <action type="0" player="Thesharkattack13" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706878951">
+  <general>
+   <startdate>2022-09-01 18:02:45</startdate>
+   <players>
+    <player name="Liverman" seat="1" chips="€56,13" win="€1,25" dealer="0" bet="€1,50"/>
+    <player name="13373678" seat="3" chips="€63,67" win="€0" dealer="0" bet="€0"/>
+    <player name="AL3K21" seat="5" chips="€83,80" win="€0" dealer="0" bet="€0"/>
+    <player name="JaJaNein" seat="6" chips="€58,75" win="€0" dealer="1" bet="€0"/>
+    <player name="Thesharkattack13" seat="8" chips="€59,37" win="€0" dealer="0" bet="€0,25"/>
+    <player name="TiltSister" seat="10" chips="€50" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Thesharkattack13" no="1" sum="€0,25"/>
+   <action type="2" player="TiltSister" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Liverman">X X</cards>
+   <action type="23" player="Liverman" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">DK H4</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="AL3K21">X X</cards>
+   <action type="0" player="AL3K21" no="5" sum="€0"/>
+   <cards type="Pocket" player="JaJaNein">X X</cards>
+   <action type="0" player="JaJaNein" no="6" sum="€0"/>
+   <cards type="Pocket" player="Thesharkattack13">X X</cards>
+   <action type="0" player="Thesharkattack13" no="7" sum="€0"/>
+   <cards type="Pocket" player="TiltSister">X X</cards>
+   <action type="0" player="TiltSister" no="8" sum="€0"/>
+  </round>
+ </game>
+</session>

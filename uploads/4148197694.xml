@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4148197694">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 18, 488050912</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:00:43</duration>
+  <gamecount>1</gamecount>
+  <startdate>2024-09-01 18:56:30</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0</bets>
+  <wins>€0</wins>
+  <chipsin>€0</chipsin>
+  <chipsout>€0</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3924663893">
+  <general>
+   <startdate>2024-09-01 18:56:30</startdate>
+   <players>
+    <player bet="€7,59" seat="1" chips="€57,75" win="€5,34" name="Player 1" dealer="0"/>
+    <player bet="€0" seat="3" chips="€55,86" win="€0" name="Player 3" dealer="0"/>
+    <player bet="€0" seat="6" chips="€20" win="€0" name="Player 6" dealer="0"/>
+    <player bet="€0" seat="8" chips="€37,43" win="€0" name="Player 8" dealer="1"/>
+    <player bet="€2,75" seat="10" chips="€91,02" win="€0" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" sum="€0,25" type="1" no="1"/>
+   <action player="Player 1" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" type="0" no="3"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" type="0" no="4"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€0" type="0" no="5"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€1,25" type="23" no="6"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 SJ D3</cards>
+   <action player="Player 10" sum="€0" type="4" no="8"/>
+   <action player="Player 1" sum="€1,50" type="5" no="9"/>
+   <action player="Player 10" sum="€1,50" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="Player 10" sum="€0" type="4" no="11"/>
+   <action player="Player 1" sum="€4,84" type="5" no="12"/>
+   <action player="Player 10" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+</session>

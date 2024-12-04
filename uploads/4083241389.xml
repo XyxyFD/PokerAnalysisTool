@@ -1,0 +1,2584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083241389">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:48:20</duration>
+  <gamecount>72</gamecount>
+  <startdate>2022-09-12 00:30:39</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€91,88</bets>
+  <wins>€70,19</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€76,04</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3709712439">
+  <general>
+   <startdate>2022-09-12 00:30:39</startdate>
+   <players>
+    <player bet="€0,25" name="Player 3" win="€0" seat="3" dealer="0" chips="€52,35"/>
+    <player bet="€0,50" name="Player 5" win="€0,50" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="Player 6" win="€0" seat="6" dealer="0" chips="€51,66"/>
+    <player bet="€0" name="Player 10" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 3"/>
+   <action sum="€0,50" type="2" no="2" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 6"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 10"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3709712444">
+  <general>
+   <startdate>2022-09-12 00:30:52</startdate>
+   <players>
+    <player bet="€0" name="Player 3" win="€0" seat="3" dealer="1" chips="€52,10"/>
+    <player bet="€0,25" name="Player 5" win="€0" seat="5" dealer="0" chips="€67,70"/>
+    <player bet="€0,50" name="Player 6" win="€0,50" seat="6" dealer="0" chips="€51,66"/>
+    <player bet="€0" name="Player 10" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 5"/>
+   <action sum="€0,50" type="2" no="2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 5"/>
+  </round>
+ </game>
+ <game gamecode="3709712470">
+  <general>
+   <startdate>2022-09-12 00:31:26</startdate>
+   <players>
+    <player bet="€8,46" name="Player 3" win="€0" seat="3" dealer="0" chips="€52,10"/>
+    <player bet="€0" name="Player 5" win="€0" seat="5" dealer="1" chips="€67,45"/>
+    <player bet="€17,17" name="Player 6" win="€16,90" seat="6" dealer="0" chips="€51,91"/>
+    <player bet="€0,50" name="Player 8" win="€0" seat="8" dealer="0" chips="€20"/>
+    <player bet="€0" name="Player 10" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 6"/>
+   <action sum="€0,50" type="2" no="2" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€1,25" type="23" no="4" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€5" type="23" no="6" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 8"/>
+   <action sum="€3,75" type="3" no="8" player="Player 3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H10 D8</cards>
+   <action sum="€0" type="4" no="9" player="Player 6"/>
+   <action sum="€3,46" type="5" no="10" player="Player 3"/>
+   <action sum="€3,46" type="3" no="11" player="Player 6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€0" type="4" no="12" player="Player 6"/>
+   <action sum="€0" type="4" no="13" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€8,71" type="5" no="14" player="Player 6"/>
+   <action sum="€0" type="0" no="15" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3709712526">
+  <general>
+   <startdate>2022-09-12 00:32:32</startdate>
+   <players>
+    <player bet="€1,25" name="Player 3" win="€1,25" seat="3" dealer="0" chips="€50"/>
+    <player bet="€0" name="Player 5" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="Player 6" win="€0" seat="6" dealer="1" chips="€60,35"/>
+    <player bet="€0,25" name="Player 8" win="€0" seat="8" dealer="0" chips="€19,50"/>
+    <player bet="€0,50" name="Player 10" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 8"/>
+   <action sum="€0,50" type="2" no="2" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3709712539">
+  <general>
+   <startdate>2022-09-12 00:32:49</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€60,35"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€19,25"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 C6</cards>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709712557">
+  <general>
+   <startdate>2022-09-12 00:33:13</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€50,25"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€1,50" name="AllGlorytoJC" win="€1,25" seat="6" dealer="0" chips="€60,35"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,25"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€1,50" type="23" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D7 H5</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709712570">
+  <general>
+   <startdate>2022-09-12 00:33:34</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50,25"/>
+    <player bet="€0,50" name="PopDonkey" win="€0,50" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€61,10"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,25"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">HK C4</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709712594">
+  <general>
+   <startdate>2022-09-12 00:34:04</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,70"/>
+    <player bet="€0,50" name="AllGlorytoJC" win="€0,50" seat="6" dealer="0" chips="€61,10"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,25"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S5 H9</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="7" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709712614">
+  <general>
+   <startdate>2022-09-12 00:34:31</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€67,45"/>
+    <player bet="€0,25" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€61,35"/>
+    <player bet="€0,50" name="Dezwainh" win="€0,50" seat="8" dealer="0" chips="€19,25"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">DK S2</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="7" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709712641">
+  <general>
+   <startdate>2022-09-12 00:35:07</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="1" chips="€61,10"/>
+    <player bet="€0,50" name="Dezwainh" win="€0,97" seat="8" dealer="0" chips="€19,50"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 H7</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">DA D2</cards>
+   <action sum="€0,25" type="3" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">D10 CK</cards>
+   <action sum="€0" type="4" no="8" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S8 H3</cards>
+   <action sum="€0" type="4" no="9" player="Dezwainh"/>
+   <action sum="€0" type="4" no="10" player="BRUNZI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€0" type="4" no="11" player="Dezwainh"/>
+   <action sum="€0" type="4" no="12" player="BRUNZI"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action sum="€0" type="4" no="13" player="Dezwainh"/>
+   <action sum="€0" type="4" no="14" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709712672">
+  <general>
+   <startdate>2022-09-12 00:35:54</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€50"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€1,50" name="AllGlorytoJC" win="€1,25" seat="6" dealer="0" chips="€61,10"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€19,97"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€1,50" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C5 D9</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712705">
+  <general>
+   <startdate>2022-09-12 00:36:26</startdate>
+   <players>
+    <player bet="€4,50" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€7,47" name="MrJootnii" win="€8,73" seat="3" dealer="0" chips="€50"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€61,85"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,97"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D7 S7</cards>
+   <action sum="€1,50" type="23" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€4,50" type="23" no="8" player="MrJootnii"/>
+   <action sum="€3" type="3" no="9" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 DJ CA</cards>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+   <action sum="€2,97" type="5" no="11" player="MrJootnii"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709712857">
+  <general>
+   <startdate>2022-09-12 00:37:20</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€1,25" seat="1" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€54,23"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€67,45"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€61,85"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,97"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D9 HK</cards>
+   <action sum="€1,25" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="8" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709712886">
+  <general>
+   <startdate>2022-09-12 00:37:55</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€0" seat="1" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€53,98"/>
+    <player bet="€1,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€66,95"/>
+    <player bet="€3,75" name="AllGlorytoJC" win="€4,85" seat="6" dealer="0" chips="€61,85"/>
+    <player bet="€1,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,97"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="AllGlorytoJC"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,50" type="3" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H8 HQ</cards>
+   <action sum="€1,25" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1" type="3" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0,75" type="3" no="8" player="AllGlorytoJC"/>
+   <action sum="€0,75" type="3" no="9" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C9 D3</cards>
+   <action sum="€0" type="4" no="10" player="PopDonkey"/>
+   <action sum="€0" type="4" no="11" player="AllGlorytoJC"/>
+   <action sum="€0" type="4" no="12" player="Dezwainh"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action sum="€0" type="4" no="14" player="PopDonkey"/>
+   <action sum="€2,50" type="5" no="15" player="AllGlorytoJC"/>
+   <action sum="€0" type="0" no="16" player="Dezwainh"/>
+   <action sum="€0" type="0" no="17" player="13373678"/>
+   <action sum="€0" type="0" no="18" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709713040">
+  <general>
+   <startdate>2022-09-12 00:38:48</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€3,14" name="MrJootnii" win="€2,67" seat="3" dealer="0" chips="€53,98"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€65,70"/>
+    <player bet="€0,25" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€65,45"/>
+    <player bet="€1,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€18,72"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="AllGlorytoJC"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H6 H10</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="7" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,75" type="3" no="8" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S2 H9</cards>
+   <action sum="€0" type="4" no="9" player="Dezwainh"/>
+   <action sum="€1,89" type="5" no="10" player="MrJootnii"/>
+   <action sum="€0" type="0" no="11" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709713088">
+  <general>
+   <startdate>2022-09-12 00:39:40</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€1,25" name="MrJootnii" win="€1,25" seat="3" dealer="0" chips="€55,40"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="1" chips="€65,20"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€17,47"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 H3</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="6" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709713106">
+  <general>
+   <startdate>2022-09-12 00:40:02</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€10,96" name="MrJootnii" win="€9,25" seat="3" dealer="0" chips="€56,15"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€4,39" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€65,20"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€17,22"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0,50" type="3" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H5 DK</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€2" type="3" no="9" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 CQ H2</cards>
+   <action sum="€0" type="4" no="10" player="MrJootnii"/>
+   <action sum="€1,89" type="5" no="11" player="AllGlorytoJC"/>
+   <action sum="€1,89" type="3" no="12" player="MrJootnii"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€0" type="4" no="13" player="MrJootnii"/>
+   <action sum="€0" type="4" no="14" player="AllGlorytoJC"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€6,57" type="5" no="15" player="MrJootnii"/>
+   <action sum="€0" type="0" no="16" player="AllGlorytoJC"/>
+  </round>
+ </game>
+ <game gamecode="3709713145">
+  <general>
+   <startdate>2022-09-12 00:41:03</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€8,38" name="MrJootnii" win="€9,94" seat="3" dealer="0" chips="€61,01"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€60,81"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€17,22"/>
+    <player bet="€5" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="4" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,25" type="23" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SQ C8</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€5" type="23" no="8" player="MrJootnii"/>
+   <action sum="€3,75" type="3" no="9" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HK CK</cards>
+   <action sum="€3,38" type="5" no="10" player="MrJootnii"/>
+   <action sum="€0" type="0" no="11" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709713178">
+  <general>
+   <startdate>2022-09-12 00:41:48</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€1,25" seat="1" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€65,95"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€17,22"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+    <player bet="€0" name="AllGlorytoJC" win="€0" seat="6" dealer="0" chips="€60,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AllGlorytoJC">X X</cards>
+   <action sum="€0" type="0" no="3" player="AllGlorytoJC"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C9 DQ</cards>
+   <action sum="€1,25" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="8" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709713205">
+  <general>
+   <startdate>2022-09-12 00:42:20</startdate>
+   <players>
+    <player bet="€2,15" name="13373678" win="€0" seat="1" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€65,70"/>
+    <player bet="€0,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,20"/>
+    <player bet="€3,65" name="Dezwainh" win="€4,42" seat="8" dealer="0" chips="€17,22"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H6 HA</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,75" type="3" no="7" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK C9 S3</cards>
+   <action sum="€0" type="4" no="8" player="Dezwainh"/>
+   <action sum="€0,90" type="5" no="9" player="13373678"/>
+   <action sum="€0,90" type="3" no="10" player="Dezwainh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" no="11" player="Dezwainh"/>
+   <action sum="€0" type="4" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action sum="€1,50" type="5" no="13" player="Dezwainh"/>
+   <action sum="€0" type="0" no="14" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713254">
+  <general>
+   <startdate>2022-09-12 00:43:24</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€65,70"/>
+    <player bet="€1,50" name="PopDonkey" win="€1,25" seat="5" dealer="1" chips="€64,95"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€19,49"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 CQ</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709713284">
+  <general>
+   <startdate>2022-09-12 00:43:58</startdate>
+   <players>
+    <player bet="€5,50" name="13373678" win="€2,25" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€1" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€19,24"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€1" type="23" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">HA CJ</cards>
+   <action sum="€5,50" type="23" no="7" player="13373678"/>
+   <action sum="€0" type="0" no="8" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709713310">
+  <general>
+   <startdate>2022-09-12 00:44:32</startdate>
+   <players>
+    <player bet="€1,50" name="13373678" win="€1" seat="1" dealer="0" chips="€51,25"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€18,24"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S7 C7</cards>
+   <action sum="€1,50" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709713339">
+  <general>
+   <startdate>2022-09-12 00:44:57</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€1,25" seat="1" dealer="1" chips="€51,75"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€65,20"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€65,70"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€18,24"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S9 HK</cards>
+   <action sum="€1,25" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="7" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709713566">
+  <general>
+   <startdate>2022-09-12 00:45:31</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€52,50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€64,95"/>
+    <player bet="€1,50" name="PopDonkey" win="€2,91" seat="5" dealer="0" chips="€65,20"/>
+    <player bet="€1,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€18,24"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H8 H5</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">C3 H3</cards>
+   <action sum="€1,50" type="23" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">HA D10</cards>
+   <action sum="€1" type="3" no="8" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S9 S5</cards>
+   <action sum="€0" type="4" no="9" player="PopDonkey"/>
+   <action sum="€0" type="4" no="10" player="fristlos"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" type="4" no="11" player="PopDonkey"/>
+   <action sum="€0" type="4" no="12" player="fristlos"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action sum="€0" type="4" no="13" player="PopDonkey"/>
+   <action sum="€0" type="4" no="14" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709713598">
+  <general>
+   <startdate>2022-09-12 00:46:13</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€52,50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€64,95"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€66,61"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="Dezwainh" win="€0,50" seat="8" dealer="0" chips="€18,24"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H9 CA</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709713612">
+  <general>
+   <startdate>2022-09-12 00:46:30</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€52,50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€64,95"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€66,61"/>
+    <player bet="€1,25" name="fristlos" win="€1,25" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€18,49"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 S7</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,25" type="23" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709713645">
+  <general>
+   <startdate>2022-09-12 00:47:08</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€0" seat="1" dealer="0" chips="€52,50"/>
+    <player bet="€7,01" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€64,95"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€66,61"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50,75"/>
+    <player bet="€17,25" name="Dezwainh" win="€15,05" seat="8" dealer="1" chips="€18,24"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€1,25" type="3" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">DA D9</cards>
+   <action sum="€0,75" type="3" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C6 S9</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€2,76" type="5" no="10" player="MrJootnii"/>
+   <action sum="€2,76" type="3" no="11" player="Dezwainh"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" no="13" player="MrJootnii"/>
+   <action sum="€3" type="5" no="14" player="Dezwainh"/>
+   <action sum="€3" type="3" no="15" player="MrJootnii"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€0" type="4" no="16" player="MrJootnii"/>
+   <action sum="€10,24" type="5" no="17" player="Dezwainh"/>
+   <action sum="€0" type="0" no="18" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709713707">
+  <general>
+   <startdate>2022-09-12 00:48:18</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€51,25"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€57,94"/>
+    <player bet="€19,50" name="PopDonkey" win="€17,25" seat="5" dealer="0" chips="€66,61"/>
+    <player bet="€1,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€26,28"/>
+    <player bet="€7,50" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,50" type="3" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€7,50" type="23" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H6 H8</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+   <action sum="€19,50" type="23" no="9" player="PopDonkey"/>
+   <action sum="€0" type="0" no="10" player="fristlos"/>
+   <action sum="€0" type="0" no="11" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709713747">
+  <general>
+   <startdate>2022-09-12 00:49:11</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€51"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€57,44"/>
+    <player bet="€0,50" name="PopDonkey" win="€0,50" seat="5" dealer="0" chips="€76,36"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€26,28"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S2 H8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709713768">
+  <general>
+   <startdate>2022-09-12 00:49:28</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€51"/>
+    <player bet="€2,50" name="MrJootnii" win="€1,75" seat="3" dealer="1" chips="€57,19"/>
+    <player bet="€0,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€76,61"/>
+    <player bet="€0,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€26,28"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,50" type="3" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H8 H4</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="8" player="fristlos"/>
+   <action sum="€0" type="0" no="9" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709713797">
+  <general>
+   <startdate>2022-09-12 00:50:07</startdate>
+   <players>
+    <player bet="€9,05" name="13373678" win="€5,23" seat="1" dealer="0" chips="€51"/>
+    <player bet="€2,32" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€58,44"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€76,36"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€25,78"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SK HK</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="3" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="8" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S2 SQ</cards>
+   <action sum="€1,07" type="5" no="9" player="13373678"/>
+   <action sum="€1,07" type="3" no="10" player="MrJootnii"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+   <action sum="€0" type="4" no="12" player="MrJootnii"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action sum="€6,73" type="5" no="13" player="13373678"/>
+   <action sum="€0" type="0" no="14" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709713873">
+  <general>
+   <startdate>2022-09-12 00:51:23</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€0" seat="1" dealer="0" chips="€53,91"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,12"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€76,36"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€25,28"/>
+    <player bet="€5,50" name="BRUNZI" win="€2,75" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA CQ</cards>
+   <action sum="€1,25" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€5,50" type="23" no="8" player="BRUNZI"/>
+   <action sum="€0" type="0" no="9" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713901">
+  <general>
+   <startdate>2022-09-12 00:51:56</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0" seat="1" dealer="0" chips="€52,66"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,12"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€76,36"/>
+    <player bet="€1,25" name="fristlos" win="€1,25" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€25,03"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€51,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,25" type="23" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C2 D6</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713925">
+  <general>
+   <startdate>2022-09-12 00:52:21</startdate>
+   <players>
+    <player bet="€2,50" name="13373678" win="€0" seat="1" dealer="0" chips="€52,16"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,12"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€76,36"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50,75"/>
+    <player bet="€25,03" name="Dezwainh" win="€5,50" seat="8" dealer="0" chips="€25,03"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,50" type="3" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">CQ H10</cards>
+   <action sum="€2,50" type="23" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+   <action sum="€25,03" type="23" no="9" player="Dezwainh"/>
+   <action sum="€0" type="0" no="10" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709713969">
+  <general>
+   <startdate>2022-09-12 00:53:10</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,62"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€76,36"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€28,03"/>
+    <player bet="€1,25" name="BRUNZI" win="€1,25" seat="10" dealer="0" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,25" type="23" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C4 H7</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="8" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709713983">
+  <general>
+   <startdate>2022-09-12 00:53:30</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€3,14" name="MrJootnii" win="€2,67" seat="3" dealer="1" chips="€55,37"/>
+    <player bet="€0,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€75,86"/>
+    <player bet="€1,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50,75"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€28,03"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D10 S4</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0,75" type="3" no="8" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C4 HK</cards>
+   <action sum="€0" type="4" no="9" player="fristlos"/>
+   <action sum="€1,89" type="5" no="10" player="MrJootnii"/>
+   <action sum="€0" type="0" no="11" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709714024">
+  <general>
+   <startdate>2022-09-12 00:54:14</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,79"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€75,61"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€1,12" name="Dezwainh" win="€2,42" seat="8" dealer="0" chips="€28,03"/>
+    <player bet="€1,12" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">DA DK</cards>
+   <action sum="€1,12" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C6 H9</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">C3 C4</cards>
+   <action sum="€0,62" type="3" no="8" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 SJ CQ</cards>
+   <action sum="€0" type="4" no="9" player="Dezwainh"/>
+   <action sum="€0" type="4" no="10" player="BRUNZI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" type="4" no="11" player="Dezwainh"/>
+   <action sum="€0" type="4" no="12" player="BRUNZI"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€0" type="4" no="13" player="Dezwainh"/>
+   <action sum="€0" type="4" no="14" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709714081">
+  <general>
+   <startdate>2022-09-12 00:55:26</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,79"/>
+    <player bet="€1,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€75,61"/>
+    <player bet="€5,25" name="fristlos" win="€3,75" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,33"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 S6</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€5,25" type="23" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+   <action sum="€0" type="0" no="9" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709714106">
+  <general>
+   <startdate>2022-09-12 00:55:56</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,79"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€74,11"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€52,25"/>
+    <player bet="€0,50" name="Dezwainh" win="€1,22" seat="8" dealer="1" chips="€29,08"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">CQ CA</cards>
+   <action sum="€0,50" type="3" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C7 D2</cards>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 SK C8</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€0" type="4" no="10" player="Dezwainh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+   <action sum="€0" type="4" no="12" player="Dezwainh"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+   <action sum="€0" type="4" no="14" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709714157">
+  <general>
+   <startdate>2022-09-12 00:56:51</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,79"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€74,11"/>
+    <player bet="€1,50" name="fristlos" win="€1,25" seat="6" dealer="0" chips="€52,25"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,80"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,50" type="23" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SK D2</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709714189">
+  <general>
+   <startdate>2022-09-12 00:57:25</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,29"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€74,11"/>
+    <player bet="€1,50" name="fristlos" win="€1,25" seat="6" dealer="0" chips="€53"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,80"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,50" type="23" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D6 S8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="8" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709714212">
+  <general>
+   <startdate>2022-09-12 00:57:51</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€56,04"/>
+    <player bet="€1,68" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€73,61"/>
+    <player bet="€4,28" name="fristlos" win="€3,75" seat="6" dealer="0" chips="€53,75"/>
+    <player bet="€0,50" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,80"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,50" type="3" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H3 D8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0,25" type="3" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="4" no="8" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 SA SJ</cards>
+   <action sum="€1,18" type="5" no="9" player="PopDonkey"/>
+   <action sum="€3,78" type="23" no="10" player="fristlos"/>
+   <action sum="€0" type="0" no="11" player="Dezwainh"/>
+   <action sum="€0" type="0" no="12" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3709714238">
+  <general>
+   <startdate>2022-09-12 00:58:22</startdate>
+   <players>
+    <player bet="€5,56" name="13373678" win="€4,42" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,04"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€71,93"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,82"/>
+    <player bet="€2,15" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,30"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D9 DJ</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,75" type="3" no="8" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DA D7</cards>
+   <action sum="€0" type="4" no="9" player="Dezwainh"/>
+   <action sum="€0,90" type="5" no="10" player="13373678"/>
+   <action sum="€0,90" type="3" no="11" player="Dezwainh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action sum="€0" type="4" no="12" player="Dezwainh"/>
+   <action sum="€3,41" type="5" no="13" player="13373678"/>
+   <action sum="€0" type="0" no="14" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709714968">
+  <general>
+   <startdate>2022-09-12 00:59:25</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€52,27"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,04"/>
+    <player bet="€1,50" name="PopDonkey" win="€1,25" seat="5" dealer="0" chips="€71,93"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="1" chips="€55,57"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€27,15"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 H10</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709714989">
+  <general>
+   <startdate>2022-09-12 00:59:52</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="1" dealer="0" chips="€52,27"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,04"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€72,68"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,57"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€26,90"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 HJ</cards>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715007">
+  <general>
+   <startdate>2022-09-12 01:00:12</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€52,52"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€56,04"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€72,68"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,57"/>
+    <player bet="€2,50" name="Dezwainh" win="€5,58" seat="8" dealer="0" chips="€26,90"/>
+    <player bet="€2,50" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">C2 C7</cards>
+   <action sum="€0,50" type="3" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">HQ CK</cards>
+   <action sum="€2,50" type="23" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D6 S2</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+   <action sum="€2" type="3" no="9" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S7 D9</cards>
+   <action sum="€0" type="4" no="10" player="Dezwainh"/>
+   <action sum="€0" type="4" no="11" player="BRUNZI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€0" type="4" no="12" player="Dezwainh"/>
+   <action sum="€0" type="4" no="13" player="BRUNZI"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€0" type="4" no="14" player="Dezwainh"/>
+   <action sum="€0" type="4" no="15" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715046">
+  <general>
+   <startdate>2022-09-12 01:00:53</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€52,27"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,54"/>
+    <player bet="€0,50" name="PopDonkey" win="€0,50" seat="5" dealer="0" chips="€72,68"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,57"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,98"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C3 D4</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709715068">
+  <general>
+   <startdate>2022-09-12 01:01:12</startdate>
+   <players>
+    <player bet="€5,25" name="13373678" win="€0" seat="1" dealer="0" chips="€52,27"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€55,29"/>
+    <player bet="€5,25" name="PopDonkey" win="€10,67" seat="5" dealer="0" chips="€72,93"/>
+    <player bet="€0,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,57"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,98"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="PopDonkey"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">DJ SK</cards>
+   <action sum="€1,25" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">HA HK</cards>
+   <action sum="€1" type="3" no="7" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="8" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 HJ S10</cards>
+   <action sum="€0" type="4" no="9" player="PopDonkey"/>
+   <action sum="€1,50" type="5" no="10" player="13373678"/>
+   <action sum="€1,50" type="3" no="11" player="PopDonkey"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€0" type="4" no="12" player="PopDonkey"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€2,50" type="5" no="14" player="PopDonkey"/>
+   <action sum="€2,50" type="3" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715122">
+  <general>
+   <startdate>2022-09-12 01:02:09</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,29"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="1" chips="€78,35"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€55,07"/>
+    <player bet="€0,50" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,98"/>
+    <player bet="€1,12" name="BRUNZI" win="€1,25" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,12" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">DJ HQ</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="6" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="8" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709715145">
+  <general>
+   <startdate>2022-09-12 01:02:35</startdate>
+   <players>
+    <player bet="€17,75" name="13373678" win="€24,73" seat="1" dealer="0" chips="€50"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,29"/>
+    <player bet="€1,25" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€78,35"/>
+    <player bet="€11,75" name="fristlos" win="€0" seat="6" dealer="1" chips="€54,82"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,48"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA SK</cards>
+   <action sum="€1,25" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,25" type="3" no="5" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€5,75" type="23" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="7" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+   <action sum="€11,75" type="23" no="9" player="13373678"/>
+   <action sum="€0" type="0" no="10" player="PopDonkey"/>
+   <action sum="€6" type="3" no="11" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 HQ CK</cards>
+   <action sum="€6" type="5" no="12" player="13373678"/>
+   <action sum="€0" type="0" no="13" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715197">
+  <general>
+   <startdate>2022-09-12 01:03:30</startdate>
+   <players>
+    <player bet="€10,87" name="13373678" win="€12,85" seat="1" dealer="0" chips="€62,98"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,29"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€77,10"/>
+    <player bet="€6,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€29,23"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="4" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,25" type="23" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C10 D10</cards>
+   <action sum="€6,50" type="23" no="8" player="13373678"/>
+   <action sum="€5,25" type="3" no="9" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 DA SQ</cards>
+   <action sum="€4,37" type="5" no="10" player="13373678"/>
+   <action sum="€0" type="0" no="11" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715307">
+  <general>
+   <startdate>2022-09-12 01:04:18</startdate>
+   <players>
+    <player bet="€1,50" name="13373678" win="€1" seat="1" dealer="0" chips="€69,33"/>
+    <player bet="€0,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€55,29"/>
+    <player bet="€0" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€77,10"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,23"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="3" player="PopDonkey"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S10 D10</cards>
+   <action sum="€1,50" type="23" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="8" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709715330">
+  <general>
+   <startdate>2022-09-12 01:04:44</startdate>
+   <players>
+    <player bet="€4,50" name="13373678" win="€9,46" seat="1" dealer="1" chips="€69,83"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€54,79"/>
+    <player bet="€4,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,23"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="PopDonkey" win="€0" seat="5" dealer="0" chips="€77,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">S8 C8</cards>
+   <action sum="€1,50" type="23" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">D10 C10</cards>
+   <action sum="€4,50" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" no="8" player="PopDonkey"/>
+   <action sum="€3" type="3" no="9" player="fristlos"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D6 DQ</cards>
+   <action sum="€0" type="4" no="10" player="fristlos"/>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" type="4" no="12" player="fristlos"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" type="4" no="14" player="fristlos"/>
+   <action sum="€0" type="4" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715414">
+  <general>
+   <startdate>2022-09-12 01:06:21</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€54,54"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€1,12" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€29,23"/>
+    <player bet="€3,12" name="BRUNZI" win="€2,42" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Dezwainh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,12" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SJ D8</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,62" type="3" no="7" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK D9 H5</cards>
+   <action sum="€0" type="4" no="8" player="Dezwainh"/>
+   <action sum="€0" type="4" no="9" player="BRUNZI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" type="4" no="10" player="Dezwainh"/>
+   <action sum="€0" type="4" no="11" player="BRUNZI"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" type="4" no="12" player="Dezwainh"/>
+   <action sum="€2" type="5" no="13" player="BRUNZI"/>
+   <action sum="€0" type="0" no="14" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709715456">
+  <general>
+   <startdate>2022-09-12 01:07:12</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€54,54" name="MrJootnii" win="€41,34" seat="3" dealer="0" chips="€54,54"/>
+    <player bet="€20,94" name="fristlos" win="€0" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€28,11"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€51,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Dezwainh"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 HJ</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€4,50" type="23" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="6" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <action sum="€3,25" type="3" no="8" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D6 S9</cards>
+   <action sum="€0" type="4" no="9" player="MrJootnii"/>
+   <action sum="€0" type="4" no="10" player="fristlos"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€6,72" type="5" no="11" player="MrJootnii"/>
+   <action sum="€16,44" type="23" no="12" player="fristlos"/>
+   <action sum="€50,04" type="23" no="13" player="MrJootnii"/>
+   <action sum="€0" type="0" no="14" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715501">
+  <general>
+   <startdate>2022-09-12 01:08:21</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€74,94"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="1" chips="€27,86"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,80"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 SK</cards>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="5" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715510">
+  <general>
+   <startdate>2022-09-12 01:08:34</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€75,04"/>
+    <player bet="€1,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€74,94"/>
+    <player bet="€3,12" name="fristlos" win="€3,16" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€27,86"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,50" type="23" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SA D3</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1" type="3" no="7" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 HA S7</cards>
+   <action sum="€0" type="4" no="8" player="MrJootnii"/>
+   <action sum="€1,62" type="5" no="9" player="fristlos"/>
+   <action sum="€0" type="0" no="10" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709715542">
+  <general>
+   <startdate>2022-09-12 01:09:15</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€74,79"/>
+    <player bet="€2,50" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€73,44"/>
+    <player bet="€0,50" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€51,66"/>
+    <player bet="€2,50" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€27,86"/>
+    <player bet="€7,50" name="BRUNZI" win="€7,76" seat="10" dealer="0" chips="€50,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0,50" type="3" no="4" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">SK H8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€2,25" type="3" no="7" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="8" player="mofo6000"/>
+   <action sum="€2" type="3" no="9" player="Dezwainh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S7 C8</cards>
+   <action sum="€0" type="4" no="10" player="MrJootnii"/>
+   <action sum="€0" type="4" no="11" player="Dezwainh"/>
+   <action sum="€5" type="5" no="12" player="BRUNZI"/>
+   <action sum="€0" type="0" no="13" player="MrJootnii"/>
+   <action sum="€0" type="0" no="14" player="Dezwainh"/>
+  </round>
+ </game>
+ <game gamecode="3709715570">
+  <general>
+   <startdate>2022-09-12 01:09:52</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€1" name="MrJootnii" win="€1,25" seat="3" dealer="1" chips="€70,94"/>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€51,66"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€55,81"/>
+    <player bet="€0" name="Dezwainh" win="€0" seat="8" dealer="0" chips="€25,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Dezwainh">X X</cards>
+   <action sum="€0" type="0" no="3" player="Dezwainh"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H5 S8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1" type="23" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="7" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="8" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715598">
+  <general>
+   <startdate>2022-09-12 01:10:21</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€71,69"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="1" chips="€50"/>
+    <player bet="€1,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€51,16"/>
+    <player bet="€3" name="BRUNZI" win="€2,91" seat="10" dealer="0" chips="€55,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 H9</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="5" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€1,50" type="23" no="6" player="fristlos"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1" type="3" no="7" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D2 C2</cards>
+   <action sum="€0" type="4" no="8" player="fristlos"/>
+   <action sum="€1,50" type="5" no="9" player="BRUNZI"/>
+   <action sum="€0" type="0" no="10" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715624">
+  <general>
+   <startdate>2022-09-12 01:10:57</startdate>
+   <players>
+    <player bet="€6,50" name="13373678" win="€2,75" seat="1" dealer="0" chips="€74,79"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€71,69"/>
+    <player bet="€1,25" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€57,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€1,25" type="23" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="5" player="fristlos"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">CA DQ</cards>
+   <action sum="€6,50" type="23" no="7" player="13373678"/>
+   <action sum="€0" type="0" no="8" player="mofo6000"/>
+  </round>
+ </game>
+ <game gamecode="3709715731">
+  <general>
+   <startdate>2022-09-12 01:11:39</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€76,29"/>
+    <player bet="€3,03" name="MrJootnii" win="€6,12" seat="3" dealer="0" chips="€71,69"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€3,03" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€56,97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="4" player="fristlos"/>
+   <cards type="Pocket" player="BRUNZI">S7 SK</cards>
+   <action sum="€1,25" type="23" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H4 CQ</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">H5 C5</cards>
+   <action sum="€0,75" type="3" no="7" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 HJ H7</cards>
+   <action sum="€0" type="4" no="8" player="MrJootnii"/>
+   <action sum="€0" type="4" no="9" player="BRUNZI"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" type="4" no="10" player="MrJootnii"/>
+   <action sum="€1,78" type="5" no="11" player="BRUNZI"/>
+   <action sum="€1,78" type="3" no="12" player="MrJootnii"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€0" type="4" no="13" player="MrJootnii"/>
+   <action sum="€0" type="4" no="14" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715789">
+  <general>
+   <startdate>2022-09-12 01:12:41</startdate>
+   <players>
+    <player bet="€1,25" name="13373678" win="€1,25" seat="1" dealer="1" chips="€76,04"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€74,78"/>
+    <player bet="€0,50" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€53,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">CK S8</cards>
+   <action sum="€1,25" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="7" player="mofo6000"/>
+  </round>
+ </game>
+ <game gamecode="3709715807">
+  <general>
+   <startdate>2022-09-12 01:13:03</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€76,79"/>
+    <player bet="€1,25" name="MrJootnii" win="€1,25" seat="3" dealer="1" chips="€74,53"/>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€53,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S4 D9</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="6" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715839">
+  <general>
+   <startdate>2022-09-12 01:13:32</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€76,79"/>
+    <player bet="€13,98" name="MrJootnii" win="€13,34" seat="3" dealer="0" chips="€75,28"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€4,50" name="Lilibet" win="€0" seat="8" dealer="0" chips="€50"/>
+    <player bet="€4,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€53,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,12" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">H6 C10</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€4,50" type="23" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="6" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€4" type="3" no="8" player="Lilibet"/>
+   <action sum="€3,38" type="3" no="9" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S5 H3</cards>
+   <action sum="€0" type="4" no="10" player="Lilibet"/>
+   <action sum="€0" type="4" no="11" player="BRUNZI"/>
+   <action sum="€9,48" type="5" no="12" player="MrJootnii"/>
+   <action sum="€0" type="0" no="13" player="Lilibet"/>
+   <action sum="€0" type="0" no="14" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715884">
+  <general>
+   <startdate>2022-09-12 01:14:34</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€76,79"/>
+    <player bet="€7,71" name="MrJootnii" win="€15,68" seat="3" dealer="0" chips="€84,12"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€7,71" name="fristlos" win="€0" seat="6" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="Lilibet" win="€0" seat="8" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 C4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">DK DJ</cards>
+   <action sum="€1,25" type="23" no="4" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="5" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">D5 D4</cards>
+   <action sum="€4,50" type="23" no="6" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="7" player="Lilibet"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="8" player="BRUNZI"/>
+   <action sum="€3,25" type="3" no="9" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 H4 CJ</cards>
+   <action sum="€0" type="4" no="10" player="MrJootnii"/>
+   <action sum="€0" type="4" no="11" player="fristlos"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€3,21" type="5" no="12" player="MrJootnii"/>
+   <action sum="€3,21" type="3" no="13" player="fristlos"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action sum="€0" type="4" no="14" player="MrJootnii"/>
+   <action sum="€0" type="4" no="15" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715936">
+  <general>
+   <startdate>2022-09-12 01:15:50</startdate>
+   <players>
+    <player bet="€0,50" name="13373678" win="€0" seat="1" dealer="0" chips="€76,79"/>
+    <player bet="€1,25" name="MrJootnii" win="€1,25" seat="3" dealer="0" chips="€92,09"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="8" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="5" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="6" player="Lilibet"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="7" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">CQ S7</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715954">
+  <general>
+   <startdate>2022-09-12 01:16:13</startdate>
+   <players>
+    <player bet="€0,25" name="13373678" win="€0" seat="1" dealer="0" chips="€76,29"/>
+    <player bet="€8,97" name="MrJootnii" win="€17,64" seat="3" dealer="0" chips="€92,84"/>
+    <player bet="€0" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€8,97" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="8" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">CK SK</cards>
+   <action sum="€1,50" type="23" no="4" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S9 S3</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">C7 CJ</cards>
+   <action sum="€1" type="3" no="8" player="MrJootnii"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D7 C2</cards>
+   <action sum="€0" type="4" no="9" player="MrJootnii"/>
+   <action sum="€0" type="4" no="10" player="fristlos"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€2,24" type="5" no="11" player="MrJootnii"/>
+   <action sum="€7,47" type="23" no="12" player="fristlos"/>
+   <action sum="€5,23" type="3" no="13" player="MrJootnii"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" type="4" no="14" player="MrJootnii"/>
+   <action sum="€0" type="4" no="15" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709715986">
+  <general>
+   <startdate>2022-09-12 01:16:54</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="1" chips="€76,04"/>
+    <player bet="€0,25" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€101,51"/>
+    <player bet="€0,50" name="mofo6000" win="€0,50" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="8" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="MrJootnii"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="3" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">C5 D8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="7" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3709715998">
+  <general>
+   <startdate>2022-09-12 01:17:17</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€76,04"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="1" chips="€101,26"/>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="5" dealer="0" chips="€50,25"/>
+    <player bet="€29,82" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€29,82" name="Lilibet" win="€58,39" seat="8" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="fristlos"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">DJ DA</cards>
+   <action sum="€1,27" type="23" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S7 C9</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="6" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="7" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">DQ CQ</cards>
+   <action sum="€4,06" type="23" no="8" player="fristlos"/>
+   <action sum="€2,79" type="3" no="9" player="Lilibet"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S5 C8</cards>
+   <action sum="€2,76" type="5" no="10" player="fristlos"/>
+   <action sum="€2,76" type="3" no="11" player="Lilibet"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action sum="€0" type="4" no="12" player="fristlos"/>
+   <action sum="€7,50" type="5" no="13" player="Lilibet"/>
+   <action sum="€7,50" type="3" no="14" player="fristlos"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" type="4" no="15" player="fristlos"/>
+   <action sum="€15,50" type="5" no="16" player="Lilibet"/>
+   <action sum="€15,50" type="3" no="17" player="fristlos"/>
+  </round>
+ </game>
+ <game gamecode="3709716100">
+  <general>
+   <startdate>2022-09-12 01:18:32</startdate>
+   <players>
+    <player bet="€0" name="13373678" win="€0" seat="1" dealer="0" chips="€76,04"/>
+    <player bet="€0" name="MrJootnii" win="€0" seat="3" dealer="0" chips="€101,26"/>
+    <player bet="€1,14" name="mofo6000" win="€1,25" seat="5" dealer="1" chips="€50"/>
+    <player bet="€0,25" name="fristlos" win="€0" seat="6" dealer="0" chips="€50"/>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="8" dealer="0" chips="€78,57"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="fristlos"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="13373678">S2 S9</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" type="0" no="5" player="MrJootnii"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€1,14" type="23" no="6" player="mofo6000"/>
+   <cards type="Pocket" player="fristlos">X X</cards>
+   <action sum="€0" type="0" no="7" player="fristlos"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="8" player="Lilibet"/>
+  </round>
+ </game>
+</session>

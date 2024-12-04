@@ -1,0 +1,4477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080798208">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>01:15:27</duration>
+  <gamecount>153</gamecount>
+  <startdate>2022-08-09 18:25:33</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€999,94</bets>
+  <wins>€621,64</wins>
+  <chipsin>€104,03</chipsin>
+  <chipsout>€100,35</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701377042">
+  <general>
+   <startdate>2022-08-09 18:25:33</startdate>
+   <players>
+    <player chips="€101,34" dealer="0" bet="€1" name="Player 1" seat="1" win="€1"/>
+    <player chips="€76,50" dealer="1" bet="€0" name="Player 3" seat="3" win="€0"/>
+    <player chips="€105,10" dealer="0" bet="€0,50" name="Player 5" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,50"/>
+   <action player="Player 1" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="3" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701377059">
+  <general>
+   <startdate>2022-08-09 18:25:44</startdate>
+   <players>
+    <player chips="€101,84" dealer="0" bet="€0,50" name="Player 1" seat="1" win="€0"/>
+    <player chips="€76,50" dealer="0" bet="€1" name="Player 3" seat="3" win="€1"/>
+    <player chips="€104,60" dealer="1" bet="€0" name="Player 5" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" no="1" sum="€0,50"/>
+   <action player="Player 3" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="3" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701377084">
+  <general>
+   <startdate>2022-08-09 18:25:55</startdate>
+   <players>
+    <player chips="€101,34" dealer="1" bet="€0" name="Player 1" seat="1" win="€0"/>
+    <player chips="€77" dealer="0" bet="€0,50" name="Player 3" seat="3" win="€0"/>
+    <player chips="€104,60" dealer="0" bet="€1" name="Player 5" seat="5" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" type="1" no="1" sum="€0,50"/>
+   <action player="Player 5" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="3" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701377099">
+  <general>
+   <startdate>2022-08-09 18:26:03</startdate>
+   <players>
+    <player chips="€101,34" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€76,50" dealer="1" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€105,10" dealer="0" bet="€3,25" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€100" dealer="0" bet="€5,72" name="13373678" seat="6" win="€7,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="5" sum="€0,50"/>
+   <cards player="13373678" type="Pocket">C7 H9</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D2 C5</cards>
+   <action player="Hikaru" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="5" no="8" sum="€2,25"/>
+   <action player="Oopperankummitus" type="0" no="9" sum="€0"/>
+   <action player="Hikaru" type="3" no="10" sum="€2,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="5" no="12" sum="€2,47"/>
+   <action player="Hikaru" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701377180">
+  <general>
+   <startdate>2022-08-09 18:26:55</startdate>
+   <players>
+    <player chips="€101,34" dealer="0" bet="€1" name="oliwood" seat="1" win="€0"/>
+    <player chips="€75,50" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101,85" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€104,03" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">HK D4</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701377219">
+  <general>
+   <startdate>2022-08-09 18:27:15</startdate>
+   <players>
+    <player chips="€100,34" dealer="0" bet="€30,40" name="oliwood" seat="1" win="€31,04"/>
+    <player chips="€75,50" dealer="0" bet="€8" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€103,35" dealer="0" bet="€8" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€103,53" dealer="1" bet="€8" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S2 D2</cards>
+   <action player="13373678" type="3" no="4" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="5" sum="€8"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="6" sum="€7"/>
+   <action player="Hikaru" type="3" no="7" sum="€5,50"/>
+   <action player="13373678" type="3" no="8" sum="€5,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D5 SQ</cards>
+   <action player="oliwood" type="5" no="9" sum="€22,40"/>
+   <action player="Oopperankummitus" type="0" no="10" sum="€0"/>
+   <action player="Hikaru" type="0" no="11" sum="€0"/>
+   <action player="13373678" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378382">
+  <general>
+   <startdate>2022-08-09 18:28:12</startdate>
+   <players>
+    <player chips="€123,38" dealer="1" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€67,50" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="0" bet="€16,92" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€100" dealer="0" bet="€40,10" name="13373678" seat="6" win="€33,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK S7</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D8 H10</cards>
+   <action player="Hikaru" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action player="Hikaru" type="5" no="9" sum="€4,12"/>
+   <action player="13373678" type="3" no="10" sum="€4,12"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action player="Hikaru" type="5" no="11" sum="€10,30"/>
+   <action player="13373678" type="23" no="12" sum="€33,48"/>
+   <action player="Hikaru" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378527">
+  <general>
+   <startdate>2022-08-09 18:29:35</startdate>
+   <players>
+    <player chips="€123,38" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€67" dealer="1" bet="€4" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="0" bet="€4" name="Hikaru" seat="5" win="€8,73"/>
+    <player chips="€116,38" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">C5 S5</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">HJ CJ</cards>
+   <action player="Hikaru" type="23" no="5" sum="€4"/>
+   <cards player="13373678" type="Pocket">CA S8</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <action player="Oopperankummitus" type="3" no="7" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK HA SA</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="Hikaru" type="4" no="10" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="Hikaru" type="4" no="12" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378581">
+  <general>
+   <startdate>2022-08-09 18:30:05</startdate>
+   <players>
+    <player chips="€123,38" dealer="0" bet="€1" name="oliwood" seat="1" win="€1"/>
+    <player chips="€63" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€104,73" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€115,38" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C2 HK</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378599">
+  <general>
+   <startdate>2022-08-09 18:30:14</startdate>
+   <players>
+    <player chips="€123,88" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€63" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€104,73" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€114,88" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C8 SA</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378629">
+  <general>
+   <startdate>2022-08-09 18:30:28</startdate>
+   <players>
+    <player chips="€123,38" dealer="1" bet="€6,67" name="oliwood" seat="1" win="€6,06"/>
+    <player chips="€62" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€106,23" dealer="0" bet="€2,87" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€114,88" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 CJ</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="3" no="4" sum="€1"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 CA CK</cards>
+   <action player="Hikaru" type="4" no="7" sum="€0"/>
+   <action player="oliwood" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="Hikaru" type="5" no="9" sum="€1,87"/>
+   <action player="oliwood" type="23" no="10" sum="€5,67"/>
+   <action player="Hikaru" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378687">
+  <general>
+   <startdate>2022-08-09 18:31:01</startdate>
+   <players>
+    <player chips="€126,57" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€61,50" dealer="1" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€103,36" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€114,88" dealer="0" bet="€1" name="13373678" seat="6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ S5</cards>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378715">
+  <general>
+   <startdate>2022-08-09 18:31:22</startdate>
+   <players>
+    <player chips="€126,57" dealer="0" bet="€1" name="oliwood" seat="1" win="€1"/>
+    <player chips="€61,50" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€102,86" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€115,38" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C5 HK</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378730">
+  <general>
+   <startdate>2022-08-09 18:31:32</startdate>
+   <players>
+    <player chips="€127,07" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€61,50" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€102,86" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€114,88" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">D9 CJ</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378751">
+  <general>
+   <startdate>2022-08-09 18:31:42</startdate>
+   <players>
+    <player chips="€126,57" dealer="1" bet="€2,50" name="oliwood" seat="1" win="€2,50"/>
+    <player chips="€60,50" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€102,86" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€116,38" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ D9</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="4" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378782">
+  <general>
+   <startdate>2022-08-09 18:32:02</startdate>
+   <players>
+    <player chips="€128,07" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€60" dealer="1" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101,86" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€116,38" dealer="0" bet="€4,12" name="13373678" seat="6" win="€2,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S2 C2</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ CA H6</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action player="13373678" type="5" no="11" sum="€3,12"/>
+   <action player="Oopperankummitus" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701378830">
+  <general>
+   <startdate>2022-08-09 18:32:29</startdate>
+   <players>
+    <player chips="€128,07" dealer="0" bet="€4,85" name="oliwood" seat="1" win="€9,90"/>
+    <player chips="€59" dealer="0" bet="€4,85" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101,36" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€117,81" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">H3 C3</cards>
+   <action player="Oopperankummitus" type="3" no="3" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ S9</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="oliwood" type="Pocket">S5 D2</cards>
+   <action player="oliwood" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C10 H9</cards>
+   <action player="oliwood" type="4" no="7" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="oliwood" type="4" no="9" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action player="oliwood" type="4" no="11" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="12" sum="€1"/>
+   <action player="oliwood" type="23" no="13" sum="€3,85"/>
+   <action player="Oopperankummitus" type="3" no="14" sum="€2,85"/>
+  </round>
+ </game>
+ <game gamecode="3701378881">
+  <general>
+   <startdate>2022-08-09 18:32:57</startdate>
+   <players>
+    <player chips="€133,12" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€54,15" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101,36" dealer="0" bet="€101,36" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€117,31" dealer="1" bet="€117,31" name="13373678" seat="6" win="€202,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">D10 H10</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SA DA</cards>
+   <action player="13373678" type="23" no="4" sum="€7,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+   <action player="Hikaru" type="23" no="7" sum="€23,50"/>
+   <action player="13373678" type="23" no="8" sum="€117,31"/>
+   <action player="Hikaru" type="7" no="9" sum="€77,86"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H2 S7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+  </round>
+ </game>
+ <game gamecode="3701378960">
+  <general>
+   <startdate>2022-08-09 18:33:47</startdate>
+   <players>
+    <player chips="€132,62" dealer="1" bet="€3,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€53,15" dealer="0" bet="€3,50" name="Oopperankummitus" seat="3" win="€7,76"/>
+    <player chips="€100" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€218,17" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 SJ</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">S9 S8</cards>
+   <action player="oliwood" type="23" no="4" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">C10 D10</cards>
+   <action player="Oopperankummitus" type="3" no="5" sum="€2"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ C5 SQ</cards>
+   <action player="Oopperankummitus" type="4" no="7" sum="€0"/>
+   <action player="oliwood" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action player="Oopperankummitus" type="4" no="9" sum="€0"/>
+   <action player="oliwood" type="5" no="10" sum="€1"/>
+   <action player="Oopperankummitus" type="3" no="11" sum="€1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action player="Oopperankummitus" type="4" no="12" sum="€0"/>
+   <action player="oliwood" type="4" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379019">
+  <general>
+   <startdate>2022-08-09 18:34:23</startdate>
+   <players>
+    <player chips="€129,12" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€57,41" dealer="1" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€218,17" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C4 C9</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379035">
+  <general>
+   <startdate>2022-08-09 18:34:37</startdate>
+   <players>
+    <player chips="€129,12" dealer="0" bet="€1" name="oliwood" seat="1" win="€1"/>
+    <player chips="€57,41" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€217,17" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">DQ H8</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379045">
+  <general>
+   <startdate>2022-08-09 18:34:46</startdate>
+   <players>
+    <player chips="€129,62" dealer="0" bet="€12,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€57,41" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€216,67" dealer="1" bet="€30,37" name="13373678" seat="6" win="€25,22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">SQ D9</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="5" sum="€6"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+   <action player="13373678" type="3" no="7" sum="€3,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H9 HA</cards>
+   <action player="oliwood" type="5" no="8" sum="€6,50"/>
+   <action player="13373678" type="23" no="9" sum="€24,37"/>
+   <action player="oliwood" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379128">
+  <general>
+   <startdate>2022-08-09 18:35:38</startdate>
+   <players>
+    <player chips="€117,12" dealer="1" bet="€21,66" name="oliwood" seat="1" win="€43,47"/>
+    <player chips="€56,41" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€101" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€229,39" dealer="0" bet="€21,66" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ D10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">CA DK</cards>
+   <action player="oliwood" type="23" no="4" sum="€6"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+   <action player="13373678" type="3" no="7" sum="€3,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 C5 D9</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="oliwood" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="13373678" type="5" no="10" sum="€6,75"/>
+   <action player="oliwood" type="3" no="11" sum="€6,75"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action player="13373678" type="5" no="12" sum="€8,91"/>
+   <action player="oliwood" type="3" no="13" sum="€8,91"/>
+  </round>
+ </game>
+ <game gamecode="3701379730">
+  <general>
+   <startdate>2022-08-09 18:36:18</startdate>
+   <players>
+    <player chips="€138,93" dealer="0" bet="€2,50" name="oliwood" seat="1" win="€2,50"/>
+    <player chips="€55,91" dealer="1" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€207,73" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="3" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S6 H7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379759">
+  <general>
+   <startdate>2022-08-09 18:36:35</startdate>
+   <players>
+    <player chips="€140,43" dealer="0" bet="€1" name="oliwood" seat="1" win="€1"/>
+    <player chips="€55,91" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€206,73" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">DJ S6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379776">
+  <general>
+   <startdate>2022-08-09 18:36:50</startdate>
+   <players>
+    <player chips="€140,93" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€55,91" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€100" dealer="0" bet="€22,50" name="Hikaru" seat="5" win="€16,50"/>
+    <player chips="€206,23" dealer="1" bet="€7,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">CQ C9</cards>
+   <action player="13373678" type="23" no="4" sum="€7,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+   <action player="Hikaru" type="23" no="7" sum="€22,50"/>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379828">
+  <general>
+   <startdate>2022-08-09 18:37:18</startdate>
+   <players>
+    <player chips="€140,43" dealer="1" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€54,91" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€109" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€198,73" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D8 SK</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379838">
+  <general>
+   <startdate>2022-08-09 18:37:24</startdate>
+   <players>
+    <player chips="€140,43" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€54,41" dealer="1" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€109,50" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€198,73" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D5 S7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701379865">
+  <general>
+   <startdate>2022-08-09 18:37:39</startdate>
+   <players>
+    <player chips="€140,43" dealer="0" bet="€8" name="oliwood" seat="1" win="€6"/>
+    <player chips="€54,41" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€110,50" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€197,73" dealer="0" bet="€3" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">D3 DQ</cards>
+   <action player="13373678" type="23" no="5" sum="€3"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="6" sum="€8"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701380902">
+  <general>
+   <startdate>2022-08-09 18:38:02</startdate>
+   <players>
+    <player chips="€143,43" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€54,41" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€1"/>
+    <player chips="€110,50" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€194,73" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C2 HK</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701380915">
+  <general>
+   <startdate>2022-08-09 18:38:09</startdate>
+   <players>
+    <player chips="€142,93" dealer="1" bet="€9,50" name="oliwood" seat="1" win="€9,70"/>
+    <player chips="€54,91" dealer="0" bet="€2,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€110,50" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€194,73" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 H9</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="3" no="4" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="5" sum="€2"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C8 HK</cards>
+   <action player="Oopperankummitus" type="4" no="7" sum="€0"/>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="oliwood" type="5" no="10" sum="€7"/>
+   <action player="Oopperankummitus" type="0" no="11" sum="€0"/>
+   <action player="Hikaru" type="0" no="12" sum="€0"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701380967">
+  <general>
+   <startdate>2022-08-09 18:38:42</startdate>
+   <players>
+    <player chips="€150,13" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€52,41" dealer="1" bet="€4" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€108" dealer="0" bet="€8" name="Hikaru" seat="5" win="€8,73"/>
+    <player chips="€192,23" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€4"/>
+   <cards player="13373678" type="Pocket">S8 D2</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <action player="Oopperankummitus" type="3" no="7" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 HQ C5</cards>
+   <action player="Hikaru" type="5" no="8" sum="€4"/>
+   <action player="Oopperankummitus" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381131">
+  <general>
+   <startdate>2022-08-09 18:39:04</startdate>
+   <players>
+    <player chips="€150,13" dealer="0" bet="€1" name="oliwood" seat="1" win="€0"/>
+    <player chips="€48,41" dealer="0" bet="€4" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€112,73" dealer="1" bet="€11" name="Hikaru" seat="5" win="€12,61"/>
+    <player chips="€191,23" dealer="0" bet="€4" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="3" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€4"/>
+   <cards player="13373678" type="Pocket">H2 D2</cards>
+   <action player="13373678" type="3" no="5" sum="€3,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="6" sum="€0"/>
+   <action player="Oopperankummitus" type="3" no="7" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CQ D10</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="9" sum="€0"/>
+   <action player="Hikaru" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="12" sum="€0"/>
+   <action player="Hikaru" type="5" no="13" sum="€7"/>
+   <action player="13373678" type="0" no="14" sum="€0"/>
+   <action player="Oopperankummitus" type="0" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381205">
+  <general>
+   <startdate>2022-08-09 18:39:50</startdate>
+   <players>
+    <player chips="€149,13" dealer="0" bet="€6,25" name="oliwood" seat="1" win="€0"/>
+    <player chips="€44,41" dealer="0" bet="€13,75" name="Oopperankummitus" seat="3" win="€14,55"/>
+    <player chips="€121,34" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€187,23" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S7 S5</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="3" no="5" sum="€2"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HJ S3</cards>
+   <action player="oliwood" type="4" no="7" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="oliwood" type="4" no="10" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="11" sum="€3,75"/>
+   <action player="13373678" type="0" no="12" sum="€0"/>
+   <action player="oliwood" type="3" no="13" sum="€3,75"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action player="oliwood" type="4" no="14" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="15" sum="€7,50"/>
+   <action player="oliwood" type="0" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381282">
+  <general>
+   <startdate>2022-08-09 18:40:38</startdate>
+   <players>
+    <player chips="€142,88" dealer="1" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€52,71" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€121,34" dealer="0" bet="€2" name="Hikaru" seat="5" win="€1,94"/>
+    <player chips="€184,73" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D5 D9</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="5" sum="€0,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 SJ SK</cards>
+   <action player="Oopperankummitus" type="4" no="7" sum="€0"/>
+   <action player="Hikaru" type="5" no="8" sum="€1"/>
+   <action player="Oopperankummitus" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381332">
+  <general>
+   <startdate>2022-08-09 18:41:07</startdate>
+   <players>
+    <player chips="€142,88" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€51,71" dealer="1" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€122,28" dealer="0" bet="€5" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€184,73" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">CQ H9</cards>
+   <action player="13373678" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S6 S8</cards>
+   <action player="Hikaru" type="5" no="7" sum="€2,50"/>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381373">
+  <general>
+   <startdate>2022-08-09 18:41:30</startdate>
+   <players>
+    <player chips="€142,88" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€51,71" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€124,63" dealer="1" bet="€4" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€182,23" dealer="0" bet="€17" name="13373678" seat="6" win="€10"/>
+    <player chips="€100" dealer="0" bet="€1" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="HereIsTheThing" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€4"/>
+   <cards player="13373678" type="Pocket">DA SQ</cards>
+   <action player="13373678" type="23" no="6" sum="€17"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="7" sum="€0"/>
+   <action player="Oopperankummitus" type="0" no="8" sum="€0"/>
+   <action player="Hikaru" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381429">
+  <general>
+   <startdate>2022-08-09 18:42:08</startdate>
+   <players>
+    <player chips="€142,88" dealer="0" bet="€1" name="oliwood" seat="1" win="€1"/>
+    <player chips="€50,71" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€120,63" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€188,23" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€99" dealer="0" bet="€0,50" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HereIsTheThing" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">SQ C8</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381454">
+  <general>
+   <startdate>2022-08-09 18:42:21</startdate>
+   <players>
+    <player chips="€143,38" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€50,71" dealer="0" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€120,63" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€188,23" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€98,50" dealer="1" bet="€2,50" name="HereIsTheThing" seat="8" win="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C4 D8</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="23" no="5" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="6" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381485">
+  <general>
+   <startdate>2022-08-09 18:42:43</startdate>
+   <players>
+    <player chips="€142,88" dealer="1" bet="€6,35" name="oliwood" seat="1" win="€5,34"/>
+    <player chips="€49,71" dealer="0" bet="€0,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€120,63" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€188,23" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 S7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="4" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="5" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="6" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="7" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C7 D4</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="oliwood" type="5" no="9" sum="€3,85"/>
+   <action player="Hikaru" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381541">
+  <general>
+   <startdate>2022-08-09 18:43:19</startdate>
+   <players>
+    <player chips="€145,72" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€49,21" dealer="1" bet="€3,50" name="Oopperankummitus" seat="3" win="€2,43"/>
+    <player chips="€118,13" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€188,23" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="5" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">C9 S8</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D4 H4</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="13" sum="€2,50"/>
+   <action player="13373678" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701381598">
+  <general>
+   <startdate>2022-08-09 18:43:53</startdate>
+   <players>
+    <player chips="€145,72" dealer="0" bet="€8,45" name="oliwood" seat="1" win="€8,25"/>
+    <player chips="€50,64" dealer="0" bet="€2,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€117,63" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€187,23" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€100" dealer="0" bet="€1" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="HereIsTheThing" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="23" no="3" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="4" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CA C7</cards>
+   <action player="13373678" type="3" no="6" sum="€2"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H8 S4</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="oliwood" type="5" no="9" sum="€5,95"/>
+   <action player="Oopperankummitus" type="0" no="10" sum="€0"/>
+   <action player="13373678" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701382172">
+  <general>
+   <startdate>2022-08-09 18:44:28</startdate>
+   <players>
+    <player chips="€151,47" dealer="0" bet="€2" name="oliwood" seat="1" win="€0"/>
+    <player chips="€48,14" dealer="0" bet="€6,50" name="Oopperankummitus" seat="3" win="€4,37"/>
+    <player chips="€117,63" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€184,73" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€99" dealer="0" bet="€0,50" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HereIsTheThing" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="3" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H2 H10</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="6" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H7 CJ</cards>
+   <action player="oliwood" type="4" no="8" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="9" sum="€1"/>
+   <action player="oliwood" type="3" no="10" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="oliwood" type="4" no="11" sum="€0"/>
+   <action player="Oopperankummitus" type="5" no="12" sum="€4,50"/>
+   <action player="oliwood" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701382204">
+  <general>
+   <startdate>2022-08-09 18:44:49</startdate>
+   <players>
+    <player chips="€149,47" dealer="0" bet="€2,50" name="oliwood" seat="1" win="€4,85"/>
+    <player chips="€50,51" dealer="0" bet="€2,50" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€117,63" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€184,73" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€98,50" dealer="1" bet="€0" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Oopperankummitus" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">HQ D7</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="5" sum="€0"/>
+   <cards player="oliwood" type="Pocket">DA S10</cards>
+   <action player="oliwood" type="23" no="6" sum="€2,50"/>
+   <cards player="Oopperankummitus" type="Pocket">S9 SQ</cards>
+   <action player="Oopperankummitus" type="3" no="7" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H4 C5</cards>
+   <action player="oliwood" type="4" no="8" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="oliwood" type="4" no="10" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action player="oliwood" type="4" no="12" sum="€0"/>
+   <action player="Oopperankummitus" type="4" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701382238">
+  <general>
+   <startdate>2022-08-09 18:45:08</startdate>
+   <players>
+    <player chips="€151,82" dealer="1" bet="€3" name="oliwood" seat="1" win="€0"/>
+    <player chips="€48,01" dealer="0" bet="€3" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€117,63" dealer="0" bet="€3" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€184,73" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€98,50" dealer="0" bet="€9,36" name="HereIsTheThing" seat="8" win="€11,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oopperankummitus" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ C6</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="23" no="4" sum="€3"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="3" no="5" sum="€3"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="6" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="7" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C4 C3</cards>
+   <action player="Oopperankummitus" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+   <action player="HereIsTheThing" type="5" no="10" sum="€6,36"/>
+   <action player="oliwood" type="0" no="11" sum="€0"/>
+   <action player="Oopperankummitus" type="0" no="12" sum="€0"/>
+   <action player="Hikaru" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701382300">
+  <general>
+   <startdate>2022-08-09 18:45:47</startdate>
+   <players>
+    <player chips="€148,82" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€45,01" dealer="1" bet="€1" name="Oopperankummitus" seat="3" win="€0"/>
+    <player chips="€114,63" dealer="0" bet="€4" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€184,73" dealer="0" bet="€12" name="13373678" seat="6" win="€9"/>
+    <player chips="€107,14" dealer="0" bet="€0" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="3" no="5" sum="€1"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="6" sum="€4"/>
+   <cards player="13373678" type="Pocket">DQ HK</cards>
+   <action player="13373678" type="23" no="7" sum="€12"/>
+   <action player="Oopperankummitus" type="0" no="8" sum="€0"/>
+   <action player="Hikaru" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701382356">
+  <general>
+   <startdate>2022-08-09 18:46:22</startdate>
+   <players>
+    <player chips="€148,82" dealer="0" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€110,63" dealer="1" bet="€107,14" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€189,73" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€107,14" dealer="0" bet="€107,14" name="HereIsTheThing" seat="8" win="€212,78"/>
+    <player chips="€44,01" dealer="0" bet="€0" name="Oopperankummitus" seat="3" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="HereIsTheThing" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Oopperankummitus" type="Pocket">X X</cards>
+   <action player="Oopperankummitus" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">D8 C8</cards>
+   <action player="Hikaru" type="23" no="5" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C4 S2</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">SJ CJ</cards>
+   <action player="HereIsTheThing" type="23" no="7" sum="€10"/>
+   <action player="Hikaru" type="3" no="8" sum="€7,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ H7 S8</cards>
+   <action player="HereIsTheThing" type="5" no="9" sum="€10,86"/>
+   <action player="Hikaru" type="3" no="10" sum="€10,86"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="HereIsTheThing" type="5" no="11" sum="€30,39"/>
+   <action player="Hikaru" type="3" no="12" sum="€30,39"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action player="HereIsTheThing" type="5" no="13" sum="€55,89"/>
+   <action player="Hikaru" type="3" no="14" sum="€55,89"/>
+  </round>
+ </game>
+ <game gamecode="3701382451">
+  <general>
+   <startdate>2022-08-09 18:47:33</startdate>
+   <players>
+    <player chips="€148,82" dealer="0" bet="€6,25" name="oliwood" seat="1" win="€12,61"/>
+    <player chips="€100" dealer="0" bet="€6,25" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€189,23" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€212,78" dealer="0" bet="€0,50" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HereIsTheThing" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">H7 H6</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S10 CJ</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="5" sum="€0"/>
+   <cards player="oliwood" type="Pocket">CK H10</cards>
+   <action player="oliwood" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 DK C6</cards>
+   <action player="oliwood" type="4" no="7" sum="€0"/>
+   <action player="Hikaru" type="5" no="8" sum="€2,75"/>
+   <action player="oliwood" type="3" no="9" sum="€2,75"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="oliwood" type="4" no="10" sum="€0"/>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action player="oliwood" type="5" no="12" sum="€1"/>
+   <action player="Hikaru" type="3" no="13" sum="€1"/>
+  </round>
+ </game>
+ <game gamecode="3701382537">
+  <general>
+   <startdate>2022-08-09 18:48:33</startdate>
+   <players>
+    <player chips="€155,18" dealer="0" bet="€3,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€189,23" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€212,28" dealer="1" bet="€3,50" name="HereIsTheThing" seat="8" win="€7,76"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 CK</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="HereIsTheThing" type="Pocket">H8 HK</cards>
+   <action player="HereIsTheThing" type="23" no="4" sum="€2,50"/>
+   <cards player="oliwood" type="Pocket">CJ C9</cards>
+   <action player="oliwood" type="3" no="5" sum="€2"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S10 S4</cards>
+   <action player="oliwood" type="4" no="7" sum="€0"/>
+   <action player="HereIsTheThing" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="oliwood" type="5" no="9" sum="€1"/>
+   <action player="HereIsTheThing" type="3" no="10" sum="€1"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="oliwood" type="4" no="11" sum="€0"/>
+   <action player="HereIsTheThing" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383556">
+  <general>
+   <startdate>2022-08-09 18:49:09</startdate>
+   <players>
+    <player chips="€151,68" dealer="1" bet="€0" name="oliwood" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€189,23" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+    <player chips="€216,54" dealer="0" bet="€0" name="HereIsTheThing" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="HereIsTheThing" type="Pocket">X X</cards>
+   <action player="HereIsTheThing" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="5" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C3 DK</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383574">
+  <general>
+   <startdate>2022-08-09 18:49:23</startdate>
+   <players>
+    <player chips="€151,68" dealer="0" bet="€1" name="oliwood" seat="1" win="€0"/>
+    <player chips="€101" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€188,23" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="oliwood" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D9 HJ</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383594">
+  <general>
+   <startdate>2022-08-09 18:49:36</startdate>
+   <players>
+    <player chips="€150,68" dealer="0" bet="€0,50" name="oliwood" seat="1" win="€0"/>
+    <player chips="€102,50" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€187,73" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oliwood" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D6 S5</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383610">
+  <general>
+   <startdate>2022-08-09 18:49:48</startdate>
+   <players>
+    <player chips="€103" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€187,73" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+    <player chips="€150,18" dealer="1" bet="€0" name="oliwood" seat="1" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="oliwood" type="Pocket">X X</cards>
+   <action player="oliwood" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S8 C6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383624">
+  <general>
+   <startdate>2022-08-09 18:49:57</startdate>
+   <players>
+    <player chips="€104" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€186,73" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383647">
+  <general>
+   <startdate>2022-08-09 18:50:11</startdate>
+   <players>
+    <player chips="€103" dealer="1" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€187,73" dealer="0" bet="€1" name="13373678" seat="6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 D10</cards>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383658">
+  <general>
+   <startdate>2022-08-09 18:50:17</startdate>
+   <players>
+    <player chips="€102,50" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€188,23" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H6 D2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383667">
+  <general>
+   <startdate>2022-08-09 18:50:22</startdate>
+   <players>
+    <player chips="€103" dealer="1" bet="€61,25" name="Hikaru" seat="5" win="€34,50"/>
+    <player chips="€187,73" dealer="0" bet="€17,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H8 D10</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 D8 SJ</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="3" no="7" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€12,50"/>
+   <action player="13373678" type="3" no="10" sum="€12,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Hikaru" type="5" no="12" sum="€43,75"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701383877">
+  <general>
+   <startdate>2022-08-09 18:51:23</startdate>
+   <players>
+    <player chips="€120" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€170,23" dealer="1" bet="€4,15" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 C10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H7 C4</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€1,65"/>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384500">
+  <general>
+   <startdate>2022-08-09 18:51:40</startdate>
+   <players>
+    <player chips="€117,50" dealer="1" bet="€6,25" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€172,58" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D3 DK</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 C9 HJ</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="Hikaru" type="5" no="10" sum="€3,75"/>
+   <action player="13373678" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384578">
+  <general>
+   <startdate>2022-08-09 18:52:30</startdate>
+   <players>
+    <player chips="€119,85" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€170,08" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C2 SQ</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384588">
+  <general>
+   <startdate>2022-08-09 18:52:36</startdate>
+   <players>
+    <player chips="€120,35" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€169,58" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">CJ D5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384604">
+  <general>
+   <startdate>2022-08-09 18:52:44</startdate>
+   <players>
+    <player chips="€121,35" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€168,58" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 D9</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384617">
+  <general>
+   <startdate>2022-08-09 18:52:51</startdate>
+   <players>
+    <player chips="€121,85" dealer="1" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€168,08" dealer="0" bet="€1" name="13373678" seat="6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 HQ</cards>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384627">
+  <general>
+   <startdate>2022-08-09 18:52:56</startdate>
+   <players>
+    <player chips="€121,35" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€168,58" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S4 H2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384640">
+  <general>
+   <startdate>2022-08-09 18:53:02</startdate>
+   <players>
+    <player chips="€121,85" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€168,08" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SQ H3</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384659">
+  <general>
+   <startdate>2022-08-09 18:53:12</startdate>
+   <players>
+    <player chips="€122,85" dealer="0" bet="€18" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€167,08" dealer="1" bet="€45" name="13373678" seat="6" win="€35,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA DQ</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="3" no="5" sum="€6,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 SJ S6</cards>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+   <action player="13373678" type="5" no="7" sum="€9"/>
+   <action player="Hikaru" type="3" no="8" sum="€9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="5" no="12" sum="€27"/>
+   <action player="Hikaru" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384783">
+  <general>
+   <startdate>2022-08-09 18:54:26</startdate>
+   <players>
+    <player chips="€104,85" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€184,58" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S6 C4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384798">
+  <general>
+   <startdate>2022-08-09 18:54:32</startdate>
+   <players>
+    <player chips="€105,85" dealer="0" bet="€14,94" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€183,58" dealer="1" bet="€29,88" name="13373678" seat="6" win="€29,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 DA</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="3" no="5" sum="€6,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H2 C9</cards>
+   <action player="Hikaru" type="5" no="6" sum="€5,94"/>
+   <action player="13373678" type="3" no="7" sum="€5,94"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="5" no="9" sum="€14,94"/>
+   <action player="Hikaru" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384911">
+  <general>
+   <startdate>2022-08-09 18:55:29</startdate>
+   <players>
+    <player chips="€100" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€198,02" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">DQ C10</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 DA S3</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701384935">
+  <general>
+   <startdate>2022-08-09 18:55:44</startdate>
+   <players>
+    <player chips="€102,35" dealer="0" bet="€29,88" name="Hikaru" seat="5" win="€59,26"/>
+    <player chips="€195,52" dealer="1" bet="€29,88" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK CJ</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">D10 C10</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="3" no="5" sum="€6,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 SQ S7</cards>
+   <action player="Hikaru" type="5" no="6" sum="€5,94"/>
+   <action player="13373678" type="3" no="7" sum="€5,94"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="5" no="9" sum="€14,94"/>
+   <action player="Hikaru" type="3" no="10" sum="€14,94"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701385042">
+  <general>
+   <startdate>2022-08-09 18:56:45</startdate>
+   <players>
+    <player chips="€131,73" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€165,64" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S3 S6</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D7 CJ</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386147">
+  <general>
+   <startdate>2022-08-09 18:57:08</startdate>
+   <players>
+    <player chips="€134,08" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€163,14" dealer="1" bet="€4,15" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 S6</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D3 S7</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€1,65"/>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386195">
+  <general>
+   <startdate>2022-08-09 18:57:35</startdate>
+   <players>
+    <player chips="€131,58" dealer="1" bet="€5" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€165,49" dealer="0" bet="€11,87" name="13373678" seat="6" win="€9,70"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H5 D6</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 HJ D4</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="23" no="7" sum="€9,37"/>
+   <action player="Hikaru" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386222">
+  <general>
+   <startdate>2022-08-09 18:57:55</startdate>
+   <players>
+    <player chips="€126,58" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€170,19" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CQ H3</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386233">
+  <general>
+   <startdate>2022-08-09 18:58:01</startdate>
+   <players>
+    <player chips="€127,08" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€169,69" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C10 D3</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386255">
+  <general>
+   <startdate>2022-08-09 18:58:13</startdate>
+   <players>
+    <player chips="€128,08" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€168,69" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D3 H9</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386272">
+  <general>
+   <startdate>2022-08-09 18:58:21</startdate>
+   <players>
+    <player chips="€128,58" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€168,19" dealer="0" bet="€6,25" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C10 HJ</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ C8 C6</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="13373678" type="5" no="7" sum="€3,75"/>
+   <action player="Hikaru" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386311">
+  <general>
+   <startdate>2022-08-09 18:58:44</startdate>
+   <players>
+    <player chips="€126,08" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€170,54" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 S6</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386323">
+  <general>
+   <startdate>2022-08-09 18:58:52</startdate>
+   <players>
+    <player chips="€125,08" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€171,54" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H6 HJ</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 CK S5</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386356">
+  <general>
+   <startdate>2022-08-09 18:59:08</startdate>
+   <players>
+    <player chips="€127,43" dealer="0" bet="€15,62" name="Hikaru" seat="5" win="€30,74"/>
+    <player chips="€169,04" dealer="1" bet="€15,62" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ C6</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">S4 S2</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D4 D2</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€3,75"/>
+   <action player="Hikaru" type="3" no="7" sum="€3,75"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="5" no="9" sum="€9,37"/>
+   <action player="Hikaru" type="3" no="10" sum="€9,37"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386450">
+  <general>
+   <startdate>2022-08-09 19:00:06</startdate>
+   <players>
+    <player chips="€142,55" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€153,42" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D9 H4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386474">
+  <general>
+   <startdate>2022-08-09 19:00:19</startdate>
+   <players>
+    <player chips="€143,55" dealer="0" bet="€9" name="Hikaru" seat="5" win="€5"/>
+    <player chips="€152,42" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK H7</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386500">
+  <general>
+   <startdate>2022-08-09 19:00:34</startdate>
+   <players>
+    <player chips="€146,05" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€149,92" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H7 H3</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ C5 DQ</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386538">
+  <general>
+   <startdate>2022-08-09 19:00:52</startdate>
+   <players>
+    <player chips="€148,40" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€147,42" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 D8</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386550">
+  <general>
+   <startdate>2022-08-09 19:01:03</startdate>
+   <players>
+    <player chips="€147,40" dealer="1" bet="€23,74" name="Hikaru" seat="5" win="€23,24"/>
+    <player chips="€148,42" dealer="0" bet="€11,87" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H8 S10</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 SK H6</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="23" no="7" sum="€9,37"/>
+   <action player="Hikaru" type="3" no="8" sum="€6,87"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="Hikaru" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Hikaru" type="5" no="12" sum="€11,87"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386658">
+  <general>
+   <startdate>2022-08-09 19:02:04</startdate>
+   <players>
+    <player chips="€158,77" dealer="0" bet="€9" name="Hikaru" seat="5" win="€5"/>
+    <player chips="€136,55" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK H7</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386680">
+  <general>
+   <startdate>2022-08-09 19:02:20</startdate>
+   <players>
+    <player chips="€161,27" dealer="1" bet="€5" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€134,05" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D3 DJ</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 C10 S8</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="Hikaru" type="5" no="8" sum="€2,50"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386745">
+  <general>
+   <startdate>2022-08-09 19:02:59</startdate>
+   <players>
+    <player chips="€163,62" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€131,55" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA D5</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386778">
+  <general>
+   <startdate>2022-08-09 19:03:18</startdate>
+   <players>
+    <player chips="€162,62" dealer="1" bet="€12,50" name="Hikaru" seat="5" win="€9,70"/>
+    <player chips="€132,55" dealer="0" bet="€5" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H7 CA</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 HK C7</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="3" no="7" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€7,50"/>
+   <action player="13373678" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386856">
+  <general>
+   <startdate>2022-08-09 19:04:03</startdate>
+   <players>
+    <player chips="€167,32" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€127,55" dealer="1" bet="€6,25" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 SJ</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H2 CQ</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="Hikaru" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="5" no="8" sum="€3,75"/>
+   <action player="Hikaru" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386901">
+  <general>
+   <startdate>2022-08-09 19:04:32</startdate>
+   <players>
+    <player chips="€164,82" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€129,90" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S6 H4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386915">
+  <general>
+   <startdate>2022-08-09 19:04:41</startdate>
+   <players>
+    <player chips="€165,82" dealer="0" bet="€9" name="Hikaru" seat="5" win="€5"/>
+    <player chips="€128,90" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 H3</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701386937">
+  <general>
+   <startdate>2022-08-09 19:04:52</startdate>
+   <players>
+    <player chips="€168,32" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€126,40" dealer="0" bet="€8,75" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D8 D2</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H7 C5</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action player="13373678" type="5" no="7" sum="€6,25"/>
+   <action player="Hikaru" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701387937">
+  <general>
+   <startdate>2022-08-09 19:05:15</startdate>
+   <players>
+    <player chips="€165,82" dealer="0" bet="€9,80" name="Hikaru" seat="5" win="€8,05"/>
+    <player chips="€128,75" dealer="1" bet="€4,15" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 C8</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H5 DA</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€1,65"/>
+   <action player="Hikaru" type="23" no="7" sum="€7,30"/>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701387997">
+  <general>
+   <startdate>2022-08-09 19:05:51</startdate>
+   <players>
+    <player chips="€169,72" dealer="1" bet="€14,52" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€124,60" dealer="0" bet="€14,52" name="13373678" seat="6" win="€28,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">H6 SJ</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SA C4</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA DK S6</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="3" no="7" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€10,37"/>
+   <action player="13373678" type="3" no="10" sum="€10,37"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Hikaru" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389129">
+  <general>
+   <startdate>2022-08-09 19:06:29</startdate>
+   <players>
+    <player chips="€155,20" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€138,62" dealer="1" bet="€6,25" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 S10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S4 H9</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€3,75"/>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389157">
+  <general>
+   <startdate>2022-08-09 19:06:46</startdate>
+   <players>
+    <player chips="€152,70" dealer="1" bet="€31,25" name="Hikaru" seat="5" win="€31"/>
+    <player chips="€140,97" dealer="0" bet="€31,25" name="13373678" seat="6" win="€31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">DJ C5</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SJ D10</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H10 S9</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="3" no="7" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€7,50"/>
+   <action player="13373678" type="3" no="10" sum="€7,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Hikaru" type="5" no="12" sum="€18,75"/>
+   <action player="13373678" type="3" no="13" sum="€18,75"/>
+  </round>
+ </game>
+ <game gamecode="3701389252">
+  <general>
+   <startdate>2022-08-09 19:07:41</startdate>
+   <players>
+    <player chips="€152,45" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€140,72" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 C8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389264">
+  <general>
+   <startdate>2022-08-09 19:07:47</startdate>
+   <players>
+    <player chips="€152,95" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€140,22" dealer="0" bet="€4,15" name="13373678" seat="6" win="€8,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">S6 DQ</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">DK H5</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 SK C8</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="3" no="7" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="Hikaru" type="4" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389352">
+  <general>
+   <startdate>2022-08-09 19:08:39</startdate>
+   <players>
+    <player chips="€148,80" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€144,12" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 H4</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389385">
+  <general>
+   <startdate>2022-08-09 19:08:58</startdate>
+   <players>
+    <player chips="€147,80" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€145,12" dealer="0" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C6 DA</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D9 H9</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389407">
+  <general>
+   <startdate>2022-08-09 19:09:14</startdate>
+   <players>
+    <player chips="€150,15" dealer="0" bet="€9" name="Hikaru" seat="5" win="€17,50"/>
+    <player chips="€142,62" dealer="1" bet="€9" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 HK</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">HA DK</cards>
+   <action player="Hikaru" type="23" no="4" sum="€9"/>
+   <action player="13373678" type="3" no="5" sum="€6,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ CJ C5</cards>
+   <action player="Hikaru" type="4" no="6" sum="€0"/>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action player="Hikaru" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389487">
+  <general>
+   <startdate>2022-08-09 19:09:56</startdate>
+   <players>
+    <player chips="€158,65" dealer="1" bet="€4,15" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€133,62" dealer="0" bet="€14,52" name="13373678" seat="6" win="€8,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S3 S8</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S5 DA</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€1,65"/>
+   <action player="13373678" type="3" no="7" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action player="13373678" type="5" no="10" sum="€10,37"/>
+   <action player="Hikaru" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389799">
+  <general>
+   <startdate>2022-08-09 19:10:54</startdate>
+   <players>
+    <player chips="€154,50" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€137,52" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 HA</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389811">
+  <general>
+   <startdate>2022-08-09 19:11:03</startdate>
+   <players>
+    <player chips="€153,50" dealer="1" bet="€12,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€138,52" dealer="0" bet="€12,50" name="13373678" seat="6" win="€24,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">HJ H8</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">DQ S9</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H4 S2</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="3" no="7" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€7,50"/>
+   <action player="13373678" type="3" no="10" sum="€7,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="Hikaru" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389928">
+  <general>
+   <startdate>2022-08-09 19:12:08</startdate>
+   <players>
+    <player chips="€141" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€150,52" dealer="1" bet="€6,25" name="13373678" seat="6" win="€4,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 DK</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 DA S10</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€3,75"/>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389964">
+  <general>
+   <startdate>2022-08-09 19:12:30</startdate>
+   <players>
+    <player chips="€138,50" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€152,87" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">S4 C6</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389988">
+  <general>
+   <startdate>2022-08-09 19:12:38</startdate>
+   <players>
+    <player chips="€139,50" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€151,87" dealer="1" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S9 D5</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701389993">
+  <general>
+   <startdate>2022-08-09 19:12:43</startdate>
+   <players>
+    <player chips="€140" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2"/>
+    <player chips="€151,37" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C6 D3</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390011">
+  <general>
+   <startdate>2022-08-09 19:12:52</startdate>
+   <players>
+    <player chips="€141" dealer="0" bet="€6,25" name="Hikaru" seat="5" win="€4,85"/>
+    <player chips="€150,37" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK C10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S3 H2</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="Hikaru" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action player="Hikaru" type="5" no="9" sum="€3,75"/>
+   <action player="13373678" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390090">
+  <general>
+   <startdate>2022-08-09 19:13:38</startdate>
+   <players>
+    <player chips="€143,35" dealer="1" bet="€58,74" name="Hikaru" seat="5" win="€58,24"/>
+    <player chips="€147,87" dealer="0" bet="€29,37" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C2 DA</cards>
+   <action player="13373678" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D5 C9</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Hikaru" type="5" no="6" sum="€2,50"/>
+   <action player="13373678" type="3" no="7" sum="€2,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="5" no="9" sum="€7,50"/>
+   <action player="13373678" type="23" no="10" sum="€24,37"/>
+   <action player="Hikaru" type="3" no="11" sum="€16,87"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+   <action player="Hikaru" type="5" no="13" sum="€29,37"/>
+   <action player="13373678" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390253">
+  <general>
+   <startdate>2022-08-09 19:15:03</startdate>
+   <players>
+    <player chips="€172,22" dealer="0" bet="€4,15" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,50" dealer="1" bet="€14,52" name="13373678" seat="6" win="€8,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 S8</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H9 C5</cards>
+   <action player="Hikaru" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€1,65"/>
+   <action player="Hikaru" type="3" no="7" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="Hikaru" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="5" no="9" sum="€10,37"/>
+   <action player="Hikaru" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390368">
+  <general>
+   <startdate>2022-08-09 19:16:05</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€168,07" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€122,40" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H10 CK</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390394">
+  <general>
+   <startdate>2022-08-09 19:16:18</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€1" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€169,57" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€121,90" dealer="1" bet="€2,50" name="13373678" seat="6" win="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="JaquesMesrine" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">DA HA</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701390454">
+  <general>
+   <startdate>2022-08-09 19:16:48</startdate>
+   <players>
+    <player chips="€100" dealer="1" bet="€4,64" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0,50" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€169,57" dealer="0" bet="€1" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€123,40" dealer="0" bet="€18,11" name="13373678" seat="6" win="€10,46"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JaquesMesrine" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA C10</cards>
+   <action player="13373678" type="23" no="3" sum="€2,50"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="3" no="4" sum="€2,50"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 DA S10</cards>
+   <action player="13373678" type="5" no="7" sum="€2,14"/>
+   <action player="SillinHaju" type="3" no="8" sum="€2,14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="13373678" type="5" no="9" sum="€13,47"/>
+   <action player="SillinHaju" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391544">
+  <general>
+   <startdate>2022-08-09 19:17:29</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€12" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="1" bet="€0" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€168,57" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€129,22" dealer="0" bet="€129,22" name="13373678" seat="6" win="€23,76"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="23" no="3" sum="€3"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">SJ DJ</cards>
+   <action player="13373678" type="23" no="6" sum="€12"/>
+   <action player="SillinHaju" type="3" no="7" sum="€9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 C5 C7</cards>
+   <action player="13373678" type="5" no="8" sum="€117,22"/>
+   <action player="SillinHaju" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391655">
+  <general>
+   <startdate>2022-08-09 19:18:37</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€28,13" name="JaquesMesrine" seat="3" win="€37,03"/>
+    <player chips="€168,07" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€140,98" dealer="0" bet="€18,59" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="23" no="3" sum="€2"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">HA SQ</cards>
+   <action player="13373678" type="23" no="5" sum="€11"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+   <action player="JaquesMesrine" type="3" no="7" sum="€9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ C7 SK</cards>
+   <action player="13373678" type="5" no="8" sum="€7,59"/>
+   <action player="JaquesMesrine" type="3" no="9" sum="€7,59"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="JaquesMesrine" type="5" no="11" sum="€9,54"/>
+   <action player="13373678" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391767">
+  <general>
+   <startdate>2022-08-09 19:19:36</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€118,44" dealer="0" bet="€1" name="JaquesMesrine" seat="3" win="€1"/>
+    <player chips="€168,07" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€122,39" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="JaquesMesrine" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 C2</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391788">
+  <general>
+   <startdate>2022-08-09 19:19:47</startdate>
+   <players>
+    <player chips="€100" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€118,94" dealer="0" bet="€0,50" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€168,07" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€122,39" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JaquesMesrine" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H3 S6</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391803">
+  <general>
+   <startdate>2022-08-09 19:19:58</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€118,44" dealer="1" bet="€3" name="JaquesMesrine" seat="3" win="€2,50"/>
+    <player chips="€168,57" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€122,39" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="23" no="4" sum="€3"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D2 HJ</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391828">
+  <general>
+   <startdate>2022-08-09 19:20:10</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€119,94" dealer="0" bet="€0" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€168,07" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€121,39" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">D2 C6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391867">
+  <general>
+   <startdate>2022-08-09 19:20:28</startdate>
+   <players>
+    <player chips="€100" dealer="0" bet="€5,50" name="SillinHaju" seat="1" win="€5,82"/>
+    <player chips="€119,94" dealer="0" bet="€1" name="JaquesMesrine" seat="3" win="€0"/>
+    <player chips="€169,57" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€120,89" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="JaquesMesrine" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S5 S6</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="3" no="5" sum="€2"/>
+   <cards player="JaquesMesrine" type="Pocket">X X</cards>
+   <action player="JaquesMesrine" type="0" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ CA H4</cards>
+   <action player="SillinHaju" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="SillinHaju" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="SillinHaju" type="5" no="11" sum="€3"/>
+   <action player="13373678" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391970">
+  <general>
+   <startdate>2022-08-09 19:21:29</startdate>
+   <players>
+    <player chips="€103,32" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€169,57" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,39" dealer="0" bet="€1" name="13373678" seat="6" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 C6</cards>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701391995">
+  <general>
+   <startdate>2022-08-09 19:21:40</startdate>
+   <players>
+    <player chips="€103,32" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€169,07" dealer="1" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€118,89" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€40" dealer="0" bet="€1" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">CA H3</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392192">
+  <general>
+   <startdate>2022-08-09 19:22:00</startdate>
+   <players>
+    <player chips="€103,32" dealer="0" bet="€5" name="SillinHaju" seat="1" win="€2"/>
+    <player chips="€170,57" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,39" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€39" dealer="0" bet="€1" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">DQ S8</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="3" no="5" sum="€0,50"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="23" no="6" sum="€5"/>
+   <action player="Amigo99" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392226">
+  <general>
+   <startdate>2022-08-09 19:22:24</startdate>
+   <players>
+    <player chips="€104,32" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€170,57" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€118,39" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€38" dealer="1" bet="€0" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S4 S3</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="4" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392257">
+  <general>
+   <startdate>2022-08-09 19:22:35</startdate>
+   <players>
+    <player chips="€103,82" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€171,07" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,39" dealer="0" bet="€12" name="13373678" seat="6" win="€5,50"/>
+    <player chips="€38" dealer="0" bet="€2,50" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="3" sum="€2,50"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ CK</cards>
+   <action player="13373678" type="23" no="6" sum="€12"/>
+   <action player="Amigo99" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392310">
+  <general>
+   <startdate>2022-08-09 19:23:06</startdate>
+   <players>
+    <player chips="€103,82" dealer="0" bet="€9" name="SillinHaju" seat="1" win="€9,70"/>
+    <player chips="€170,57" dealer="1" bet="€3" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€121,39" dealer="0" bet="€3" name="13373678" seat="6" win="€0"/>
+    <player chips="€35,50" dealer="0" bet="€1" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="23" no="3" sum="€3"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="4" sum="€3"/>
+   <cards player="13373678" type="Pocket">C10 CJ</cards>
+   <action player="13373678" type="3" no="5" sum="€2,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S5 S6</cards>
+   <action player="13373678" type="4" no="7" sum="€0"/>
+   <action player="SillinHaju" type="4" no="8" sum="€0"/>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="SillinHaju" type="5" no="11" sum="€6"/>
+   <action player="Hikaru" type="0" no="12" sum="€0"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392437">
+  <general>
+   <startdate>2022-08-09 19:24:20</startdate>
+   <players>
+    <player chips="€110,52" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€167,57" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,39" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€34,50" dealer="0" bet="€3" name="Amigo99" seat="8" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK D7</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="5" sum="€3"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701392473">
+  <general>
+   <startdate>2022-08-09 19:24:37</startdate>
+   <players>
+    <player chips="€109,52" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€167,57" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€118,39" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€35,50" dealer="1" bet="€0" name="Amigo99" seat="8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D5 CK</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="4" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701393601">
+  <general>
+   <startdate>2022-08-09 19:24:54</startdate>
+   <players>
+    <player chips="€109,02" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€168,07" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€118,39" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+    <player chips="€35,50" dealer="0" bet="€3" name="Amigo99" seat="8" win="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="3" sum="€3"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">C7 HA</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394374">
+  <general>
+   <startdate>2022-08-09 19:25:08</startdate>
+   <players>
+    <player chips="€109,02" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€167,57" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€117,39" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€37" dealer="0" bet="€1" name="Amigo99" seat="8" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S4 S7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394396">
+  <general>
+   <startdate>2022-08-09 19:25:20</startdate>
+   <players>
+    <player chips="€109,02" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€167,57" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€116,89" dealer="1" bet="€7,50" name="13373678" seat="6" win="€6,50"/>
+    <player chips="€37,50" dealer="0" bet="€0,50" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="0" bet="€1" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="Grinding4Emma" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">DJ HA</cards>
+   <action player="13373678" type="23" no="5" sum="€7,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="6" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+   <action player="Hikaru" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394470">
+  <general>
+   <startdate>2022-08-09 19:25:57</startdate>
+   <players>
+    <player chips="€109,02" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€165,07" dealer="0" bet="€19,87" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€120,89" dealer="0" bet="€50,80" name="13373678" seat="6" win="€40"/>
+    <player chips="€37" dealer="1" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0,50" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SJ SK</cards>
+   <action player="13373678" type="23" no="4" sum="€7,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="6" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="7" sum="€0"/>
+   <action player="Hikaru" type="3" no="8" sum="€5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 C5 S6</cards>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€12,37"/>
+   <action player="Hikaru" type="3" no="11" sum="€12,37"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="Hikaru" type="4" no="12" sum="€0"/>
+   <action player="13373678" type="5" no="13" sum="€30,93"/>
+   <action player="Hikaru" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394596">
+  <general>
+   <startdate>2022-08-09 19:26:55</startdate>
+   <players>
+    <player chips="€108,02" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€145,20" dealer="0" bet="€9" name="Hikaru" seat="5" win="€4,50"/>
+    <player chips="€141,02" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€37" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="1" bet="€2" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK C9</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="4" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="5" sum="€2"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="7" sum="€9"/>
+   <action player="Grinding4Emma" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394640">
+  <general>
+   <startdate>2022-08-09 19:27:18</startdate>
+   <players>
+    <player chips="€107,52" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€147,70" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€141,02" dealer="0" bet="€2" name="13373678" seat="6" win="€0"/>
+    <player chips="€37" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="0" bet="€6" name="Grinding4Emma" seat="10" win="€4,37"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="3" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="4" sum="€2"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">C3 H3</cards>
+   <action player="13373678" type="3" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 CQ D5</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Grinding4Emma" type="5" no="9" sum="€4"/>
+   <action player="13373678" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394701">
+  <general>
+   <startdate>2022-08-09 19:27:55</startdate>
+   <players>
+    <player chips="€107,52" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€147,20" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€139,02" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€37" dealer="0" bet="€1" name="Amigo99" seat="8" win="€1"/>
+    <player chips="€102,37" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="3" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D6 S7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394722">
+  <general>
+   <startdate>2022-08-09 19:28:08</startdate>
+   <players>
+    <player chips="€107,52" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€147,20" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€138,52" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€37,50" dealer="0" bet="€0,50" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€102,37" dealer="0" bet="€1" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="Grinding4Emma" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">DK S6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="6" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394752">
+  <general>
+   <startdate>2022-08-09 19:28:26</startdate>
+   <players>
+    <player chips="€107,52" dealer="0" bet="€1" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€148,70" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€138,52" dealer="0" bet="€8,87" name="13373678" seat="6" win="€8,25"/>
+    <player chips="€37" dealer="1" bet="€2,50" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€101,37" dealer="0" bet="€2,50" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">DK CQ</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="3" no="5" sum="€2,50"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="3" no="6" sum="€2"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 SQ DJ</cards>
+   <action player="Grinding4Emma" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="5" no="9" sum="€6,37"/>
+   <action player="Amigo99" type="0" no="10" sum="€0"/>
+   <action player="Grinding4Emma" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701394853">
+  <general>
+   <startdate>2022-08-09 19:29:13</startdate>
+   <players>
+    <player chips="€106,52" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€1" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€148,70" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€144,27" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€34,50" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="1" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="MarytHS" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H7 DA</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="6" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="7" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701395084">
+  <general>
+   <startdate>2022-08-09 19:29:32</startdate>
+   <players>
+    <player chips="€106,02" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€0,50" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€150,20" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€144,27" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€34,50" dealer="0" bet="€5,50" name="Amigo99" seat="8" win="€5,34"/>
+    <player chips="€100" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 H7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="4" sum="€2,50"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="5" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="7" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="8" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C5 H9</cards>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+   <action player="Amigo99" type="5" no="10" sum="€3"/>
+   <action player="Hikaru" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701395193">
+  <general>
+   <startdate>2022-08-09 19:30:26</startdate>
+   <players>
+    <player chips="€106,02" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="1" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€147,70" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€144,27" dealer="0" bet="€16,87" name="13373678" seat="6" win="€0"/>
+    <player chips="€37,34" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€100" dealer="0" bet="€27,74" name="Grinding4Emma" seat="10" win="€33,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="3" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="4" sum="€3"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="5" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="6" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">HA H4</cards>
+   <action player="13373678" type="3" no="8" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ D4 H3</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="Grinding4Emma" type="5" no="10" sum="€4"/>
+   <action player="13373678" type="23" no="11" sum="€13,87"/>
+   <action player="Grinding4Emma" type="23" no="12" sum="€24,74"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701395378">
+  <general>
+   <startdate>2022-08-09 19:31:58</startdate>
+   <players>
+    <player chips="€106,02" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€100" dealer="0" bet="€6,25" name="MarytHS" seat="3" win="€6,31"/>
+    <player chips="€147,20" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€127,40" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€37,34" dealer="0" bet="€3" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€116,34" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="3" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="23" no="5" sum="€3"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S3 D2</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="3" no="8" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C3 C10</cards>
+   <action player="Amigo99" type="4" no="9" sum="€0"/>
+   <action player="MarytHS" type="5" no="10" sum="€3,25"/>
+   <action player="Amigo99" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701395459">
+  <general>
+   <startdate>2022-08-09 19:32:40</startdate>
+   <players>
+    <player chips="€106,02" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€103,31" dealer="0" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€147,20" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€126,90" dealer="1" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€34,34" dealer="0" bet="€2" name="Amigo99" seat="8" win="€2"/>
+    <player chips="€116,34" dealer="0" bet="€1" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="Grinding4Emma" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 C6</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="7" sum="€2"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701395575">
+  <general>
+   <startdate>2022-08-09 19:33:03</startdate>
+   <players>
+    <player chips="€106,02" dealer="0" bet="€2,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€103,31" dealer="0" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€147,20" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€126,90" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€35,34" dealer="1" bet="€5,50" name="Amigo99" seat="8" win="€7,76"/>
+    <player chips="€115,34" dealer="0" bet="€0,50" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="4" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C10 D9</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="3" no="6" sum="€2,50"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="3" no="8" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S7 H9</cards>
+   <action player="SillinHaju" type="4" no="9" sum="€0"/>
+   <action player="Hikaru" type="4" no="10" sum="€0"/>
+   <action player="Amigo99" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action player="SillinHaju" type="4" no="12" sum="€0"/>
+   <action player="Hikaru" type="4" no="13" sum="€0"/>
+   <action player="Amigo99" type="4" no="14" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action player="SillinHaju" type="4" no="15" sum="€0"/>
+   <action player="Hikaru" type="4" no="16" sum="€0"/>
+   <action player="Amigo99" type="5" no="17" sum="€3"/>
+   <action player="SillinHaju" type="0" no="18" sum="€0"/>
+   <action player="Hikaru" type="0" no="19" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701396819">
+  <general>
+   <startdate>2022-08-09 19:34:38</startdate>
+   <players>
+    <player chips="€103,52" dealer="0" bet="€0,50" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€103,31" dealer="0" bet="€1" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€144,70" dealer="0" bet="€2,50" name="Hikaru" seat="5" win="€2,50"/>
+    <player chips="€126,90" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€40,60" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€114,84" dealer="1" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="MarytHS" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="23" no="3" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">H9 HK</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="6" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="7" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701396876">
+  <general>
+   <startdate>2022-08-09 19:35:07</startdate>
+   <players>
+    <player chips="€103,02" dealer="1" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€102,31" dealer="0" bet="€0,50" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,20" dealer="0" bet="€1" name="Hikaru" seat="5" win="€1"/>
+    <player chips="€126,90" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€40,60" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€114,84" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CK H2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="4" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="5" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="6" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701396924">
+  <general>
+   <startdate>2022-08-09 19:35:26</startdate>
+   <players>
+    <player chips="€103,02" dealer="0" bet="€21,50" name="SillinHaju" seat="1" win="€43,16"/>
+    <player chips="€101,81" dealer="1" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,70" dealer="0" bet="€0,50" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€126,90" dealer="0" bet="€1" name="13373678" seat="6" win="€0"/>
+    <player chips="€40,60" dealer="0" bet="€21,50" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€114,84" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Hikaru" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">DK C10</cards>
+   <action player="Amigo99" type="23" no="3" sum="€2,50"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="4" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">H3 HA</cards>
+   <action player="SillinHaju" type="3" no="5" sum="€2,50"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="6" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ S4</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S7 HK</cards>
+   <action player="Amigo99" type="5" no="9" sum="€3"/>
+   <action player="SillinHaju" type="3" no="10" sum="€3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="Amigo99" type="5" no="11" sum="€5"/>
+   <action player="SillinHaju" type="3" no="12" sum="€5"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="Amigo99" type="5" no="13" sum="€11"/>
+   <action player="SillinHaju" type="3" no="14" sum="€11"/>
+  </round>
+ </game>
+ <game gamecode="3701397062">
+  <general>
+   <startdate>2022-08-09 19:36:42</startdate>
+   <players>
+    <player chips="€124,68" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€101,81" dealer="0" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,20" dealer="1" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€125,90" dealer="0" bet="€0,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€19,10" dealer="0" bet="€1" name="Amigo99" seat="8" win="€1"/>
+    <player chips="€114,84" dealer="0" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Amigo99" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="3" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="4" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="5" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">H6 S2</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701397090">
+  <general>
+   <startdate>2022-08-09 19:36:59</startdate>
+   <players>
+    <player chips="€124,68" dealer="0" bet="€0" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€101,81" dealer="0" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,20" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€125,40" dealer="1" bet="€2,50" name="13373678" seat="6" win="€0"/>
+    <player chips="€19,60" dealer="0" bet="€6" name="Amigo99" seat="8" win="€6"/>
+    <player chips="€114,84" dealer="0" bet="€1" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amigo99" type="1" no="1" sum="€0,50"/>
+   <action player="Grinding4Emma" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="0" no="3" sum="€0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="4" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">SJ H9</cards>
+   <action player="13373678" type="23" no="6" sum="€2,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="23" no="7" sum="€6"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="8" sum="€0"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701397153">
+  <general>
+   <startdate>2022-08-09 19:37:29</startdate>
+   <players>
+    <player chips="€124,68" dealer="0" bet="€22,55" name="SillinHaju" seat="1" win="€44,22"/>
+    <player chips="€101,81" dealer="0" bet="€0" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,20" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€122,90" dealer="0" bet="€22,55" name="13373678" seat="6" win="€0"/>
+    <player chips="€23,10" dealer="1" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€113,84" dealer="0" bet="€0,50" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="SillinHaju" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="3" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 CJ</cards>
+   <action player="13373678" type="23" no="5" sum="€2,50"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="6" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">HK DJ</cards>
+   <action player="SillinHaju" type="3" no="8" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DK C3</cards>
+   <action player="SillinHaju" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€1,81"/>
+   <action player="SillinHaju" type="3" no="11" sum="€1,81"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="SillinHaju" type="4" no="12" sum="€0"/>
+   <action player="13373678" type="5" no="13" sum="€6,84"/>
+   <action player="SillinHaju" type="3" no="14" sum="€6,84"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action player="SillinHaju" type="4" no="15" sum="€0"/>
+   <action player="13373678" type="5" no="16" sum="€11,40"/>
+   <action player="SillinHaju" type="3" no="17" sum="€11,40"/>
+  </round>
+ </game>
+ <game gamecode="3701398047">
+  <general>
+   <startdate>2022-08-09 19:38:48</startdate>
+   <players>
+    <player chips="€146,35" dealer="0" bet="€3" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€101,81" dealer="0" bet="€4,98" name="MarytHS" seat="3" win="€5,82"/>
+    <player chips="€146,20" dealer="0" bet="€0" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€100,35" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€23,10" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€113,34" dealer="1" bet="€0" name="Grinding4Emma" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SillinHaju" type="1" no="1" sum="€0,50"/>
+   <action player="MarytHS" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C3 C2</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="6" sum="€0"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="3" no="7" sum="€0,50"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="23" no="8" sum="€3"/>
+   <action player="SillinHaju" type="3" no="9" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D7 C8</cards>
+   <action player="SillinHaju" type="4" no="10" sum="€0"/>
+   <action player="MarytHS" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="SillinHaju" type="4" no="12" sum="€0"/>
+   <action player="MarytHS" type="5" no="13" sum="€1,98"/>
+   <action player="SillinHaju" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3701398132">
+  <general>
+   <startdate>2022-08-09 19:39:38</startdate>
+   <players>
+    <player chips="€143,35" dealer="1" bet="€2" name="SillinHaju" seat="1" win="€0"/>
+    <player chips="€104,63" dealer="0" bet="€0,50" name="MarytHS" seat="3" win="€0"/>
+    <player chips="€146,20" dealer="0" bet="€2" name="Hikaru" seat="5" win="€0"/>
+    <player chips="€100,35" dealer="0" bet="€0" name="13373678" seat="6" win="€0"/>
+    <player chips="€23,10" dealer="0" bet="€0" name="Amigo99" seat="8" win="€0"/>
+    <player chips="€113,34" dealer="0" bet="€7" name="Grinding4Emma" seat="10" win="€6,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" type="1" no="1" sum="€0,50"/>
+   <action player="Hikaru" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C8 H2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Amigo99" type="Pocket">X X</cards>
+   <action player="Amigo99" type="0" no="4" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="5" sum="€2"/>
+   <cards player="SillinHaju" type="Pocket">X X</cards>
+   <action player="SillinHaju" type="3" no="6" sum="€2"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" type="0" no="7" sum="€0"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action player="Hikaru" type="3" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 S7 H8</cards>
+   <action player="Hikaru" type="4" no="9" sum="€0"/>
+   <action player="Grinding4Emma" type="4" no="10" sum="€0"/>
+   <action player="SillinHaju" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="Hikaru" type="4" no="12" sum="€0"/>
+   <action player="Grinding4Emma" type="5" no="13" sum="€5"/>
+   <action player="SillinHaju" type="0" no="14" sum="€0"/>
+   <action player="Hikaru" type="0" no="15" sum="€0"/>
+  </round>
+ </game>
+</session>

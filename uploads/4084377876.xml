@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4084377876">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:06</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-09-25 18:39:46</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,50</bets>
+  <wins>€2</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€101</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3713202289">
+  <general>
+   <startdate>2022-09-25 18:39:46</startdate>
+   <players>
+    <player seat="1" chips="€100" dealer="0" win="€0" name="TsingisKhaan" bet="€1"/>
+    <player seat="3" chips="€100" dealer="1" win="€2" name="13373678" bet="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,50" type="1"/>
+   <action no="2" player="TsingisKhaan" sum="€1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 C10</cards>
+   <action no="3" player="13373678" sum="€2,50" type="23"/>
+   <cards player="TsingisKhaan" type="Pocket">X X</cards>
+   <action no="4" player="TsingisKhaan" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

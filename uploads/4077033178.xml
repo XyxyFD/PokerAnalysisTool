@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077033178">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:56:41</duration>
+  <gamecount>96</gamecount>
+  <startdate>2022-06-17 15:46:02</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€89,70</bets>
+  <wins>€53,52</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688820702">
+  <general>
+   <startdate>2022-06-17 15:46:02</startdate>
+   <players>
+    <player chips="€10,50" dealer="0" name="Player 1" win="€1,22" bet="€1,37" seat="1"/>
+    <player chips="€205,16" dealer="1" name="Player 3" win="€0" bet="€0" seat="3"/>
+    <player chips="€69,40" dealer="0" name="Player 5" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€95,75" dealer="0" name="Player 6" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€25" dealer="0" name="Player 10" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Player 5" no="1" sum="€0,25"/>
+   <action type="2" player="Player 6" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" player="Player 10" no="3" sum="€0"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="3" player="Player 1" no="4" sum="€0,50"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="0" player="Player 3" no="5" sum="€0"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" player="Player 5" no="6" sum="€0"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="4" player="Player 6" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H4 H6</cards>
+   <action type="4" player="Player 6" no="8" sum="€0"/>
+   <action type="4" player="Player 1" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action type="4" player="Player 6" no="10" sum="€0"/>
+   <action type="4" player="Player 1" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action type="4" player="Player 6" no="12" sum="€0"/>
+   <action type="5" player="Player 1" no="13" sum="€0,87"/>
+   <action type="0" player="Player 6" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688821934">
+  <general>
+   <startdate>2022-06-17 15:46:55</startdate>
+   <players>
+    <player chips="€11,22" dealer="0" name="Haylaz" win="€0" bet="€1" seat="1"/>
+    <player chips="€205,16" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€69,15" dealer="1" name="Rasierklinge" win="€0" bet="€7" seat="5"/>
+    <player chips="€95,25" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€25" dealer="0" name="raiserfraser" win="€15,28" bet="€18,02" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="23" player="raiserfraser" no="3" sum="€1"/>
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="3" player="Haylaz" no="4" sum="€1"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="6" sum="€6,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+   <cards type="Pocket" player="13373678">C7 S3</cards>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+   <action type="3" player="raiserfraser" no="9" sum="€5,50"/>
+   <action type="0" player="Haylaz" no="10" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S2 H5</cards>
+   <action type="5" player="raiserfraser" no="11" sum="€0,50"/>
+   <action type="3" player="Rasierklinge" no="12" sum="€0,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action type="5" player="raiserfraser" no="13" sum="€11,02"/>
+   <action type="0" player="Rasierklinge" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688821999">
+  <general>
+   <startdate>2022-06-17 15:47:42</startdate>
+   <players>
+    <player chips="€10,22" dealer="0" name="Haylaz" win="€1,22" bet="€1,37" seat="1"/>
+    <player chips="€205,16" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€62,15" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€95" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€33,28" dealer="0" name="raiserfraser" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="raiserfraser" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="3" player="Haylaz" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 D10</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="4" player="raiserfraser" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S6 DJ</cards>
+   <action type="4" player="raiserfraser" no="9" sum="€0"/>
+   <action type="5" player="Haylaz" no="10" sum="€0,87"/>
+   <action type="0" player="raiserfraser" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822039">
+  <general>
+   <startdate>2022-06-17 15:48:05</startdate>
+   <players>
+    <player chips="€10,94" dealer="0" name="Haylaz" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€205,16" dealer="0" name="UduHaXyuKopa6JIb" win="€1,25" bet="€1,25" seat="3"/>
+    <player chips="€62,15" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€95" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€32,78" dealer="0" name="raiserfraser" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="raiserfraser" no="1" sum="€0,25"/>
+   <action type="2" player="Haylaz" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">SQ D2</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="0" player="raiserfraser" no="7" sum="€0"/>
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="0" player="Haylaz" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822061">
+  <general>
+   <startdate>2022-06-17 15:48:25</startdate>
+   <players>
+    <player chips="€205,91" dealer="0" name="UduHaXyuKopa6JIb" win="€18,80" bet="€32,53" seat="3"/>
+    <player chips="€62,15" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€95" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€32,53" dealer="1" name="raiserfraser" win="€0" bet="€9,44" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">H10 C9</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="23" player="raiserfraser" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="6" sum="€4,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+   <action type="3" player="raiserfraser" no="8" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 D2 CK</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="9" sum="€4,94"/>
+   <action type="3" player="raiserfraser" no="10" sum="€4,94"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="11" sum="€0"/>
+   <action type="4" player="raiserfraser" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="13" sum="€23,09"/>
+   <action type="0" player="raiserfraser" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822124">
+  <general>
+   <startdate>2022-06-17 15:49:08</startdate>
+   <players>
+    <player chips="€10,44" dealer="0" name="Haylaz" win="€0" bet="€1" seat="1"/>
+    <player chips="€215,27" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€61,65" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€95" dealer="0" name="offi3000" win="€2,75" bet="€95" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€23,09" dealer="0" name="raiserfraser" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+   <action type="1" player="Haylaz" no="3" sum="€0,25"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 S2</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="3" player="raiserfraser" no="5" sum="€0,50"/>
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="23" player="Haylaz" no="6" sum="€1"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="8" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="9" sum="€95"/>
+   <action type="0" player="raiserfraser" no="10" sum="€0"/>
+   <action type="0" player="Haylaz" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822157">
+  <general>
+   <startdate>2022-06-17 15:49:29</startdate>
+   <players>
+    <player chips="€9,44" dealer="0" name="Haylaz" win="€0" bet="€0" seat="1"/>
+    <player chips="€215,27" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€61,40" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€96,75" dealer="0" name="offi3000" win="€0" bet="€2" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€3,88" bet="€7" seat="8"/>
+    <player chips="€22,59" dealer="0" name="raiserfraser" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="0" player="raiserfraser" no="3" sum="€0"/>
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="0" player="Haylaz" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="7" sum="€1"/>
+   <cards type="Pocket" player="13373678">C4 HA</cards>
+   <action type="3" player="13373678" no="8" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 SK DA</cards>
+   <action type="4" player="offi3000" no="9" sum="€0"/>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action type="5" player="offi3000" no="11" sum="€1"/>
+   <action type="3" player="13373678" no="12" sum="€1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action type="4" player="offi3000" no="13" sum="€0"/>
+   <action type="5" player="13373678" no="14" sum="€5"/>
+   <action type="0" player="offi3000" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822248">
+  <general>
+   <startdate>2022-06-17 15:50:39</startdate>
+   <players>
+    <player chips="€9,44" dealer="0" name="Haylaz" win="€8,94" bet="€4,48" seat="1"/>
+    <player chips="€215,27" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€61,40" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€94,75" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,88" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€22,59" dealer="0" name="raiserfraser" win="€0" bet="€4,48" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="raiserfraser" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haylaz">SA DK</cards>
+   <action type="23" player="Haylaz" no="3" sum="€1"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 C3</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">C8 S7</cards>
+   <action type="3" player="raiserfraser" no="8" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H3 C5</cards>
+   <action type="4" player="raiserfraser" no="9" sum="€0"/>
+   <action type="4" player="Haylaz" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action type="5" player="raiserfraser" no="11" sum="€1,57"/>
+   <action type="23" player="Haylaz" no="12" sum="€3,48"/>
+   <action type="3" player="raiserfraser" no="13" sum="€1,91"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action type="4" player="raiserfraser" no="14" sum="€0"/>
+   <action type="4" player="Haylaz" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822307">
+  <general>
+   <startdate>2022-06-17 15:51:14</startdate>
+   <players>
+    <player chips="€13,90" dealer="0" name="Haylaz" win="€0" bet="€7,20" seat="1"/>
+    <player chips="€215,27" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="3"/>
+    <player chips="€61,40" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€94,75" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,63" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€18,11" dealer="0" name="raiserfraser" win="€13,97" bet="€7,20" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="raiserfraser" no="1" sum="€0,25"/>
+   <action type="2" player="Haylaz" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">C7 S10</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">SJ H9</cards>
+   <action type="23" player="raiserfraser" no="7" sum="€1,50"/>
+   <cards type="Pocket" player="Haylaz">SA C10</cards>
+   <action type="3" player="Haylaz" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ DK H7</cards>
+   <action type="4" player="raiserfraser" no="9" sum="€0"/>
+   <action type="4" player="Haylaz" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action type="5" player="raiserfraser" no="11" sum="€2,10"/>
+   <action type="3" player="Haylaz" no="12" sum="€2,10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action type="4" player="raiserfraser" no="13" sum="€0"/>
+   <action type="5" player="Haylaz" no="14" sum="€3,60"/>
+   <action type="3" player="raiserfraser" no="15" sum="€3,60"/>
+  </round>
+ </game>
+ <game gamecode="3688822355">
+  <general>
+   <startdate>2022-06-17 15:51:51</startdate>
+   <players>
+    <player chips="€6,70" dealer="0" name="Haylaz" win="€0" bet="€2,55" seat="1"/>
+    <player chips="€215,27" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="3"/>
+    <player chips="€61,40" dealer="0" name="Rasierklinge" win="€5,44" bet="€6,47" seat="5"/>
+    <player chips="€94,75" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,63" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€24,88" dealer="1" name="raiserfraser" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Haylaz" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 H10</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="0" player="raiserfraser" no="6" sum="€0"/>
+   <cards type="Pocket" player="Haylaz">X X</cards>
+   <action type="3" player="Haylaz" no="7" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S8 D8</cards>
+   <action type="4" player="Haylaz" no="9" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="10" sum="€1,05"/>
+   <action type="3" player="Haylaz" no="11" sum="€1,05"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="4" player="Haylaz" no="12" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="13" sum="€3,92"/>
+   <action type="0" player="Haylaz" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822536">
+  <general>
+   <startdate>2022-06-17 15:52:20</startdate>
+   <players>
+    <player chips="€4,15" dealer="1" name="Haylaz" win="€0" bet="€4,15" seat="1"/>
+    <player chips="€214,77" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€64,29" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€94,75" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,63" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€24,88" dealer="0" name="raiserfraser" win="€8,78" bet="€7,11" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">D7 C8</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">DA D10</cards>
+   <action type="23" player="raiserfraser" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Haylaz">SJ C10</cards>
+   <action type="3" player="Haylaz" no="6" sum="€1,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK CQ H7</cards>
+   <action type="5" player="raiserfraser" no="9" sum="€1,87"/>
+   <action type="3" player="Haylaz" no="10" sum="€1,87"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="5" player="raiserfraser" no="11" sum="€3,74"/>
+   <action type="7" player="Haylaz" no="12" sum="€0,78"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="3688822574">
+  <general>
+   <startdate>2022-06-17 15:52:49</startdate>
+   <players>
+    <player chips="€214,52" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€1,25" seat="3"/>
+    <player chips="€63,79" dealer="0" name="Rasierklinge" win="€3" bet="€5" seat="5"/>
+    <player chips="€94,75" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€51,63" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€29,51" dealer="0" name="raiserfraser" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 D7</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="raiserfraser">X X</cards>
+   <action type="0" player="raiserfraser" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="6" sum="€5"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822622">
+  <general>
+   <startdate>2022-06-17 15:53:29</startdate>
+   <players>
+    <player chips="€213,27" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€2,19" seat="3"/>
+    <player chips="€65,54" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€94,25" dealer="0" name="offi3000" win="€5,46" bet="€4,19" seat="6"/>
+    <player chips="€51,63" dealer="0" name="13373678" win="€0" bet="€1,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="3" player="offi3000" no="5" sum="€1"/>
+   <cards type="Pocket" player="13373678">HQ CJ</cards>
+   <action type="3" player="13373678" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H10 S6</cards>
+   <action type="4" player="offi3000" no="7" sum="€0"/>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="5" player="UduHaXyuKopa6JIb" no="9" sum="€0,94"/>
+   <action type="3" player="offi3000" no="10" sum="€0,94"/>
+   <action type="0" player="13373678" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" player="offi3000" no="12" sum="€0"/>
+   <action type="4" player="UduHaXyuKopa6JIb" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action type="5" player="offi3000" no="14" sum="€2"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822938">
+  <general>
+   <startdate>2022-06-17 15:54:39</startdate>
+   <players>
+    <player chips="€65,54" dealer="0" name="Rasierklinge" win="€0,50" bet="€0,50" seat="5"/>
+    <player chips="€97,52" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€50,38" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 H5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822949">
+  <general>
+   <startdate>2022-06-17 15:54:48</startdate>
+   <players>
+    <player chips="€65,79" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€97,52" dealer="0" name="offi3000" win="€0,50" bet="€0,50" seat="6"/>
+    <player chips="€50,13" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <cards type="Pocket" player="13373678">C4 S3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822961">
+  <general>
+   <startdate>2022-06-17 15:54:54</startdate>
+   <players>
+    <player chips="€65,54" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€97,77" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€50,13" dealer="0" name="13373678" win="€0,50" bet="€0,50" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 C8</cards>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822978">
+  <general>
+   <startdate>2022-06-17 15:55:04</startdate>
+   <players>
+    <player chips="€65,54" dealer="0" name="Rasierklinge" win="€0,50" bet="€0,50" seat="5"/>
+    <player chips="€97,52" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€50,38" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">C7 HQ</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822993">
+  <general>
+   <startdate>2022-06-17 15:55:13</startdate>
+   <players>
+    <player chips="€65,79" dealer="0" name="Rasierklinge" win="€1" bet="€1,50" seat="5"/>
+    <player chips="€97,52" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€50,13" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C9 H2</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688823011">
+  <general>
+   <startdate>2022-06-17 15:55:28</startdate>
+   <players>
+    <player chips="€20" dealer="0" name="Pasila77" win="€1,22" bet="€1" seat="1"/>
+    <player chips="€66,29" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€97,02" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€50,13" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+   <action type="2" player="Pasila77" no="3" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="4" player="Pasila77" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 CK</cards>
+   <action type="4" player="13373678" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ SQ S2</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="4" player="Pasila77" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+   <action type="5" player="Pasila77" no="11" sum="€0,50"/>
+   <action type="0" player="13373678" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688823056">
+  <general>
+   <startdate>2022-06-17 15:55:56</startdate>
+   <players>
+    <player chips="€20,72" dealer="0" name="Pasila77" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€66,29" dealer="0" name="Rasierklinge" win="€3,64" bet="€3,37" seat="5"/>
+    <player chips="€96,77" dealer="1" name="offi3000" win="€0" bet="€1,50" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Pasila77" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="3" player="offi3000" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">C7 SQ</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SA S4</cards>
+   <action type="5" player="Rasierklinge" no="7" sum="€1,87"/>
+   <action type="0" player="offi3000" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688823089">
+  <general>
+   <startdate>2022-06-17 15:56:23</startdate>
+   <players>
+    <player chips="€20,22" dealer="0" name="Pasila77" win="€0" bet="€0,25" seat="1"/>
+    <player chips="€68,43" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€95,27" dealer="0" name="offi3000" win="€1,25" bet="€1" seat="6"/>
+    <player chips="€50" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Pasila77" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="3" sum="€1"/>
+   <cards type="Pocket" player="13373678">D7 C8</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688823114">
+  <general>
+   <startdate>2022-06-17 15:56:42</startdate>
+   <players>
+    <player chips="€19,97" dealer="1" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€67,93" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€96,02" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€1,25" bet="€1,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DJ D6</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688823137">
+  <general>
+   <startdate>2022-06-17 15:56:56</startdate>
+   <players>
+    <player chips="€19,97" dealer="0" name="Pasila77" win="€0" bet="€1" seat="1"/>
+    <player chips="€67,68" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€95,52" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€50,75" dealer="0" name="13373678" win="€2,19" bet="€1" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pasila77">C7 C4</cards>
+   <action type="3" player="Pasila77" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">C3 CJ</cards>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 DQ HJ</cards>
+   <action type="4" player="13373678" no="7" sum="€0"/>
+   <action type="5" player="Pasila77" no="8" sum="€0,50"/>
+   <action type="3" player="13373678" no="9" sum="€0,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+   <action type="4" player="Pasila77" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action type="4" player="13373678" no="12" sum="€0"/>
+   <action type="4" player="Pasila77" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824127">
+  <general>
+   <startdate>2022-06-17 15:57:44</startdate>
+   <players>
+    <player chips="€18,97" dealer="0" name="Pasila77" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€30" dealer="0" name="Mirable007" win="€0" bet="€13,87" seat="3"/>
+    <player chips="€67,68" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€95,27" dealer="1" name="offi3000" win="€27,63" bet="€13,87" seat="6"/>
+    <player chips="€51,94" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Pasila77" no="2" sum="€0,50"/>
+   <action type="2" player="Mirable007" no="3" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Mirable007">S6 S4</cards>
+   <action type="23" player="Mirable007" no="4" sum="€2"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">DK CJ</cards>
+   <action type="3" player="offi3000" no="6" sum="€2"/>
+   <cards type="Pocket" player="13373678">C6 S3</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 C9 CK</cards>
+   <action type="4" player="Mirable007" no="9" sum="€0"/>
+   <action type="4" player="offi3000" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action type="5" player="Mirable007" no="11" sum="€4,75"/>
+   <action type="3" player="offi3000" no="12" sum="€4,75"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action type="5" player="Mirable007" no="13" sum="€7,12"/>
+   <action type="3" player="offi3000" no="14" sum="€7,12"/>
+  </round>
+ </game>
+ <game gamecode="3688824172">
+  <general>
+   <startdate>2022-06-17 15:58:18</startdate>
+   <players>
+    <player chips="€18,47" dealer="0" name="Pasila77" win="€0" bet="€0,25" seat="1"/>
+    <player chips="€16,13" dealer="0" name="Mirable007" win="€0" bet="€4,75" seat="3"/>
+    <player chips="€67,68" dealer="0" name="Rasierklinge" win="€9,46" bet="€67,68" seat="5"/>
+    <player chips="€109,03" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,69" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Pasila77" no="1" sum="€0,25"/>
+   <action type="2" player="Mirable007" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">S2 S8</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="6" sum="€0"/>
+   <cards type="Pocket" player="Mirable007">X X</cards>
+   <action type="3" player="Mirable007" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H6 SK</cards>
+   <action type="4" player="Mirable007" no="8" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="4" player="Mirable007" no="10" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action type="5" player="Mirable007" no="12" sum="€3,25"/>
+   <action type="23" player="Rasierklinge" no="13" sum="€66,18"/>
+   <action type="0" player="Mirable007" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824216">
+  <general>
+   <startdate>2022-06-17 15:58:50</startdate>
+   <players>
+    <player chips="€18,22" dealer="1" name="Pasila77" win="€0" bet="€3" seat="1"/>
+    <player chips="€11,38" dealer="0" name="Mirable007" win="€0" bet="€11,38" seat="3"/>
+    <player chips="€72,39" dealer="0" name="Rasierklinge" win="€24,98" bet="€12,90" seat="5"/>
+    <player chips="€109,03" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,69" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Mirable007" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 H10</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="3" player="Pasila77" no="5" sum="€0,50"/>
+   <cards type="Pocket" player="Mirable007">C4 D7</cards>
+   <action type="3" player="Mirable007" no="6" sum="€0,25"/>
+   <cards type="Pocket" player="Rasierklinge">DA C10</cards>
+   <action type="23" player="Rasierklinge" no="7" sum="€3"/>
+   <action type="3" player="Pasila77" no="8" sum="€2,50"/>
+   <action type="3" player="Mirable007" no="9" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C3 C5</cards>
+   <action type="4" player="Mirable007" no="10" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="11" sum="€0"/>
+   <action type="4" player="Pasila77" no="12" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action type="4" player="Mirable007" no="13" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="14" sum="€2,70"/>
+   <action type="0" player="Pasila77" no="15" sum="€0"/>
+   <action type="3" player="Mirable007" no="16" sum="€2,70"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action type="4" player="Mirable007" no="17" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="18" sum="€7,20"/>
+   <action type="7" player="Mirable007" no="19" sum="€5,68"/>
+  </round>
+ </game>
+ <game gamecode="3688824287">
+  <general>
+   <startdate>2022-06-17 15:59:40</startdate>
+   <players>
+    <player chips="€15,22" dealer="0" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€85,99" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€109,03" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€51,69" dealer="0" name="13373678" win="€0,50" bet="€0,50" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S8 D2</cards>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824307">
+  <general>
+   <startdate>2022-06-17 15:59:54</startdate>
+   <players>
+    <player chips="€15,22" dealer="0" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€85,99" dealer="0" name="Rasierklinge" win="€1,25" bet="€1,50" seat="5"/>
+    <player chips="€108,78" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,94" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€211,08" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">H6 CK</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824325">
+  <general>
+   <startdate>2022-06-17 16:00:06</startdate>
+   <players>
+    <player chips="€15,22" dealer="0" name="Pasila77" win="€3,16" bet="€1,50" seat="1"/>
+    <player chips="€86,74" dealer="0" name="Rasierklinge" win="€0" bet="€1,50" seat="5"/>
+    <player chips="€108,78" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,69" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€210,58" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="Pasila77" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">H10 D10</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ S3</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">D3 HA</cards>
+   <action type="3" player="Pasila77" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 SJ CK</cards>
+   <action type="4" player="Pasila77" no="8" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action type="4" player="Pasila77" no="10" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action type="4" player="Pasila77" no="12" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824376">
+  <general>
+   <startdate>2022-06-17 16:00:42</startdate>
+   <players>
+    <player chips="€16,88" dealer="0" name="Pasila77" win="€0" bet="€0,25" seat="1"/>
+    <player chips="€85,24" dealer="0" name="Rasierklinge" win="€0,50" bet="€0,50" seat="5"/>
+    <player chips="€108,78" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,69" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€210,33" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Pasila77" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">C6 DJ</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824396">
+  <general>
+   <startdate>2022-06-17 16:00:54</startdate>
+   <players>
+    <player chips="€16,63" dealer="1" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€85,49" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€108,78" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€51,69" dealer="0" name="13373678" win="€1,25" bet="€1,25" seat="8"/>
+    <player chips="€210,33" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA DJ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824425">
+  <general>
+   <startdate>2022-06-17 16:01:14</startdate>
+   <players>
+    <player chips="€16,63" dealer="0" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€85,24" dealer="1" name="Rasierklinge" win="€0" bet="€67,75" seat="5"/>
+    <player chips="€108,28" dealer="0" name="offi3000" win="€134,50" bet="€67,75" seat="6"/>
+    <player chips="€52,44" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€210,33" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">C4 C6</cards>
+   <action type="23" player="Rasierklinge" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="offi3000">D7 H7</cards>
+   <action type="23" player="offi3000" no="6" sum="€4,25"/>
+   <cards type="Pocket" player="13373678">CK D6</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <action type="3" player="Rasierklinge" no="8" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 CQ C7</cards>
+   <action type="5" player="offi3000" no="9" sum="€4,50"/>
+   <action type="3" player="Rasierklinge" no="10" sum="€4,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="5" player="offi3000" no="11" sum="€15,50"/>
+   <action type="3" player="Rasierklinge" no="12" sum="€15,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action type="5" player="offi3000" no="13" sum="€43,50"/>
+   <action type="3" player="Rasierklinge" no="14" sum="€43,50"/>
+  </round>
+ </game>
+ <game gamecode="3688824521">
+  <general>
+   <startdate>2022-06-17 16:02:14</startdate>
+   <players>
+    <player chips="€16,63" dealer="0" name="Pasila77" win="€0" bet="€0" seat="1"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€175,03" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,94" dealer="0" name="13373678" win="€1" bet="€1,50" seat="8"/>
+    <player chips="€210,33" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="0" player="Pasila77" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">H9 C10</cards>
+   <action type="23" player="13373678" no="6" sum="€1,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824546">
+  <general>
+   <startdate>2022-06-17 16:02:29</startdate>
+   <players>
+    <player chips="€16,63" dealer="0" name="Pasila77" win="€0" bet="€1" seat="1"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€175,03" dealer="0" name="offi3000" win="€2,19" bet="€2" seat="6"/>
+    <player chips="€52,44" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€209,83" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="Pasila77" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="4" sum="€1"/>
+   <cards type="Pocket" player="13373678">HQ S6</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="Pasila77">X X</cards>
+   <action type="3" player="Pasila77" no="7" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S2 H5</cards>
+   <action type="4" player="Pasila77" no="8" sum="€0"/>
+   <action type="5" player="offi3000" no="9" sum="€1"/>
+   <action type="0" player="Pasila77" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824575">
+  <general>
+   <startdate>2022-06-17 16:02:48</startdate>
+   <players>
+    <player chips="€15,63" dealer="0" name="Pasila77" win="€0" bet="€15,63" seat="1"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€176,22" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€52,44" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€209,58" dealer="1" name="UduHaXyuKopa6JIb" win="€30,80" bet="€15,63" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Pasila77" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 CA</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">S9 DJ</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="Pasila77">HQ SA</cards>
+   <action type="3" player="Pasila77" no="6" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK CQ S10</cards>
+   <action type="4" player="Pasila77" no="8" sum="€0"/>
+   <action type="5" player="UduHaXyuKopa6JIb" no="9" sum="€2,28"/>
+   <action type="23" player="Pasila77" no="10" sum="€14,38"/>
+   <action type="3" player="UduHaXyuKopa6JIb" no="11" sum="€12,10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+  </round>
+ </game>
+ <game gamecode="3688824672">
+  <general>
+   <startdate>2022-06-17 16:03:48</startdate>
+   <players>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€176,22" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€52,44" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€224,75" dealer="0" name="UduHaXyuKopa6JIb" win="€1,25" bet="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">H9 D5</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824703">
+  <general>
+   <startdate>2022-06-17 16:04:09</startdate>
+   <players>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€175,97" dealer="1" name="offi3000" win="€0" bet="€1" seat="6"/>
+    <player chips="€51,94" dealer="0" name="13373678" win="€2,50" bet="€5,50" seat="8"/>
+    <player chips="€225,50" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="4" sum="€1"/>
+   <cards type="Pocket" player="13373678">CA C9</cards>
+   <action type="23" player="13373678" no="5" sum="€5,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824909">
+  <general>
+   <startdate>2022-06-17 16:04:34</startdate>
+   <players>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€4,50" seat="5"/>
+    <player chips="€174,97" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€53,44" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€225" dealer="0" name="UduHaXyuKopa6JIb" win="€8,73" bet="€7,20" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 H9</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="6" sum="€4,50"/>
+   <action type="3" player="UduHaXyuKopa6JIb" no="7" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D10 D4</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="10" sum="€2,70"/>
+   <action type="0" player="Rasierklinge" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688824981">
+  <general>
+   <startdate>2022-06-17 16:05:20</startdate>
+   <players>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€174,97" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€53,44" dealer="0" name="13373678" win="€0" bet="€1,25" seat="8"/>
+    <player chips="€229,23" dealer="1" name="UduHaXyuKopa6JIb" win="€3,25" bet="€3,75" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ CK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="4" sum="€3,75"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825009">
+  <general>
+   <startdate>2022-06-17 16:05:38</startdate>
+   <players>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€174,47" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€52,19" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€231,23" dealer="0" name="UduHaXyuKopa6JIb" win="€1,25" bet="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">HQ D6</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825023">
+  <general>
+   <startdate>2022-06-17 16:05:50</startdate>
+   <players>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0,50" bet="€0,50" seat="5"/>
+    <player chips="€174,22" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,69" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ C5</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825036">
+  <general>
+   <startdate>2022-06-17 16:05:58</startdate>
+   <players>
+    <player chips="€50,25" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€174,22" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€51,44" dealer="1" name="13373678" win="€1,25" bet="€1,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 CA</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825278">
+  <general>
+   <startdate>2022-06-17 16:06:07</startdate>
+   <players>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,72" dealer="0" name="offi3000" win="€1,94" bet="€1" seat="6"/>
+    <player chips="€52,19" dealer="0" name="13373678" win="€0" bet="€1" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">H10 SQ</cards>
+   <action type="23" player="offi3000" no="4" sum="€1"/>
+   <cards type="Pocket" player="13373678">C9 SA</cards>
+   <action type="3" player="13373678" no="5" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 SK HQ</cards>
+   <action type="4" player="offi3000" no="6" sum="€0"/>
+   <action type="4" player="13373678" no="7" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action type="4" player="offi3000" no="8" sum="€0"/>
+   <action type="4" player="13373678" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action type="4" player="offi3000" no="10" sum="€0"/>
+   <action type="4" player="13373678" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825352">
+  <general>
+   <startdate>2022-06-17 16:06:59</startdate>
+   <players>
+    <player chips="€20" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€3,64" bet="€3,37" seat="5"/>
+    <player chips="€174,66" dealer="1" name="offi3000" win="€0" bet="€1,50" seat="6"/>
+    <player chips="€51,19" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="3" player="offi3000" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">CK H2</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA SK D6</cards>
+   <action type="5" player="Rasierklinge" no="7" sum="€1,87"/>
+   <action type="0" player="offi3000" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825390">
+  <general>
+   <startdate>2022-06-17 16:07:26</startdate>
+   <players>
+    <player chips="€19,50" dealer="0" name="BMW325" win="€0" bet="€0,25" seat="1"/>
+    <player chips="€52,14" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€173,16" dealer="0" name="offi3000" win="€0" bet="€1,50" seat="6"/>
+    <player chips="€50,94" dealer="1" name="13373678" win="€3,75" bet="€4,50" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D10 DA</cards>
+   <action type="23" player="13373678" no="4" sum="€4,50"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825426">
+  <general>
+   <startdate>2022-06-17 16:07:48</startdate>
+   <players>
+    <player chips="€19,25" dealer="1" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€51,64" dealer="0" name="Rasierklinge" win="€1" bet="€1,50" seat="5"/>
+    <player chips="€171,66" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€53,19" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 C4</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="5" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688825449">
+  <general>
+   <startdate>2022-06-17 16:08:07</startdate>
+   <players>
+    <player chips="€19,25" dealer="0" name="BMW325" win="€2,91" bet="€2,50" seat="1"/>
+    <player chips="€52,14" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€171,16" dealer="0" name="offi3000" win="€2,91" bet="€2,50" seat="6"/>
+    <player chips="€53,19" dealer="0" name="13373678" win="€0" bet="€1" seat="8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">S7 SJ</cards>
+   <action type="3" player="BMW325" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">HJ H7</cards>
+   <action type="3" player="offi3000" no="5" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">DK D7</cards>
+   <action type="4" player="13373678" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 C8 S4</cards>
+   <action type="4" player="offi3000" no="7" sum="€0"/>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="5" player="BMW325" no="9" sum="€0,50"/>
+   <action type="3" player="offi3000" no="10" sum="€0,50"/>
+   <action type="3" player="13373678" no="11" sum="€0,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="5" player="offi3000" no="12" sum="€1,50"/>
+   <action type="0" player="13373678" no="13" sum="€0"/>
+   <action type="3" player="BMW325" no="14" sum="€1,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" player="offi3000" no="15" sum="€0"/>
+   <action type="4" player="BMW325" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688826452">
+  <general>
+   <startdate>2022-06-17 16:09:01</startdate>
+   <players>
+    <player chips="€19,66" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€25" dealer="0" name="ojojoj" win="€0" bet="€0,50" seat="3"/>
+    <player chips="€52,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€171,57" dealer="1" name="offi3000" win="€1,75" bet="€1,75" seat="6"/>
+    <player chips="€52,19" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€231,98" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+   <action type="2" player="ojojoj" no="3" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="4" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="4" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="7" sum="€1,75"/>
+   <cards type="Pocket" player="13373678">D8 D3</cards>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="9" sum="€0"/>
+   <action type="0" player="ojojoj" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688826492">
+  <general>
+   <startdate>2022-06-17 16:09:25</startdate>
+   <players>
+    <player chips="€19,66" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€24,50" dealer="0" name="ojojoj" win="€0" bet="€2,73" seat="3"/>
+    <player chips="€52,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€172,82" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€51,94" dealer="1" name="13373678" win="€6,03" bet="€6,82" seat="8"/>
+    <player chips="€231,48" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">S8 D8</cards>
+   <action type="3" player="13373678" no="6" sum="€1,50"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D6 HA</cards>
+   <action type="4" player="ojojoj" no="9" sum="€0"/>
+   <action type="5" player="13373678" no="10" sum="€1,23"/>
+   <action type="3" player="ojojoj" no="11" sum="€1,23"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action type="4" player="ojojoj" no="12" sum="€0"/>
+   <action type="5" player="13373678" no="13" sum="€4,09"/>
+   <action type="0" player="ojojoj" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688826593">
+  <general>
+   <startdate>2022-06-17 16:10:24</startdate>
+   <players>
+    <player chips="€19,16" dealer="0" name="BMW325" win="€0" bet="€7,80" seat="1"/>
+    <player chips="€21,77" dealer="0" name="ojojoj" win="€0" bet="€3,12" seat="3"/>
+    <player chips="€52,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€172,82" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€55,24" dealer="0" name="13373678" win="€18,16" bet="€7,80" seat="8"/>
+    <player chips="€231,23" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">DJ SK</cards>
+   <action type="23" player="13373678" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="BMW325">C4 C3</cards>
+   <action type="3" player="BMW325" no="7" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D9 C2</cards>
+   <action type="4" player="BMW325" no="9" sum="€0"/>
+   <action type="5" player="ojojoj" no="10" sum="€1,87"/>
+   <action type="3" player="13373678" no="11" sum="€1,87"/>
+   <action type="3" player="BMW325" no="12" sum="€1,87"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="4" player="BMW325" no="13" sum="€0"/>
+   <action type="4" player="ojojoj" no="14" sum="€0"/>
+   <action type="4" player="13373678" no="15" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="5" player="BMW325" no="16" sum="€4,68"/>
+   <action type="0" player="ojojoj" no="17" sum="€0"/>
+   <action type="3" player="13373678" no="18" sum="€4,68"/>
+  </round>
+ </game>
+ <game gamecode="3688826704">
+  <general>
+   <startdate>2022-06-17 16:11:39</startdate>
+   <players>
+    <player chips="€11,36" dealer="1" name="BMW325" win="€5,58" bet="€4,87" seat="1"/>
+    <player chips="€18,65" dealer="0" name="ojojoj" win="€0" bet="€2" seat="3"/>
+    <player chips="€52,14" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€172,82" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€65,60" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€231,23" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">S2 SK</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">HA D9</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="6" sum="€2"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="7" sum="€1,75"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="8" sum="€0"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="9" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 DA H9</cards>
+   <action type="4" player="ojojoj" no="10" sum="€0"/>
+   <action type="5" player="BMW325" no="11" sum="€2,87"/>
+   <action type="0" player="ojojoj" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688826949">
+  <general>
+   <startdate>2022-06-17 16:12:21</startdate>
+   <players>
+    <player chips="€14,94" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€16,65" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€51,64" dealer="0" name="Rasierklinge" win="€0" bet="€1,50" seat="5"/>
+    <player chips="€172,82" dealer="0" name="offi3000" win="€2,91" bet="€3,50" seat="6"/>
+    <player chips="€65,60" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€229,98" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H3 C7</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="7" sum="€1,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="3" player="offi3000" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 CJ C5</cards>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+   <action type="4" player="offi3000" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" player="Rasierklinge" no="11" sum="€0"/>
+   <action type="5" player="offi3000" no="12" sum="€2"/>
+   <action type="0" player="Rasierklinge" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827045">
+  <general>
+   <startdate>2022-06-17 16:13:24</startdate>
+   <players>
+    <player chips="€14,94" dealer="0" name="BMW325" win="€4,73" bet="€4,49" seat="1"/>
+    <player chips="€16,65" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50,14" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€174,23" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€65,60" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€229,98" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€2,06" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+   <cards type="Pocket" player="13373678">D10 S6</cards>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S10 H3</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="9" sum="€0,81"/>
+   <action type="3" player="BMW325" no="10" sum="€0,81"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="11" sum="€0"/>
+   <action type="5" player="BMW325" no="12" sum="€2,43"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827121">
+  <general>
+   <startdate>2022-06-17 16:14:11</startdate>
+   <players>
+    <player chips="€17,61" dealer="0" name="BMW325" win="€0" bet="€2" seat="1"/>
+    <player chips="€16,65" dealer="0" name="ojojoj" win="€4,61" bet="€5,17" seat="3"/>
+    <player chips="€50,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,98" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€65,10" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€227,92" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="3" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 S9</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+   <action type="3" player="BMW325" no="9" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ DJ D8</cards>
+   <action type="5" player="BMW325" no="10" sum="€0,50"/>
+   <action type="23" player="ojojoj" no="11" sum="€3,67"/>
+   <action type="0" player="BMW325" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827409">
+  <general>
+   <startdate>2022-06-17 16:14:57</startdate>
+   <players>
+    <player chips="€15,61" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€19,26" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,98" dealer="0" name="offi3000" win="€1,25" bet="€1" seat="6"/>
+    <player chips="€64,85" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€227,42" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="5" sum="€1"/>
+   <cards type="Pocket" player="13373678">DK C9</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827447">
+  <general>
+   <startdate>2022-06-17 16:15:20</startdate>
+   <players>
+    <player chips="€15,11" dealer="0" name="BMW325" win="€7,76" bet="€8" seat="1"/>
+    <player chips="€19,26" dealer="0" name="ojojoj" win="€0" bet="€4" seat="3"/>
+    <player chips="€50,14" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€174,73" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€64,85" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€227,17" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">DJ H6</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="7" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="8" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D3 D9</cards>
+   <action type="5" player="BMW325" no="9" sum="€1"/>
+   <action type="3" player="ojojoj" no="10" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="5" player="BMW325" no="11" sum="€2"/>
+   <action type="3" player="ojojoj" no="12" sum="€2"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action type="5" player="BMW325" no="13" sum="€4"/>
+   <action type="0" player="ojojoj" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827510">
+  <general>
+   <startdate>2022-06-17 16:16:06</startdate>
+   <players>
+    <player chips="€18,87" dealer="1" name="BMW325" win="€0" bet="€1,25" seat="1"/>
+    <player chips="€15,26" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€50,14" dealer="0" name="Rasierklinge" win="€0" bet="€3,25" seat="5"/>
+    <player chips="€174,73" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€64,85" dealer="0" name="13373678" win="€7,76" bet="€3,25" seat="8"/>
+    <player chips="€227,17" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">HA H10</cards>
+   <action type="23" player="13373678" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="6" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="7" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">D5 DA</cards>
+   <action type="3" player="Rasierklinge" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C6 S8</cards>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+   <action type="4" player="BMW325" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" player="Rasierklinge" no="12" sum="€2"/>
+   <action type="3" player="13373678" no="13" sum="€2"/>
+   <action type="0" player="BMW325" no="14" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action type="4" player="Rasierklinge" no="15" sum="€0"/>
+   <action type="4" player="13373678" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827588">
+  <general>
+   <startdate>2022-06-17 16:16:58</startdate>
+   <players>
+    <player chips="€17,62" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€15,01" dealer="1" name="ojojoj" win="€1,25" bet="€2" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€174,73" dealer="0" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€69,36" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€227,17" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="offi3000" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 HA</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="6" sum="€2"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827617">
+  <general>
+   <startdate>2022-06-17 16:17:16</startdate>
+   <players>
+    <player chips="€17,62" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€15,76" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€174,23" dealer="0" name="offi3000" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€69,36" dealer="0" name="13373678" win="€0,50" bet="€0,50" seat="8"/>
+    <player chips="€227,17" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C7 HK</cards>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="4" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827658">
+  <general>
+   <startdate>2022-06-17 16:17:42</startdate>
+   <players>
+    <player chips="€17,62" dealer="0" name="BMW325" win="€9,83" bet="€10" seat="1"/>
+    <player chips="€15,76" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,98" dealer="1" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€69,61" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€227,17" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€4,94" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 C2</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="8" sum="€2,25"/>
+   <action type="3" player="BMW325" no="9" sum="€1,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D7 S3</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="10" sum="€1,19"/>
+   <action type="3" player="BMW325" no="11" sum="€1,19"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="12" sum="€1,50"/>
+   <action type="3" player="BMW325" no="13" sum="€1,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="14" sum="€0"/>
+   <action type="5" player="BMW325" no="15" sum="€5,06"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688827733">
+  <general>
+   <startdate>2022-06-17 16:18:25</startdate>
+   <players>
+    <player chips="€22,51" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€15,76" dealer="0" name="ojojoj" win="€0" bet="€2" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,98" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€69,36" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€222,23" dealer="0" name="UduHaXyuKopa6JIb" win="€4,50" bet="€7" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="3" sum="€2"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">S7 HQ</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="7" sum="€7"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="8" sum="€0"/>
+   <action type="0" player="ojojoj" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688828680">
+  <general>
+   <startdate>2022-06-17 16:18:55</startdate>
+   <players>
+    <player chips="€22,01" dealer="0" name="BMW325" win="€0" bet="€1" seat="1"/>
+    <player chips="€13,76" dealer="0" name="ojojoj" win="€3" bet="€4" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€173,98" dealer="0" name="offi3000" win="€0" bet="€0" seat="6"/>
+    <player chips="€69,36" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€224,73" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€1" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 CJ</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="6" sum="€1"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="7" sum="€0,75"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="8" sum="€4"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="9" sum="€0"/>
+   <action type="0" player="BMW325" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688828768">
+  <general>
+   <startdate>2022-06-17 16:19:43</startdate>
+   <players>
+    <player chips="€21,01" dealer="1" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€15,76" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€69,36" dealer="0" name="13373678" win="€1,25" bet="€1,25" seat="8"/>
+    <player chips="€223,73" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C9 CJ</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829153">
+  <general>
+   <startdate>2022-06-17 16:20:04</startdate>
+   <players>
+    <player chips="€21,01" dealer="0" name="BMW325" win="€0" bet="€4" seat="1"/>
+    <player chips="€15,51" dealer="1" name="ojojoj" win="€8,97" bet="€10,17" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€70,11" dealer="0" name="13373678" win="€0" bet="€1" seat="8"/>
+    <player chips="€223,73" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="4" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="5" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">SQ HJ</cards>
+   <action type="3" player="13373678" no="7" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H5 H4</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="5" player="BMW325" no="9" sum="€1"/>
+   <action type="23" player="ojojoj" no="10" sum="€2"/>
+   <action type="0" player="13373678" no="11" sum="€0"/>
+   <action type="3" player="BMW325" no="12" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="5" player="BMW325" no="13" sum="€1"/>
+   <action type="23" player="ojojoj" no="14" sum="€7,17"/>
+   <action type="0" player="BMW325" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829213">
+  <general>
+   <startdate>2022-06-17 16:20:49</startdate>
+   <players>
+    <player chips="€17,01" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€20,48" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€69,11" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€223,73" dealer="0" name="UduHaXyuKopa6JIb" win="€0,50" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="3" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D2 C10</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829239">
+  <general>
+   <startdate>2022-06-17 16:21:01</startdate>
+   <players>
+    <player chips="€17,01" dealer="0" name="BMW325" win="€0,50" bet="€0,50" seat="1"/>
+    <player chips="€20,48" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€68,86" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€223,98" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">C6 H3</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829263">
+  <general>
+   <startdate>2022-06-17 16:21:14</startdate>
+   <players>
+    <player chips="€17,26" dealer="0" name="BMW325" win="€0" bet="€1,50" seat="1"/>
+    <player chips="€20,48" dealer="0" name="ojojoj" win="€0" bet="€0,50" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€3,40" bet="€3,95" seat="5"/>
+    <player chips="€68,86" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€223,73" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="23" player="Rasierklinge" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S6 DK</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="6" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 DJ D9</cards>
+   <action type="4" player="BMW325" no="8" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="9" sum="€2,45"/>
+   <action type="0" player="BMW325" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829301">
+  <general>
+   <startdate>2022-06-17 16:21:39</startdate>
+   <players>
+    <player chips="€15,76" dealer="1" name="BMW325" win="€3,16" bet="€2,25" seat="1"/>
+    <player chips="€19,98" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€51,90" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€68,86" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€223,73" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ D8</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C7 C10</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+   <action type="5" player="BMW325" no="9" sum="€1"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829353">
+  <general>
+   <startdate>2022-06-17 16:22:11</startdate>
+   <players>
+    <player chips="€17,67" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€19,73" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€51,40" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€68,86" dealer="0" name="13373678" win="€0,50" bet="€0,50" seat="8"/>
+    <player chips="€222,48" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 D5</cards>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="4" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829376">
+  <general>
+   <startdate>2022-06-17 16:22:25</startdate>
+   <players>
+    <player chips="€17,67" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€19,73" dealer="0" name="ojojoj" win="€0" bet="€1" seat="3"/>
+    <player chips="€51,15" dealer="1" name="Rasierklinge" win="€0" bet="€51,15" seat="5"/>
+    <player chips="€69,11" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€222,48" dealer="0" name="UduHaXyuKopa6JIb" win="€102,55" bet="€51,15" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="4" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">C5 C6</cards>
+   <action type="3" player="Rasierklinge" no="5" sum="€1"/>
+   <cards type="Pocket" player="13373678">D5 C2</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">SK DK</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="7" sum="€7"/>
+   <action type="0" player="BMW325" no="8" sum="€0"/>
+   <action type="0" player="ojojoj" no="9" sum="€0"/>
+   <action type="3" player="Rasierklinge" no="10" sum="€6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C7 H8</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="11" sum="€44,15"/>
+   <action type="7" player="Rasierklinge" no="12" sum="€44,15"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+  </round>
+ </game>
+ <game gamecode="3688829669">
+  <general>
+   <startdate>2022-06-17 16:23:19</startdate>
+   <players>
+    <player chips="€17,17" dealer="0" name="BMW325" win="€8,75" bet="€13,53" seat="1"/>
+    <player chips="€18,73" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€68,86" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€273,88" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€4,51" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">SA C2</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="6" sum="€1,50"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 DK C8</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="8" sum="€0,75"/>
+   <action type="3" player="BMW325" no="9" sum="€0,75"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action type="5" player="UduHaXyuKopa6JIb" no="10" sum="€1,13"/>
+   <action type="23" player="BMW325" no="11" sum="€2,26"/>
+   <action type="3" player="UduHaXyuKopa6JIb" no="12" sum="€1,13"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="13" sum="€0"/>
+   <action type="5" player="BMW325" no="14" sum="€9,02"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829768">
+  <general>
+   <startdate>2022-06-17 16:24:16</startdate>
+   <players>
+    <player chips="€21,41" dealer="0" name="BMW325" win="€1,94" bet="€2" seat="1"/>
+    <player chips="€18,73" dealer="0" name="ojojoj" win="€0" bet="€1" seat="3"/>
+    <player chips="€68,86" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€269,37" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 HJ</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="5" sum="€0,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="4" player="ojojoj" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 CA CQ</cards>
+   <action type="4" player="BMW325" no="7" sum="€0"/>
+   <action type="4" player="ojojoj" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action type="5" player="BMW325" no="9" sum="€0,50"/>
+   <action type="3" player="ojojoj" no="10" sum="€0,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action type="5" player="BMW325" no="11" sum="€1"/>
+   <action type="0" player="ojojoj" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829821">
+  <general>
+   <startdate>2022-06-17 16:24:50</startdate>
+   <players>
+    <player chips="€22,35" dealer="1" name="BMW325" win="€5,10" bet="€5,12" seat="1"/>
+    <player chips="€17,73" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€68,86" dealer="0" name="13373678" win="€0" bet="€2,50" seat="8"/>
+    <player chips="€269,37" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="4" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">DJ H10</cards>
+   <action type="23" player="13373678" no="6" sum="€2,50"/>
+   <action type="3" player="BMW325" no="7" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S5 DK</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+   <action type="5" player="BMW325" no="9" sum="€2,62"/>
+   <action type="0" player="13373678" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829880">
+  <general>
+   <startdate>2022-06-17 16:25:29</startdate>
+   <players>
+    <player chips="€24,95" dealer="0" name="BMW325" win="€0" bet="€4" seat="1"/>
+    <player chips="€17,48" dealer="1" name="ojojoj" win="€8,49" bet="€9,82" seat="3"/>
+    <player chips="€66,36" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€269,37" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="3" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="4" sum="€1"/>
+   <cards type="Pocket" player="13373678">D5 CJ</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S10 C3</cards>
+   <action type="5" player="BMW325" no="7" sum="€1"/>
+   <action type="23" player="ojojoj" no="8" sum="€2"/>
+   <action type="3" player="BMW325" no="9" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="4" player="BMW325" no="10" sum="€0"/>
+   <action type="4" player="ojojoj" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action type="4" player="BMW325" no="12" sum="€0"/>
+   <action type="5" player="ojojoj" no="13" sum="€0,50"/>
+   <action type="23" player="BMW325" no="14" sum="€1"/>
+   <action type="23" player="ojojoj" no="15" sum="€6,82"/>
+   <action type="0" player="BMW325" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688829961">
+  <general>
+   <startdate>2022-06-17 16:26:21</startdate>
+   <players>
+    <player chips="€20,95" dealer="0" name="BMW325" win="€0" bet="€1" seat="1"/>
+    <player chips="€21,97" dealer="0" name="ojojoj" win="€2,19" bet="€2,57" seat="3"/>
+    <player chips="€66,11" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€268,87" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="3" sum="€1"/>
+   <cards type="Pocket" player="13373678">CQ C4</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="6" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D3 C2</cards>
+   <action type="4" player="BMW325" no="7" sum="€0"/>
+   <action type="5" player="ojojoj" no="8" sum="€1,57"/>
+   <action type="0" player="BMW325" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688830000">
+  <general>
+   <startdate>2022-06-17 16:26:52</startdate>
+   <players>
+    <player chips="€19,95" dealer="0" name="BMW325" win="€4,37" bet="€2,75" seat="1"/>
+    <player chips="€23,16" dealer="0" name="ojojoj" win="€0" bet="€0,50" seat="3"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€268,62" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€2" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C5 S7</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="4" sum="€1,25"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="5" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S2 HA</cards>
+   <action type="4" player="BMW325" no="7" sum="€0"/>
+   <action type="5" player="UduHaXyuKopa6JIb" no="8" sum="€0,75"/>
+   <action type="23" player="BMW325" no="9" sum="€1,50"/>
+   <action type="0" player="UduHaXyuKopa6JIb" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688830125">
+  <general>
+   <startdate>2022-06-17 16:28:10</startdate>
+   <players>
+    <player chips="€22,32" dealer="1" name="BMW325" win="€0" bet="€8,75" seat="1"/>
+    <player chips="€22,66" dealer="0" name="ojojoj" win="€17,46" bet="€8,75" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€266,62" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 SK</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">HA H10</cards>
+   <action type="23" player="BMW325" no="5" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">C9 S9</cards>
+   <action type="23" player="ojojoj" no="6" sum="€2"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+   <action type="3" player="BMW325" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 S6 H5</cards>
+   <action type="5" player="ojojoj" no="9" sum="€2,25"/>
+   <action type="3" player="BMW325" no="10" sum="€2,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action type="4" player="ojojoj" no="11" sum="€0"/>
+   <action type="4" player="BMW325" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action type="4" player="ojojoj" no="13" sum="€0"/>
+   <action type="5" player="BMW325" no="14" sum="€4,50"/>
+   <action type="3" player="ojojoj" no="15" sum="€4,50"/>
+  </round>
+ </game>
+ <game gamecode="3688830429">
+  <general>
+   <startdate>2022-06-17 16:29:01</startdate>
+   <players>
+    <player chips="€13,57" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€31,37" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0,50" bet="€0,50" seat="6"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€266,62" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="t1ger" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <cards type="Pocket" player="13373678">D2 S6</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688830449">
+  <general>
+   <startdate>2022-06-17 16:29:13</startdate>
+   <players>
+    <player chips="€13,57" dealer="0" name="BMW325" win="€1,25" bet="€1,50" seat="1"/>
+    <player chips="€31,37" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50,25" dealer="0" name="t1ger" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€266,62" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="t1ger" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="5" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="7" sum="€0"/>
+   <cards type="Pocket" player="13373678">D4 D9</cards>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688830495">
+  <general>
+   <startdate>2022-06-17 16:29:42</startdate>
+   <players>
+    <player chips="€14,32" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€31,37" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="1" name="t1ger" win="€0" bet="€2" seat="6"/>
+    <player chips="€65,61" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€266,62" dealer="0" name="UduHaXyuKopa6JIb" win="€4,75" bet="€7" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="23" player="t1ger" no="6" sum="€2"/>
+   <cards type="Pocket" player="13373678">C3 S4</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="8" sum="€7"/>
+   <action type="0" player="BMW325" no="9" sum="€0"/>
+   <action type="0" player="t1ger" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688830561">
+  <general>
+   <startdate>2022-06-17 16:30:17</startdate>
+   <players>
+    <player chips="€13,82" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€31,37" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€65,36" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€269,37" dealer="0" name="UduHaXyuKopa6JIb" win="€1" bet="€1,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">S6 HK</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="7" sum="€1,50"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688831514">
+  <general>
+   <startdate>2022-06-17 16:30:39</startdate>
+   <players>
+    <player chips="€13,32" dealer="0" name="BMW325" win="€0" bet="€0,25" seat="1"/>
+    <player chips="€31,37" dealer="0" name="ojojoj" win="€0" bet="€0,50" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€65,36" dealer="0" name="13373678" win="€1,25" bet="€1,25" seat="8"/>
+    <player chips="€269,87" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="4" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK HK</cards>
+   <action type="23" player="13373678" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="7" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688831571">
+  <general>
+   <startdate>2022-06-17 16:31:13</startdate>
+   <players>
+    <player chips="€13,07" dealer="1" name="BMW325" win="€26,08" bet="€13,07" seat="1"/>
+    <player chips="€30,87" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,50" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€269,87" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€14,06" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">S7 C8</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">CK DJ</cards>
+   <action type="23" player="UduHaXyuKopa6JIb" no="5" sum="€1,25"/>
+   <cards type="Pocket" player="BMW325">H9 S10</cards>
+   <action type="3" player="BMW325" no="6" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="7" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 H3</cards>
+   <action type="4" player="UduHaXyuKopa6JIb" no="9" sum="€0"/>
+   <action type="5" player="BMW325" no="10" sum="€1"/>
+   <action type="23" player="UduHaXyuKopa6JIb" no="11" sum="€12,81"/>
+   <action type="7" player="BMW325" no="12" sum="€10,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+  </round>
+ </game>
+ <game gamecode="3688831619">
+  <general>
+   <startdate>2022-06-17 16:31:54</startdate>
+   <players>
+    <player chips="€26,08" dealer="0" name="BMW325" win="€51,41" bet="€26,08" seat="1"/>
+    <player chips="€30,62" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0,50" seat="6"/>
+    <player chips="€66,11" dealer="0" name="13373678" win="€0" bet="€26,08" seat="8"/>
+    <player chips="€256,80" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="t1ger" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK DK</cards>
+   <action type="23" player="13373678" no="3" sum="€1,25"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">CA HA</cards>
+   <action type="23" player="BMW325" no="5" sum="€2"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="8" sum="€0"/>
+   <action type="23" player="13373678" no="9" sum="€5,50"/>
+   <action type="23" player="BMW325" no="10" sum="€26,08"/>
+   <action type="3" player="13373678" no="11" sum="€20,58"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 H4 SQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+  </round>
+ </game>
+ <game gamecode="3688831685">
+  <general>
+   <startdate>2022-06-17 16:32:40</startdate>
+   <players>
+    <player chips="€51,41" dealer="0" name="BMW325" win="€5,33" bet="€2,37" seat="1"/>
+    <player chips="€30,62" dealer="0" name="ojojoj" win="€0" bet="€2,37" seat="3"/>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0,25" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,50" seat="8"/>
+    <player chips="€256,80" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="t1ger" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">D9 HQ</cards>
+   <action type="3" player="BMW325" no="4" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">H5 D6</cards>
+   <action type="23" player="ojojoj" no="5" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="7" sum="€0"/>
+   <cards type="Pocket" player="13373678">S6 C3</cards>
+   <action type="0" player="13373678" no="8" sum="€0"/>
+   <action type="3" player="BMW325" no="9" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C9 S10</cards>
+   <action type="4" player="BMW325" no="10" sum="€0"/>
+   <action type="4" player="ojojoj" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action type="4" player="BMW325" no="12" sum="€0"/>
+   <action type="4" player="ojojoj" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="5" player="BMW325" no="14" sum="€1,37"/>
+   <action type="3" player="ojojoj" no="15" sum="€1,37"/>
+  </round>
+ </game>
+ <game gamecode="3688831756">
+  <general>
+   <startdate>2022-06-17 16:33:27</startdate>
+   <players>
+    <player chips="€54,37" dealer="0" name="BMW325" win="€1,25" bet="€1" seat="1"/>
+    <player chips="€28,25" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="1" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€256,80" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="23" player="BMW325" no="3" sum="€1"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="4" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="5" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">H4 DJ</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688831808">
+  <general>
+   <startdate>2022-06-17 16:34:08</startdate>
+   <players>
+    <player chips="€55,12" dealer="0" name="BMW325" win="€0" bet="€1,50" seat="1"/>
+    <player chips="€28,25" dealer="0" name="ojojoj" win="€3,16" bet="€3,12" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€256,30" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D9 HK</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H8 S3</cards>
+   <action type="4" player="BMW325" no="9" sum="€0"/>
+   <action type="5" player="ojojoj" no="10" sum="€1,62"/>
+   <action type="0" player="BMW325" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688831848">
+  <general>
+   <startdate>2022-06-17 16:34:36</startdate>
+   <players>
+    <player chips="€53,62" dealer="0" name="BMW325" win="€0" bet="€14,25" seat="1"/>
+    <player chips="€29,91" dealer="0" name="ojojoj" win="€0" bet="€1,50" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€50" dealer="0" name="t1ger" win="€29,10" bet="€14,25" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€256,05" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="t1ger">HK H7</cards>
+   <action type="23" player="t1ger" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">DK C7</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="BMW325">DQ D9</cards>
+   <action type="3" player="BMW325" no="7" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="3" player="ojojoj" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D4 HJ</cards>
+   <action type="4" player="BMW325" no="9" sum="€0"/>
+   <action type="4" player="ojojoj" no="10" sum="€0"/>
+   <action type="5" player="t1ger" no="11" sum="€1,50"/>
+   <action type="3" player="BMW325" no="12" sum="€1,50"/>
+   <action type="0" player="ojojoj" no="13" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action type="5" player="BMW325" no="14" sum="€3,75"/>
+   <action type="3" player="t1ger" no="15" sum="€3,75"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action type="5" player="BMW325" no="16" sum="€7,50"/>
+   <action type="3" player="t1ger" no="17" sum="€7,50"/>
+  </round>
+ </game>
+ <game gamecode="3688832189">
+  <general>
+   <startdate>2022-06-17 16:36:03</startdate>
+   <players>
+    <player chips="€39,37" dealer="1" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€28,41" dealer="0" name="ojojoj" win="€55,32" bet="€28,41" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€28,41" seat="5"/>
+    <player chips="€64,85" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€256,05" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="3" sum="€0"/>
+   <cards type="Pocket" player="13373678">S4 C3</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="6" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">S7 D6</cards>
+   <action type="23" player="ojojoj" no="7" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">HQ DK</cards>
+   <action type="23" player="Rasierklinge" no="8" sum="€4,50"/>
+   <action type="3" player="ojojoj" no="9" sum="€3,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HK C7</cards>
+   <action type="4" player="ojojoj" no="10" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="11" sum="€5"/>
+   <action type="3" player="ojojoj" no="12" sum="€5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action type="4" player="ojojoj" no="13" sum="€0"/>
+   <action type="5" player="Rasierklinge" no="14" sum="€9,50"/>
+   <action type="7" player="ojojoj" no="15" sum="€18,91"/>
+   <action type="3" player="Rasierklinge" no="16" sum="€9,41"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+  </round>
+ </game>
+ <game gamecode="3688832462">
+  <general>
+   <startdate>2022-06-17 16:37:08</startdate>
+   <players>
+    <player chips="€39,37" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€55,32" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€64,85" dealer="0" name="t1ger" win="€0,50" bet="€0,50" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€256,05" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="t1ger" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <cards type="Pocket" player="13373678">C10 H6</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688832487">
+  <general>
+   <startdate>2022-06-17 16:37:29</startdate>
+   <players>
+    <player chips="€39,37" dealer="0" name="BMW325" win="€0" bet="€0,50" seat="1"/>
+    <player chips="€55,32" dealer="0" name="ojojoj" win="€0" bet="€4" seat="3"/>
+    <player chips="€50" dealer="1" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€65,10" dealer="0" name="t1ger" win="€9,70" bet="€4" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€1,50" seat="8"/>
+    <player chips="€256,05" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="t1ger" no="1" sum="€0,25"/>
+   <action type="2" player="13373678" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="3" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="4" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">SA D5</cards>
+   <action type="3" player="ojojoj" no="5" sum="€0,50"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="6" sum="€0"/>
+   <cards type="Pocket" player="t1ger">D10 CQ</cards>
+   <action type="3" player="t1ger" no="7" sum="€0,25"/>
+   <cards type="Pocket" player="13373678">SK C9</cards>
+   <action type="4" player="13373678" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H9 DQ</cards>
+   <action type="4" player="t1ger" no="9" sum="€0"/>
+   <action type="4" player="13373678" no="10" sum="€0"/>
+   <action type="4" player="BMW325" no="11" sum="€0"/>
+   <action type="5" player="ojojoj" no="12" sum="€1"/>
+   <action type="3" player="t1ger" no="13" sum="€1"/>
+   <action type="3" player="13373678" no="14" sum="€1"/>
+   <action type="0" player="BMW325" no="15" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action type="4" player="t1ger" no="16" sum="€0"/>
+   <action type="4" player="13373678" no="17" sum="€0"/>
+   <action type="4" player="ojojoj" no="18" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action type="4" player="t1ger" no="19" sum="€0"/>
+   <action type="4" player="13373678" no="20" sum="€0"/>
+   <action type="5" player="ojojoj" no="21" sum="€2,50"/>
+   <action type="3" player="t1ger" no="22" sum="€2,50"/>
+   <action type="0" player="13373678" no="23" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688832625">
+  <general>
+   <startdate>2022-06-17 16:39:07</startdate>
+   <players>
+    <player chips="€38,87" dealer="0" name="BMW325" win="€0" bet="€1" seat="1"/>
+    <player chips="€51,32" dealer="0" name="ojojoj" win="€3,64" bet="€2,87" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€1" seat="5"/>
+    <player chips="€70,80" dealer="1" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0,25" seat="8"/>
+    <player chips="€256,05" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,50" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,25"/>
+   <action type="2" player="UduHaXyuKopa6JIb" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="3" sum="€0,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="23" player="ojojoj" no="4" sum="€1"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="3" player="Rasierklinge" no="5" sum="€1"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="6" sum="€0"/>
+   <cards type="Pocket" player="13373678">SK C3</cards>
+   <action type="0" player="13373678" no="7" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="8" sum="€0"/>
+   <action type="3" player="BMW325" no="9" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C10 D3</cards>
+   <action type="4" player="BMW325" no="10" sum="€0"/>
+   <action type="5" player="ojojoj" no="11" sum="€1,87"/>
+   <action type="0" player="Rasierklinge" no="12" sum="€0"/>
+   <action type="0" player="BMW325" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688832679">
+  <general>
+   <startdate>2022-06-17 16:39:49</startdate>
+   <players>
+    <player chips="€37,87" dealer="0" name="BMW325" win="€0,50" bet="€0,50" seat="1"/>
+    <player chips="€53,96" dealer="0" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€70,80" dealer="0" name="t1ger" win="€0" bet="€0" seat="6"/>
+    <player chips="€50" dealer="1" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€255,55" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="UduHaXyuKopa6JIb" no="1" sum="€0,25"/>
+   <action type="2" player="BMW325" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="3" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="4" sum="€0"/>
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="0" player="t1ger" no="5" sum="€0"/>
+   <cards type="Pocket" player="13373678">D2 SJ</cards>
+   <action type="0" player="13373678" no="6" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688833709">
+  <general>
+   <startdate>2022-06-17 16:40:13</startdate>
+   <players>
+    <player chips="€38,12" dealer="0" name="BMW325" win="€0" bet="€2" seat="1"/>
+    <player chips="€53,96" dealer="0" name="ojojoj" win="€11,64" bet="€5" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0" seat="5"/>
+    <player chips="€70,80" dealer="0" name="t1ger" win="€0" bet="€5" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€255,30" dealer="1" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="BMW325" no="1" sum="€0,25"/>
+   <action type="2" player="ojojoj" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="3" sum="€0"/>
+   <cards type="Pocket" player="t1ger">D7 D8</cards>
+   <action type="23" player="t1ger" no="4" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">SA D6</cards>
+   <action type="0" player="13373678" no="5" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="6" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="7" sum="€1,25"/>
+   <cards type="Pocket" player="ojojoj">SQ S6</cards>
+   <action type="3" player="ojojoj" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 HA C6</cards>
+   <action type="5" player="BMW325" no="9" sum="€0,50"/>
+   <action type="3" player="ojojoj" no="10" sum="€0,50"/>
+   <action type="23" player="t1ger" no="11" sum="€3,50"/>
+   <action type="0" player="BMW325" no="12" sum="€0"/>
+   <action type="3" player="ojojoj" no="13" sum="€3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action type="4" player="ojojoj" no="14" sum="€0"/>
+   <action type="4" player="t1ger" no="15" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action type="4" player="ojojoj" no="16" sum="€0"/>
+   <action type="4" player="t1ger" no="17" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688833812">
+  <general>
+   <startdate>2022-06-17 16:41:33</startdate>
+   <players>
+    <player chips="€36,12" dealer="1" name="BMW325" win="€0" bet="€4,50" seat="1"/>
+    <player chips="€60,60" dealer="0" name="ojojoj" win="€0" bet="€0,25" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€1,50" seat="5"/>
+    <player chips="€65,80" dealer="0" name="t1ger" win="€10,43" bet="€11,50" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€255,30" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="ojojoj" no="1" sum="€0,25"/>
+   <action type="2" player="Rasierklinge" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <action type="23" player="t1ger" no="3" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">D9 HQ</cards>
+   <action type="0" player="13373678" no="4" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="5" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="3" player="BMW325" no="6" sum="€1,50"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="7" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="3" player="Rasierklinge" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 DK D2</cards>
+   <action type="4" player="Rasierklinge" no="9" sum="€0"/>
+   <action type="5" player="t1ger" no="10" sum="€3"/>
+   <action type="3" player="BMW325" no="11" sum="€3"/>
+   <action type="0" player="Rasierklinge" no="12" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action type="5" player="t1ger" no="13" sum="€7"/>
+   <action type="0" player="BMW325" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688834108">
+  <general>
+   <startdate>2022-06-17 16:42:31</startdate>
+   <players>
+    <player chips="€31,62" dealer="0" name="BMW325" win="€0" bet="€0" seat="1"/>
+    <player chips="€60,35" dealer="1" name="ojojoj" win="€0" bet="€0" seat="3"/>
+    <player chips="€50" dealer="0" name="Rasierklinge" win="€0" bet="€0,25" seat="5"/>
+    <player chips="€71,73" dealer="0" name="t1ger" win="€0,50" bet="€0,50" seat="6"/>
+    <player chips="€50" dealer="0" name="13373678" win="€0" bet="€0" seat="8"/>
+    <player chips="€255,30" dealer="0" name="UduHaXyuKopa6JIb" win="€0" bet="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Rasierklinge" no="1" sum="€0,25"/>
+   <action type="2" player="t1ger" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="t1ger">X X</cards>
+   <cards type="Pocket" player="13373678">S9 S3</cards>
+   <action type="0" player="13373678" no="3" sum="€0"/>
+   <cards type="Pocket" player="UduHaXyuKopa6JIb">X X</cards>
+   <action type="0" player="UduHaXyuKopa6JIb" no="4" sum="€0"/>
+   <cards type="Pocket" player="BMW325">X X</cards>
+   <action type="0" player="BMW325" no="5" sum="€0"/>
+   <cards type="Pocket" player="ojojoj">X X</cards>
+   <action type="0" player="ojojoj" no="6" sum="€0"/>
+   <cards type="Pocket" player="Rasierklinge">X X</cards>
+   <action type="0" player="Rasierklinge" no="7" sum="€0"/>
+  </round>
+ </game>
+</session>

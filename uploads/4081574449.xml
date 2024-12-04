@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081574449">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:06</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-20 18:05:07</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,50</bets>
+  <wins>€0,50</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€50,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3704042778">
+  <general>
+   <startdate>2022-08-20 18:05:07</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0,50" bet="€0,50" name="13373678"/>
+    <player seat="5" dealer="1" chips="€50" win="€0" bet="€0,25" name="PopDonkey"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 D4</cards>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+</session>

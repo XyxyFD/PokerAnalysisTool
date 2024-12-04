@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4073466603">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:07:45</duration>
+  <gamecount>12</gamecount>
+  <startdate>2022-04-28 10:39:21</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€69,71</bets>
+  <wins>€46,61</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€72,96</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3676748559">
+  <general>
+   <startdate>2022-04-28 10:39:21</startdate>
+   <players>
+    <player dealer="1" win="€2,43" seat="1" bet="€1" chips="€62,59" name="Player 1"/>
+    <player dealer="0" win="€0" seat="3" bet="€1" chips="€41,50" name="Player 3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,50" chips="€170,86" name="Player 5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" no="1" type="1" sum="€0,25"/>
+   <action player="Player 5" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">H3 HA</cards>
+   <action player="Player 1" no="3" type="3" sum="€0,50"/>
+   <cards player="Player 3" type="Pocket">S7 SK</cards>
+   <action player="Player 3" no="4" type="3" sum="€0,25"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" no="5" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H9 H5</cards>
+   <action player="Player 3" no="6" type="4" sum="€0"/>
+   <action player="Player 5" no="7" type="4" sum="€0"/>
+   <action player="Player 1" no="8" type="5" sum="€0,50"/>
+   <action player="Player 3" no="9" type="3" sum="€0,50"/>
+   <action player="Player 5" no="10" type="0" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="Player 3" no="11" type="4" sum="€0"/>
+   <action player="Player 1" no="12" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action player="Player 3" no="13" type="4" sum="€0"/>
+   <action player="Player 1" no="14" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676748594">
+  <general>
+   <startdate>2022-04-28 10:39:54</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0" chips="€64,02" name="Player 1"/>
+    <player dealer="1" win="€0" seat="3" bet="€0" chips="€40,50" name="Player 3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,25" chips="€170,36" name="Player 5"/>
+    <player dealer="0" win="€0,50" seat="6" bet="€0,50" chips="€54,32" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" no="1" type="1" sum="€0,25"/>
+   <action player="Player 6" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" no="3" type="0" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" no="4" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" no="5" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676748609">
+  <general>
+   <startdate>2022-04-28 10:40:04</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0" chips="€64,02" name="Player 1"/>
+    <player dealer="0" win="€0" seat="3" bet="€4,50" chips="€40,50" name="Player 3"/>
+    <player dealer="1" win="€9,46" seat="5" bet="€7,43" chips="€170,11" name="Player 5"/>
+    <player dealer="0" win="€0" seat="6" bet="€0,25" chips="€54,57" name="Player 6"/>
+    <player dealer="0" win="€0" seat="8" bet="€0,50" chips="€50" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 6" no="1" type="1" sum="€0,25"/>
+   <action player="Player 8" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" no="3" type="0" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" no="4" type="23" sum="€1,50"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" no="5" type="23" sum="€4,50"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" no="6" type="0" sum="€0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" no="7" type="0" sum="€0"/>
+   <action player="Player 3" no="8" type="3" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C4 CQ</cards>
+   <action player="Player 3" no="9" type="4" sum="€0"/>
+   <action player="Player 5" no="10" type="5" sum="€2,93"/>
+   <action player="Player 3" no="11" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749375">
+  <general>
+   <startdate>2022-04-28 10:40:36</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€1" chips="€64,02" name="JoeSmithers"/>
+    <player dealer="0" win="€0" seat="3" bet="€0" chips="€36" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0" chips="€175,07" name="FCREALMADRID"/>
+    <player dealer="1" win="€0" seat="6" bet="€0" chips="€54,32" name="TooMuchHate"/>
+    <player dealer="0" win="€2,43" seat="8" bet="€1" chips="€50" name="OispaKaliaa"/>
+    <player dealer="0" win="€0" seat="10" bet="€0,50" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="OispaKaliaa" no="1" type="1" sum="€0,25"/>
+   <action player="13373678" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="JoeSmithers" type="Pocket">DJ CJ</cards>
+   <action player="JoeSmithers" no="3" type="3" sum="€0,50"/>
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="4" type="0" sum="€0"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="5" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="6" type="0" sum="€0"/>
+   <cards player="OispaKaliaa" type="Pocket">SA H9</cards>
+   <action player="OispaKaliaa" no="7" type="3" sum="€0,25"/>
+   <cards player="13373678" type="Pocket">C5 H8</cards>
+   <action player="13373678" no="8" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA SQ HQ</cards>
+   <action player="OispaKaliaa" no="9" type="4" sum="€0"/>
+   <action player="13373678" no="10" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="11" type="5" sum="€0,50"/>
+   <action player="OispaKaliaa" no="12" type="3" sum="€0,50"/>
+   <action player="13373678" no="13" type="0" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action player="OispaKaliaa" no="14" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="15" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="OispaKaliaa" no="16" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="17" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749445">
+  <general>
+   <startdate>2022-04-28 10:41:28</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€1" chips="€63,02" name="JoeSmithers"/>
+    <player dealer="0" win="€2,19" seat="3" bet="€3,25" chips="€36" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0" chips="€175,07" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€0" chips="€54,32" name="TooMuchHate"/>
+    <player dealer="1" win="€0" seat="8" bet="€0" chips="€51,43" name="OispaKaliaa"/>
+    <player dealer="0" win="€0" seat="10" bet="€0,25" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" type="1" sum="€0,25"/>
+   <action player="JoeSmithers" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="3" type="23" sum="€1"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="4" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="5" type="0" sum="€0"/>
+   <cards player="OispaKaliaa" type="Pocket">X X</cards>
+   <action player="OispaKaliaa" no="6" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S3 H6</cards>
+   <action player="13373678" no="7" type="0" sum="€0"/>
+   <cards player="JoeSmithers" type="Pocket">X X</cards>
+   <action player="JoeSmithers" no="8" type="3" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 SK CJ</cards>
+   <action player="JoeSmithers" no="9" type="4" sum="€0"/>
+   <action player="1heli3" no="10" type="5" sum="€2,25"/>
+   <action player="JoeSmithers" no="11" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749491">
+  <general>
+   <startdate>2022-04-28 10:42:00</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0,25" chips="€62,02" name="JoeSmithers"/>
+    <player dealer="0" win="€0" seat="3" bet="€23,87" chips="€37,19" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0" chips="€175,07" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€0" chips="€54,32" name="TooMuchHate"/>
+    <player dealer="0" win="€55,99" seat="8" bet="€23,87" chips="€51,43" name="OispaKaliaa"/>
+    <player dealer="1" win="€0" seat="10" bet="€9,50" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JoeSmithers" no="1" type="1" sum="€0,25"/>
+   <action player="1heli3" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="3" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="4" type="0" sum="€0"/>
+   <cards player="OispaKaliaa" type="Pocket">S3 SA</cards>
+   <action player="OispaKaliaa" no="5" type="23" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">H9 H10</cards>
+   <action player="13373678" no="6" type="23" sum="€3,75"/>
+   <cards player="JoeSmithers" type="Pocket">X X</cards>
+   <action player="JoeSmithers" no="7" type="0" sum="€0"/>
+   <cards player="1heli3" type="Pocket">DQ CQ</cards>
+   <action player="1heli3" no="8" type="3" sum="€3,25"/>
+   <action player="OispaKaliaa" no="9" type="3" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S2 HA</cards>
+   <action player="1heli3" no="10" type="4" sum="€0"/>
+   <action player="OispaKaliaa" no="11" type="4" sum="€0"/>
+   <action player="13373678" no="12" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action player="1heli3" no="13" type="5" sum="€5,75"/>
+   <action player="OispaKaliaa" no="14" type="3" sum="€5,75"/>
+   <action player="13373678" no="15" type="3" sum="€5,75"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="1heli3" no="16" type="5" sum="€14,37"/>
+   <action player="OispaKaliaa" no="17" type="3" sum="€14,37"/>
+   <action player="13373678" no="18" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749569">
+  <general>
+   <startdate>2022-04-28 10:43:04</startdate>
+   <players>
+    <player dealer="1" win="€18,26" seat="1" bet="€9,04" chips="€61,77" name="JoeSmithers"/>
+    <player dealer="0" win="€0" seat="3" bet="€0,25" chips="€13,32" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,50" chips="€175,07" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€9,04" chips="€54,32" name="TooMuchHate"/>
+    <player dealer="0" win="€0" seat="8" bet="€0" chips="€83,55" name="OispaKaliaa"/>
+    <player dealer="0" win="€0" seat="10" bet="€0" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1heli3" no="1" type="1" sum="€0,25"/>
+   <action player="FCREALMADRID" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="TooMuchHate" type="Pocket">HA CA</cards>
+   <action player="TooMuchHate" no="3" type="23" sum="€1,10"/>
+   <cards player="OispaKaliaa" type="Pocket">X X</cards>
+   <action player="OispaKaliaa" no="4" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C6 D7</cards>
+   <action player="13373678" no="5" type="0" sum="€0"/>
+   <cards player="JoeSmithers" type="Pocket">C2 CJ</cards>
+   <action player="JoeSmithers" no="6" type="3" sum="€1,10"/>
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="7" type="0" sum="€0"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="8" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 DJ S6</cards>
+   <action player="TooMuchHate" no="9" type="5" sum="€1,47"/>
+   <action player="JoeSmithers" no="10" type="23" sum="€3,44"/>
+   <action player="TooMuchHate" no="11" type="3" sum="€1,97"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="TooMuchHate" no="12" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="13" type="5" sum="€4,50"/>
+   <action player="TooMuchHate" no="14" type="3" sum="€4,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action player="TooMuchHate" no="15" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="16" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749605">
+  <general>
+   <startdate>2022-04-28 10:43:35</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€1,25" chips="€70,99" name="JoeSmithers"/>
+    <player dealer="1" win="€3,88" seat="3" bet="€3,25" chips="€13,07" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,25" chips="€174,57" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€1,25" chips="€50" name="TooMuchHate"/>
+    <player dealer="0" win="€0" seat="8" bet="€0" chips="€83,55" name="OispaKaliaa"/>
+    <player dealer="0" win="€0" seat="10" bet="€0" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FCREALMADRID" no="1" type="1" sum="€0,25"/>
+   <action player="TooMuchHate" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="OispaKaliaa" type="Pocket">X X</cards>
+   <action player="OispaKaliaa" no="3" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H5 S6</cards>
+   <action player="13373678" no="4" type="0" sum="€0"/>
+   <cards player="JoeSmithers" type="Pocket">X X</cards>
+   <action player="JoeSmithers" no="5" type="23" sum="€1,25"/>
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="6" type="3" sum="€1,25"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="7" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="8" type="3" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H3 HQ</cards>
+   <action player="TooMuchHate" no="9" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="10" type="4" sum="€0"/>
+   <action player="1heli3" no="11" type="5" sum="€2"/>
+   <action player="TooMuchHate" no="12" type="0" sum="€0"/>
+   <action player="JoeSmithers" no="13" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749635">
+  <general>
+   <startdate>2022-04-28 10:44:00</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0,50" chips="€69,74" name="JoeSmithers"/>
+    <player dealer="0" win="€1,94" seat="3" bet="€2,50" chips="€15,70" name="1heli3"/>
+    <player dealer="1" win="€0" seat="5" bet="€0" chips="€174,32" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€0,50" chips="€50" name="TooMuchHate"/>
+    <player dealer="0" win="€0" seat="10" bet="€0,50" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TooMuchHate" no="1" type="1" sum="€0,25"/>
+   <action player="13373678" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="JoeSmithers" type="Pocket">X X</cards>
+   <action player="JoeSmithers" no="3" type="3" sum="€0,50"/>
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="4" type="3" sum="€0,50"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="5" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="6" type="3" sum="€0,25"/>
+   <cards player="13373678" type="Pocket">S2 S7</cards>
+   <action player="13373678" no="7" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK D10 C8</cards>
+   <action player="TooMuchHate" no="8" type="4" sum="€0"/>
+   <action player="13373678" no="9" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="10" type="4" sum="€0"/>
+   <action player="1heli3" no="11" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="TooMuchHate" no="12" type="4" sum="€0"/>
+   <action player="13373678" no="13" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="14" type="4" sum="€0"/>
+   <action player="1heli3" no="15" type="5" sum="€2"/>
+   <action player="TooMuchHate" no="16" type="0" sum="€0"/>
+   <action player="13373678" no="17" type="0" sum="€0"/>
+   <action player="JoeSmithers" no="18" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749685">
+  <general>
+   <startdate>2022-04-28 10:44:45</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€14,01" chips="€69,24" name="JoeSmithers"/>
+    <player dealer="0" win="€0" seat="3" bet="€0" chips="€17,14" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0" chips="€174,32" name="FCREALMADRID"/>
+    <player dealer="1" win="€0" seat="6" bet="€0" chips="€50" name="TooMuchHate"/>
+    <player dealer="0" win="€27,18" seat="10" bet="€32,50" chips="€50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" type="1" sum="€0,25"/>
+   <action player="JoeSmithers" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="3" type="0" sum="€0"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="4" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="5" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HK CQ</cards>
+   <action player="13373678" no="6" type="23" sum="€1,50"/>
+   <cards player="JoeSmithers" type="Pocket">X X</cards>
+   <action player="JoeSmithers" no="7" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 S9 DJ</cards>
+   <action player="13373678" no="8" type="5" sum="€0,99"/>
+   <action player="JoeSmithers" no="9" type="23" sum="€1,98"/>
+   <action player="13373678" no="10" type="3" sum="€0,99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="13373678" no="11" type="4" sum="€0"/>
+   <action player="JoeSmithers" no="12" type="5" sum="€3"/>
+   <action player="13373678" no="13" type="23" sum="€10,53"/>
+   <action player="JoeSmithers" no="14" type="3" sum="€7,53"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action player="13373678" no="15" type="5" sum="€18,49"/>
+   <action player="JoeSmithers" no="16" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749759">
+  <general>
+   <startdate>2022-04-28 10:45:47</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="3" bet="€7,50" chips="€17,14" name="1heli3"/>
+    <player dealer="0" win="€14,55" seat="5" bet="€13,50" chips="€174,32" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€0" chips="€50" name="TooMuchHate"/>
+    <player dealer="1" win="€0" seat="10" bet="€0" chips="€63,17" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1heli3" no="1" type="1" sum="€0,25"/>
+   <action player="FCREALMADRID" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="3" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C6 DK</cards>
+   <action player="13373678" no="4" type="0" sum="€0"/>
+   <cards player="1heli3" type="Pocket">X X</cards>
+   <action player="1heli3" no="5" type="23" sum="€1,50"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="6" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H10 D5</cards>
+   <action player="1heli3" no="7" type="5" sum="€2"/>
+   <action player="FCREALMADRID" no="8" type="23" sum="€6"/>
+   <action player="1heli3" no="9" type="3" sum="€4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="1heli3" no="10" type="4" sum="€0"/>
+   <action player="FCREALMADRID" no="11" type="5" sum="€6"/>
+   <action player="1heli3" no="12" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676749808">
+  <general>
+   <startdate>2022-04-28 10:46:28</startdate>
+   <players>
+    <player dealer="1" win="€0" seat="3" bet="€9,64" chips="€9,64" name="1heli3"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,25" chips="€181,37" name="FCREALMADRID"/>
+    <player dealer="0" win="€0" seat="6" bet="€0,50" chips="€50" name="TooMuchHate"/>
+    <player dealer="0" win="€19,43" seat="10" bet="€26,46" chips="€63,17" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FCREALMADRID" no="1" type="1" sum="€0,25"/>
+   <action player="TooMuchHate" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 C10</cards>
+   <action player="13373678" no="3" type="23" sum="€1,25"/>
+   <cards player="1heli3" type="Pocket">HK D8</cards>
+   <action player="1heli3" no="4" type="3" sum="€1,25"/>
+   <cards player="FCREALMADRID" type="Pocket">X X</cards>
+   <action player="FCREALMADRID" no="5" type="0" sum="€0"/>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="6" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SJ S10</cards>
+   <action player="13373678" no="7" type="5" sum="€1,07"/>
+   <action player="1heli3" no="8" type="23" sum="€2,14"/>
+   <action player="13373678" no="9" type="23" sum="€25,21"/>
+   <action player="1heli3" no="10" type="7" sum="€6,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+</session>

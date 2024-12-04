@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081158767">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:07</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-14 18:37:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1</bets>
+  <wins>€0</wins>
+  <chipsin>€171,59</chipsin>
+  <chipsout>€171,59</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702588149">
+  <general>
+   <startdate>2022-08-14 18:37:29</startdate>
+   <players>
+    <player seat="1" name="13373678" win="€0" dealer="0" bet="€1" chips="€172,59"/>
+    <player seat="3" name="ShibaInu0" win="€2" dealer="1" bet="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="ShibaInu0" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ShibaInu0" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="ShibaInu0" type="23"/>
+   <cards player="13373678" type="Pocket">D6 S3</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+</session>

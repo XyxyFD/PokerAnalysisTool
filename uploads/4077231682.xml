@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077231682">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:12</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-06-20 15:19:36</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,75</bets>
+  <wins>€0,50</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€50,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3689530673">
+  <general>
+   <startdate>2022-06-20 15:19:36</startdate>
+   <players>
+    <player name="13373678" win="€0" dealer="1" seat="1" chips="€50" bet="€0,25"/>
+    <player name="Bultzetz" win="€0,50" dealer="0" seat="3" chips="€51" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,25" type="1"/>
+   <action player="Bultzetz" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H10 C6</cards>
+   <action player="13373678" no="3" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689534253">
+  <general>
+   <startdate>2022-06-20 15:19:42</startdate>
+   <players>
+    <player name="13373678" win="€0,50" dealer="0" seat="1" chips="€50" bet="€0,50"/>
+    <player name="Bultzetz" win="€0" dealer="1" seat="3" chips="€51,25" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bultzetz" no="1" sum="€0,25" type="1"/>
+   <action player="13373678" no="2" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 D3</cards>
+   <cards player="Bultzetz" type="Pocket">X X</cards>
+   <action player="Bultzetz" no="3" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

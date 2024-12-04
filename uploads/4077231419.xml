@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077231419">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:16</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-06-20 15:15:31</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,50</bets>
+  <wins>€1</wins>
+  <chipsin>€99,50</chipsin>
+  <chipsout>€100,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3689532949">
+  <general>
+   <startdate>2022-06-20 15:15:31</startdate>
+   <players>
+    <player name="Oganesson" win="€1" dealer="0" seat="1" chips="€100" bet="€1"/>
+    <player name="13373678" win="€0" dealer="1" seat="3" chips="€100" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" no="1" sum="€0,50" type="1"/>
+   <action player="Oganesson" no="2" sum="€1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S10 D3</cards>
+   <action player="13373678" no="3" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3689532964">
+  <general>
+   <startdate>2022-06-20 15:15:38</startdate>
+   <players>
+    <player name="Oganesson" win="€0" dealer="1" seat="1" chips="€100,50" bet="€0,50"/>
+    <player name="13373678" win="€1" dealer="0" seat="3" chips="€100" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Oganesson" no="1" sum="€0,50" type="1"/>
+   <action player="13373678" no="2" sum="€1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ C2</cards>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action player="Oganesson" no="3" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

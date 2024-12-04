@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077033220">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:59</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-06-17 15:47:09</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€11,64</bets>
+  <wins>€9,88</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€104,88</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688821956">
+  <general>
+   <startdate>2022-06-17 15:47:09</startdate>
+   <players>
+    <player chips="€100" dealer="0" name="13373678" win="€1" bet="€1" seat="1"/>
+    <player chips="€100" dealer="1" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,50"/>
+   <action type="2" player="13373678" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 D9</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688821968">
+  <general>
+   <startdate>2022-06-17 15:47:15</startdate>
+   <players>
+    <player chips="€100,50" dealer="1" name="13373678" win="€2" bet="€2,50" seat="1"/>
+    <player chips="€100" dealer="0" name="offi3000" win="€0" bet="€1" seat="6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,50"/>
+   <action type="2" player="offi3000" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 CJ</cards>
+   <action type="23" player="13373678" no="3" sum="€2,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688821973">
+  <general>
+   <startdate>2022-06-17 15:47:24</startdate>
+   <players>
+    <player chips="€101,50" dealer="0" name="13373678" win="€3,88" bet="€4,64" seat="1"/>
+    <player chips="€100" dealer="1" name="offi3000" win="€0" bet="€2" seat="6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,50"/>
+   <action type="2" player="13373678" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="23" player="offi3000" no="3" sum="€2"/>
+   <cards type="Pocket" player="13373678">DK H5</cards>
+   <action type="3" player="13373678" no="4" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D10 DQ</cards>
+   <action type="4" player="13373678" no="5" sum="€0"/>
+   <action type="4" player="offi3000" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action type="5" player="13373678" no="7" sum="€2,64"/>
+   <action type="0" player="offi3000" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822015">
+  <general>
+   <startdate>2022-06-17 15:47:52</startdate>
+   <players>
+    <player chips="€103,38" dealer="1" name="13373678" win="€2" bet="€2,50" seat="1"/>
+    <player chips="€100" dealer="0" name="offi3000" win="€0" bet="€1" seat="6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="13373678" no="1" sum="€0,50"/>
+   <action type="2" player="offi3000" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 SQ</cards>
+   <action type="23" player="13373678" no="3" sum="€2,50"/>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3688822037">
+  <general>
+   <startdate>2022-06-17 15:48:04</startdate>
+   <players>
+    <player chips="€104,38" dealer="0" name="13373678" win="€1" bet="€1" seat="1"/>
+    <player chips="€100" dealer="1" name="offi3000" win="€0" bet="€0,50" seat="6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="offi3000" no="1" sum="€0,50"/>
+   <action type="2" player="13373678" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C5 H5</cards>
+   <cards type="Pocket" player="offi3000">X X</cards>
+   <action type="0" player="offi3000" no="3" sum="€0"/>
+  </round>
+ </game>
+</session>

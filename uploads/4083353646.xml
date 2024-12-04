@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083353646">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 13, 488049772</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:21</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-09-13 18:04:41</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€3,50</bets>
+  <wins>€2</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€100</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3710079568">
+  <general>
+   <startdate>2022-09-13 18:04:41</startdate>
+   <players>
+    <player name="13373678" chips="€100" bet="€2,50" seat="1" win="€2" dealer="1"/>
+    <player name="Stefan11222" chips="€100" bet="€1" seat="3" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Stefan11222"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ DA</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="Stefan11222">X X</cards>
+   <action sum="€0" no="4" type="0" player="Stefan11222"/>
+  </round>
+ </game>
+ <game gamecode="3710079583">
+  <general>
+   <startdate>2022-09-13 18:04:54</startdate>
+   <players>
+    <player name="13373678" chips="€101" bet="€1" seat="1" win="€0" dealer="0"/>
+    <player name="Stefan11222" chips="€100" bet="€2,25" seat="3" win="€2" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Stefan11222"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stefan11222">X X</cards>
+   <action sum="€2,25" no="3" type="23" player="Stefan11222"/>
+   <cards type="Pocket" player="13373678">CK D4</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+  </round>
+ </game>
+</session>

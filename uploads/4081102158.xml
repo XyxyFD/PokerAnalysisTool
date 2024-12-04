@@ -1,0 +1,2077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081102158">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:38:27</duration>
+  <gamecount>65</gamecount>
+  <startdate>2022-08-13 21:13:22</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€228,91</bets>
+  <wins>€56,26</wins>
+  <chipsin>€97,80</chipsin>
+  <chipsout>€99</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702391061">
+  <general>
+   <startdate>2022-08-13 21:13:22</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€100" name="Player 1" dealer="0"/>
+    <player bet="€17,75" seat="3" win="€21,82" chips="€100" name="Player 3" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€150,19" name="Player 6" dealer="0"/>
+    <player bet="€11" seat="8" win="€0" chips="€162,56" name="Player 8" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" sum="€0,50" type="1" no="1"/>
+   <action player="Player 3" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" type="0" no="3"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€2,50" type="23" no="4"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" type="0" no="5"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€11" type="23" no="6"/>
+   <action player="Player 8" sum="€8,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 C6 DJ</cards>
+   <action player="Player 3" sum="€6,75" type="5" no="8"/>
+   <action player="Player 8" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702391158">
+  <general>
+   <startdate>2022-08-13 21:13:59</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€100" name="123456789101112" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€110,82" name="Back2Warcraft" dealer="0"/>
+    <player bet="€2,20" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€150,19" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€8,32" seat="8" win="€4,76" chips="€151,56" name="TigerUPPERCUT" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="3"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action player="TigerUPPERCUT" sum="€2,20" type="23" no="4"/>
+   <cards player="123456789101112" type="Pocket">X X</cards>
+   <action player="123456789101112" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">SJ D10</cards>
+   <action player="13373678" sum="€1,20" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C4 S6</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="TigerUPPERCUT" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="TigerUPPERCUT" sum="€6,12" type="5" no="11"/>
+   <action player="13373678" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702391245">
+  <general>
+   <startdate>2022-08-13 21:14:43</startdate>
+   <players>
+    <player bet="€35,50" seat="1" win="€43,16" chips="€100" name="123456789101112" dealer="0"/>
+    <player bet="€21,50" seat="3" win="€0" chips="€110,32" name="Back2Warcraft" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€150,19" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€154,12" name="TigerUPPERCUT" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="DarrowOfLykos" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action player="TigerUPPERCUT" sum="€0" type="0" no="3"/>
+   <cards player="123456789101112" type="Pocket">X X</cards>
+   <action player="123456789101112" sum="€2,50" type="23" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€7,50" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">D10 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="7"/>
+   <action player="123456789101112" sum="€21,50" type="23" no="8"/>
+   <action player="Back2Warcraft" sum="€14" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA CA H7</cards>
+   <action player="123456789101112" sum="€14" type="5" no="10"/>
+   <action player="Back2Warcraft" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702391320">
+  <general>
+   <startdate>2022-08-13 21:15:18</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€121,66" name="123456789101112" dealer="0"/>
+    <player bet="€6,12" seat="3" win="€4,95" chips="€100" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€149,19" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€2,30" seat="10" win="€0" chips="€100" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DarrowOfLykos" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="123456789101112" type="Pocket">X X</cards>
+   <action player="123456789101112" sum="€0" type="0" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2,30" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">C6 S9</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="6"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€1,30" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ H6 S4</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="8"/>
+   <action player="Back2Warcraft" sum="€3,82" type="5" no="9"/>
+   <action player="PartyTiger" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702391396">
+  <general>
+   <startdate>2022-08-13 21:15:47</startdate>
+   <players>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€148,69" name="DarrowOfLykos" dealer="1"/>
+    <player bet="€3" seat="10" win="€2" chips="€100" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€3" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">S4 D7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702391434">
+  <general>
+   <startdate>2022-08-13 21:16:00</startdate>
+   <players>
+    <player bet="€0,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€1" chips="€148,69" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€101" name="PartyTiger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="DarrowOfLykos" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D4 S10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702392655">
+  <general>
+   <startdate>2022-08-13 21:16:43</startdate>
+   <players>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€149,19" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€1" seat="8" win="€1" chips="€100" name="JenniXXX" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DarrowOfLykos" sum="€0,50" type="1" no="1"/>
+   <action player="JenniXXX" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D8 C4</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702392698">
+  <general>
+   <startdate>2022-08-13 21:16:59</startdate>
+   <players>
+    <player bet="€1" seat="3" win="€0" chips="€135,12" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€148,69" name="DarrowOfLykos" dealer="1"/>
+    <player bet="€3" seat="8" win="€2" chips="€100,50" name="JenniXXX" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JenniXXX" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ H3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="4"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action player="JenniXXX" sum="€3" type="23" no="5"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702392760">
+  <general>
+   <startdate>2022-08-13 21:17:25</startdate>
+   <players>
+    <player bet="€0,50" seat="3" win="€0" chips="€134,12" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€1" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€148,69" name="DarrowOfLykos" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€101,50" name="JenniXXX" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D9</cards>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action player="DarrowOfLykos" sum="€0" type="0" no="3"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action player="JenniXXX" sum="€0" type="0" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702392811">
+  <general>
+   <startdate>2022-08-13 21:17:46</startdate>
+   <players>
+    <player bet="€1" seat="3" win="€1" chips="€133,62" name="FinnishNoob" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€100,50" name="13373678" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702392830">
+  <general>
+   <startdate>2022-08-13 21:17:53</startdate>
+   <players>
+    <player bet="€5" seat="1" win="€5,82" chips="€65,14" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€134,12" name="FinnishNoob" dealer="1"/>
+    <player bet="€3" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H8 CK</cards>
+   <action player="13373678" sum="€3" type="23" no="4"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€2" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H10 H5</cards>
+   <action player="13373678" sum="€0" type="4" no="6"/>
+   <action player="napsupapsu" sum="€2" type="5" no="7"/>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702392965">
+  <general>
+   <startdate>2022-08-13 21:18:16</startdate>
+   <players>
+    <player bet="€5,50" seat="1" win="€5,82" chips="€67,96" name="napsupapsu" dealer="0"/>
+    <player bet="€1" seat="3" win="€0" chips="€134,12" name="FinnishNoob" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 D8</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€2" type="3" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 S8 C9</cards>
+   <action player="napsupapsu" sum="€0" type="4" no="6"/>
+   <action player="13373678" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action player="napsupapsu" sum="€3" type="5" no="8"/>
+   <action player="13373678" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702393030">
+  <general>
+   <startdate>2022-08-13 21:18:46</startdate>
+   <players>
+    <player bet="€12" seat="1" win="€0" chips="€71,28" name="napsupapsu" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€133,12" name="FinnishNoob" dealer="0"/>
+    <player bet="€100" seat="5" win="€23,76" chips="€100" name="13373678" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€2" type="23" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D9 S9</cards>
+   <action player="13373678" sum="€12" type="23" no="5"/>
+   <action player="napsupapsu" sum="€10" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D6 D4</cards>
+   <action player="13373678" sum="€88" type="5" no="7"/>
+   <action player="napsupapsu" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702393719">
+  <general>
+   <startdate>2022-08-13 21:19:40</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€59,28" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€132,62" name="FinnishNoob" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€111,76" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€1" chips="€102,84" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="tipstops" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D7 HJ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702393757">
+  <general>
+   <startdate>2022-08-13 21:19:56</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€59,28" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€132,62" name="FinnishNoob" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€2,50" chips="€111,26" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€103,34" name="tipstops" dealer="0"/>
+    <player bet="€1" seat="8" win="€0" chips="€40" name="ElCativo" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,50" type="1" no="1"/>
+   <action player="ElCativo" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">SK S8</cards>
+   <action player="13373678" sum="€2,50" type="23" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702394325">
+  <general>
+   <startdate>2022-08-13 21:20:20</startdate>
+   <players>
+    <player bet="€6" seat="1" win="€0" chips="€59,28" name="napsupapsu" dealer="0"/>
+    <player bet="€6" seat="3" win="€0" chips="€132,62" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€112,76" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€102,84" name="tipstops" dealer="1"/>
+    <player bet="€39" seat="8" win="€18,43" chips="€39" name="ElCativo" dealer="0"/>
+    <player bet="€1" seat="10" win="€0" chips="€102,65" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ElCativo" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€2" type="23" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€6" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">D4 HK</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€5,50" type="3" no="7"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="8"/>
+   <action player="napsupapsu" sum="€4" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 S2 D6</cards>
+   <action player="ElCativo" sum="€0" type="4" no="10"/>
+   <action player="napsupapsu" sum="€0" type="4" no="11"/>
+   <action player="FinnishNoob" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action player="ElCativo" sum="€33" type="5" no="13"/>
+   <action player="napsupapsu" sum="€0" type="0" no="14"/>
+   <action player="FinnishNoob" sum="€0" type="0" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702394500">
+  <general>
+   <startdate>2022-08-13 21:21:37</startdate>
+   <players>
+    <player bet="€1" seat="1" win="€0" chips="€53,28" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€126,62" name="FinnishNoob" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€2,50" chips="€112,76" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€102,84" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,43" name="ElCativo" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€101,65" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D10 S10</cards>
+   <action player="13373678" sum="€2,50" type="23" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="7"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702394555">
+  <general>
+   <startdate>2022-08-13 21:22:00</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€52,28" name="napsupapsu" dealer="0"/>
+    <player bet="€8,50" seat="3" win="€7,76" chips="€126,62" name="FinnishNoob" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€0" chips="€114,26" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€0" chips="€102,84" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,43" name="ElCativo" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€101,15" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 SA</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€2,50" type="3" no="4"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="7"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€1,50" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S9 DK</cards>
+   <action player="FinnishNoob" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="tipstops" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="FinnishNoob" sum="€6" type="5" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+   <action player="tipstops" sum="€0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702394716">
+  <general>
+   <startdate>2022-08-13 21:23:08</startdate>
+   <players>
+    <player bet="€3,60" seat="1" win="€0" chips="€51,78" name="napsupapsu" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€131,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€111,76" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€100,34" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,43" name="ElCativo" dealer="0"/>
+    <player bet="€10,12" seat="10" win="€8,44" chips="€101,15" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2,30" type="23" no="5"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€3,60" type="23" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">S9 S10</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+   <action player="Back2Warcraft" sum="€1,30" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H7 S8</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="10"/>
+   <action player="napsupapsu" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Back2Warcraft" sum="€6,52" type="5" no="12"/>
+   <action player="napsupapsu" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702394842">
+  <general>
+   <startdate>2022-08-13 21:24:01</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€48,18" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€131,38" name="FinnishNoob" dealer="1"/>
+    <player bet="€3" seat="5" win="€2" chips="€110,76" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€100,34" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,43" name="ElCativo" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€105,99" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="tipstops" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="5"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">D3 DA</cards>
+   <action player="13373678" sum="€3" type="23" no="7"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702394894">
+  <general>
+   <startdate>2022-08-13 21:24:22</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€48,18" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€131,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€4,48" seat="5" win="€0" chips="€111,76" name="13373678" dealer="1"/>
+    <player bet="€4,48" seat="6" win="€9,66" chips="€100" name="tipstops" dealer="0"/>
+    <player bet="€1" seat="8" win="€0" chips="€51,43" name="ElCativo" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€105,99" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,50" type="1" no="1"/>
+   <action player="ElCativo" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="3"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H6 CA</cards>
+   <action player="13373678" sum="€2,50" type="23" no="6"/>
+   <cards player="tipstops" type="Pocket">CQ SJ</cards>
+   <action player="tipstops" sum="€2" type="3" no="7"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C6 SQ</cards>
+   <action player="tipstops" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="tipstops" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€1,98" type="5" no="12"/>
+   <action player="tipstops" sum="€1,98" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action player="tipstops" sum="€0" type="4" no="14"/>
+   <action player="13373678" sum="€0" type="4" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702395026">
+  <general>
+   <startdate>2022-08-13 21:25:15</startdate>
+   <players>
+    <player bet="€3" seat="1" win="€2,50" chips="€48,18" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€131,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€107,28" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€105,18" name="tipstops" dealer="1"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€50,43" name="ElCativo" dealer="0"/>
+    <player bet="€1" seat="10" win="€0" chips="€105,99" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ElCativo" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€3" type="23" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">CQ H7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="7"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702395063">
+  <general>
+   <startdate>2022-08-13 21:25:31</startdate>
+   <players>
+    <player bet="€9,95" seat="1" win="€8,25" chips="€49,68" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€131,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€107,28" name="13373678" dealer="0"/>
+    <player bet="€4" seat="6" win="€0" chips="€105,18" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€49,93" name="ElCativo" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€104,99" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C3 H2</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€2,50" type="23" no="5"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="7"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€4" type="23" no="8"/>
+   <action player="tipstops" sum="€1,50" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D2 C6</cards>
+   <action player="napsupapsu" sum="€5,95" type="5" no="10"/>
+   <action player="tipstops" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702395157">
+  <general>
+   <startdate>2022-08-13 21:26:11</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€53,93" name="napsupapsu" dealer="0"/>
+    <player bet="€1" seat="3" win="€0" chips="€131,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€107,28" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€101,18" name="tipstops" dealer="0"/>
+    <player bet="€36" seat="8" win="€0" chips="€49,93" name="ElCativo" dealer="0"/>
+    <player bet="€36" seat="10" win="€71,50" chips="€104,49" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D5 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="ElCativo" type="Pocket">H5 D7</cards>
+   <action player="ElCativo" sum="€3" type="23" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">H10 HK</cards>
+   <action player="Back2Warcraft" sum="€3" type="3" no="6"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="7"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S2 SK</cards>
+   <action player="ElCativo" sum="€4" type="5" no="9"/>
+   <action player="Back2Warcraft" sum="€4" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="ElCativo" sum="€9" type="5" no="11"/>
+   <action player="Back2Warcraft" sum="€9" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action player="ElCativo" sum="€20" type="5" no="13"/>
+   <action player="Back2Warcraft" sum="€20" type="3" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702396428">
+  <general>
+   <startdate>2022-08-13 21:27:25</startdate>
+   <players>
+    <player bet="€9,52" seat="1" win="€0" chips="€53,43" name="napsupapsu" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€130,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€2,30" seat="5" win="€0" chips="€107,28" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€101,18" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€13,93" name="ElCativo" dealer="0"/>
+    <player bet="€9,52" seat="10" win="€21,18" chips="€139,99" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="ElCativo" type="Pocket">X X</cards>
+   <action player="ElCativo" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">HJ HQ</cards>
+   <action player="Back2Warcraft" sum="€2,30" type="23" no="5"/>
+   <cards player="napsupapsu" type="Pocket">DJ CK</cards>
+   <action player="napsupapsu" sum="€2,30" type="3" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">SA S7</cards>
+   <action player="13373678" sum="€1,30" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 H10 CJ</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="Back2Warcraft" sum="€2,22" type="5" no="10"/>
+   <action player="napsupapsu" sum="€2,22" type="3" no="11"/>
+   <action player="13373678" sum="€0" type="0" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="13"/>
+   <action player="napsupapsu" sum="€5" type="5" no="14"/>
+   <action player="Back2Warcraft" sum="€5" type="3" no="15"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="16"/>
+   <action player="napsupapsu" sum="€0" type="4" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3702397170">
+  <general>
+   <startdate>2022-08-13 21:28:30</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€43,91" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="1"/>
+    <player bet="€13,93" seat="5" win="€0" chips="€104,98" name="13373678" dealer="0"/>
+    <player bet="€36,91" seat="6" win="€40,53" chips="€101,18" name="tipstops" dealer="0"/>
+    <player bet="€13,93" seat="8" win="€0" chips="€13,93" name="ElCativo" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€151,65" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="tipstops" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ElCativo" type="Pocket">DK HJ</cards>
+   <action player="ElCativo" sum="€3" type="23" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="5"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">CJ DJ</cards>
+   <action player="13373678" sum="€12" type="23" no="7"/>
+   <cards player="tipstops" type="Pocket">H8 H7</cards>
+   <action player="tipstops" sum="€11" type="3" no="8"/>
+   <action player="ElCativo" sum="€10,93" type="7" no="9"/>
+   <action player="13373678" sum="€1,93" type="3" no="10"/>
+   <action player="tipstops" sum="€1,93" type="3" no="11"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HA S3</cards>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+   <action player="tipstops" sum="€0" type="4" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+   <action player="tipstops" sum="€22,98" type="5" no="15"/>
+   <action player="13373678" sum="€0" type="0" no="16"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+  </round>
+ </game>
+ <game gamecode="3702397840">
+  <general>
+   <startdate>2022-08-13 21:29:28</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€43,91" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€2,50" seat="6" win="€0" chips="€127,78" name="tipstops" dealer="0"/>
+    <player bet="€6,25" seat="10" win="€4,85" chips="€151,65" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S10 D4</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€2,50" type="23" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€1,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D6 C5</cards>
+   <action player="tipstops" sum="€0" type="4" no="8"/>
+   <action player="Back2Warcraft" sum="€3,75" type="5" no="9"/>
+   <action player="tipstops" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702397929">
+  <general>
+   <startdate>2022-08-13 21:30:02</startdate>
+   <players>
+    <player bet="€1" seat="1" win="€1" chips="€43,91" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€125,28" name="tipstops" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€154" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D3 SQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702397977">
+  <general>
+   <startdate>2022-08-13 21:30:23</startdate>
+   <players>
+    <player bet="€4" seat="1" win="€2" chips="€44,41" name="napsupapsu" dealer="0"/>
+    <player bet="€1" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€125,28" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€153,50" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D5 DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€4" type="23" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702398011">
+  <general>
+   <startdate>2022-08-13 21:30:36</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€45,41" name="napsupapsu" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€128,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€1" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€125,28" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€153,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D4 D5</cards>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="5"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702398042">
+  <general>
+   <startdate>2022-08-13 21:30:48</startdate>
+   <players>
+    <player bet="€6,25" seat="1" win="€6,31" chips="€45,41" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€128,38" name="FinnishNoob" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€100,50" name="13373678" dealer="0"/>
+    <player bet="€3" seat="6" win="€0" chips="€125,28" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€153,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="tipstops" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="3"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€3" type="23" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">CK C4</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€2" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 DJ D4</cards>
+   <action player="tipstops" sum="€0" type="4" no="8"/>
+   <action player="napsupapsu" sum="€3,25" type="5" no="9"/>
+   <action player="tipstops" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702398098">
+  <general>
+   <startdate>2022-08-13 21:31:11</startdate>
+   <players>
+    <player bet="€2" seat="1" win="€0" chips="€48,72" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€128,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€122,28" name="tipstops" dealer="0"/>
+    <player bet="€2" seat="8" win="€4,37" chips="€101" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€153,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="3"/>
+   <cards player="napsupapsu" type="Pocket">HQ C9</cards>
+   <action player="napsupapsu" sum="€2" type="23" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H3 C6</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+   <cards player="PartyTiger" type="Pocket">C10 D8</cards>
+   <action player="PartyTiger" sum="€1" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H8 D4</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="9"/>
+   <action player="napsupapsu" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="11"/>
+   <action player="napsupapsu" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="13"/>
+   <action player="napsupapsu" sum="€0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702398193">
+  <general>
+   <startdate>2022-08-13 21:31:44</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€46,72" name="napsupapsu" dealer="0"/>
+    <player bet="€2,50" seat="3" win="€2,50" chips="€128,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€121,78" name="tipstops" dealer="1"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€103,37" name="PartyTiger" dealer="0"/>
+    <player bet="€1" seat="10" win="€0" chips="€153,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€2,50" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">C10 C4</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="7"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702398254">
+  <general>
+   <startdate>2022-08-13 21:32:08</startdate>
+   <players>
+    <player bet="€1" seat="1" win="€0" chips="€46,72" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€2,50" chips="€121,78" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€102,87" name="PartyTiger" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€152,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H8 D10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€2,50" type="23" no="5"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="7"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702398340">
+  <general>
+   <startdate>2022-08-13 21:32:38</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€45,72" name="napsupapsu" dealer="0"/>
+    <player bet="€1" seat="3" win="€1" chips="€129,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€123,28" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€102,87" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€152" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S10 C5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702398380">
+  <general>
+   <startdate>2022-08-13 21:32:53</startdate>
+   <players>
+    <player bet="€3" seat="1" win="€2,50" chips="€45,22" name="napsupapsu" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€130,38" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€102,87" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€152" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€123,28" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€3" type="23" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">CJ D9</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702398440">
+  <general>
+   <startdate>2022-08-13 21:33:13</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€46,72" name="napsupapsu" dealer="0"/>
+    <player bet="€6" seat="3" win="€0" chips="€129,88" name="FinnishNoob" dealer="1"/>
+    <player bet="€20" seat="5" win="€15" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="8" win="€0" chips="€102,87" name="PartyTiger" dealer="0"/>
+    <player bet="€2" seat="10" win="€0" chips="€152" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2" type="23" no="3"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€6" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">DK SK</cards>
+   <action player="13373678" sum="€20" type="23" no="6"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="7"/>
+   <action player="Back2Warcraft" sum="€0" type="0" no="8"/>
+   <action player="FinnishNoob" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702398583">
+  <general>
+   <startdate>2022-08-13 21:34:00</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€46,72" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€123,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€109" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€101,87" name="PartyTiger" dealer="0"/>
+    <player bet="€1" seat="10" win="€1" chips="€150" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S5 C8</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702398684">
+  <general>
+   <startdate>2022-08-13 21:34:33</startdate>
+   <players>
+    <player bet="€46,72" seat="1" win="€19,40" chips="€46,72" name="napsupapsu" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€123,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€109" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€101,37" name="PartyTiger" dealer="1"/>
+    <player bet="€10" seat="10" win="€0" chips="€150,50" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="napsupapsu" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H6 D10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2,50" type="23" no="6"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€1,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S10 H10</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="8"/>
+   <action player="napsupapsu" sum="€2,50" type="5" no="9"/>
+   <action player="Back2Warcraft" sum="€2,50" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="11"/>
+   <action player="napsupapsu" sum="€5" type="5" no="12"/>
+   <action player="Back2Warcraft" sum="€5" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="14"/>
+   <action player="napsupapsu" sum="€36,72" type="5" no="15"/>
+   <action player="Back2Warcraft" sum="€0" type="0" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3702399622">
+  <general>
+   <startdate>2022-08-13 21:35:53</startdate>
+   <players>
+    <player bet="€2,30" seat="1" win="€0" chips="€56,12" name="napsupapsu" dealer="0"/>
+    <player bet="€1" seat="3" win="€0" chips="€123,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€109" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€101,37" name="PartyTiger" dealer="0"/>
+    <player bet="€6,50" seat="10" win="€5,44" chips="€140,50" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="napsupapsu" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 H5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2,30" type="23" no="5"/>
+   <cards player="napsupapsu" type="Pocket">X X</cards>
+   <action player="napsupapsu" sum="€1,80" type="3" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 DQ D7</cards>
+   <action player="napsupapsu" sum="€0" type="4" no="8"/>
+   <action player="Back2Warcraft" sum="€4,20" type="5" no="9"/>
+   <action player="napsupapsu" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702400833">
+  <general>
+   <startdate>2022-08-13 21:36:35</startdate>
+   <players>
+    <player bet="€53,82" seat="1" win="€0" chips="€53,82" name="napsupapsu" dealer="1"/>
+    <player bet="€63,87" seat="3" win="€106,64" chips="€122,88" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€109" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€101,37" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€143,64" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="napsupapsu" type="Pocket">C8 S8</cards>
+   <action player="napsupapsu" sum="€2" type="23" no="5"/>
+   <cards player="FinnishNoob" type="Pocket">D8 D9</cards>
+   <action player="FinnishNoob" sum="€6" type="23" no="6"/>
+   <cards player="13373678" type="Pocket">H4 D2</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <action player="napsupapsu" sum="€4" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 HQ D7</cards>
+   <action player="FinnishNoob" sum="€3,25" type="5" no="9"/>
+   <action player="napsupapsu" sum="€3,25" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="FinnishNoob" sum="€16" type="5" no="11"/>
+   <action player="napsupapsu" sum="€16" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action player="FinnishNoob" sum="€38,62" type="5" no="13"/>
+   <action player="napsupapsu" sum="€28,57" type="7" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702400974">
+  <general>
+   <startdate>2022-08-13 21:37:27</startdate>
+   <players>
+    <player bet="€9" seat="3" win="€7,50" chips="€175,70" name="FinnishNoob" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€108" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€3" seat="8" win="€0" chips="€101,37" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€143,64" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€3" type="23" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€9" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">CJ SA</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="7"/>
+   <action player="PartyTiger" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702401075">
+  <general>
+   <startdate>2022-08-13 21:38:05</startdate>
+   <players>
+    <player bet="€0" seat="3" win="€0" chips="€180,20" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€107,50" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€1" seat="8" win="€0" chips="€100" name="PartyTiger" dealer="0"/>
+    <player bet="€2" seat="10" win="€2,50" chips="€143,64" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2" type="23" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D7 S9</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="6"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702401234">
+  <general>
+   <startdate>2022-08-13 21:38:43</startdate>
+   <players>
+    <player bet="€0" seat="3" win="€0" chips="€180,20" name="FinnishNoob" dealer="0"/>
+    <player bet="€30,50" seat="5" win="€0" chips="€107,50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="1"/>
+    <player bet="€30,50" seat="8" win="€60,13" chips="€100" name="PartyTiger" dealer="0"/>
+    <player bet="€1" seat="10" win="€0" chips="€145,14" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S10 H10</cards>
+   <action player="13373678" sum="€2,50" type="23" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+   <cards player="PartyTiger" type="Pocket">SQ HQ</cards>
+   <action player="PartyTiger" sum="€10" type="23" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="7"/>
+   <action player="13373678" sum="€20,50" type="23" no="8"/>
+   <action player="PartyTiger" sum="€10,50" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 HA H2</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="10"/>
+   <action player="13373678" sum="€10" type="5" no="11"/>
+   <action player="PartyTiger" sum="€10" type="3" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="13"/>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="15"/>
+   <action player="13373678" sum="€0" type="4" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3702401955">
+  <general>
+   <startdate>2022-08-13 21:40:20</startdate>
+   <players>
+    <player bet="€1" seat="5" win="€1" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€129,63" name="PartyTiger" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€144,14" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 CJ</cards>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702401984">
+  <general>
+   <startdate>2022-08-13 21:40:33</startdate>
+   <players>
+    <player bet="€0,50" seat="5" win="€0" chips="€100,50" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€3" seat="8" win="€2,50" chips="€129,63" name="PartyTiger" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€143,64" name="Back2Warcraft" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€3" type="23" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">C5 S8</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702402031">
+  <general>
+   <startdate>2022-08-13 21:40:51</startdate>
+   <players>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€6,83" seat="8" win="€7,92" chips="€131,13" name="PartyTiger" dealer="0"/>
+    <player bet="€3,83" seat="10" win="€0" chips="€143,64" name="Back2Warcraft" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€2,30" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">HK H8</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€1,30" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 DQ S9</cards>
+   <action player="PartyTiger" sum="€1,53" type="5" no="7"/>
+   <action player="Back2Warcraft" sum="€1,53" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="PartyTiger" sum="€0" type="4" no="9"/>
+   <action player="Back2Warcraft" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="PartyTiger" sum="€3" type="5" no="11"/>
+   <action player="Back2Warcraft" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702402170">
+  <general>
+   <startdate>2022-08-13 21:41:46</startdate>
+   <players>
+    <player bet="€1" seat="3" win="€0" chips="€100" name="MarytHS" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="1"/>
+    <player bet="€12" seat="8" win="€8,50" chips="€135,22" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="MarytHS" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA S9</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€2,50" type="3" no="4"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€12" type="23" no="5"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="6"/>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <action player="Iiidiaid" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702402293">
+  <general>
+   <startdate>2022-08-13 21:42:35</startdate>
+   <players>
+    <player bet="€34,36" seat="3" win="€67,72" chips="€100" name="MarytHS" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€34,36" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€141,22" name="PartyTiger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">DJ HJ</cards>
+   <action player="Iiidiaid" sum="€2,50" type="23" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="4"/>
+   <cards player="MarytHS" type="Pocket">SQ HK</cards>
+   <action player="MarytHS" sum="€10" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">SA S2</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <action player="Iiidiaid" sum="€7,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ D2 C6</cards>
+   <action player="MarytHS" sum="€6,93" type="5" no="8"/>
+   <action player="Iiidiaid" sum="€6,93" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="MarytHS" sum="€17,43" type="5" no="10"/>
+   <action player="Iiidiaid" sum="€17,43" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="MarytHS" sum="€0" type="4" no="12"/>
+   <action player="Iiidiaid" sum="€0" type="4" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702402511">
+  <general>
+   <startdate>2022-08-13 21:44:03</startdate>
+   <players>
+    <player bet="€2" seat="3" win="€0" chips="€133,36" name="MarytHS" dealer="1"/>
+    <player bet="€11" seat="5" win="€5" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€141,22" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="3"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€2" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">CK HQ</cards>
+   <action player="13373678" sum="€11" type="23" no="5"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="6"/>
+   <action player="MarytHS" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702402577">
+  <general>
+   <startdate>2022-08-13 21:44:32</startdate>
+   <players>
+    <player bet="€3" seat="3" win="€2,50" chips="€131,36" name="MarytHS" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€103" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€1" seat="8" win="€0" chips="€141,22" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="PartyTiger" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€3" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">S2 C4</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702403865">
+  <general>
+   <startdate>2022-08-13 21:44:50</startdate>
+   <players>
+    <player bet="€132,86" seat="3" win="€201" chips="€132,86" name="MarytHS" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€0" chips="€103" name="13373678" dealer="0"/>
+    <player bet="€100" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="1"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€140,22" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PartyTiger" sum="€0,50" type="1" no="1"/>
+   <action player="MarytHS" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK SQ</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="Iiidiaid" type="Pocket">S9 SA</cards>
+   <action player="Iiidiaid" sum="€9" type="23" no="4"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="5"/>
+   <cards player="MarytHS" type="Pocket">C7 S7</cards>
+   <action player="MarytHS" sum="€8" type="3" no="6"/>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D9 H8</cards>
+   <action player="MarytHS" sum="€0" type="4" no="8"/>
+   <action player="Iiidiaid" sum="€10,50" type="5" no="9"/>
+   <action player="MarytHS" sum="€10,50" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="MarytHS" sum="€0" type="4" no="11"/>
+   <action player="Iiidiaid" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action player="MarytHS" sum="€0" type="4" no="13"/>
+   <action player="Iiidiaid" sum="€23" type="5" no="14"/>
+   <action player="MarytHS" sum="€113,36" type="23" no="15"/>
+   <action player="Iiidiaid" sum="€57,50" type="7" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3702404169">
+  <general>
+   <startdate>2022-08-13 21:46:51</startdate>
+   <players>
+    <player bet="€0,50" seat="3" win="€0" chips="€233,86" name="MarytHS" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€100,50" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€2,50" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€139,72" name="PartyTiger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€2,50" type="23" no="3"/>
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€0" type="0" no="4"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">CJ D8</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702404218">
+  <general>
+   <startdate>2022-08-13 21:47:11</startdate>
+   <players>
+    <player bet="€0" seat="3" win="€0" chips="€233,36" name="MarytHS" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€0" chips="€101,50" name="Iiidiaid" dealer="0"/>
+    <player bet="€3" seat="8" win="€2,50" chips="€139,72" name="PartyTiger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PartyTiger" type="Pocket">X X</cards>
+   <action player="PartyTiger" sum="€3" type="23" no="3"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S3 C7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702404304">
+  <general>
+   <startdate>2022-08-13 21:47:40</startdate>
+   <players>
+    <player bet="€0" seat="3" win="€0" chips="€233,36" name="MarytHS" dealer="0"/>
+    <player bet="€2,50" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€100,50" name="Iiidiaid" dealer="0"/>
+    <player bet="€2,50" seat="10" win="€5,34" chips="€100" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="Butterfisch" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">DQ SK</cards>
+   <action player="13373678" sum="€2,50" type="23" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+   <cards player="Butterfisch" type="Pocket">S4 C4</cards>
+   <action player="Butterfisch" sum="€1,50" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C9 SJ</cards>
+   <action player="Butterfisch" sum="€0" type="4" no="7"/>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="Butterfisch" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action player="Butterfisch" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702404439">
+  <general>
+   <startdate>2022-08-13 21:48:25</startdate>
+   <players>
+    <player bet="€11,88" seat="1" win="€5,82" chips="€180,20" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="1"/>
+    <player bet="€3" seat="10" win="€0" chips="€102,84" name="Butterfisch" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€233,36" name="MarytHS" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Butterfisch" sum="€0,50" type="1" no="1"/>
+   <action player="FinnishNoob" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H2 SJ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€3" type="23" no="6"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€2" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C5 D10</cards>
+   <action player="Butterfisch" sum="€0" type="4" no="8"/>
+   <action player="FinnishNoob" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Butterfisch" sum="€0" type="4" no="10"/>
+   <action player="FinnishNoob" sum="€8,88" type="5" no="11"/>
+   <action player="Butterfisch" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702404975">
+  <general>
+   <startdate>2022-08-13 21:49:15</startdate>
+   <players>
+    <player bet="€11,50" seat="1" win="€6" chips="€183,02" name="FinnishNoob" dealer="0"/>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€2,50" seat="10" win="€0" chips="€100" name="Butterfisch" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FinnishNoob" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="3"/>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€2,50" type="23" no="4"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€11,50" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">S5 H6</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <action player="Butterfisch" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702405074">
+  <general>
+   <startdate>2022-08-13 21:49:46</startdate>
+   <players>
+    <player bet="€10,64" seat="1" win="€5,34" chips="€186,52" name="FinnishNoob" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€100" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€0" type="0" no="3"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€2,50" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">S2 S3</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€1,50" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C4 S8</cards>
+   <action player="Iiidiaid" sum="€0" type="4" no="7"/>
+   <action player="FinnishNoob" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="Iiidiaid" sum="€0" type="4" no="9"/>
+   <action player="FinnishNoob" sum="€8,14" type="5" no="10"/>
+   <action player="Iiidiaid" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702406008">
+  <general>
+   <startdate>2022-08-13 21:50:25</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€189,36" name="FinnishNoob" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€100" name="Iiidiaid" dealer="0"/>
+    <player bet="€1" seat="10" win="€1" chips="€100" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="Butterfisch" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action player="FinnishNoob" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S5 C6</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702406045">
+  <general>
+   <startdate>2022-08-13 21:50:38</startdate>
+   <players>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€2,50" chips="€100" name="Iiidiaid" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€100,50" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Butterfisch" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€2,50" type="23" no="3"/>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D7 SK</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702406074">
+  <general>
+   <startdate>2022-08-13 21:50:49</startdate>
+   <players>
+    <player bet="€0,50" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€1" seat="6" win="€1" chips="€101,50" name="Iiidiaid" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€100" name="Butterfisch" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Iiidiaid" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">DJ D2</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702406101">
+  <general>
+   <startdate>2022-08-13 21:50:57</startdate>
+   <players>
+    <player bet="€2,50" seat="5" win="€2,50" chips="€100" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€102" name="Iiidiaid" dealer="0"/>
+    <player bet="€1" seat="10" win="€0" chips="€100" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Iiidiaid" sum="€0,50" type="1" no="1"/>
+   <action player="Butterfisch" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA S6</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€0" type="0" no="4"/>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702406130">
+  <general>
+   <startdate>2022-08-13 21:51:09</startdate>
+   <players>
+    <player bet="€1" seat="5" win="€0" chips="€101,50" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="6" win="€0" chips="€101,50" name="Iiidiaid" dealer="1"/>
+    <player bet="€11" seat="10" win="€6" chips="€100" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Butterfisch" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action player="Iiidiaid" sum="€2,50" type="23" no="3"/>
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€11" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">HQ S10</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <action player="Iiidiaid" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702406188">
+  <general>
+   <startdate>2022-08-13 21:51:34</startdate>
+   <players>
+    <player bet="€0,50" seat="5" win="€0" chips="€100,50" name="13373678" dealer="1"/>
+    <player bet="€1" seat="10" win="€1" chips="€103,50" name="Butterfisch" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="Butterfisch" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D3 C6</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702406203">
+  <general>
+   <startdate>2022-08-13 21:51:40</startdate>
+   <players>
+    <player bet="€1" seat="5" win="€0" chips="€100" name="13373678" dealer="0"/>
+    <player bet="€2,50" seat="10" win="€2" chips="€104" name="Butterfisch" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Butterfisch" sum="€0,50" type="1" no="1"/>
+   <action player="13373678" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Butterfisch" type="Pocket">X X</cards>
+   <action player="Butterfisch" sum="€2,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H4 S6</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076741978">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:05</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-06-12 22:18:52</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,50</bets>
+  <wins>€0,50</wins>
+  <chipsin>€179,25</chipsin>
+  <chipsout>€179,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687801405">
+  <general>
+   <startdate>2022-06-12 22:18:52</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€20" win="€0" dealer="1" name="Wurli70"/>
+    <player bet="€0,50" seat="3" chips="€179" win="€0,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Wurli70" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK C6</cards>
+   <cards type="Pocket" player="Wurli70">X X</cards>
+   <action sum="€0" type="0" player="Wurli70" no="3"/>
+  </round>
+ </game>
+</session>

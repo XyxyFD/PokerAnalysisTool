@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081242684">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 13, 488049772</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:07</duration>
+  <gamecount>6</gamecount>
+  <startdate>2022-08-15 20:38:51</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€17,30</bets>
+  <wins>€11,70</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€102,20</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702888727">
+  <general>
+   <startdate>2022-08-15 20:38:51</startdate>
+   <players>
+    <player dealer="1" chips="€100" seat="1" win="€2" name="13373678" bet="€2,50"/>
+    <player dealer="0" chips="€107,67" seat="8" win="€0" name="tipstops" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="tipstops" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK C8</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action sum="€0" player="tipstops" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702888789">
+  <general>
+   <startdate>2022-08-15 20:39:22</startdate>
+   <players>
+    <player dealer="1" chips="€101" seat="1" win="€0" name="13373678" bet="€0,50"/>
+    <player dealer="0" chips="€40" seat="3" win="€1" name="masterharry" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="masterharry" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="masterharry" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C6 S4</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702888806">
+  <general>
+   <startdate>2022-08-15 20:39:27</startdate>
+   <players>
+    <player dealer="0" chips="€100,50" seat="1" win="€0" name="13373678" bet="€1"/>
+    <player dealer="1" chips="€40,50" seat="3" win="€2" name="masterharry" bet="€4"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="masterharry" no="1" type="1"/>
+   <action sum="€1" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="masterharry" type="Pocket">X X</cards>
+   <action sum="€4" player="masterharry" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">SK H8</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702888826">
+  <general>
+   <startdate>2022-08-15 20:39:36</startdate>
+   <players>
+    <player dealer="1" chips="€100" seat="1" win="€0" name="13373678" bet="€2,50"/>
+    <player dealer="0" chips="€41,50" seat="3" win="€4,85" name="masterharry" bet="€7,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="masterharry" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 SA</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="masterharry" type="Pocket">X X</cards>
+   <action sum="€1,50" player="masterharry" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D8 HJ</cards>
+   <action sum="€5" player="masterharry" no="5" type="5"/>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702888866">
+  <general>
+   <startdate>2022-08-15 20:39:52</startdate>
+   <players>
+    <player dealer="0" chips="€100" seat="1" win="€9,70" name="13373678" bet="€8,30"/>
+    <player dealer="1" chips="€43,85" seat="3" win="€0" name="masterharry" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="masterharry" no="1" type="1"/>
+   <action sum="€1" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="masterharry" type="Pocket">X X</cards>
+   <action sum="€0,50" player="masterharry" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">C6 SA</cards>
+   <action sum="€5" player="13373678" no="4" type="23"/>
+   <action sum="€4" player="masterharry" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HA S10</cards>
+   <action sum="€3,30" player="13373678" no="6" type="5"/>
+   <action sum="€0" player="masterharry" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702888921">
+  <general>
+   <startdate>2022-08-15 20:40:17</startdate>
+   <players>
+    <player dealer="1" chips="€104,70" seat="1" win="€0" name="13373678" bet="€2,50"/>
+    <player dealer="0" chips="€38,85" seat="3" win="€0" name="masterharry" bet="€10"/>
+    <player dealer="0" chips="€106,67" seat="6" win="€21,82" name="tipstops" bet="€10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="masterharry" no="1" type="1"/>
+   <action sum="€1" player="tipstops" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA H4</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="masterharry" type="Pocket">SK C7</cards>
+   <action sum="€2" player="masterharry" no="4" type="3"/>
+   <cards player="tipstops" type="Pocket">SQ DJ</cards>
+   <action sum="€1,50" player="tipstops" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D7 CJ</cards>
+   <action sum="€0" player="masterharry" no="6" type="4"/>
+   <action sum="€0" player="tipstops" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€7,50" player="masterharry" no="9" type="5"/>
+   <action sum="€7,50" player="tipstops" no="10" type="3"/>
+   <action sum="€0" player="13373678" no="11" type="0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action sum="€0" player="masterharry" no="12" type="4"/>
+   <action sum="€0" player="tipstops" no="13" type="4"/>
+  </round>
+ </game>
+</session>

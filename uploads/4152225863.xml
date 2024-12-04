@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4152225863">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:08:55</duration>
+  <gamecount>17</gamecount>
+  <startdate>2024-10-13 01:45:53</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€126</bets>
+  <wins>€64,37</wins>
+  <chipsin>€124,50</chipsin>
+  <chipsout>€128,37</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3938281047">
+  <general>
+   <startdate>2024-10-13 01:45:53</startdate>
+   <players>
+    <player seat="3" name="Player 3" bet="€0" dealer="1" win="€0" chips="€104,62"/>
+    <player seat="5" name="Player 5" bet="€0,50" dealer="0" win="€0" chips="€39"/>
+    <player seat="6" name="Player 6" bet="€24,25" dealer="0" win="€0" chips="€117,60"/>
+    <player seat="8" name="Player 8" bet="€74,25" dealer="0" win="€47,52" chips="€240,53"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 5" type="1" sum="€0,50"/>
+   <action no="2" player="Player 6" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="3" player="Player 8" type="23" sum="€2,30"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="4" player="Player 3" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="5" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="6" player="Player 6" type="23" sum="€12"/>
+   <action no="7" player="Player 8" type="3" sum="€9,70"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 S4 D9</cards>
+   <action no="8" player="Player 6" type="5" sum="€12,25"/>
+   <action no="9" player="Player 8" type="3" sum="€12,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="10" player="Player 6" type="4" sum="€0"/>
+   <action no="11" player="Player 8" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="12" player="Player 6" type="4" sum="€0"/>
+   <action no="13" player="Player 8" type="5" sum="€50"/>
+   <action no="14" player="Player 6" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938281933">
+  <general>
+   <startdate>2024-10-13 01:47:16</startdate>
+   <players>
+    <player seat="3" name="Player 3" bet="€0" dealer="0" win="€0" chips="€104,62"/>
+    <player seat="5" name="Player 5" bet="€0" dealer="1" win="€0" chips="€38,50"/>
+    <player seat="6" name="Player 6" bet="€0,50" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="Player 8" bet="€1" dealer="0" win="€1" chips="€263,80"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 6" type="1" sum="€0,50"/>
+   <action no="2" player="Player 8" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" player="Player 3" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="5" player="Player 6" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938281946">
+  <general>
+   <startdate>2024-10-13 01:47:23</startdate>
+   <players>
+    <player seat="3" name="Player 3" bet="€0" dealer="0" win="€0" chips="€104,62"/>
+    <player seat="5" name="Player 5" bet="€0" dealer="0" win="€0" chips="€38,50"/>
+    <player seat="6" name="Player 6" bet="€2,50" dealer="1" win="€0" chips="€100"/>
+    <player seat="8" name="Player 8" bet="€11" dealer="0" win="€6" chips="€264,30"/>
+    <player seat="10" name="Player 10" bet="€1" dealer="0" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 8" type="1" sum="€0,50"/>
+   <action no="2" player="Player 10" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" player="Player 3" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="5" player="Player 6" type="23" sum="€2,50"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="6" player="Player 8" type="23" sum="€11"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="7" player="Player 10" type="0" sum="€0"/>
+   <action no="8" player="Player 6" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282064">
+  <general>
+   <startdate>2024-10-13 01:47:45</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€100" dealer="0" win="€48,50" chips="€100"/>
+    <player seat="3" name="FutsalinTyty" bet="€0" dealer="0" win="€0" chips="€104,62"/>
+    <player seat="5" name="ThePokerBrat" bet="€0" dealer="0" win="€0" chips="€98,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€24" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="1" win="€0" chips="€267,80"/>
+    <player seat="10" name="99762453221" bet="€0,50" dealer="0" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="99762453221" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="FutsalinTyty" type="Pocket">X X</cards>
+   <action no="3" player="FutsalinTyty" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="4" player="ThePokerBrat" type="0" sum="€0"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="5" player="TeslamiesV1" type="23" sum="€2"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="6" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="7" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HK SK</cards>
+   <action no="8" player="13373678" type="23" sum="€11"/>
+   <action no="9" player="TeslamiesV1" type="23" sum="€24"/>
+   <action no="10" player="13373678" type="23" sum="€100"/>
+   <action no="11" player="TeslamiesV1" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282195">
+  <general>
+   <startdate>2024-10-13 01:48:29</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0,50" dealer="0" win="€0" chips="€124,50"/>
+    <player seat="5" name="ThePokerBrat" bet="€1" dealer="0" win="€0" chips="€98,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="0" win="€0" chips="€267,80"/>
+    <player seat="10" name="99762453221" bet="€2,50" dealer="1" win="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="ThePokerBrat" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="3" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="4" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="5" player="99762453221" type="23" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">C4 D3</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="7" player="ThePokerBrat" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282241">
+  <general>
+   <startdate>2024-10-13 01:48:57</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0" dealer="1" win="€0" chips="€124"/>
+    <player seat="5" name="ThePokerBrat" bet="€0,50" dealer="0" win="€0" chips="€97,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€1" dealer="0" win="€1" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="0" win="€0" chips="€267,80"/>
+    <player seat="10" name="99762453221" bet="€0" dealer="0" win="€0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="ThePokerBrat" type="1" sum="€0,50"/>
+   <action no="2" player="TeslamiesV1" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="3" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="4" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ S6</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="6" player="ThePokerBrat" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282262">
+  <general>
+   <startdate>2024-10-13 01:49:12</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0" dealer="0" win="€0" chips="€124"/>
+    <player seat="5" name="ThePokerBrat" bet="€2" dealer="1" win="€2,50" chips="€96,94"/>
+    <player seat="6" name="TeslamiesV1" bet="€0,50" dealer="0" win="€0" chips="€100,50"/>
+    <player seat="8" name="KunnonMATO" bet="€1" dealer="0" win="€0" chips="€267,80"/>
+    <player seat="10" name="99762453221" bet="€0" dealer="0" win="€0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="TeslamiesV1" type="1" sum="€0,50"/>
+   <action no="2" player="KunnonMATO" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="3" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 SJ</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="5" player="ThePokerBrat" type="23" sum="€2"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="6" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="7" player="KunnonMATO" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282298">
+  <general>
+   <startdate>2024-10-13 01:49:36</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0" dealer="0" win="€0" chips="€124"/>
+    <player seat="3" name="pzypher" bet="€9" dealer="0" win="€0" chips="€81"/>
+    <player seat="5" name="ThePokerBrat" bet="€0" dealer="0" win="€0" chips="€98,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="1" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0,50" dealer="0" win="€0" chips="€266,80"/>
+    <player seat="10" name="99762453221" bet="€9" dealer="0" win="€17,94" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="KunnonMATO" type="1" sum="€0,50"/>
+   <action no="2" player="99762453221" type="2" sum="€1"/>
+   <action no="3" player="pzypher" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 C7</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="pzypher" type="Pocket">SQ D9</cards>
+   <action no="5" player="pzypher" type="23" sum="€2"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="6" player="ThePokerBrat" type="0" sum="€0"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="7" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="8" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">SK S8</cards>
+   <action no="9" player="99762453221" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H2 CK</cards>
+   <action no="10" player="99762453221" type="4" sum="€0"/>
+   <action no="11" player="pzypher" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="12" player="99762453221" type="4" sum="€0"/>
+   <action no="13" player="pzypher" type="5" sum="€2"/>
+   <action no="14" player="99762453221" type="3" sum="€2"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action no="15" player="99762453221" type="4" sum="€0"/>
+   <action no="16" player="pzypher" type="5" sum="€5"/>
+   <action no="17" player="99762453221" type="3" sum="€5"/>
+  </round>
+ </game>
+ <game gamecode="3938282395">
+  <general>
+   <startdate>2024-10-13 01:50:44</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€2" dealer="0" win="€4,37" chips="€124"/>
+    <player seat="3" name="pzypher" bet="€2" dealer="0" win="€0" chips="€72"/>
+    <player seat="5" name="ThePokerBrat" bet="€0" dealer="0" win="€0" chips="€98,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="1" win="€0" chips="€266,30"/>
+    <player seat="10" name="99762453221" bet="€0,50" dealer="0" win="€0" chips="€110,44"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="99762453221" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="pzypher" type="Pocket">D3 C3</cards>
+   <action no="3" player="pzypher" type="3" sum="€1"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="4" player="ThePokerBrat" type="0" sum="€0"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="5" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="6" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="7" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C8 DQ</cards>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA HJ HQ</cards>
+   <action no="9" player="13373678" type="4" sum="€0"/>
+   <action no="10" player="pzypher" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action no="11" player="13373678" type="4" sum="€0"/>
+   <action no="12" player="pzypher" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action no="13" player="13373678" type="5" sum="€1"/>
+   <action no="14" player="pzypher" type="3" sum="€1"/>
+  </round>
+ </game>
+ <game gamecode="3938282449">
+  <general>
+   <startdate>2024-10-13 01:51:20</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0,50" dealer="0" win="€0" chips="€126,37"/>
+    <player seat="3" name="pzypher" bet="€2" dealer="0" win="€0" chips="€70"/>
+    <player seat="5" name="ThePokerBrat" bet="€5" dealer="0" win="€4,37" chips="€98,44"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="0" win="€0" chips="€266,30"/>
+    <player seat="10" name="99762453221" bet="€0" dealer="1" win="€0" chips="€109,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="pzypher" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="3" player="ThePokerBrat" type="23" sum="€2"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="4" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="5" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="6" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 D3</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="pzypher" type="Pocket">X X</cards>
+   <action no="8" player="pzypher" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H2 H7</cards>
+   <action no="9" player="pzypher" type="4" sum="€0"/>
+   <action no="10" player="ThePokerBrat" type="5" sum="€3"/>
+   <action no="11" player="pzypher" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282484">
+  <general>
+   <startdate>2024-10-13 01:51:46</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0" dealer="1" win="€0" chips="€125,87"/>
+    <player seat="3" name="pzypher" bet="€0,50" dealer="0" win="€0" chips="€68"/>
+    <player seat="5" name="ThePokerBrat" bet="€1" dealer="0" win="€1" chips="€100,81"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="0" win="€0" chips="€266,30"/>
+    <player seat="10" name="99762453221" bet="€0" dealer="0" win="€0" chips="€109,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="pzypher" type="1" sum="€0,50"/>
+   <action no="2" player="ThePokerBrat" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="3" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="4" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="5" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C6 S8</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="pzypher" type="Pocket">X X</cards>
+   <action no="7" player="pzypher" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282500">
+  <general>
+   <startdate>2024-10-13 01:51:56</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€6,50" dealer="0" win="€5,50" chips="€125,87"/>
+    <player seat="3" name="pzypher" bet="€0" dealer="1" win="€0" chips="€67,50"/>
+    <player seat="5" name="ThePokerBrat" bet="€0,50" dealer="0" win="€0" chips="€101,31"/>
+    <player seat="6" name="TeslamiesV1" bet="€1" dealer="0" win="€0" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="0" win="€0" chips="€266,30"/>
+    <player seat="10" name="99762453221" bet="€2" dealer="0" win="€0" chips="€109,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="ThePokerBrat" type="1" sum="€0,50"/>
+   <action no="2" player="TeslamiesV1" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="3" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="4" player="99762453221" type="23" sum="€2"/>
+   <cards player="13373678" type="Pocket">S9 S6</cards>
+   <action no="5" player="13373678" type="23" sum="€6,50"/>
+   <cards player="pzypher" type="Pocket">X X</cards>
+   <action no="6" player="pzypher" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="7" player="ThePokerBrat" type="0" sum="€0"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="8" player="TeslamiesV1" type="0" sum="€0"/>
+   <action no="9" player="99762453221" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282539">
+  <general>
+   <startdate>2024-10-13 01:52:31</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€2,50" dealer="0" win="€0" chips="€129,37"/>
+    <player seat="5" name="ThePokerBrat" bet="€2,50" dealer="1" win="€0" chips="€100,81"/>
+    <player seat="6" name="TeslamiesV1" bet="€12" dealer="0" win="€8,50" chips="€100"/>
+    <player seat="8" name="KunnonMATO" bet="€1" dealer="0" win="€0" chips="€266,30"/>
+    <player seat="10" name="99762453221" bet="€0" dealer="0" win="€0" chips="€107,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="TeslamiesV1" type="1" sum="€0,50"/>
+   <action no="2" player="KunnonMATO" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="3" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H6 H9</cards>
+   <action no="4" player="13373678" type="23" sum="€2,50"/>
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="5" player="ThePokerBrat" type="3" sum="€2,50"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="6" player="TeslamiesV1" type="23" sum="€12"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="7" player="KunnonMATO" type="0" sum="€0"/>
+   <action no="8" player="13373678" type="0" sum="€0"/>
+   <action no="9" player="ThePokerBrat" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282584">
+  <general>
+   <startdate>2024-10-13 01:52:58</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€0" dealer="0" win="€0" chips="€126,87"/>
+    <player seat="5" name="ThePokerBrat" bet="€11,20" dealer="0" win="€0" chips="€98,31"/>
+    <player seat="6" name="TeslamiesV1" bet="€0" dealer="1" win="€0" chips="€106"/>
+    <player seat="8" name="KunnonMATO" bet="€0,50" dealer="0" win="€0" chips="€265,30"/>
+    <player seat="10" name="99762453221" bet="€11,20" dealer="0" win="€22,21" chips="€107,94"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="KunnonMATO" type="1" sum="€0,50"/>
+   <action no="2" player="99762453221" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 C3</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="ThePokerBrat" type="Pocket">DA S10</cards>
+   <action no="4" player="ThePokerBrat" type="23" sum="€2"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="5" player="TeslamiesV1" type="0" sum="€0"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="6" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">SK D6</cards>
+   <action no="7" player="99762453221" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK CJ C9</cards>
+   <action no="8" player="99762453221" type="4" sum="€0"/>
+   <action no="9" player="ThePokerBrat" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="10" player="99762453221" type="4" sum="€0"/>
+   <action no="11" player="ThePokerBrat" type="5" sum="€1,12"/>
+   <action no="12" player="99762453221" type="3" sum="€1,12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action no="13" player="99762453221" type="4" sum="€0"/>
+   <action no="14" player="ThePokerBrat" type="5" sum="€8,08"/>
+   <action no="15" player="99762453221" type="3" sum="€8,08"/>
+  </round>
+ </game>
+ <game gamecode="3938282668">
+  <general>
+   <startdate>2024-10-13 01:53:56</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€1" dealer="0" win="€0" chips="€126,87"/>
+    <player seat="6" name="TeslamiesV1" bet="€2" dealer="0" win="€2,50" chips="€106"/>
+    <player seat="8" name="KunnonMATO" bet="€0" dealer="1" win="€0" chips="€264,80"/>
+    <player seat="10" name="99762453221" bet="€0,50" dealer="0" win="€0" chips="€118,95"/>
+    <player seat="5" name="ThePokerBrat" bet="€0" dealer="0" win="€0" chips="€87,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="99762453221" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="ThePokerBrat" type="Pocket">X X</cards>
+   <action no="3" player="ThePokerBrat" type="0" sum="€0"/>
+   <cards player="TeslamiesV1" type="Pocket">X X</cards>
+   <action no="4" player="TeslamiesV1" type="23" sum="€2"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="5" player="KunnonMATO" type="0" sum="€0"/>
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="6" player="99762453221" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H6 S7</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282690">
+  <general>
+   <startdate>2024-10-13 01:54:12</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€12" dealer="0" win="€6" chips="€125,87"/>
+    <player seat="8" name="KunnonMATO" bet="€1" dealer="0" win="€0" chips="€264,80"/>
+    <player seat="10" name="99762453221" bet="€2,50" dealer="1" win="€0" chips="€118,45"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="KunnonMATO" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="99762453221" type="Pocket">X X</cards>
+   <action no="3" player="99762453221" type="23" sum="€2,50"/>
+   <cards player="13373678" type="Pocket">SA CK</cards>
+   <action no="4" player="13373678" type="23" sum="€12"/>
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="5" player="KunnonMATO" type="0" sum="€0"/>
+   <action no="6" player="99762453221" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3938282723">
+  <general>
+   <startdate>2024-10-13 01:54:35</startdate>
+   <players>
+    <player seat="1" name="13373678" bet="€1" dealer="0" win="€0" chips="€129,37"/>
+    <player seat="8" name="KunnonMATO" bet="€2,30" dealer="1" win="€2" chips="€263,80"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="KunnonMATO" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="KunnonMATO" type="Pocket">X X</cards>
+   <action no="3" player="KunnonMATO" type="23" sum="€2,30"/>
+   <cards player="13373678" type="Pocket">DJ H6</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

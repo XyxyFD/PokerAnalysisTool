@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081108149">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:55</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-13 22:18:42</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€27,55</bets>
+  <wins>€32,70</wins>
+  <chipsin>€116,10</chipsin>
+  <chipsout>€116,10</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702415748">
+  <general>
+   <startdate>2022-08-13 22:18:42</startdate>
+   <players>
+    <player bet="€16,60" seat="1" win="€0" chips="€100" name="MarytHS" dealer="0"/>
+    <player bet="€27,55" seat="3" win="€32,70" chips="€100" name="13373678" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" type="1" no="1"/>
+   <action player="MarytHS" sum="€1" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 SQ</cards>
+   <action player="13373678" sum="€2,50" type="23" no="3"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€10" type="23" no="4"/>
+   <action player="13373678" sum="€7,50" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 C4 D9</cards>
+   <action player="MarytHS" sum="€6,60" type="5" no="6"/>
+   <action player="13373678" sum="€6,60" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="MarytHS" sum="€0" type="4" no="8"/>
+   <action player="13373678" sum="€10,95" type="5" no="9"/>
+   <action player="MarytHS" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4084527188">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:08:19</duration>
+  <gamecount>15</gamecount>
+  <startdate>2022-09-27 20:54:08</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€13</bets>
+  <wins>€6,50</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€103,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3713760921">
+  <general>
+   <startdate>2022-09-27 20:54:08</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0,50" name="Player 1" seat="1" chips="€160,27"/>
+    <player dealer="0" win="€1" bet="€1" name="Player 3" seat="3" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="Player 5" seat="5" chips="€122,90"/>
+    <player dealer="0" win="€0" bet="€0" name="Player 6" seat="6" chips="€102,65"/>
+    <player dealer="1" win="€0" bet="€0" name="Player 10" seat="10" chips="€15,89"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="Player 1" type="1" no="1"/>
+   <action sum="€1" player="Player 3" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 5" type="0" no="3"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 6" type="0" no="4"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 10" type="0" no="5"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 1" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3713760954">
+  <general>
+   <startdate>2022-09-27 20:54:22</startdate>
+   <players>
+    <player dealer="1" win="€0" bet="€0" name="Player 1" seat="1" chips="€159,77"/>
+    <player dealer="0" win="€0" bet="€0,50" name="Player 3" seat="3" chips="€100,50"/>
+    <player dealer="0" win="€0" bet="€1" name="Player 5" seat="5" chips="€122,90"/>
+    <player dealer="0" win="€2,50" bet="€2" name="Player 6" seat="6" chips="€102,65"/>
+    <player dealer="0" win="€0" bet="€0" name="Player 10" seat="10" chips="€15,89"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="Player 3" type="1" no="1"/>
+   <action sum="€1" player="Player 5" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€2" player="Player 6" type="23" no="3"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 10" type="0" no="4"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 1" type="0" no="5"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 3" type="0" no="6"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 5" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3713761030">
+  <general>
+   <startdate>2022-09-27 20:54:51</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="Player 1" seat="1" chips="€159,77"/>
+    <player dealer="1" win="€0" bet="€0" name="Player 3" seat="3" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0,50" name="Player 5" seat="5" chips="€121,90"/>
+    <player dealer="0" win="€0" bet="€1" name="Player 6" seat="6" chips="€104,15"/>
+    <player dealer="0" win="€2,43" bet="€1" name="Player 10" seat="10" chips="€15,89"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="Player 5" type="1" no="1"/>
+   <action sum="€1" player="Player 6" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">H6 HK</cards>
+   <action sum="€1" player="Player 10" type="3" no="3"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 1" type="0" no="4"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 3" type="0" no="5"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 5" type="0" no="6"/>
+   <cards player="Player 6" type="Pocket">S2 D7</cards>
+   <action sum="€0" player="Player 6" type="4" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 S6 H8</cards>
+   <action sum="€0" player="Player 6" type="4" no="8"/>
+   <action sum="€0" player="Player 10" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" player="Player 6" type="4" no="10"/>
+   <action sum="€0" player="Player 10" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action sum="€0" player="Player 6" type="4" no="12"/>
+   <action sum="€0" player="Player 10" type="4" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3713761102">
+  <general>
+   <startdate>2022-09-27 20:55:20</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="MuckCall" seat="1" chips="€159,77"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€100"/>
+    <player dealer="1" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€121,40"/>
+    <player dealer="0" win="€0" bet="€0,50" name="MEGABOT" seat="6" chips="€103,15"/>
+    <player dealer="0" win="€0" bet="€1" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€2,43" bet="€3" name="BGBG88" seat="10" chips="€17,32"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MEGABOT" type="1" no="1"/>
+   <action sum="€1" player="13373678" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€1" player="BGBG88" type="3" no="3"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="4"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="5"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="6"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">D6 C7</cards>
+   <action sum="€0" player="13373678" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 HQ DK</cards>
+   <action sum="€0" player="13373678" type="4" no="9"/>
+   <action sum="€2" player="BGBG88" type="5" no="10"/>
+   <action sum="€0" player="13373678" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3713762531">
+  <general>
+   <startdate>2022-09-27 20:56:13</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="MuckCall" seat="1" chips="€159,77"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€121,40"/>
+    <player dealer="1" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€102,65"/>
+    <player dealer="0" win="€0" bet="€0,50" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€1" bet="€1" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" type="1" no="1"/>
+   <action sum="€1" player="BGBG88" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="3"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="4"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="5"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">D7 HK</cards>
+   <action sum="€0" player="13373678" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3713762614">
+  <general>
+   <startdate>2022-09-27 20:56:48</startdate>
+   <players>
+    <player dealer="0" win="€1" bet="€1" name="MuckCall" seat="1" chips="€159,77"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€121,40"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€102,65"/>
+    <player dealer="1" win="€0" bet="€0" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0,50" name="BGBG88" seat="10" chips="€19,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="BGBG88" type="1" no="1"/>
+   <action sum="€1" player="MuckCall" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="3"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="4"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">C8 S10</cards>
+   <action sum="€0" player="13373678" type="0" no="6"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3713762660">
+  <general>
+   <startdate>2022-09-27 20:57:07</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€3" name="MuckCall" seat="1" chips="€160,27"/>
+    <player dealer="0" win="€6" bet="€10" name="MANKELIMASA" seat="3" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€121,40"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€102,65"/>
+    <player dealer="0" win="€0" bet="€0" name="13373678" seat="8" chips="€100"/>
+    <player dealer="1" win="€0" bet="€0" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MuckCall" type="1" no="1"/>
+   <action sum="€1" player="MANKELIMASA" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="3"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">C3 SQ</cards>
+   <action sum="€0" player="13373678" type="0" no="5"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="6"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€3" player="MuckCall" type="23" no="7"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€10" player="MANKELIMASA" type="23" no="8"/>
+   <action sum="€0" player="MuckCall" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3713762715">
+  <general>
+   <startdate>2022-09-27 20:57:33</startdate>
+   <players>
+    <player dealer="1" win="€0" bet="€0" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="0" win="€0" bet="€0,50" name="MANKELIMASA" seat="3" chips="€103"/>
+    <player dealer="0" win="€5,34" bet="€5,36" name="TigerUPPERCUT" seat="5" chips="€121,40"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€102,65"/>
+    <player dealer="0" win="€0" bet="€2,50" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MANKELIMASA" type="1" no="1"/>
+   <action sum="€1" player="TigerUPPERCUT" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">SQ CA</cards>
+   <action sum="€2,50" player="13373678" type="23" no="4"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="5"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="6"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="7"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€1,50" player="TigerUPPERCUT" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H3 C8</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="4" no="9"/>
+   <action sum="€0" player="13373678" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="4" no="11"/>
+   <action sum="€0" player="13373678" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€2,86" player="TigerUPPERCUT" type="5" no="13"/>
+   <action sum="€0" player="13373678" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3713762881">
+  <general>
+   <startdate>2022-09-27 20:58:47</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="1" win="€5,34" bet="€2,50" name="MANKELIMASA" seat="3" chips="€102,50"/>
+    <player dealer="0" win="€0" bet="€0,50" name="TigerUPPERCUT" seat="5" chips="€124,24"/>
+    <player dealer="0" win="€0" bet="€2,50" name="MEGABOT" seat="6" chips="€102,65"/>
+    <player dealer="0" win="€0" bet="€0" name="13373678" seat="8" chips="€97,50"/>
+    <player dealer="0" win="€0" bet="€0" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="TigerUPPERCUT" type="1" no="1"/>
+   <action sum="€1" player="MEGABOT" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 H6</cards>
+   <action sum="€0" player="13373678" type="0" no="3"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="4"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="5"/>
+   <cards player="MANKELIMASA" type="Pocket">C5 DA</cards>
+   <action sum="€2,50" player="MANKELIMASA" type="23" no="6"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="7"/>
+   <cards player="MEGABOT" type="Pocket">CK C8</cards>
+   <action sum="€1,50" player="MEGABOT" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 DJ H5</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="9"/>
+   <action sum="€0" player="MANKELIMASA" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="11"/>
+   <action sum="€0" player="MANKELIMASA" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="13"/>
+   <action sum="€0" player="MANKELIMASA" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3713762981">
+  <general>
+   <startdate>2022-09-27 20:59:31</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€105,34"/>
+    <player dealer="1" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€123,74"/>
+    <player dealer="0" win="€0" bet="€0,50" name="MEGABOT" seat="6" chips="€100,15"/>
+    <player dealer="0" win="€1" bet="€1" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MEGABOT" type="1" no="1"/>
+   <action sum="€1" player="13373678" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H4 C7</cards>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="3"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="4"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="5"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="6"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3713763007">
+  <general>
+   <startdate>2022-09-27 20:59:45</startdate>
+   <players>
+    <player dealer="0" win="€2,50" bet="€2,20" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€105,34"/>
+    <player dealer="0" win="€0" bet="€0" name="TigerUPPERCUT" seat="5" chips="€123,74"/>
+    <player dealer="1" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0,50" name="13373678" seat="8" chips="€100,50"/>
+    <player dealer="0" win="€0" bet="€1" name="BGBG88" seat="10" chips="€18,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" type="1" no="1"/>
+   <action sum="€1" player="BGBG88" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€2,20" player="MuckCall" type="23" no="3"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="4"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="5"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">S4 D2</cards>
+   <action sum="€0" player="13373678" type="0" no="7"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3713763026">
+  <general>
+   <startdate>2022-09-27 20:59:56</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€1" name="MuckCall" seat="1" chips="€158,77"/>
+    <player dealer="0" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€105,34"/>
+    <player dealer="0" win="€0" bet="€4,22" name="TigerUPPERCUT" seat="5" chips="€123,74"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€100"/>
+    <player dealer="1" win="€0" bet="€0" name="13373678" seat="8" chips="€100"/>
+    <player dealer="0" win="€9,16" bet="€4,22" name="BGBG88" seat="10" chips="€17,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="BGBG88" type="1" no="1"/>
+   <action sum="€1" player="MuckCall" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="3"/>
+   <cards player="TigerUPPERCUT" type="Pocket">S10 CA</cards>
+   <action sum="€2" player="TigerUPPERCUT" type="23" no="4"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">C4 S7</cards>
+   <action sum="€0" player="13373678" type="0" no="6"/>
+   <cards player="BGBG88" type="Pocket">CJ SA</cards>
+   <action sum="€1,50" player="BGBG88" type="3" no="7"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 CK D6</cards>
+   <action sum="€0" player="BGBG88" type="4" no="9"/>
+   <action sum="€1,22" player="TigerUPPERCUT" type="5" no="10"/>
+   <action sum="€1,22" player="BGBG88" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€1" player="BGBG88" type="5" no="12"/>
+   <action sum="€1" player="TigerUPPERCUT" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action sum="€0" player="BGBG88" type="4" no="14"/>
+   <action sum="€0" player="TigerUPPERCUT" type="4" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3713763168">
+  <general>
+   <startdate>2022-09-27 21:01:00</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0,50" name="MuckCall" seat="1" chips="€157,77"/>
+    <player dealer="0" win="€0" bet="€1" name="MANKELIMASA" seat="3" chips="€105,34"/>
+    <player dealer="0" win="€0" bet="€2" name="TigerUPPERCUT" seat="5" chips="€119,52"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€100"/>
+    <player dealer="0" win="€5,50" bet="€7,50" name="13373678" seat="8" chips="€100"/>
+    <player dealer="1" win="€0" bet="€0" name="BGBG88" seat="10" chips="€22,69"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MuckCall" type="1" no="1"/>
+   <action sum="€1" player="MANKELIMASA" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€2" player="TigerUPPERCUT" type="23" no="3"/>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D9 D8</cards>
+   <action sum="€7,50" player="13373678" type="23" no="5"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="6"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="7"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="8"/>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3713763618">
+  <general>
+   <startdate>2022-09-27 21:01:30</startdate>
+   <players>
+    <player dealer="1" win="€0" bet="€0" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="0" win="€0" bet="€0,50" name="MANKELIMASA" seat="3" chips="€104,34"/>
+    <player dealer="0" win="€1" bet="€1" name="TigerUPPERCUT" seat="5" chips="€117,52"/>
+    <player dealer="0" win="€0" bet="€0" name="MEGABOT" seat="6" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="13373678" seat="8" chips="€103,50"/>
+    <player dealer="0" win="€0" bet="€0" name="BGBG88" seat="10" chips="€22,69"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="MANKELIMASA" type="1" no="1"/>
+   <action sum="€1" player="TigerUPPERCUT" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <cards player="MEGABOT" type="Pocket">X X</cards>
+   <action sum="€0" player="MEGABOT" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S10 D8</cards>
+   <action sum="€0" player="13373678" type="0" no="4"/>
+   <cards player="BGBG88" type="Pocket">X X</cards>
+   <action sum="€0" player="BGBG88" type="0" no="5"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="6"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3713763686">
+  <general>
+   <startdate>2022-09-27 21:02:01</startdate>
+   <players>
+    <player dealer="0" win="€0" bet="€0" name="MuckCall" seat="1" chips="€157,27"/>
+    <player dealer="1" win="€0" bet="€0" name="MANKELIMASA" seat="3" chips="€103,84"/>
+    <player dealer="0" win="€0" bet="€0,50" name="TigerUPPERCUT" seat="5" chips="€118,02"/>
+    <player dealer="0" win="€1,22" bet="€1" name="MEGABOT" seat="6" chips="€100"/>
+    <player dealer="0" win="€0" bet="€0" name="13373678" seat="8" chips="€103,50"/>
+    <player dealer="0" win="€1,21" bet="€1" name="BGBG88" seat="10" chips="€22,69"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="TigerUPPERCUT" type="1" no="1"/>
+   <action sum="€1" player="MEGABOT" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 HK</cards>
+   <action sum="€0" player="13373678" type="0" no="3"/>
+   <cards player="BGBG88" type="Pocket">C6 SA</cards>
+   <action sum="€1" player="BGBG88" type="3" no="4"/>
+   <cards player="MuckCall" type="Pocket">X X</cards>
+   <action sum="€0" player="MuckCall" type="0" no="5"/>
+   <cards player="MANKELIMASA" type="Pocket">X X</cards>
+   <action sum="€0" player="MANKELIMASA" type="0" no="6"/>
+   <cards player="TigerUPPERCUT" type="Pocket">X X</cards>
+   <action sum="€0" player="TigerUPPERCUT" type="0" no="7"/>
+   <cards player="MEGABOT" type="Pocket">DA H6</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SJ H8</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="9"/>
+   <action sum="€0" player="BGBG88" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="11"/>
+   <action sum="€0" player="BGBG88" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€0" player="MEGABOT" type="4" no="13"/>
+   <action sum="€0" player="BGBG88" type="4" no="14"/>
+  </round>
+ </game>
+</session>

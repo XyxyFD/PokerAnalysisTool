@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4146537920">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 19, 488055400</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:38:41</duration>
+  <gamecount>68</gamecount>
+  <startdate>2024-08-15 00:54:32</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€267,76</bets>
+  <wins>€115,16</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3919242795">
+  <general>
+   <startdate>2024-08-15 00:54:32</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="Player 1" win="€0,61" chips="€157,90"/>
+    <player dealer="0" seat="3" bet="€0,50" name="Player 3" win="€0,61" chips="€34,71"/>
+    <player dealer="1" seat="5" bet="€0" name="Player 5" win="€0" chips="€18,48"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Player 6" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Player 6"/>
+   <action no="2" sum="€0,50" type="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">H4 H7</cards>
+   <action no="3" sum="€0,50" type="3" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="4" sum="€0" type="0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="5" sum="€0" type="0" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">C7 D2</cards>
+   <action no="6" sum="€0" type="4" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 C6 C8</cards>
+   <action no="7" sum="€0" type="4" player="Player 1"/>
+   <action no="8" sum="€0" type="4" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action no="9" sum="€0" type="4" player="Player 1"/>
+   <action no="10" sum="€0" type="4" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action no="11" sum="€0" type="4" player="Player 1"/>
+   <action no="12" sum="€0" type="4" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3919242830">
+  <general>
+   <startdate>2024-08-15 00:55:00</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="Player 1" win="€0" chips="€158,01"/>
+    <player dealer="0" seat="3" bet="€1,25" name="Player 3" win="€0" chips="€34,82"/>
+    <player dealer="0" seat="5" bet="€0" name="Player 5" win="€0" chips="€18,48"/>
+    <player dealer="1" seat="6" bet="€1,93" name="Player 6" win="€2,67" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Player 1"/>
+   <action no="2" sum="€0,50" type="2" player="Player 3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="3" sum="€0" type="0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="5" sum="€0" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="6" sum="€0,75" type="3" player="Player 3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C5 SA</cards>
+   <action no="7" sum="€0" type="4" player="Player 3"/>
+   <action no="8" sum="€0,68" type="5" player="Player 6"/>
+   <action no="9" sum="€0" type="0" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3919242852">
+  <general>
+   <startdate>2024-08-15 00:55:19</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="Player 1" win="€0" chips="€157,76"/>
+    <player dealer="0" seat="3" bet="€1,25" name="Player 3" win="€0" chips="€33,57"/>
+    <player dealer="0" seat="5" bet="€0,50" name="Player 5" win="€0" chips="€18,48"/>
+    <player dealer="0" seat="6" bet="€2,24" name="Player 6" win="€2,91" chips="€51,42"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Player 3"/>
+   <action no="2" sum="€0,50" type="2" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="3" sum="€1,25" type="23" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="4" sum="€0" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action no="5" sum="€1" type="3" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action no="6" sum="€0" type="0" player="Player 5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 C8 H10</cards>
+   <action no="7" sum="€0" type="4" player="Player 3"/>
+   <action no="8" sum="€0,99" type="5" player="Player 6"/>
+   <action no="9" sum="€0" type="0" player="Player 3"/>
+  </round>
+ </game>
+ <game gamecode="3919242875">
+  <general>
+   <startdate>2024-08-15 00:55:36</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="Player 1" win="€0" chips="€157,76"/>
+    <player dealer="1" seat="3" bet="€32,32" name="Player 3" win="€0" chips="€32,32"/>
+    <player dealer="0" seat="5" bet="€17,98" name="Player 5" win="€0" chips="€17,98"/>
+    <player dealer="0" seat="6" bet="€32,32" name="Player 6" win="€81,12" chips="€53,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Player 5"/>
+   <action no="2" sum="€0,50" type="2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="3" sum="€0" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 3">H5 H2</cards>
+   <action no="4" sum="€1,50" type="23" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">HA CQ</cards>
+   <action no="5" sum="€1,25" type="3" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">S9 D9</cards>
+   <action no="6" sum="€7,50" type="23" player="Player 6"/>
+   <action no="7" sum="€6" type="3" player="Player 3"/>
+   <action no="8" sum="€6" type="3" player="Player 5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C9 D5</cards>
+   <action no="9" sum="€0" type="4" player="Player 5"/>
+   <action no="10" sum="€0" type="4" player="Player 6"/>
+   <action no="11" sum="€0" type="4" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action no="12" sum="€10,48" type="5" player="Player 5"/>
+   <action no="13" sum="€10,48" type="3" player="Player 6"/>
+   <action no="14" sum="€24,82" type="23" player="Player 3"/>
+   <action no="15" sum="€14,34" type="3" player="Player 6"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+  </round>
+ </game>
+ <game gamecode="3919242944">
+  <general>
+   <startdate>2024-08-15 00:56:30</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="Player 1" win="€0" chips="€157,76"/>
+    <player dealer="1" seat="6" bet="€1,25" name="Player 6" win="€1" chips="€101,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Player 6"/>
+   <action no="2" sum="€0,50" type="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="3" sum="€1,25" type="23" player="Player 6"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action no="4" sum="€0" type="0" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3919242965">
+  <general>
+   <startdate>2024-08-15 00:56:45</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€157,26"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Pelaaja11111231" win="€0" chips="€102,38"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0,50" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Pelaaja11111231"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 SK</cards>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="4" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919242980">
+  <general>
+   <startdate>2024-08-15 00:56:55</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€157,26"/>
+    <player dealer="0" seat="5" bet="€0,75" name="RuutuKuningas" win="€0" chips="€20"/>
+    <player dealer="1" seat="6" bet="€1,50" name="Pelaaja11111231" win="€2" chips="€102,13"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+   <action no="3" sum="€0,75" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="4" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="5" sum="€1,50" type="23" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">H3 H2</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <action no="8" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243007">
+  <general>
+   <startdate>2024-08-15 00:57:14</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€156,76"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0,50" chips="€19,25"/>
+    <player dealer="0" seat="6" bet="€0" name="Pelaaja11111231" win="€0" chips="€103,63"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="3" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">H5 D10</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919243024">
+  <general>
+   <startdate>2024-08-15 00:57:24</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€156,51"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€19,50"/>
+    <player dealer="0" seat="6" bet="€0,50" name="Pelaaja11111231" win="€0,50" chips="€103,63"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="Pelaaja11111231"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <cards type="Pocket" player="13373678">S3 CK</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243034">
+  <general>
+   <startdate>2024-08-15 00:57:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€156,51"/>
+    <player dealer="1" seat="5" bet="€1,50" name="RuutuKuningas" win="€1,25" chips="€19,25"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Pelaaja11111231" win="€0" chips="€103,88"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Pelaaja11111231"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€1,50" type="23" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="5" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">S6 DK</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919243054">
+  <general>
+   <startdate>2024-08-15 00:57:53</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€156,51"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€20"/>
+    <player dealer="1" seat="6" bet="€0" name="Pelaaja11111231" win="€0" chips="€103,63"/>
+    <player dealer="0" seat="8" bet="€1,50" name="13373678" win="€1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="4" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">D7 D2</cards>
+   <action no="5" sum="€1,50" type="23" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919243084">
+  <general>
+   <startdate>2024-08-15 00:58:15</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€156,01"/>
+    <player dealer="0" seat="5" bet="€1,25" name="RuutuKuningas" win="€0" chips="€20"/>
+    <player dealer="0" seat="6" bet="€2,15" name="Pelaaja11111231" win="€2,67" chips="€103,63"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="3" sum="€1,25" type="23" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">D5 S3</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0,75" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C4 CA</cards>
+   <action no="7" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="8" sum="€0,90" type="5" player="Pelaaja11111231"/>
+   <action no="9" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243114">
+  <general>
+   <startdate>2024-08-15 00:58:36</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€1,25" name="SugarGlider" win="€1,25" chips="€155,76"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€18,75"/>
+    <player dealer="0" seat="6" bet="€0,50" name="Pelaaja11111231" win="€0" chips="€105,05"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="Pelaaja11111231"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 C5</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="6" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919243144">
+  <general>
+   <startdate>2024-08-15 00:59:05</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€156,51"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€18,50"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Pelaaja11111231" win="€0" chips="€104,55"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0,50" chips="€50,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Pelaaja11111231"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 CJ</cards>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="5" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919243151">
+  <general>
+   <startdate>2024-08-15 00:59:13</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€156,51"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€18,50"/>
+    <player dealer="1" seat="6" bet="€0" name="Pelaaja11111231" win="€0" chips="€104,30"/>
+    <player dealer="0" seat="8" bet="€1,50" name="13373678" win="€1" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="4" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">D4 CA</cards>
+   <action no="5" sum="€1,50" type="23" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919243176">
+  <general>
+   <startdate>2024-08-15 00:59:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€156,01"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0" chips="€18,50"/>
+    <player dealer="0" seat="6" bet="€0" name="Pelaaja11111231" win="€0" chips="€104,30"/>
+    <player dealer="1" seat="8" bet="€1,25" name="13373678" win="€1,25" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="3" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">H3 H8</cards>
+   <action no="4" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243198">
+  <general>
+   <startdate>2024-08-15 00:59:47</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€1,25" name="SugarGlider" win="€1,25" chips="€155,76"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€18"/>
+    <player dealer="0" seat="6" bet="€0,50" name="Pelaaja11111231" win="€0" chips="€104,30"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="Pelaaja11111231"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 S6</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="6" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919243213">
+  <general>
+   <startdate>2024-08-15 00:59:57</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="SugarGlider" win="€1,25" chips="€156,51"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="0" seat="6" bet="€0,25" name="Pelaaja11111231" win="€0" chips="€103,80"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="Pelaaja11111231"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="5" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">S3 DK</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919243227">
+  <general>
+   <startdate>2024-08-15 01:00:13</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€5,55" name="SugarGlider" win="€4,42" chips="€157,26"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="1" seat="6" bet="€2,15" name="Pelaaja11111231" win="€0" chips="€103,55"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€51,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">CK S3</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0,75" type="3" player="SugarGlider"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 D2 S6</cards>
+   <action no="7" sum="€0" type="4" player="SugarGlider"/>
+   <action no="8" sum="€0" type="4" player="Pelaaja11111231"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action no="9" sum="€0" type="4" player="SugarGlider"/>
+   <action no="10" sum="€0,90" type="5" player="Pelaaja11111231"/>
+   <action no="11" sum="€4,30" type="23" player="SugarGlider"/>
+   <action no="12" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919243300">
+  <general>
+   <startdate>2024-08-15 01:01:16</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€159,53"/>
+    <player dealer="0" seat="3" bet="€24,36" name="gilgameshh" win="€23,75" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="0" seat="6" bet="€12,12" name="Pelaaja11111231" win="€0" chips="€101,40"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">S3 HA</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€6" type="23" player="gilgameshh"/>
+   <action no="8" sum="€4,75" type="3" player="Pelaaja11111231"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H3 C9</cards>
+   <action no="9" sum="€6,12" type="5" player="gilgameshh"/>
+   <action no="10" sum="€6,12" type="3" player="Pelaaja11111231"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="11" sum="€12,24" type="5" player="gilgameshh"/>
+   <action no="12" sum="€0" type="0" player="Pelaaja11111231"/>
+  </round>
+ </game>
+ <game gamecode="3919243374">
+  <general>
+   <startdate>2024-08-15 01:02:21</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€159,28"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€61,63"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0,50" chips="€17,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€51,25"/>
+    <player dealer="0" seat="6" bet="€0" name="Pelaaja11111231" win="€0" chips="€89,28"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <cards type="Pocket" player="Pelaaja11111231">X X</cards>
+   <action no="3" sum="€0" type="0" player="Pelaaja11111231"/>
+   <cards type="Pocket" player="13373678">S7 CQ</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919243387">
+  <general>
+   <startdate>2024-08-15 01:02:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€159,28"/>
+    <player dealer="1" seat="3" bet="€1,25" name="gilgameshh" win="€0" chips="€61,38"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€18"/>
+    <player dealer="0" seat="8" bet="€4,68" name="13373678" win="€2,67" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">S10 S6</cards>
+   <action no="6" sum="€0,75" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H2 DA</cards>
+   <action no="7" sum="€0" type="4" player="13373678"/>
+   <action no="8" sum="€0" type="4" player="gilgameshh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="9" sum="€3,43" type="5" player="13373678"/>
+   <action no="10" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919243420">
+  <general>
+   <startdate>2024-08-15 01:03:05</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="SugarGlider" win="€1,25" chips="€159,28"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€60,13"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€52,67"/>
+    <player dealer="0" seat="10" bet="€0,50" name="koittakaajaksaa" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">S4 S2</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+  </round>
+ </game>
+ <game gamecode="3919243434">
+  <general>
+   <startdate>2024-08-15 01:03:19</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€5,50" name="SugarGlider" win="€2,75" chips="€160,03"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€60,13"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="1" seat="8" bet="€1,25" name="13373678" win="€0" chips="€52,42"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">SJ D10</cards>
+   <action no="5" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€5,50" type="23" player="SugarGlider"/>
+   <action no="8" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919243477">
+  <general>
+   <startdate>2024-08-15 01:03:54</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€161,53"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€0" chips="€60,13"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€17,75"/>
+    <player dealer="0" seat="8" bet="€1,25" name="13373678" win="€0" chips="€51,17"/>
+    <player dealer="1" seat="10" bet="€4" name="koittakaajaksaa" win="€3,25" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">H2 HQ</cards>
+   <action no="4" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€4" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+   <action no="8" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919243497">
+  <general>
+   <startdate>2024-08-15 01:04:15</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,28"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€59,63"/>
+    <player dealer="0" seat="5" bet="€17,75" name="RuutuKuningas" win="€7,25" chips="€17,75"/>
+    <player dealer="0" seat="6" bet="€1" name="kaef20" win="€0" chips="€24,60"/>
+    <player dealer="0" seat="8" bet="€3" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+   <action no="3" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="4" sum="€1" type="23" player="kaef20"/>
+   <cards type="Pocket" player="13373678">DQ HJ</cards>
+   <action no="5" sum="€3" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="8" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="9" sum="€17,75" type="23" player="RuutuKuningas"/>
+   <action no="10" sum="€0" type="0" player="kaef20"/>
+   <action no="11" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919243553">
+  <general>
+   <startdate>2024-08-15 01:05:04</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,28"/>
+    <player dealer="1" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€59,38"/>
+    <player dealer="0" seat="5" bet="€1,50" name="RuutuKuningas" win="€2,91" chips="€22"/>
+    <player dealer="0" seat="6" bet="€1,50" name="kaef20" win="€0" chips="€23,60"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HQ D9</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">S7 C8</cards>
+   <action no="7" sum="€0,25" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">HJ C10</cards>
+   <action no="8" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA S4 H7</cards>
+   <action no="9" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="10" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action no="11" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="12" sum="€0,50" type="5" player="kaef20"/>
+   <action no="13" sum="€0,50" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action no="14" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="15" sum="€0,50" type="5" player="kaef20"/>
+   <action no="16" sum="€0,50" type="3" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243583">
+  <general>
+   <startdate>2024-08-15 01:05:30</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,28"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€59,38"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€23,41"/>
+    <player dealer="0" seat="6" bet="€2" name="kaef20" win="€0" chips="€22,10"/>
+    <player dealer="0" seat="8" bet="€7" name="13373678" win="€3,88" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="kaef20"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="7" sum="€0,25" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">H7 H8</cards>
+   <action no="8" sum="€2" type="23" player="13373678"/>
+   <action no="9" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 DA CJ</cards>
+   <action no="10" sum="€0" type="4" player="kaef20"/>
+   <action no="11" sum="€0" type="4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action no="12" sum="€0" type="4" player="kaef20"/>
+   <action no="13" sum="€5" type="5" player="13373678"/>
+   <action no="14" sum="€0" type="0" player="kaef20"/>
+  </round>
+ </game>
+ <game gamecode="3919243632">
+  <general>
+   <startdate>2024-08-15 01:06:11</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,28" board2win="€0" board1win="€0"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€59,38" board2win="€0" board1win="€0"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€23,41" board2win="€0" board1win="€0"/>
+    <player dealer="1" seat="6" bet="€20,10" name="kaef20" win="€0" chips="€20,10" board2win="€0" board1win="€0"/>
+    <player dealer="0" seat="8" bet="€51,88" name="13373678" win="€39,47" chips="€51,88" board2win="€19,74" board1win="€19,73"/>
+    <player dealer="0" seat="10" bet="€0,50" name="koittakaajaksaa" win="€0" chips="€52" board2win="€0" board1win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">C7 C8</cards>
+   <action no="6" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">CA HA</cards>
+   <action no="7" sum="€2,50" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="8" sum="€0" type="0" player="koittakaajaksaa"/>
+   <action no="9" sum="€2" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S8 H9</cards>
+   <action no="10" sum="€1,81" type="5" player="13373678"/>
+   <action no="11" sum="€3,62" type="23" player="kaef20"/>
+   <action no="12" sum="€49,38" type="23" player="13373678"/>
+   <action no="13" sum="€13,98" type="7" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">HK</cards>
+   <cards board="board2" type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">C6</cards>
+   <cards board="board2" type="River">H3</cards>
+  </round>
+ </game>
+ <game gamecode="3919243702">
+  <general>
+   <startdate>2024-08-15 01:07:06</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0,50" chips="€161,28"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€59,38"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€23,41"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€71,25"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€51,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">C5 HK</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+  </round>
+ </game>
+ <game gamecode="3919243710">
+  <general>
+   <startdate>2024-08-15 01:07:14</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€161,53"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€0" chips="€59,38"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€23,41"/>
+    <player dealer="0" seat="8" bet="€1,25" name="13373678" win="€1,25" chips="€71,25"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">S3 SK</cards>
+   <action no="4" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919243856">
+  <general>
+   <startdate>2024-08-15 01:07:34</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€2,15" name="SugarGlider" win="€2,67" chips="€161,28"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€58,88"/>
+    <player dealer="0" seat="5" bet="€1,25" name="RuutuKuningas" win="€0" chips="€23,41"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€72"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 S10</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0,75" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H2 HQ</cards>
+   <action no="8" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="9" sum="€0,90" type="5" player="SugarGlider"/>
+   <action no="10" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919243890">
+  <general>
+   <startdate>2024-08-15 01:07:59</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€162,70"/>
+    <player dealer="1" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€58,63"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€22,16"/>
+    <player dealer="0" seat="6" bet="€0,50" name="kaef20" win="€0" chips="€25"/>
+    <player dealer="0" seat="8" bet="€23,06" name="13373678" win="€0" chips="€72"/>
+    <player dealer="0" seat="10" bet="€23,06" name="koittakaajaksaa" win="€45,45" chips="€51,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA D3</cards>
+   <action no="3" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">CQ HQ</cards>
+   <action no="4" sum="€4" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="8" sum="€0" type="0" player="kaef20"/>
+   <action no="9" sum="€10,25" type="23" player="13373678"/>
+   <action no="10" sum="€6,25" type="3" player="koittakaajaksaa"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C3 D5</cards>
+   <action no="11" sum="€5" type="5" player="13373678"/>
+   <action no="12" sum="€5" type="3" player="koittakaajaksaa"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action no="13" sum="€0" type="4" player="13373678"/>
+   <action no="14" sum="€7,81" type="5" player="koittakaajaksaa"/>
+   <action no="15" sum="€7,81" type="3" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action no="16" sum="€0" type="4" player="13373678"/>
+   <action no="17" sum="€0" type="4" player="koittakaajaksaa"/>
+  </round>
+ </game>
+ <game gamecode="3919244863">
+  <general>
+   <startdate>2024-08-15 01:09:32</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€162,70"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€58,63"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€21,91"/>
+    <player dealer="0" seat="6" bet="€3,50" name="kaef20" win="€6,79" chips="€24,50"/>
+    <player dealer="0" seat="8" bet="€3,50" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€73,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="kaef20"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">S9 S7</cards>
+   <action no="7" sum="€0,25" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">DQ SJ</cards>
+   <action no="8" sum="€2" type="23" player="13373678"/>
+   <action no="9" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C3 H8</cards>
+   <action no="10" sum="€0,50" type="5" player="kaef20"/>
+   <action no="11" sum="€0,50" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="12" sum="€0,50" type="5" player="kaef20"/>
+   <action no="13" sum="€0,50" type="3" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action no="14" sum="€0,50" type="5" player="kaef20"/>
+   <action no="15" sum="€0,50" type="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919244900">
+  <general>
+   <startdate>2024-08-15 01:10:03</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€162,70"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€58,63"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€21,91"/>
+    <player dealer="1" seat="6" bet="€0,50" name="kaef20" win="€0" chips="€27,79"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€1,33" name="koittakaajaksaa" win="€1,22" chips="€73,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="6" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">H2 H8</cards>
+   <action no="7" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="8" sum="€0" type="4" player="koittakaajaksaa"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 C10 C4</cards>
+   <action no="9" sum="€0" type="4" player="koittakaajaksaa"/>
+   <action no="10" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action no="11" sum="€0,83" type="5" player="koittakaajaksaa"/>
+   <action no="12" sum="€0" type="0" player="kaef20"/>
+  </round>
+ </game>
+ <game gamecode="3919244926">
+  <general>
+   <startdate>2024-08-15 01:10:26</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€162,70"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€58,63"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0" chips="€21,91"/>
+    <player dealer="0" seat="6" bet="€0,50" name="kaef20" win="€1,70" chips="€27,29"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€74,36"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">S9 SJ</cards>
+   <action no="4" sum="€0,50" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">S7 D7</cards>
+   <action no="5" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">S10 D6</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">C4 HQ</cards>
+   <action no="8" sum="€0" type="4" player="SugarGlider"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 H6 CA</cards>
+   <action no="9" sum="€0" type="4" player="SugarGlider"/>
+   <action no="10" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="11" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="12" sum="€0" type="4" player="SugarGlider"/>
+   <action no="13" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="14" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="15" sum="€0" type="4" player="SugarGlider"/>
+   <action no="16" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="17" sum="€0" type="4" player="kaef20"/>
+  </round>
+ </game>
+ <game gamecode="3919244969">
+  <general>
+   <startdate>2024-08-15 01:11:00</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€162,20"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€0,50" chips="€58,63"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€21,41"/>
+    <player dealer="0" seat="6" bet="€0" name="kaef20" win="€0" chips="€28,49"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€74,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="4" sum="€0" type="0" player="kaef20"/>
+   <cards type="Pocket" player="13373678">D6 SJ</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919244988">
+  <general>
+   <startdate>2024-08-15 01:11:18</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,95"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€58,88"/>
+    <player dealer="0" seat="5" bet="€4" name="RuutuKuningas" win="€8" chips="€21,41"/>
+    <player dealer="0" seat="6" bet="€4" name="kaef20" win="€0" chips="€28,49"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€74,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="kaef20">H8 DQ</cards>
+   <action no="3" sum="€1" type="23" player="kaef20"/>
+   <cards type="Pocket" player="13373678">S5 DJ</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">CA D8</cards>
+   <action no="8" sum="€0,50" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 C3 H2</cards>
+   <action no="9" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="10" sum="€0,50" type="5" player="kaef20"/>
+   <action no="11" sum="€0,50" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action no="12" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="13" sum="€0,50" type="5" player="kaef20"/>
+   <action no="14" sum="€0,50" type="3" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action no="15" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="16" sum="€2" type="5" player="kaef20"/>
+   <action no="17" sum="€2" type="3" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919245072">
+  <general>
+   <startdate>2024-08-15 01:12:16</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,95"/>
+    <player dealer="1" seat="3" bet="€1,25" name="gilgameshh" win="€0" chips="€58,63"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€25,41"/>
+    <player dealer="0" seat="6" bet="€1,75" name="kaef20" win="€2,67" chips="€24,49"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€74,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 HK</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€1,25" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="8" sum="€0,75" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 SQ S6</cards>
+   <action no="9" sum="€0,50" type="5" player="kaef20"/>
+   <action no="10" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919245109">
+  <general>
+   <startdate>2024-08-15 01:12:51</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,95"/>
+    <player dealer="0" seat="3" bet="€14,95" name="gilgameshh" win="€0" chips="€57,38"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€25,16"/>
+    <player dealer="0" seat="6" bet="€0,25" name="kaef20" win="€0" chips="€25,91"/>
+    <player dealer="0" seat="8" bet="€50" name="13373678" win="€30,26" chips="€50"/>
+    <player dealer="0" seat="10" bet="€1,05" name="koittakaajaksaa" win="€0" chips="€74,11"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="kaef20"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€1,05" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€3,50" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="7" sum="€0" type="0" player="kaef20"/>
+   <cards type="Pocket" player="13373678">D10 S10</cards>
+   <action no="8" sum="€9,95" type="23" player="13373678"/>
+   <action no="9" sum="€0" type="0" player="koittakaajaksaa"/>
+   <action no="10" sum="€6,45" type="3" player="gilgameshh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ SA D7</cards>
+   <action no="11" sum="€5" type="5" player="13373678"/>
+   <action no="12" sum="€5" type="3" player="gilgameshh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="13" sum="€35,05" type="5" player="13373678"/>
+   <action no="14" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919245250">
+  <general>
+   <startdate>2024-08-15 01:14:43</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,95"/>
+    <player dealer="0" seat="3" bet="€1" name="gilgameshh" win="€3,16" chips="€50"/>
+    <player dealer="0" seat="5" bet="€1" name="RuutuKuningas" win="€0" chips="€25,16"/>
+    <player dealer="1" seat="6" bet="€0" name="kaef20" win="€0" chips="€25,66"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€65,31"/>
+    <player dealer="0" seat="10" bet="€1" name="koittakaajaksaa" win="€0" chips="€73,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">H10 CA</cards>
+   <action no="4" sum="€1" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">SA C8</cards>
+   <action no="5" sum="€1" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="6" sum="€0" type="0" player="kaef20"/>
+   <cards type="Pocket" player="13373678">S2 S9</cards>
+   <action no="7" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">H9 HA</cards>
+   <action no="8" sum="€0,50" type="3" player="koittakaajaksaa"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D2 DK</cards>
+   <action no="9" sum="€0" type="4" player="koittakaajaksaa"/>
+   <action no="10" sum="€0" type="4" player="gilgameshh"/>
+   <action no="11" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="12" sum="€0" type="4" player="koittakaajaksaa"/>
+   <action no="13" sum="€0" type="4" player="gilgameshh"/>
+   <action no="14" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action no="15" sum="€0" type="4" player="koittakaajaksaa"/>
+   <action no="16" sum="€0" type="4" player="gilgameshh"/>
+   <action no="17" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919245317">
+  <general>
+   <startdate>2024-08-15 01:15:42</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€161,95"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€52,16"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€24,16"/>
+    <player dealer="0" seat="6" bet="€10" name="kaef20" win="€10,43" chips="€25,66"/>
+    <player dealer="1" seat="8" bet="€5" name="13373678" win="€0" chips="€65,06"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€72,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="5" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">CA H7</cards>
+   <action no="6" sum="€2" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="8" sum="€0" type="0" player="SugarGlider"/>
+   <action no="9" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H4 S8</cards>
+   <action no="10" sum="€3" type="5" player="kaef20"/>
+   <action no="11" sum="€3" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action no="12" sum="€5" type="5" player="kaef20"/>
+   <action no="13" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919245357">
+  <general>
+   <startdate>2024-08-15 01:16:16</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€161,45"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€0" chips="€52,16"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€24,16"/>
+    <player dealer="0" seat="6" bet="€8,56" name="kaef20" win="€0" chips="€31,09"/>
+    <player dealer="0" seat="8" bet="€15,99" name="13373678" win="€17,33" chips="€60,06"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="4" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">CK DA</cards>
+   <action no="5" sum="€2" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="8" sum="€0" type="0" player="gilgameshh"/>
+   <action no="9" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C5 S7</cards>
+   <action no="10" sum="€0" type="4" player="kaef20"/>
+   <action no="11" sum="€3,56" type="5" player="13373678"/>
+   <action no="12" sum="€3,56" type="3" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action no="13" sum="€0" type="4" player="kaef20"/>
+   <action no="14" sum="€0" type="4" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action no="15" sum="€3" type="5" player="kaef20"/>
+   <action no="16" sum="€10,43" type="23" player="13373678"/>
+   <action no="17" sum="€0" type="0" player="kaef20"/>
+  </round>
+ </game>
+ <game gamecode="3919245423">
+  <general>
+   <startdate>2024-08-15 01:17:14</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,20"/>
+    <player dealer="0" seat="3" bet="€2" name="gilgameshh" win="€0" chips="€51,66"/>
+    <player dealer="0" seat="5" bet="€2" name="RuutuKuningas" win="€0" chips="€24,16"/>
+    <player dealer="0" seat="6" bet="€5" name="kaef20" win="€5,82" chips="€22,53"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€68,83"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="3" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">HA D8</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0,25" type="3" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="8" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C7 DJ</cards>
+   <action no="9" sum="€0" type="4" player="gilgameshh"/>
+   <action no="10" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="11" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action no="12" sum="€1,50" type="5" player="gilgameshh"/>
+   <action no="13" sum="€1,50" type="3" player="RuutuKuningas"/>
+   <action no="14" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action no="15" sum="€0" type="4" player="gilgameshh"/>
+   <action no="16" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="17" sum="€3" type="5" player="kaef20"/>
+   <action no="18" sum="€0" type="0" player="gilgameshh"/>
+   <action no="19" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919245482">
+  <general>
+   <startdate>2024-08-15 01:18:05</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,20"/>
+    <player dealer="1" seat="3" bet="€2" name="gilgameshh" win="€0" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€22,16"/>
+    <player dealer="0" seat="6" bet="€7" name="kaef20" win="€4,13" chips="€26,35"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€68,83"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 DQ</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€1,25" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="8" sum="€2" type="23" player="kaef20"/>
+   <action no="9" sum="€0,75" type="3" player="gilgameshh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 DA D4</cards>
+   <action no="10" sum="€5" type="5" player="kaef20"/>
+   <action no="11" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919245689">
+  <general>
+   <startdate>2024-08-15 01:18:50</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,20"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€50"/>
+    <player dealer="1" seat="5" bet="€21,91" name="RuutuKuningas" win="€10,19" chips="€21,91"/>
+    <player dealer="0" seat="6" bet="€0,50" name="kaef20" win="€0" chips="€28,48"/>
+    <player dealer="0" seat="8" bet="€5" name="13373678" win="€0" chips="€68,83"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="kaef20"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0,50" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="7" sum="€0,25" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">D3 S5</cards>
+   <action no="8" sum="€0" type="4" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C10 C9</cards>
+   <action no="9" sum="€0" type="4" player="kaef20"/>
+   <action no="10" sum="€0" type="4" player="13373678"/>
+   <action no="11" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action no="12" sum="€0" type="4" player="kaef20"/>
+   <action no="13" sum="€0" type="4" player="13373678"/>
+   <action no="14" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action no="15" sum="€0" type="4" player="kaef20"/>
+   <action no="16" sum="€4,50" type="5" player="13373678"/>
+   <action no="17" sum="€21,41" type="23" player="RuutuKuningas"/>
+   <action no="18" sum="€0" type="0" player="kaef20"/>
+   <action no="19" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919245760">
+  <general>
+   <startdate>2024-08-15 01:19:42</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€161,20"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€27,10"/>
+    <player dealer="1" seat="6" bet="€10" name="kaef20" win="€11,50" chips="€27,98"/>
+    <player dealer="0" seat="8" bet="€5,50" name="13373678" win="€0" chips="€63,83"/>
+    <player dealer="0" seat="10" bet="€0,50" name="koittakaajaksaa" win="€0" chips="€71,81"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="6" sum="€1" type="23" player="kaef20"/>
+   <cards type="Pocket" player="13373678">C5 C6</cards>
+   <action no="7" sum="€5,50" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="8" sum="€0" type="0" player="koittakaajaksaa"/>
+   <action no="9" sum="€10" type="23" player="kaef20"/>
+   <action no="10" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919245807">
+  <general>
+   <startdate>2024-08-15 01:20:18</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€161,20"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€27,10"/>
+    <player dealer="0" seat="6" bet="€1,50" name="kaef20" win="€1,22" chips="€33,98"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€58,33"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€71,31"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="5" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">D4 C9</cards>
+   <action no="6" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="8" sum="€0" type="4" player="SugarGlider"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S6 C8</cards>
+   <action no="9" sum="€0" type="4" player="SugarGlider"/>
+   <action no="10" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="11" sum="€0" type="4" player="SugarGlider"/>
+   <action no="12" sum="€0" type="4" player="kaef20"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action no="13" sum="€0" type="4" player="SugarGlider"/>
+   <action no="14" sum="€1" type="5" player="kaef20"/>
+   <action no="15" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919245852">
+  <general>
+   <startdate>2024-08-15 01:20:54</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€160,70"/>
+    <player dealer="0" seat="3" bet="€3,31" name="gilgameshh" win="€2,67" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€27,10"/>
+    <player dealer="0" seat="6" bet="€0" name="kaef20" win="€0" chips="€34,70"/>
+    <player dealer="0" seat="8" bet="€1,25" name="13373678" win="€0" chips="€58,33"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="4" sum="€0" type="0" player="kaef20"/>
+   <cards type="Pocket" player="13373678">H9 H8</cards>
+   <action no="5" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="8" sum="€0,75" type="3" player="gilgameshh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S10 C8</cards>
+   <action no="9" sum="€0" type="4" player="gilgameshh"/>
+   <action no="10" sum="€0" type="4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action no="11" sum="€0" type="4" player="gilgameshh"/>
+   <action no="12" sum="€0" type="4" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action no="13" sum="€2,06" type="5" player="gilgameshh"/>
+   <action no="14" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919245926">
+  <general>
+   <startdate>2024-08-15 01:22:00</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€4,72" name="SugarGlider" win="€8" chips="€160,45"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€51,42"/>
+    <player dealer="0" seat="5" bet="€2" name="RuutuKuningas" win="€0" chips="€27,10"/>
+    <player dealer="0" seat="6" bet="€2" name="kaef20" win="€0" chips="€34,70"/>
+    <player dealer="0" seat="8" bet="€2" name="13373678" win="€0" chips="€57,08"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€71,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="kaef20">X X</cards>
+   <action no="3" sum="€0,50" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">SA HJ</cards>
+   <action no="4" sum="€2" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€2" type="3" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="8" sum="€1,50" type="3" player="RuutuKuningas"/>
+   <action no="9" sum="€1,50" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S8 C6</cards>
+   <action no="10" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="11" sum="€0" type="4" player="kaef20"/>
+   <action no="12" sum="€0" type="4" player="13373678"/>
+   <action no="13" sum="€2,72" type="5" player="SugarGlider"/>
+   <action no="14" sum="€0" type="0" player="RuutuKuningas"/>
+   <action no="15" sum="€0" type="0" player="kaef20"/>
+   <action no="16" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919245991">
+  <general>
+   <startdate>2024-08-15 01:22:49</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€166,45"/>
+    <player dealer="1" seat="3" bet="€1,05" name="gilgameshh" win="€0" chips="€51,17"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€25,10"/>
+    <player dealer="0" seat="6" bet="€16,55" name="kaef20" win="€0" chips="€32,70"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€55,08"/>
+    <player dealer="0" seat="10" bet="€16,55" name="koittakaajaksaa" win="€33,36" chips="€71,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="kaef20"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 C10</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">SQ SA</cards>
+   <action no="4" sum="€1,05" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€1,05" type="3" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">D3 HK</cards>
+   <action no="8" sum="€0,55" type="3" player="kaef20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C2 DQ</cards>
+   <action no="9" sum="€2" type="5" player="kaef20"/>
+   <action no="10" sum="€2" type="3" player="koittakaajaksaa"/>
+   <action no="11" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="12" sum="€3" type="5" player="kaef20"/>
+   <action no="13" sum="€8,50" type="23" player="koittakaajaksaa"/>
+   <action no="14" sum="€5,50" type="3" player="kaef20"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="15" sum="€5" type="5" player="kaef20"/>
+   <action no="16" sum="€5" type="3" player="koittakaajaksaa"/>
+  </round>
+ </game>
+ <game gamecode="3919246089">
+  <general>
+   <startdate>2024-08-15 01:24:16</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€166,45"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€50,12"/>
+    <player dealer="1" seat="5" bet="€1,50" name="RuutuKuningas" win="€0" chips="€24,85"/>
+    <player dealer="0" seat="6" bet="€16,15" name="kaef20" win="€0" chips="€16,15"/>
+    <player dealer="0" seat="8" bet="€16,15" name="13373678" win="€32,78" chips="€55,08"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="kaef20"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€1,50" type="23" player="RuutuKuningas"/>
+   <cards type="Pocket" player="kaef20">SJ H6</cards>
+   <action no="7" sum="€1,25" type="3" player="kaef20"/>
+   <cards type="Pocket" player="13373678">SA D9</cards>
+   <action no="8" sum="€1" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H9 C9</cards>
+   <action no="9" sum="€5" type="5" player="kaef20"/>
+   <action no="10" sum="€5" type="3" player="13373678"/>
+   <action no="11" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action no="12" sum="€9,65" type="5" player="kaef20"/>
+   <action no="13" sum="€9,65" type="3" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3919246965">
+  <general>
+   <startdate>2024-08-15 01:25:02</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€1,22" chips="€166,45"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€50,12"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0" chips="€23,35"/>
+    <player dealer="1" seat="8" bet="€0" name="13373678" win="€0" chips="€71,71"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€87,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">C9 C8</cards>
+   <action no="4" sum="€0,50" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">D4 C7</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">DJ DQ</cards>
+   <action no="7" sum="€0" type="4" player="SugarGlider"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H4 C5</cards>
+   <action no="8" sum="€0" type="4" player="SugarGlider"/>
+   <action no="9" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action no="10" sum="€0" type="4" player="SugarGlider"/>
+   <action no="11" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action no="12" sum="€0" type="4" player="SugarGlider"/>
+   <action no="13" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919246999">
+  <general>
+   <startdate>2024-08-15 01:25:33</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€2,49" name="SugarGlider" win="€2,91" chips="€167,17"/>
+    <player dealer="0" seat="3" bet="€1,50" name="gilgameshh" win="€0" chips="€50,12"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€22,85"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€71,71"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="13373678">CK H7</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€1,50" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€1" type="3" player="gilgameshh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HK C9</cards>
+   <action no="8" sum="€0" type="4" player="SugarGlider"/>
+   <action no="9" sum="€0" type="4" player="gilgameshh"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action no="10" sum="€0" type="4" player="SugarGlider"/>
+   <action no="11" sum="€0" type="4" player="gilgameshh"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action no="12" sum="€0,99" type="5" player="SugarGlider"/>
+   <action no="13" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919247062">
+  <general>
+   <startdate>2024-08-15 01:26:18</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€168,58"/>
+    <player dealer="0" seat="3" bet="€50" name="gilgameshh" win="€99" chips="€50"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0" chips="€22,85"/>
+    <player dealer="0" seat="8" bet="€57,25" name="13373678" win="€0" chips="€71,71"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ DJ</cards>
+   <action no="3" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">HK H9</cards>
+   <action no="6" sum="€5,50" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <action no="8" sum="€4,25" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H4 C9</cards>
+   <action no="9" sum="€5,75" type="5" player="gilgameshh"/>
+   <action no="10" sum="€5,75" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="11" sum="€0" type="4" player="gilgameshh"/>
+   <action no="12" sum="€11,50" type="5" player="13373678"/>
+   <action no="13" sum="€11,50" type="3" player="gilgameshh"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action no="14" sum="€0" type="4" player="gilgameshh"/>
+   <action no="15" sum="€34,50" type="5" player="13373678"/>
+   <action no="16" sum="€27,25" type="7" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919247185">
+  <general>
+   <startdate>2024-08-15 01:27:50</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€168,58"/>
+    <player dealer="1" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99"/>
+    <player dealer="0" seat="5" bet="€0,25" name="RuutuKuningas" win="€0" chips="€22,35"/>
+    <player dealer="0" seat="6" bet="€0,50" name="FreeBritney" win="€0" chips="€50"/>
+    <player dealer="0" seat="8" bet="€1,25" name="13373678" win="€1,25" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="FreeBritney"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK S5</cards>
+   <action no="3" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="8" sum="€0" type="0" player="FreeBritney"/>
+  </round>
+ </game>
+ <game gamecode="3919247207">
+  <general>
+   <startdate>2024-08-15 01:28:03</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€168,58"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€22,10"/>
+    <player dealer="0" seat="6" bet="€0,25" name="FreeBritney" win="€0" chips="€50"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0,50" chips="€50,75"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="FreeBritney"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C7 C8</cards>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="7" sum="€0" type="0" player="FreeBritney"/>
+  </round>
+ </game>
+ <game gamecode="3919247218">
+  <general>
+   <startdate>2024-08-15 01:28:13</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€168,58"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€22,10"/>
+    <player dealer="1" seat="6" bet="€1,27" name="FreeBritney" win="€1,25" chips="€50"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€51"/>
+    <player dealer="0" seat="10" bet="€0,50" name="koittakaajaksaa" win="€0" chips="€87,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="6" sum="€1,27" type="23" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">H3 D8</cards>
+   <action no="7" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="8" sum="€0" type="0" player="koittakaajaksaa"/>
+  </round>
+ </game>
+ <game gamecode="3919247318">
+  <general>
+   <startdate>2024-08-15 01:28:28</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,50" name="SugarGlider" win="€0" chips="€168,58"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€22,10"/>
+    <player dealer="0" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="1" seat="8" bet="€1,25" name="13373678" win="€1,25" chips="€50,75"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€87,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="5" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">H8 HK</cards>
+   <action no="6" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="8" sum="€0" type="0" player="SugarGlider"/>
+  </round>
+ </game>
+ <game gamecode="3919247359">
+  <general>
+   <startdate>2024-08-15 01:28:53</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€168,08"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€1,22" chips="€99"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0" chips="€22,10"/>
+    <player dealer="0" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€51,50"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€86,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">DJ SK</cards>
+   <action no="3" sum="€0,50" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="4" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">H6 HQ</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">C6 S9</cards>
+   <action no="8" sum="€0" type="4" player="gilgameshh"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S6 H2</cards>
+   <action no="9" sum="€0" type="4" player="gilgameshh"/>
+   <action no="10" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action no="11" sum="€0" type="4" player="gilgameshh"/>
+   <action no="12" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action no="13" sum="€0" type="4" player="gilgameshh"/>
+   <action no="14" sum="€0" type="4" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919247412">
+  <general>
+   <startdate>2024-08-15 01:29:38</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€8,65" name="SugarGlider" win="€9,02" chips="€167,83"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€99,72"/>
+    <player dealer="0" seat="5" bet="€4" name="RuutuKuningas" win="€0" chips="€21,60"/>
+    <player dealer="0" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€51,50"/>
+    <player dealer="0" seat="10" bet="€1,05" name="koittakaajaksaa" win="€0" chips="€86,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="3" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">CA H8</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€1,05" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€4" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="8" sum="€3,50" type="3" player="RuutuKuningas"/>
+   <action no="9" sum="€0" type="0" player="koittakaajaksaa"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H6 HA</cards>
+   <action no="10" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="11" sum="€4,65" type="5" player="SugarGlider"/>
+   <action no="12" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919247460">
+  <general>
+   <startdate>2024-08-15 01:30:19</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€172,85"/>
+    <player dealer="1" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99,47"/>
+    <player dealer="0" seat="5" bet="€1,05" name="RuutuKuningas" win="€0" chips="€17,60"/>
+    <player dealer="0" seat="6" bet="€0,50" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€51,50"/>
+    <player dealer="0" seat="10" bet="€1,90" name="koittakaajaksaa" win="€2,53" chips="€85,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="FreeBritney"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 C4</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€1,05" type="23" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€0,80" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="8" sum="€0" type="0" player="FreeBritney"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D4 SQ</cards>
+   <action no="9" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="10" sum="€0,85" type="5" player="koittakaajaksaa"/>
+   <action no="11" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+ <game gamecode="3919247496">
+  <general>
+   <startdate>2024-08-15 01:30:55</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€1,25" name="SugarGlider" win="€1,25" chips="€172,85"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99,47"/>
+    <player dealer="1" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€16,55"/>
+    <player dealer="0" seat="6" bet="€0,25" name="FreeBritney" win="€0" chips="€50,25"/>
+    <player dealer="0" seat="8" bet="€0,50" name="13373678" win="€0" chips="€51,50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="FreeBritney"/>
+   <action no="2" sum="€0,50" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="3" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="4" sum="€1,25" type="23" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="5" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="6" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="7" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">D4 HQ</cards>
+   <action no="8" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919247607">
+  <general>
+   <startdate>2024-08-15 01:31:35</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€173,60"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99,47"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€16,55"/>
+    <player dealer="1" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50"/>
+    <player dealer="0" seat="8" bet="€0,25" name="13373678" win="€0" chips="€51"/>
+    <player dealer="0" seat="10" bet="€0,50" name="koittakaajaksaa" win="€0,50" chips="€87,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="13373678"/>
+   <action no="2" sum="€0,50" type="2" player="koittakaajaksaa"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="3" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="4" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="5" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="6" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">D6 S4</cards>
+   <action no="7" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919247630">
+  <general>
+   <startdate>2024-08-15 01:31:48</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€5,50" name="SugarGlider" win="€2,75" chips="€173,60"/>
+    <player dealer="0" seat="3" bet="€0" name="gilgameshh" win="€0" chips="€99,47"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€16,55"/>
+    <player dealer="0" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50"/>
+    <player dealer="1" seat="8" bet="€1,25" name="13373678" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="10" bet="€0,25" name="koittakaajaksaa" win="€0" chips="€87,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="koittakaajaksaa"/>
+   <action no="2" sum="€0,50" type="2" player="SugarGlider"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="3" sum="€0" type="0" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="4" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="5" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">D9 HQ</cards>
+   <action no="6" sum="€1,25" type="23" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="7" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="8" sum="€5,50" type="23" player="SugarGlider"/>
+   <action no="9" sum="€0" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3919247659">
+  <general>
+   <startdate>2024-08-15 01:32:13</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0,25" name="SugarGlider" win="€0" chips="€175,10"/>
+    <player dealer="0" seat="3" bet="€0,50" name="gilgameshh" win="€0" chips="€99,47"/>
+    <player dealer="0" seat="5" bet="€0" name="RuutuKuningas" win="€0" chips="€16,55"/>
+    <player dealer="0" seat="6" bet="€1,27" name="FreeBritney" win="€1,25" chips="€50"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="1" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="SugarGlider"/>
+   <action no="2" sum="€0,50" type="2" player="gilgameshh"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="3" sum="€0" type="0" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="4" sum="€1,27" type="23" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">D10 D7</cards>
+   <action no="5" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="6" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="7" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="8" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919247682">
+  <general>
+   <startdate>2024-08-15 01:32:31</startdate>
+   <players>
+    <player dealer="1" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€174,85"/>
+    <player dealer="0" seat="3" bet="€0,25" name="gilgameshh" win="€0" chips="€98,97"/>
+    <player dealer="0" seat="5" bet="€0,50" name="RuutuKuningas" win="€0,50" chips="€16,55"/>
+    <player dealer="0" seat="6" bet="€0" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="gilgameshh"/>
+   <action no="2" sum="€0,50" type="2" player="RuutuKuningas"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="3" sum="€0" type="0" player="FreeBritney"/>
+   <cards type="Pocket" player="13373678">D9 HJ</cards>
+   <action no="4" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="5" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="6" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="7" sum="€0" type="0" player="gilgameshh"/>
+  </round>
+ </game>
+ <game gamecode="3919247696">
+  <general>
+   <startdate>2024-08-15 01:32:41</startdate>
+   <players>
+    <player dealer="0" seat="1" bet="€0" name="SugarGlider" win="€0" chips="€174,85"/>
+    <player dealer="1" seat="3" bet="€2,24" name="gilgameshh" win="€2,91" chips="€98,72"/>
+    <player dealer="0" seat="5" bet="€1,25" name="RuutuKuningas" win="€0" chips="€16,80"/>
+    <player dealer="0" seat="6" bet="€0,50" name="FreeBritney" win="€0" chips="€50,75"/>
+    <player dealer="0" seat="8" bet="€0" name="13373678" win="€0" chips="€50"/>
+    <player dealer="0" seat="10" bet="€0" name="koittakaajaksaa" win="€0" chips="€87,30"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" type="1" player="RuutuKuningas"/>
+   <action no="2" sum="€0,50" type="2" player="FreeBritney"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S4 DJ</cards>
+   <action no="3" sum="€0" type="0" player="13373678"/>
+   <cards type="Pocket" player="koittakaajaksaa">X X</cards>
+   <action no="4" sum="€0" type="0" player="koittakaajaksaa"/>
+   <cards type="Pocket" player="SugarGlider">X X</cards>
+   <action no="5" sum="€0" type="0" player="SugarGlider"/>
+   <cards type="Pocket" player="gilgameshh">X X</cards>
+   <action no="6" sum="€1,25" type="23" player="gilgameshh"/>
+   <cards type="Pocket" player="RuutuKuningas">X X</cards>
+   <action no="7" sum="€1" type="3" player="RuutuKuningas"/>
+   <cards type="Pocket" player="FreeBritney">X X</cards>
+   <action no="8" sum="€0" type="0" player="FreeBritney"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 HQ C5</cards>
+   <action no="9" sum="€0" type="4" player="RuutuKuningas"/>
+   <action no="10" sum="€0,99" type="5" player="gilgameshh"/>
+   <action no="11" sum="€0" type="0" player="RuutuKuningas"/>
+  </round>
+ </game>
+</session>

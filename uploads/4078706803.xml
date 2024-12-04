@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4078706803">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:20</duration>
+  <gamecount>3</gamecount>
+  <startdate>2022-07-12 20:09:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€5,50</bets>
+  <wins>€2</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€98</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3694664577">
+  <general>
+   <startdate>2022-07-12 20:09:29</startdate>
+   <players>
+    <player bet="€2,50" win="€2" chips="€100" seat="1" dealer="1" name="13373678"/>
+    <player bet="€1" win="€0" chips="€100" seat="6" dealer="0" name="Hikaru"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="Hikaru" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 H4</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action sum="€0" player="Hikaru" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694667748">
+  <general>
+   <startdate>2022-07-12 20:09:46</startdate>
+   <players>
+    <player bet="€0,50" win="€0" chips="€101" seat="1" dealer="0" name="13373678"/>
+    <player bet="€1" win="€0" chips="€100" seat="3" dealer="0" name="dRoKzzz"/>
+    <player bet="€3" win="€2,50" chips="€100" seat="6" dealer="1" name="Hikaru"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="dRoKzzz" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action sum="€3" player="Hikaru" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C6 CA</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="dRoKzzz" type="Pocket">X X</cards>
+   <action sum="€0" player="dRoKzzz" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694667820">
+  <general>
+   <startdate>2022-07-12 20:10:21</startdate>
+   <players>
+    <player bet="€2,50" win="€0" chips="€100,50" seat="1" dealer="1" name="13373678"/>
+    <player bet="€12" win="€6" chips="€100" seat="3" dealer="0" name="dRoKzzz"/>
+    <player bet="€1" win="€0" chips="€101,50" seat="6" dealer="0" name="Hikaru"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="dRoKzzz" no="1" type="1"/>
+   <action sum="€1" player="Hikaru" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 H8</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="dRoKzzz" type="Pocket">X X</cards>
+   <action sum="€12" player="dRoKzzz" no="4" type="23"/>
+   <cards player="Hikaru" type="Pocket">X X</cards>
+   <action sum="€0" player="Hikaru" no="5" type="0"/>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+  </round>
+ </game>
+</session>

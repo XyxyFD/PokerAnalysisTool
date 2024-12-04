@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076741471">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:40</duration>
+  <gamecount>4</gamecount>
+  <startdate>2022-06-12 22:13:12</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,25</bets>
+  <wins>€1,50</wins>
+  <chipsin>€179</chipsin>
+  <chipsout>€179</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687801308">
+  <general>
+   <startdate>2022-06-12 22:13:12</startdate>
+   <players>
+    <player bet="€0,50" seat="5" chips="€63,87" win="€0,50" dealer="0" name="mithrandir1"/>
+    <player bet="€0,25" seat="10" chips="€70,37" win="€0" dealer="1" name="Thx4nix"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Thx4nix" no="1"/>
+   <action sum="€0,50" type="2" player="mithrandir1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action sum="€0" type="0" player="Thx4nix" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3687801322">
+  <general>
+   <startdate>2022-06-12 22:13:20</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€178,75" win="€0,50" dealer="0" name="13373678"/>
+    <player bet="€0,25" seat="10" chips="€70,12" win="€0" dealer="1" name="Thx4nix"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Thx4nix" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C7</cards>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action sum="€0" type="0" player="Thx4nix" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3687801334">
+  <general>
+   <startdate>2022-06-12 22:13:26</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€179" win="€1" dealer="1" name="13373678"/>
+    <player bet="€0,50" seat="10" chips="€69,87" win="€0" dealer="0" name="Thx4nix"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Thx4nix" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S7 CA</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action sum="€0" type="0" player="Thx4nix" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3687801376">
+  <general>
+   <startdate>2022-06-12 22:13:44</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€179,50" win="€0" dealer="0" name="13373678"/>
+    <player bet="€1" seat="10" chips="€69,37" win="€1" dealer="1" name="Thx4nix"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Thx4nix" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Thx4nix">X X</cards>
+   <action sum="€1" type="23" player="Thx4nix" no="3"/>
+   <cards type="Pocket" player="13373678">SQ H7</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,2956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076765364">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:54:53</duration>
+  <gamecount>82</gamecount>
+  <startdate>2022-06-13 13:00:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€89,59</bets>
+  <wins>€42,06</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€51,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687890583">
+  <general>
+   <startdate>2022-06-13 13:00:29</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€43,89" dealer="0" name="Player 1"/>
+    <player win="€0" bet="€3,70" seat="3" chips="€56,75" dealer="0" name="Player 3"/>
+    <player win="€0" bet="€1,10" seat="5" chips="€52,22" dealer="0" name="Player 5"/>
+    <player win="€8,49" bet="€8,07" seat="6" chips="€55,03" dealer="1" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 1" type="1"/>
+   <action sum="€0,50" no="2" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="Player 5" type="23"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€3,70" no="4" player="Player 6" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€3,20" no="6" player="Player 3" type="3"/>
+   <action sum="€0" no="7" player="Player 5" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S3 S9</cards>
+   <action sum="€0" no="8" player="Player 3" type="4"/>
+   <action sum="€0" no="9" player="Player 6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action sum="€0" no="10" player="Player 3" type="4"/>
+   <action sum="€0" no="11" player="Player 6" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action sum="€0" no="12" player="Player 3" type="4"/>
+   <action sum="€4,37" no="13" player="Player 6" type="5"/>
+   <action sum="€0" no="14" player="Player 3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890696">
+  <general>
+   <startdate>2022-06-13 13:01:52</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€43,64" dealer="1" name="Player 1"/>
+    <player win="€2,70" bet="€4,50" seat="3" chips="€53,05" dealer="0" name="Player 3"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€51,12" dealer="0" name="Player 5"/>
+    <player win="€0" bet="€1,10" seat="6" chips="€59,82" dealer="0" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 3" type="1"/>
+   <action sum="€0,50" no="2" player="Player 5" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="Player 6" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€4,50" no="5" player="Player 3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 5" type="0"/>
+   <action sum="€0" no="7" player="Player 6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890730">
+  <general>
+   <startdate>2022-06-13 13:02:23</startdate>
+   <players>
+    <player win="€1,25" bet="€1" seat="1" chips="€50" dealer="0" name="Player 1"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,65" dealer="1" name="Player 3"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50,62" dealer="0" name="Player 5"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€58,72" dealer="0" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 5" type="1"/>
+   <action sum="€0,50" no="2" player="Player 6" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 5" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890748">
+  <general>
+   <startdate>2022-06-13 13:02:36</startdate>
+   <players>
+    <player win="€1,25" bet="€1" seat="1" chips="€50,75" dealer="0" name="Player 1"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,65" dealer="0" name="Player 3"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,37" dealer="1" name="Player 5"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€58,22" dealer="0" name="Player 6"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50" dealer="0" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 6" type="1"/>
+   <action sum="€0,50" no="2" player="Player 8" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 5" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 6" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Player 8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890759">
+  <general>
+   <startdate>2022-06-13 13:02:48</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€51,50" dealer="0" name="V31jar1"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,65" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,37" dealer="0" name="fsgdhfsjm"/>
+    <player win="€1,25" bet="€1,25" seat="6" chips="€57,97" dealer="1" name="KennethStarr"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="V31jar1" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="KennethStarr" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C3 H8</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890780">
+  <general>
+   <startdate>2022-06-13 13:03:05</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€51,50" dealer="0" name="V31jar1"/>
+    <player win="€1,25" bet="€1,10" seat="3" chips="€54,65" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,37" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€58,72" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="V31jar1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C4 H5</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="V31jar1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890799">
+  <general>
+   <startdate>2022-06-13 13:03:19</startdate>
+   <players>
+    <player win="€0" bet="€1" seat="1" chips="€51" dealer="0" name="V31jar1"/>
+    <player win="€2" bet="€4" seat="3" chips="€55,40" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="6" chips="€58,72" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,37" dealer="0" name="fsgdhfsjm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="V31jar1" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H4 SQ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="V31jar1" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€4" no="8" player="HODL" type="23"/>
+   <action sum="€0" no="9" player="V31jar1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890835">
+  <general>
+   <startdate>2022-06-13 13:03:45</startdate>
+   <players>
+    <player win="€1,25" bet="€1" seat="1" chips="€50" dealer="1" name="V31jar1"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€56,40" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€58,72" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D6 CK</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="V31jar1" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890854">
+  <general>
+   <startdate>2022-06-13 13:04:01</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50,75" dealer="0" name="V31jar1"/>
+    <player win="€0" bet="€0" seat="3" chips="€56,15" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€58,72" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€1,25" bet="€1,25" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="KennethStarr" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">SA C10</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="V31jar1" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KennethStarr" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890903">
+  <general>
+   <startdate>2022-06-13 13:04:34</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50,75" dealer="0" name="V31jar1"/>
+    <player win="€0" bet="€1,10" seat="3" chips="€56,15" dealer="0" name="HODL"/>
+    <player win="€2,95" bet="€3,50" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€58,22" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€50,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KennethStarr" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 H6</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="V31jar1" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€3,50" no="6" player="MaxMoney" type="23"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+   <action sum="€0" no="9" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890943">
+  <general>
+   <startdate>2022-06-13 13:05:07</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50,75" dealer="0" name="V31jar1"/>
+    <player win="€0" bet="€0" seat="3" chips="€55,05" dealer="0" name="HODL"/>
+    <player win="€1,25" bet="€1,17" seat="5" chips="€51,85" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€57,97" dealer="1" name="KennethStarr"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€50,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="V31jar1" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="V31jar1" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="5" player="MaxMoney" type="23"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">HQ D7</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890959">
+  <general>
+   <startdate>2022-06-13 13:05:21</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="3" chips="€55,05" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€52,60" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€57,97" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€50,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">HQ S3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890970">
+  <general>
+   <startdate>2022-06-13 13:05:30</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€55,30" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€52,60" dealer="0" name="MaxMoney"/>
+    <player win="€8,25" bet="€10,90" seat="6" chips="€57,97" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€3,75" seat="10" chips="€50" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="KennethStarr" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">DA CQ</cards>
+   <action sum="€3,75" no="5" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <action sum="€10,90" no="8" player="KennethStarr" type="23"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687891787">
+  <general>
+   <startdate>2022-06-13 13:06:15</startdate>
+   <players>
+    <player win="€3,25" bet="€4" seat="3" chips="€55,05" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€52,10" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€62,47" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,25" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="KennethStarr" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">DK C10</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€4" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MaxMoney" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KennethStarr" type="0"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687891827">
+  <general>
+   <startdate>2022-06-13 13:06:44</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€57,05" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€51,85" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€61,97" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€1,25" bet="€1,25" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KennethStarr" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C8 HA</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687891856">
+  <general>
+   <startdate>2022-06-13 13:07:04</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€57,05" dealer="0" name="HODL"/>
+    <player win="€2,52" bet="€3,11" seat="5" chips="€51,85" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€61,72" dealer="1" name="KennethStarr"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,17" seat="10" chips="€50,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="4" player="MaxMoney" type="23"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H2 S2</cards>
+   <action sum="€0,67" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H10 S5</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€1,94" no="9" player="MaxMoney" type="5"/>
+   <action sum="€0" no="10" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687891903">
+  <general>
+   <startdate>2022-06-13 13:07:36</startdate>
+   <players>
+    <player win="€0" bet="€8,38" seat="3" chips="€57,05" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€53,20" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€61,72" dealer="0" name="KennethStarr"/>
+    <player win="€16,50" bet="€19,38" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">H10 S5</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€5" no="7" player="HODL" type="23"/>
+   <action sum="€3,75" no="8" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C6 C2</cards>
+   <action sum="€0" no="9" player="HODL" type="4"/>
+   <action sum="€3,38" no="10" player="Kurkkumies" type="5"/>
+   <action sum="€3,38" no="11" player="HODL" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€0" no="12" player="HODL" type="4"/>
+   <action sum="€11" no="13" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="14" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892213">
+  <general>
+   <startdate>2022-06-13 13:09:04</startdate>
+   <players>
+    <player win="€1" bet="€1,50" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€53,20" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€61,72" dealer="0" name="KennethStarr"/>
+    <player win="€0" bet="€0" seat="8" chips="€58,12" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KennethStarr" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KennethStarr" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S9 H7</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892235">
+  <general>
+   <startdate>2022-06-13 13:09:18</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50,50" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€52,70" dealer="0" name="MaxMoney"/>
+    <player win="€0,50" bet="€0,50" seat="8" chips="€58,12" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D3 HA</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892244">
+  <general>
+   <startdate>2022-06-13 13:09:28</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50,50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,17" seat="5" chips="€52,45" dealer="1" name="MaxMoney"/>
+    <player win="€2,84" bet="€5,50" seat="8" chips="€58,37" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="4" player="MaxMoney" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€5,50" no="5" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">CQ C10</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892297">
+  <general>
+   <startdate>2022-06-13 13:10:04</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="3" chips="€50,50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,17" seat="5" chips="€51,28" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="8" chips="€60,04" dealer="1" name="Kurkkumies"/>
+    <player win="€2,84" bet="€5,50" seat="10" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="3" player="MaxMoney" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">DQ DA</cards>
+   <action sum="€5,50" no="5" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="HODL" type="0"/>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892340">
+  <general>
+   <startdate>2022-06-13 13:10:30</startdate>
+   <players>
+    <player win="€2,91" bet="€3,30" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,50" seat="5" chips="€50,11" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="8" chips="€60,04" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€51,67" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H2 SA</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,50" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="MaxMoney" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S7 C8</cards>
+   <action sum="€1,80" no="7" player="HODL" type="5"/>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892381">
+  <general>
+   <startdate>2022-06-13 13:11:05</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€51,41" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€17,39" seat="8" chips="€60,04" dealer="0" name="Kurkkumies"/>
+    <player win="€33,97" bet="€51,67" seat="10" chips="€51,67" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ SQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0,75" no="6" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 S9 H7</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="4"/>
+   <action sum="€1,37" no="8" player="13373678" type="5"/>
+   <action sum="€5,14" no="9" player="Kurkkumies" type="23"/>
+   <action sum="€3,77" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action sum="€11" no="11" player="Kurkkumies" type="5"/>
+   <action sum="€11" no="12" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€0" no="13" player="Kurkkumies" type="4"/>
+   <action sum="€34,28" no="14" player="13373678" type="5"/>
+   <action sum="€0" no="15" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892494">
+  <general>
+   <startdate>2022-06-13 13:12:34</startdate>
+   <players>
+    <player win="€1,25" bet="€1,10" seat="3" chips="€51,41" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€68,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H6 SQ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892514">
+  <general>
+   <startdate>2022-06-13 13:12:46</startdate>
+   <players>
+    <player win="€5,52" bet="€2,72" seat="3" chips="€52,16" dealer="0" name="HODL"/>
+    <player win="€0" bet="€2,72" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€67,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">D10 D7</cards>
+   <action sum="€1,17" no="3" player="MaxMoney" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C9 SQ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">H5 CA</cards>
+   <action sum="€0,67" no="6" player="HODL" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C7 DJ</cards>
+   <action sum="€0" no="7" player="HODL" type="4"/>
+   <action sum="€0" no="8" player="MaxMoney" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€0" no="9" player="HODL" type="4"/>
+   <action sum="€0" no="10" player="MaxMoney" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€1,55" no="11" player="HODL" type="5"/>
+   <action sum="€1,55" no="12" player="MaxMoney" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687892566">
+  <general>
+   <startdate>2022-06-13 13:13:32</startdate>
+   <players>
+    <player win="€0" bet="€1,50" seat="3" chips="€54,96" dealer="0" name="HODL"/>
+    <player win="€3" bet="€4,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€67,50" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D6 S4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,50" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€4,50" no="6" player="MaxMoney" type="23"/>
+   <action sum="€0" no="7" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892596">
+  <general>
+   <startdate>2022-06-13 13:13:49</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€53,46" dealer="1" name="HODL"/>
+    <player win="€49,25" bet="€50" seat="5" chips="€51,50" dealer="0" name="MaxMoney"/>
+    <player win="€49,25" bet="€50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€67,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 HK</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">D10 CJ</cards>
+   <action sum="€1,50" no="5" player="MaxMoney" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">C10 DJ</cards>
+   <action sum="€1" no="6" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 HQ C2</cards>
+   <action sum="€2,25" no="7" player="MaxMoney" type="5"/>
+   <action sum="€2,25" no="8" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action sum="€6" no="9" player="MaxMoney" type="5"/>
+   <action sum="€6" no="10" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€17,50" no="11" player="MaxMoney" type="5"/>
+   <action sum="€40,25" no="12" player="Kurkkumies" type="23"/>
+   <action sum="€22,75" no="13" player="MaxMoney" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687892694">
+  <general>
+   <startdate>2022-06-13 13:15:11</startdate>
+   <players>
+    <player win="€0" bet="€5,20" seat="3" chips="€53,46" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,75" dealer="1" name="MaxMoney"/>
+    <player win="€10,57" bet="€10,65" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€67,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€5,20" no="5" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">S7 D4</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <action sum="€4,10" no="7" player="HODL" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 CK H10</cards>
+   <action sum="€5,45" no="8" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="9" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892739">
+  <general>
+   <startdate>2022-06-13 13:15:47</startdate>
+   <players>
+    <player win="€20,90" bet="€24,88" seat="1" chips="€50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€9,80" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,75" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,70" seat="6" chips="€20" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€55,37" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€67" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+   <action sum="€0,50" no="3" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,70" no="6" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H4 D5</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€5,80" no="9" player="Oganesson" type="23"/>
+   <action sum="€4,70" no="10" player="HODL" type="3"/>
+   <action sum="€0" no="11" player="wielly04" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 D3 HJ</cards>
+   <action sum="€4" no="12" player="Oganesson" type="5"/>
+   <action sum="€4" no="13" player="HODL" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€15,08" no="14" player="Oganesson" type="5"/>
+   <action sum="€0" no="15" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892829">
+  <general>
+   <startdate>2022-06-13 13:17:16</startdate>
+   <players>
+    <player win="€5,64" bet="€6,04" seat="1" chips="€61,10" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€1,17" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€2,32" seat="5" chips="€50,75" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€18,30" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€55,37" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66,75" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="3" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C6 S8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0,92" no="7" player="Oganesson" type="3"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0,67" no="8" player="HODL" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 S6 H2</cards>
+   <action sum="€0" no="9" player="Oganesson" type="4"/>
+   <action sum="€0" no="10" player="HODL" type="4"/>
+   <action sum="€1,15" no="11" player="MaxMoney" type="5"/>
+   <action sum="€4,87" no="12" player="Oganesson" type="23"/>
+   <action sum="€0" no="13" player="HODL" type="0"/>
+   <action sum="€0" no="14" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892892">
+  <general>
+   <startdate>2022-06-13 13:18:09</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€64,42" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€1,46" bet="€1" seat="6" chips="€18,30" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€55,37" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0,50" no="3" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S9 H8</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0,25" no="7" player="HODL" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C7 SJ</cards>
+   <action sum="€0" no="9" player="HODL" type="4"/>
+   <action sum="€0" no="10" player="MaxMoney" type="4"/>
+   <action sum="€0,50" no="11" player="wielly04" type="5"/>
+   <action sum="€0" no="12" player="HODL" type="0"/>
+   <action sum="€0" no="13" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892938">
+  <general>
+   <startdate>2022-06-13 13:18:47</startdate>
+   <players>
+    <player win="€1,25" bet="€1,30" seat="1" chips="€64,42" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€19,26" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€55,37" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C6 D3</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1,30" no="5" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687892960">
+  <general>
+   <startdate>2022-06-13 13:19:06</startdate>
+   <players>
+    <player win="€0" bet="€1,30" seat="1" chips="€65,17" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€3,01" bet="€2,85" seat="6" chips="€18,76" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€55,37" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 HQ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1,30" no="4" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,05" no="7" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H9 HK</cards>
+   <action sum="€1,55" no="9" player="wielly04" type="5"/>
+   <action sum="€0" no="10" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687893007">
+  <general>
+   <startdate>2022-06-13 13:19:42</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€63,87" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€1,25" bet="€1" seat="6" chips="€20,47" dealer="1" name="wielly04"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€54,87" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€66,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C3 D8</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687893169">
+  <general>
+   <startdate>2022-06-13 13:19:55</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€63,87" dealer="0" name="Oganesson"/>
+    <player win="€3,84" bet="€3,77" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,60" seat="6" chips="€21,22" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€54,62" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€66,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S7 H4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Oganesson" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C6 SJ</cards>
+   <action sum="€0" no="9" player="HODL" type="4"/>
+   <action sum="€0,50" no="10" player="wielly04" type="5"/>
+   <action sum="€2,67" no="11" player="HODL" type="23"/>
+   <action sum="€0" no="12" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687893393">
+  <general>
+   <startdate>2022-06-13 13:20:37</startdate>
+   <players>
+    <player win="€0" bet="€1" seat="1" chips="€63,37" dealer="0" name="Oganesson"/>
+    <player win="€2,91" bet="€4,60" seat="3" chips="€52,24" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1" seat="6" chips="€19,62" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€54,62" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="4" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D9 HJ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0,75" no="7" player="Oganesson" type="3"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0,50" no="8" player="HODL" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C2 H10</cards>
+   <action sum="€0" no="9" player="Oganesson" type="4"/>
+   <action sum="€0" no="10" player="HODL" type="4"/>
+   <action sum="€0" no="11" player="wielly04" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€0" no="12" player="Oganesson" type="4"/>
+   <action sum="€3,60" no="13" player="HODL" type="5"/>
+   <action sum="€0" no="14" player="wielly04" type="0"/>
+   <action sum="€0" no="15" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894217">
+  <general>
+   <startdate>2022-06-13 13:21:38</startdate>
+   <players>
+    <player win="€2,77" bet="€1,30" seat="1" chips="€62,37" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€54,15" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,30" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€18,62" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€54,62" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D7 D5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">C7 S8</cards>
+   <action sum="€1,30" no="6" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">C6 CK</cards>
+   <action sum="€0,80" no="8" player="MaxMoney" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D8 H5</cards>
+   <action sum="€0" no="9" player="MaxMoney" type="4"/>
+   <action sum="€0" no="10" player="Oganesson" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action sum="€0" no="11" player="MaxMoney" type="4"/>
+   <action sum="€0" no="12" player="Oganesson" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" no="13" player="MaxMoney" type="4"/>
+   <action sum="€0" no="14" player="Oganesson" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687894263">
+  <general>
+   <startdate>2022-06-13 13:22:25</startdate>
+   <players>
+    <player win="€0" bet="€1,30" seat="1" chips="€63,84" dealer="0" name="Oganesson"/>
+    <player win="€3,35" bet="€4,50" seat="3" chips="€53,90" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€18,62" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€54,62" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€66" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">SJ D6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1,30" no="5" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€4,50" no="6" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="wielly04" type="0"/>
+   <action sum="€0" no="9" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894301">
+  <general>
+   <startdate>2022-06-13 13:23:03</startdate>
+   <players>
+    <player win="€3,25" bet="€4" seat="3" chips="€55,95" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€18,12" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€54,62" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,25" seat="10" chips="€66" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 CK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€4" no="4" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894330">
+  <general>
+   <startdate>2022-06-13 13:23:34</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€62,54" dealer="0" name="Oganesson"/>
+    <player win="€13,84" bet="€57,95" seat="3" chips="€57,95" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€6,76" seat="6" chips="€17,87" dealer="1" name="wielly04"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€54,12" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€64,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D5</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 S4 D9</cards>
+   <action sum="€1,77" no="9" player="HODL" type="5"/>
+   <action sum="€1,77" no="10" player="wielly04" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€3,89" no="11" player="HODL" type="5"/>
+   <action sum="€3,89" no="12" player="wielly04" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€51,19" no="13" player="HODL" type="5"/>
+   <action sum="€0" no="14" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894380">
+  <general>
+   <startdate>2022-06-13 13:24:24</startdate>
+   <players>
+    <player win="€0" bet="€3,23" seat="1" chips="€62,54" dealer="0" name="Oganesson"/>
+    <player win="€7,58" bet="€7,91" seat="3" chips="€65,03" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€11,11" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€1,10" seat="8" chips="€53,87" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€64,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="Kurkkumies" type="3"/>
+   <cards player="13373678" type="Pocket">H6 C2</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0,60" no="8" player="Oganesson" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D3 S3</cards>
+   <action sum="€0" no="9" player="Oganesson" type="4"/>
+   <action sum="€2,13" no="10" player="HODL" type="5"/>
+   <action sum="€0" no="11" player="Kurkkumies" type="0"/>
+   <action sum="€2,13" no="12" player="Oganesson" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" no="13" player="Oganesson" type="4"/>
+   <action sum="€4,68" no="14" player="HODL" type="5"/>
+   <action sum="€0" no="15" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894422">
+  <general>
+   <startdate>2022-06-13 13:25:14</startdate>
+   <players>
+    <player win="€0" bet="€2" seat="1" chips="€59,31" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€69,38" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€6,31" bet="€2" seat="6" chips="€11,11" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€52,77" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€2" seat="10" chips="€64" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">D7 SQ</cards>
+   <action sum="€0,50" no="4" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H10 SK</cards>
+   <action sum="€2" no="6" player="13373678" type="23"/>
+   <cards player="Oganesson" type="Pocket">C8 C7</cards>
+   <action sum="€1,75" no="7" player="Oganesson" type="3"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="HODL" type="0"/>
+   <action sum="€1,50" no="9" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H3 C3</cards>
+   <action sum="€0" no="10" player="Oganesson" type="4"/>
+   <action sum="€0" no="11" player="wielly04" type="4"/>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€0" no="13" player="Oganesson" type="4"/>
+   <action sum="€0" no="14" player="wielly04" type="4"/>
+   <action sum="€0" no="15" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€0" no="16" player="Oganesson" type="4"/>
+   <action sum="€0" no="17" player="wielly04" type="4"/>
+   <action sum="€0" no="18" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687894507">
+  <general>
+   <startdate>2022-06-13 13:26:22</startdate>
+   <players>
+    <player win="€0" bet="€5,29" seat="1" chips="€57,31" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€68,88" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€10,99" bet="€7,58" seat="6" chips="€15,42" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€52,77" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€62" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C9 CK</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€3" no="6" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+   <action sum="€2" no="9" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D6 SK</cards>
+   <action sum="€0" no="10" player="wielly04" type="4"/>
+   <action sum="€2,29" no="11" player="Oganesson" type="5"/>
+   <action sum="€4,58" no="12" player="wielly04" type="23"/>
+   <action sum="€0" no="13" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894551">
+  <general>
+   <startdate>2022-06-13 13:26:59</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,02" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€68,63" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0,50" bet="€0,50" seat="6" chips="€21,12" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€52,77" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€62" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H6 CK</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894565">
+  <general>
+   <startdate>2022-06-13 13:27:07</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,02" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€68,63" dealer="0" name="HODL"/>
+    <player win="€0" bet="€2,17" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€4,70" bet="€2,17" seat="6" chips="€21,37" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€52,77" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€62" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 D2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">D5 D3</cards>
+   <action sum="€1,17" no="6" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">H7 SJ</cards>
+   <action sum="€0,92" no="7" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 S4 C10</cards>
+   <action sum="€0" no="9" player="wielly04" type="4"/>
+   <action sum="€0" no="10" player="MaxMoney" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0,50" no="11" player="wielly04" type="5"/>
+   <action sum="€0,50" no="12" player="MaxMoney" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€0,50" no="13" player="wielly04" type="5"/>
+   <action sum="€0,50" no="14" player="MaxMoney" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687894629">
+  <general>
+   <startdate>2022-06-13 13:27:57</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,02" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€68,63" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€4,50" seat="6" chips="€23,90" dealer="1" name="wielly04"/>
+    <player win="€9,22" bet="€52,27" seat="8" chips="€52,27" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€62" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€4,50" no="7" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">H9 H10</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€3,50" no="9" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C4 C8</cards>
+   <action sum="€47,77" no="10" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="11" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894684">
+  <general>
+   <startdate>2022-06-13 13:28:51</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="1" chips="€52,02" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€68,63" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€19,40" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,99" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€61,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H4 CA</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894693">
+  <general>
+   <startdate>2022-06-13 13:29:02</startdate>
+   <players>
+    <player win="€1" bet="€1,50" seat="1" chips="€52,27" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€68,63" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€19,40" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,99" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€61,25" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">C2 C7</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="Oganesson" type="23"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894717">
+  <general>
+   <startdate>2022-06-13 13:29:20</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,77" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€8,25" seat="3" chips="€68,13" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€16,49" bet="€16,75" seat="6" chips="€19,40" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,99" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€61,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">SK H3</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€4" no="7" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+   <action sum="€3" no="9" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 C4 H7</cards>
+   <action sum="€0" no="10" player="HODL" type="4"/>
+   <action sum="€4,25" no="11" player="wielly04" type="5"/>
+   <action sum="€4,25" no="12" player="HODL" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" no="13" player="HODL" type="4"/>
+   <action sum="€8,50" no="14" player="wielly04" type="5"/>
+   <action sum="€0" no="15" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894934">
+  <general>
+   <startdate>2022-06-13 13:30:30</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,77" dealer="0" name="Oganesson"/>
+    <player win="€1,25" bet="€1,10" seat="3" chips="€59,88" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€27,64" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,99" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€61,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">SJ S5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687894953">
+  <general>
+   <startdate>2022-06-13 13:30:44</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€10,85" seat="3" chips="€60,63" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€21,53" bet="€10,85" seat="6" chips="€27,14" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€56,99" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€61,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 S9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">H7 D8</cards>
+   <action sum="€1,10" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">H2 H3</cards>
+   <action sum="€0,85" no="7" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D7 HJ</cards>
+   <action sum="€0,50" no="9" player="wielly04" type="5"/>
+   <action sum="€0,50" no="10" player="HODL" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€1,85" no="11" player="wielly04" type="5"/>
+   <action sum="€1,85" no="12" player="HODL" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action sum="€7,40" no="13" player="wielly04" type="5"/>
+   <action sum="€7,40" no="14" player="HODL" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687895005">
+  <general>
+   <startdate>2022-06-13 13:31:39</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€52,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€4,61" bet="€5,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,50" seat="6" chips="€37,82" dealer="1" name="wielly04"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€56,49" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,50" seat="10" chips="€61,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" no="5" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D7 D9</cards>
+   <action sum="€1" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ H4 S6</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€4" no="10" player="MaxMoney" type="5"/>
+   <action sum="€0" no="11" player="wielly04" type="0"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687895048">
+  <general>
+   <startdate>2022-06-13 13:32:14</startdate>
+   <players>
+    <player win="€0" bet="€1,50" seat="1" chips="€52,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€0" bet="€9,50" seat="5" chips="€53,11" dealer="0" name="MaxMoney"/>
+    <player win="€20,13" bet="€9,50" seat="6" chips="€36,32" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€59,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">C3 CA</cards>
+   <action sum="€1,50" no="4" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">C7 D10</cards>
+   <action sum="€1,50" no="5" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S2 S4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1" no="8" player="Oganesson" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C10 C8</cards>
+   <action sum="€0" no="9" player="Oganesson" type="4"/>
+   <action sum="€2,50" no="10" player="MaxMoney" type="5"/>
+   <action sum="€2,50" no="11" player="wielly04" type="3"/>
+   <action sum="€0" no="12" player="Oganesson" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€5,50" no="13" player="MaxMoney" type="5"/>
+   <action sum="€5,50" no="14" player="wielly04" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action sum="€0" no="15" player="MaxMoney" type="4"/>
+   <action sum="€0" no="16" player="wielly04" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687895121">
+  <general>
+   <startdate>2022-06-13 13:33:19</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€51,27" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€50" dealer="0" name="HODL"/>
+    <player win="€3" bet="€3,67" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,17" seat="6" chips="€46,95" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€59,50" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="3" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,17" no="4" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">DK SJ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="HODL" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C9 S3</cards>
+   <action sum="€0" no="9" player="MaxMoney" type="4"/>
+   <action sum="€0" no="10" player="wielly04" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€2,50" no="11" player="MaxMoney" type="5"/>
+   <action sum="€0" no="12" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687895159">
+  <general>
+   <startdate>2022-06-13 13:33:57</startdate>
+   <players>
+    <player win="€28,45" bet="€14,54" seat="3" chips="€50" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€51,83" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€14,54" seat="6" chips="€45,78" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€59,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H10 DJ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="HODL" type="Pocket">HJ S9</cards>
+   <action sum="€1,10" no="5" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">D6 D8</cards>
+   <action sum="€0,60" no="7" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S7 C3</cards>
+   <action sum="€1,22" no="8" player="wielly04" type="5"/>
+   <action sum="€1,22" no="9" player="HODL" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€4,89" no="10" player="wielly04" type="5"/>
+   <action sum="€4,89" no="11" player="HODL" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action sum="€7,33" no="12" player="wielly04" type="5"/>
+   <action sum="€7,33" no="13" player="HODL" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687895247">
+  <general>
+   <startdate>2022-06-13 13:35:15</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€51,02" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€63,91" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,17" seat="5" chips="€51,58" dealer="1" name="MaxMoney"/>
+    <player win="€2,76" bet="€4,01" seat="6" chips="€31,24" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€59,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="5" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0,92" no="6" player="wielly04" type="3"/>
+   <cards player="13373678" type="Pocket">S2 H4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ DQ C9</cards>
+   <action sum="€0" no="8" player="wielly04" type="4"/>
+   <action sum="€0" no="9" player="MaxMoney" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action sum="€2,84" no="10" player="wielly04" type="5"/>
+   <action sum="€0" no="11" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687895293">
+  <general>
+   <startdate>2022-06-13 13:35:52</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€51,02" dealer="0" name="Oganesson"/>
+    <player win="€2,87" bet="€2,87" seat="3" chips="€63,91" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,41" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,10" seat="6" chips="€32,83" dealer="1" name="wielly04"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€59" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="wielly04" type="3"/>
+   <cards player="13373678" type="Pocket">C4 C6</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Oganesson" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C5 SJ</cards>
+   <action sum="€1,77" no="8" player="HODL" type="5"/>
+   <action sum="€0" no="9" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896076">
+  <general>
+   <startdate>2022-06-13 13:36:13</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€50,52" dealer="0" name="Oganesson"/>
+    <player win="€0,50" bet="€0,50" seat="3" chips="€65,68" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,41" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€31,73" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="wielly04" type="0"/>
+   <cards player="13373678" type="Pocket">S2 H5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896102">
+  <general>
+   <startdate>2022-06-13 13:36:30</startdate>
+   <players>
+    <player win="€0" bet="€1,50" seat="1" chips="€50,27" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€1,50" seat="3" chips="€65,93" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1" seat="5" chips="€50,41" dealer="0" name="MaxMoney"/>
+    <player win="€5,34" bet="€4,25" seat="6" chips="€31,73" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="13373678" type="Pocket">D3 C5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1" no="5" player="Oganesson" type="3"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0,75" no="6" player="HODL" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0,50" no="7" player="MaxMoney" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C7 S2</cards>
+   <action sum="€0" no="8" player="HODL" type="4"/>
+   <action sum="€0" no="9" player="MaxMoney" type="4"/>
+   <action sum="€0,50" no="10" player="wielly04" type="5"/>
+   <action sum="€0,50" no="11" player="Oganesson" type="3"/>
+   <action sum="€0,50" no="12" player="HODL" type="3"/>
+   <action sum="€0" no="13" player="MaxMoney" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" no="14" player="HODL" type="4"/>
+   <action sum="€2,75" no="15" player="wielly04" type="5"/>
+   <action sum="€0" no="16" player="Oganesson" type="0"/>
+   <action sum="€0" no="17" player="HODL" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896177">
+  <general>
+   <startdate>2022-06-13 13:37:37</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€48,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€64,43" dealer="1" name="HODL"/>
+    <player win="€5,82" bet="€8" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€3" seat="6" chips="€35,57" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 C3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H7 SA</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="4"/>
+   <action sum="€1,50" no="9" player="wielly04" type="5"/>
+   <action sum="€1,50" no="10" player="MaxMoney" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€0" no="11" player="MaxMoney" type="4"/>
+   <action sum="€0" no="12" player="wielly04" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€5" no="13" player="MaxMoney" type="5"/>
+   <action sum="€0" no="14" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896242">
+  <general>
+   <startdate>2022-06-13 13:38:29</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€48,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€64,43" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,17" seat="5" chips="€52,82" dealer="1" name="MaxMoney"/>
+    <player win="€2,76" bet="€1,67" seat="6" chips="€32,57" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="6" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0,92" no="7" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 SK S9</cards>
+   <action sum="€0,50" no="9" player="wielly04" type="5"/>
+   <action sum="€0" no="10" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896282">
+  <general>
+   <startdate>2022-06-13 13:39:12</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€48,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€64,43" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€51,65" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€34,16" dealer="1" name="wielly04"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€55,74" dealer="0" name="Kurkkumies"/>
+    <player win="€0,50" bet="€0,50" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ H9</cards>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896301">
+  <general>
+   <startdate>2022-06-13 13:39:25</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€48,77" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€64,43" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€51,65" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€34,16" dealer="0" name="wielly04"/>
+    <player win="€1,25" bet="€1,25" seat="8" chips="€55,49" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€59" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">D6 C3</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896331">
+  <general>
+   <startdate>2022-06-13 13:39:52</startdate>
+   <players>
+    <player win="€0" bet="€10,40" seat="1" chips="€48,27" dealer="0" name="Oganesson"/>
+    <player win="€24,25" bet="€64,43" seat="3" chips="€64,43" dealer="0" name="HODL"/>
+    <player win="€0" bet="€4,20" seat="5" chips="€51,65" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€34,16" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="HODL" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" no="3" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H3 HQ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€1,25" no="7" player="Oganesson" type="3"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€1" no="8" player="HODL" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C8 D5</cards>
+   <action sum="€0" no="9" player="Oganesson" type="4"/>
+   <action sum="€2,70" no="10" player="HODL" type="5"/>
+   <action sum="€2,70" no="11" player="MaxMoney" type="3"/>
+   <action sum="€8,90" no="12" player="Oganesson" type="23"/>
+   <action sum="€6,20" no="13" player="HODL" type="3"/>
+   <action sum="€0" no="14" player="MaxMoney" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" no="15" player="Oganesson" type="4"/>
+   <action sum="€0" no="16" player="HODL" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€0" no="17" player="Oganesson" type="4"/>
+   <action sum="€54,03" no="18" player="HODL" type="5"/>
+   <action sum="€0" no="19" player="Oganesson" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896872">
+  <general>
+   <startdate>2022-06-13 13:42:31</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€78,28" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€1,25" bet="€1" seat="6" chips="€34,16" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="HODL" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">H3 SQ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687896928">
+  <general>
+   <startdate>2022-06-13 13:43:09</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€10,66" seat="3" chips="€78,03" dealer="1" name="HODL"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€20,92" bet="€10,66" seat="6" chips="€34,91" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S6 SJ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">CQ C5</cards>
+   <action sum="€1,10" no="6" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">C2 D6</cards>
+   <action sum="€0,60" no="8" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ S4 H6</cards>
+   <action sum="€0,50" no="9" player="wielly04" type="5"/>
+   <action sum="€2,37" no="10" player="HODL" type="23"/>
+   <action sum="€1,87" no="11" player="wielly04" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action sum="€0" no="12" player="wielly04" type="4"/>
+   <action sum="€0" no="13" player="HODL" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€7,19" no="14" player="wielly04" type="5"/>
+   <action sum="€7,19" no="15" player="HODL" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687896994">
+  <general>
+   <startdate>2022-06-13 13:44:14</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,37" dealer="0" name="HODL"/>
+    <player win="€3,40" bet="€4,12" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€1,50" seat="6" chips="€45,17" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€56,24" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 H5</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,25" no="7" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D3 S4</cards>
+   <action sum="€0" no="9" player="wielly04" type="4"/>
+   <action sum="€2,62" no="10" player="MaxMoney" type="5"/>
+   <action sum="€0" no="11" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687897062">
+  <general>
+   <startdate>2022-06-13 13:45:09</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,37" dealer="0" name="HODL"/>
+    <player win="€0" bet="€1,17" seat="5" chips="€51,90" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€43,67" dealer="1" name="wielly04"/>
+    <player win="€2,84" bet="€5" seat="8" chips="€55,74" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="HODL" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="HODL" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="5" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€5" no="7" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">HA S3</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <action sum="€0" no="9" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687897119">
+  <general>
+   <startdate>2022-06-13 13:45:55</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€2,87" seat="3" chips="€67,37" dealer="0" name="HODL"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,73" dealer="0" name="MaxMoney"/>
+    <player win="€6,30" bet="€2,87" seat="6" chips="€43,67" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€57,41" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€58,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Oganesson" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="HODL" type="Pocket">S10 S8</cards>
+   <action sum="€1,10" no="3" player="HODL" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">C8 CK</cards>
+   <action sum="€1,10" no="5" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">SK H6</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Oganesson" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H2 D7</cards>
+   <action sum="€1,77" no="9" player="HODL" type="5"/>
+   <action sum="€1,77" no="10" player="wielly04" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€0" no="11" player="HODL" type="4"/>
+   <action sum="€0" no="12" player="wielly04" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="13" player="HODL" type="4"/>
+   <action sum="€0" no="14" player="wielly04" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687897177">
+  <general>
+   <startdate>2022-06-13 13:46:39</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€49,50" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50,73" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€47,10" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€57,41" dealer="0" name="Kurkkumies"/>
+    <player win="€1,25" bet="€1" seat="10" chips="€58" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Oganesson" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">HA S8</cards>
+   <action sum="€1" no="5" player="13373678" type="23"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Oganesson" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687897204">
+  <general>
+   <startdate>2022-06-13 13:47:03</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€49,25" dealer="1" name="Oganesson"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50,23" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,25" seat="6" chips="€47,10" dealer="0" name="wielly04"/>
+    <player win="€2,67" bet="€2,62" seat="8" chips="€57,41" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">S8 DA</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Oganesson" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0,75" no="7" player="wielly04" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S7 C10</cards>
+   <action sum="€0" no="8" player="wielly04" type="4"/>
+   <action sum="€0" no="9" player="Kurkkumies" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€0" no="10" player="wielly04" type="4"/>
+   <action sum="€1,37" no="11" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="12" player="wielly04" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687898130">
+  <general>
+   <startdate>2022-06-13 13:48:10</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€49,25" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="1" name="MaxMoney"/>
+    <player win="€0" bet="€2" seat="6" chips="€45,85" dealer="0" name="wielly04"/>
+    <player win="€3,88" bet="€2" seat="8" chips="€58,83" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 D8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Oganesson" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">DK D10</cards>
+   <action sum="€1" no="6" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">H2 D3</cards>
+   <action sum="€0,50" no="7" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C6 H3</cards>
+   <action sum="€1" no="8" player="wielly04" type="5"/>
+   <action sum="€1" no="9" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action sum="€0" no="10" player="wielly04" type="4"/>
+   <action sum="€0" no="11" player="Kurkkumies" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action sum="€0" no="12" player="wielly04" type="4"/>
+   <action sum="€0" no="13" player="Kurkkumies" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687898194">
+  <general>
+   <startdate>2022-06-13 13:48:58</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€49,25" dealer="0" name="Oganesson"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€43,85" dealer="1" name="wielly04"/>
+    <player win="€5,34" bet="€5,50" seat="8" chips="€60,71" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€2,50" seat="10" chips="€58,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Oganesson" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0,50" no="5" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€2,50" no="6" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">S7 D7</cards>
+   <action sum="€2" no="7" player="13373678" type="3"/>
+   <action sum="€0" no="8" player="wielly04" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C8 C5</cards>
+   <action sum="€3" no="9" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="10" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687898241">
+  <general>
+   <startdate>2022-06-13 13:49:32</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€1,25" bet="€1,17" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€43,35" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€63,55" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€56,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="CmY3iCCCP" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="3" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S5 H4</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="CmY3iCCCP" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687898270">
+  <general>
+   <startdate>2022-06-13 13:49:54</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50,75" dealer="0" name="MaxMoney"/>
+    <player win="€3,64" bet="€3,37" seat="6" chips="€43,35" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€63,55" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,50" seat="10" chips="€56" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CmY3iCCCP" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D6 D5</cards>
+   <action sum="€1" no="5" player="13373678" type="3"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S7 H2</cards>
+   <action sum="€0,50" no="8" player="wielly04" type="5"/>
+   <action sum="€0,50" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€1,87" no="10" player="wielly04" type="5"/>
+   <action sum="€0" no="11" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687898635">
+  <general>
+   <startdate>2022-06-13 13:50:28</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="1" name="CmY3iCCCP"/>
+    <player win="€45,37" bet="€48,53" seat="5" chips="€50,25" dealer="0" name="MaxMoney"/>
+    <player win="€45,36" bet="€45,49" seat="6" chips="€45,49" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€63,55" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,25" seat="10" chips="€54,50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S10 HJ</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">HA CJ</cards>
+   <action sum="€5,50" no="6" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">CA H8</cards>
+   <action sum="€5" no="7" player="wielly04" type="3"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 SA H2</cards>
+   <action sum="€4,04" no="9" player="MaxMoney" type="5"/>
+   <action sum="€4,04" no="10" player="wielly04" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action sum="€9,50" no="11" player="MaxMoney" type="5"/>
+   <action sum="€9,50" no="12" player="wielly04" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€29,49" no="13" player="MaxMoney" type="5"/>
+   <action sum="€26,45" no="14" player="wielly04" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3687898708">
+  <general>
+   <startdate>2022-06-13 13:51:23</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0" seat="5" chips="€50,13" dealer="1" name="MaxMoney"/>
+    <player win="€2,91" bet="€1,50" seat="6" chips="€45,36" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€1,50" seat="8" chips="€63,55" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€53,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="wielly04" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D5 D10</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">S8 D2</cards>
+   <action sum="€0,25" no="6" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">D4 HA</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 D6 C10</cards>
+   <action sum="€0" no="8" player="wielly04" type="4"/>
+   <action sum="€0" no="9" player="Kurkkumies" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0,50" no="10" player="wielly04" type="5"/>
+   <action sum="€0,50" no="11" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€0,50" no="12" player="wielly04" type="5"/>
+   <action sum="€0,50" no="13" player="Kurkkumies" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687898890">
+  <general>
+   <startdate>2022-06-13 13:52:06</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€6,34" seat="5" chips="€50,13" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€1,17" seat="6" chips="€46,77" dealer="1" name="wielly04"/>
+    <player win="€13,92" bet="€13,51" seat="8" chips="€62,05" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€53,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,17" no="4" player="MaxMoney" type="23"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1,17" no="5" player="wielly04" type="3"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€6,34" no="6" player="Kurkkumies" type="23"/>
+   <cards player="13373678" type="Pocket">C3 SQ</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€5,17" no="8" player="MaxMoney" type="3"/>
+   <action sum="€0" no="9" player="wielly04" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H9 CJ</cards>
+   <action sum="€7,17" no="10" player="Kurkkumies" type="5"/>
+   <action sum="€0" no="11" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687898973">
+  <general>
+   <startdate>2022-06-13 13:53:05</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€50" dealer="0" name="GLHFGG"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0" bet="€0" seat="6" chips="€45,60" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€69,63" dealer="1" name="Kurkkumies"/>
+    <player win="€1" bet="€1,50" seat="10" chips="€52,75" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="GLHFGG" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="wielly04" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">HK DA</cards>
+   <action sum="€1,50" no="7" player="13373678" type="23"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="GLHFGG" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687899001">
+  <general>
+   <startdate>2022-06-13 13:53:27</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€50" dealer="0" name="GLHFGG"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€4,61" bet="€4,37" seat="6" chips="€45,60" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€69,63" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€2" seat="10" chips="€53,25" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="GLHFGG" type="1"/>
+   <action sum="€0,50" no="2" player="CmY3iCCCP" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MaxMoney" type="0"/>
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="4" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">S4 C4</cards>
+   <action sum="€1" no="6" player="13373678" type="3"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="GLHFGG" type="0"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="CmY3iCCCP" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 DA C6</cards>
+   <action sum="€0,50" no="9" player="wielly04" type="5"/>
+   <action sum="€0,50" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0,50" no="11" player="wielly04" type="5"/>
+   <action sum="€0,50" no="12" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€2,37" no="13" player="wielly04" type="5"/>
+   <action sum="€0" no="14" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687899044">
+  <general>
+   <startdate>2022-06-13 13:53:54</startdate>
+   <players>
+    <player win="€0" bet="€1" seat="1" chips="€50" dealer="1" name="GLHFGG"/>
+    <player win="€0" bet="€6" seat="3" chips="€50" dealer="0" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€13,10" bet="€12,75" seat="6" chips="€48,21" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€69,63" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€51,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="CmY3iCCCP" type="1"/>
+   <action sum="€0,50" no="2" player="MaxMoney" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <action sum="€1" no="3" player="wielly04" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">D5 D10</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action sum="€1" no="6" player="GLHFGG" type="3"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€6" no="7" player="CmY3iCCCP" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MaxMoney" type="0"/>
+   <action sum="€5" no="9" player="wielly04" type="3"/>
+   <action sum="€0" no="10" player="GLHFGG" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 SJ D7</cards>
+   <action sum="€0" no="11" player="CmY3iCCCP" type="4"/>
+   <action sum="€0" no="12" player="wielly04" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" no="13" player="CmY3iCCCP" type="4"/>
+   <action sum="€6,75" no="14" player="wielly04" type="5"/>
+   <action sum="€0" no="15" player="CmY3iCCCP" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687899140">
+  <general>
+   <startdate>2022-06-13 13:55:10</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€50" dealer="0" name="GLHFGG"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="1" name="CmY3iCCCP"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€50" dealer="0" name="MaxMoney"/>
+    <player win="€0,50" bet="€0,50" seat="6" chips="€55,31" dealer="0" name="wielly04"/>
+    <player win="€0" bet="€0" seat="8" chips="€69,63" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€51,25" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MaxMoney" type="1"/>
+   <action sum="€0,50" no="2" player="wielly04" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="wielly04" type="Pocket">X X</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="13373678" type="Pocket">DQ C7</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="GLHFGG" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="GLHFGG" type="0"/>
+   <cards player="CmY3iCCCP" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="CmY3iCCCP" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MaxMoney" type="0"/>
+  </round>
+ </game>
+</session>

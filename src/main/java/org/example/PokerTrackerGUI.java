@@ -10,10 +10,13 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
+import javafx.stage.DirectoryChooser;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 public class PokerTrackerGUI extends Application {
 
@@ -23,11 +26,13 @@ public class PokerTrackerGUI extends Application {
     private CheckBox twoTonedCheckbox;
     private CheckBox aggressorIPCheckbox;
     private CheckBox aggressorOOPCheckbox;
+    private CheckBox srpCheckbox;
     private CheckBox threeBetPotCheckbox;
     private CheckBox fourBetPotCheckbox;
     private CheckBox isoraiseCheckbox;
     private ComboBox<String> flushTextureDropdown;
     private TableView<Scenario> tableView;
+    private VBox uploadPage = new VBox();
 
     // New variables for flop, turn, and river filtering
     private TextField flopHighCard;
@@ -113,7 +118,10 @@ public class PokerTrackerGUI extends Application {
                 new Scenario("Raise vs Triple Barrel"),
                 new Scenario("Bet after Preflop Aggr checks Flop OOP"),
                 new Scenario("Bet After Aggressor checks turn OOP after Flop Cbet"),
-                new Scenario("Bet After Aggressor checks the River OOP after turn Barrel")
+                new Scenario("Bet After Aggressor checks the River OOP after turn Barrel"),
+                new Scenario("Delayed C-bet"),
+                new Scenario("Stab Turn"),
+                new Scenario("Stab River")
         );
 
         // Filterbereich erstellen (bestehender Code)
@@ -133,34 +141,78 @@ public class PokerTrackerGUI extends Application {
 
 
     private VBox createUploadPage() {
-        VBox uploadPage = new VBox();
         uploadPage.setPadding(new Insets(20));
 
+        Label fileLabel = new Label("No directory selected");
+        Button selectFolderButton = new Button("Select Folder");
 
-        // Create a button for file import
-        Button importButton = new Button("Import Hand History");
-
-        // Create a label to show the selected file path
-        Label fileLabel = new Label("No file selected");
-
-        // Add action to the import button to open file chooser
-        importButton.setOnAction(e -> {
-            FileChooser fileChooser = new FileChooser();
-            fileChooser.setTitle("Open Hand History File");
-            File selectedFile = fileChooser.showOpenDialog(null);
-            if (selectedFile != null) {
-                fileLabel.setText(selectedFile.getAbsolutePath());
-                // Trigger extraction script with the selected file
-                triggerExtraction(selectedFile.getAbsolutePath());
+        selectFolderButton.setOnAction(e -> {
+            DirectoryChooser directoryChooser = new DirectoryChooser();
+            directoryChooser.setTitle("Select Directory with XML Files");
+            File selectedDirectory = directoryChooser.showDialog(null);
+            if (selectedDirectory != null) {
+                fileLabel.setText(selectedDirectory.getAbsolutePath());
+                processAllFilesInDirectory(selectedDirectory); // Ruft den neuen Task mit Progress-Bar auf
             } else {
-                fileLabel.setText("No file selected");
+                fileLabel.setText("No directory selected");
             }
         });
 
-        // Add components to the layout
-        uploadPage.getChildren().addAll( importButton, fileLabel);
+        ProgressBar progressBar = new ProgressBar(0);
+        Label progressLabel = new Label("Progress: 0/0 files");
+
+        uploadPage.getChildren().addAll(selectFolderButton, fileLabel, progressBar, progressLabel);
         return uploadPage;
     }
+
+    private void processAllFilesInDirectory(File directory) {
+        List<File> xmlFiles = findAllXmlFiles(directory);
+        for (File file : xmlFiles) {
+            if (!isFileAlreadyProcessed(file)) {
+                processFile(file);
+            } else {
+                System.out.println("File already processed: " + file.getName());
+            }
+        }
+    }
+
+    private List<File> findAllXmlFiles(File directory) {
+        List<File> xmlFiles = new ArrayList<>();
+        for (File file : directory.listFiles()) {
+            if (file.isDirectory()) {
+                xmlFiles.addAll(findAllXmlFiles(file));
+            } else if (file.getName().endsWith(".xml")) {
+                xmlFiles.add(file);
+            }
+        }
+        return xmlFiles;
+    }
+
+    private boolean isFileAlreadyProcessed(File file) {
+        File uploadsFolder = new File("uploads");
+        if (!uploadsFolder.exists()) {
+            uploadsFolder.mkdir();
+        }
+        File processedFile = new File(uploadsFolder, file.getName());
+        return processedFile.exists();
+    }
+
+    private void processFile(File file) {
+        StartDataExtraction.start(file.getAbsolutePath());
+        moveFileToUploads(file);
+    }
+
+    private void moveFileToUploads(File file) {
+        File uploadsFolder = new File("uploads");
+        if (!uploadsFolder.exists()) {
+            uploadsFolder.mkdir();
+        }
+        File targetFile = new File(uploadsFolder, file.getName());
+        if (!file.renameTo(targetFile)) {
+            System.out.println("Failed to move file: " + file.getName());
+        }
+    }
+
 
     // Method to trigger extraction script
     private void triggerExtraction(String filepath) {
@@ -175,7 +227,7 @@ public class PokerTrackerGUI extends Application {
 
         Label filterLabel = new Label("Filter");
         flushTextureDropdown = new ComboBox<>();
-        flushTextureDropdown.getItems().addAll("NoFlush", "TurnFlush", "RiverFlush", "BDF");
+        flushTextureDropdown.getItems().addAll( "EveryFlushTexture","NoFlush", "TurnFlush", "RiverFlush", "BDF");
         flushTextureDropdown.setPromptText("Flush Texture");
 
         flushTextureDropdown.setOnAction(e -> {
@@ -267,6 +319,7 @@ public class PokerTrackerGUI extends Application {
         noMultiwayCheckbox.setSelected(true);
         aggressorIPCheckbox = new CheckBox("Aggressor IP");
         aggressorOOPCheckbox = new CheckBox("Aggressor OOP");
+        srpCheckbox = new CheckBox("SRP");
 
         threeBetPotCheckbox = new CheckBox("3Bet Pot");
         fourBetPotCheckbox = new CheckBox("4Bet Pot");
@@ -286,12 +339,20 @@ public class PokerTrackerGUI extends Application {
 
         threeBetPotCheckbox.setOnAction(e -> {
             if (threeBetPotCheckbox.isSelected()) {
+                srpCheckbox.setSelected(false);
+                fourBetPotCheckbox.setSelected(false);
+            }
+        });
+        srpCheckbox.setOnAction(e -> {
+            if (srpCheckbox.isSelected()) {
+                threeBetPotCheckbox.setSelected(false);
                 fourBetPotCheckbox.setSelected(false);
             }
         });
 
         fourBetPotCheckbox.setOnAction(e -> {
             if (fourBetPotCheckbox.isSelected()) {
+                srpCheckbox.setSelected(false);
                 threeBetPotCheckbox.setSelected(false);
             }
         });
@@ -312,7 +373,7 @@ public class PokerTrackerGUI extends Application {
         filterBox.getChildren().addAll(
                 filterLabel, flushTextureDropdown, checkboxBox, flopLabel, flopBox,
                 turnLabel, turnCardBox, riverLabel, riverCardBox, noMultiwayCheckbox,
-                aggressorIPCheckbox, aggressorOOPCheckbox, threeBetPotCheckbox,
+                aggressorIPCheckbox, aggressorOOPCheckbox, srpCheckbox, threeBetPotCheckbox,
                 fourBetPotCheckbox, isoraiseCheckbox, buttonContainer
         );
 
@@ -336,6 +397,9 @@ public class PokerTrackerGUI extends Application {
             filterQuery += " AND aggrIP = TRUE";
         }else if(aggressorOOPCheckbox.isSelected()){
             filterQuery += " AND aggrIP = FALSE";
+        }
+        if(srpCheckbox.isSelected()){
+            filterQuery += " AND potType = 'SRP'";
         }
         if(threeBetPotCheckbox.isSelected()){
             filterQuery += " AND threeBetBB > -1";
@@ -415,6 +479,8 @@ public class PokerTrackerGUI extends Application {
         if (flushTextureDropdown.getValue() != null) {
             String selectedFlushTexture = flushTextureDropdown.getValue();
             switch (selectedFlushTexture) {
+                case "EveryFlushTexture":
+                    break;
                 case "NoFlush":
                     filterQuery += " AND flushTexture = 'NoFlush'";
                     break;
@@ -503,6 +569,13 @@ public class PokerTrackerGUI extends Application {
                 return calculateBetAfterCheckTurn(scenario);
             case "Bet After Aggressor checks the River OOP after turn Barrel":
                 return calculateBetAfterCheckRiver(scenario);
+            case "Delayed C-bet":
+                return calculateDelayedCbet(scenario);
+            case "Stab Turn":
+                return calculateStabTurn(scenario);
+            case "Stab River":
+                return calculateStabRiver(scenario);
+
 
 
 
@@ -512,9 +585,6 @@ public class PokerTrackerGUI extends Application {
         }
     }
 
-
-
-// Example methods for new scenarios:
 
     private String calculateCallVsDoubleBarrel(Scenario scenario) {
         int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE" + filterQuery);
@@ -687,7 +757,7 @@ public class PokerTrackerGUI extends Application {
     }
     private String calculateBetAfterCheckRiver(Scenario scenario) {
         int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE betAfterCheckRiver = TRUE" + filterQuery);
-        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE AND tripleBarrel = FALSE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE callTurnBarrel = TRUE AND tripleBarrel = FALSE AND aggrIP = FALSE" + filterQuery);
         scenario.setPossibleCases(String.valueOf(possibleCases));
 
         if (possibleCases == 0) return "N/A";
@@ -695,6 +765,35 @@ public class PokerTrackerGUI extends Application {
         double percentage = (double) casesMet / possibleCases * 100;
         return String.format("%.2f%%", percentage);
     }
+
+    private String calculateStabRiver(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE isStabRiver = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE cbetCall = TRUE AND turnBarrel = FALSE AND aggrIP = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+
+    }
+
+    private String calculateStabTurn(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE isStabTurn = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE flopPlayers = 2 AND cbet = FALSE AND aggrIP = TRUE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
+    private String calculateDelayedCbet(Scenario scenario) {
+        int casesMet = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE isDelayedCbet = TRUE" + filterQuery);
+        int possibleCases = DatabaseConnector.executeCountQuery("SELECT COUNT(*) FROM PokerHands WHERE potType != 'LimpedPot' AND flopPlayers = 2 AND cbet = FALSE AND betAfterCheck = FALSE AND isStabTurn = FALSE" + filterQuery);
+        scenario.setPossibleCases(String.valueOf(possibleCases));
+        if (possibleCases == 0) return "N/A";
+        double percentage = (double) casesMet / possibleCases * 100;
+        return String.format("%.2f%%", percentage);
+    }
+
 
 
 

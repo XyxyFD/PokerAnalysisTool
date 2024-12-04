@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076430412">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:27:52</duration>
+  <gamecount>53</gamecount>
+  <startdate>2022-06-08 16:39:34</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€136,64</bets>
+  <wins>€161,95</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€113,15</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3686711703">
+  <general>
+   <startdate>2022-06-08 16:39:34</startdate>
+   <players>
+    <player chips="€125,55" dealer="1" win="€0" seat="3" name="Player 3" bet="€0"/>
+    <player chips="€25,96" dealer="0" win="€0" seat="6" name="Player 6" bet="€0,25"/>
+    <player chips="€65,66" dealer="0" win="€0,50" seat="8" name="Player 8" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 6" sum="€0,25" type="1"/>
+   <action no="2" player="Player 8" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" player="Player 3" sum="€0" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="4" player="Player 6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686711718">
+  <general>
+   <startdate>2022-06-08 16:39:41</startdate>
+   <players>
+    <player chips="€125,55" dealer="0" win="€0" seat="3" name="Player 3" bet="€0,50"/>
+    <player chips="€25,71" dealer="1" win="€0" seat="6" name="Player 6" bet="€1"/>
+    <player chips="€65,91" dealer="0" win="€2,50" seat="8" name="Player 8" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 8" sum="€0,25" type="1"/>
+   <action no="2" player="Player 3" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="3" player="Player 6" sum="€1" type="23"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="4" player="Player 8" sum="€3" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="5" player="Player 3" sum="€0" type="0"/>
+   <action no="6" player="Player 6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686711751">
+  <general>
+   <startdate>2022-06-08 16:40:01</startdate>
+   <players>
+    <player chips="€125,05" dealer="0" win="€0" seat="3" name="Player 3" bet="€1,50"/>
+    <player chips="€24,71" dealer="0" win="€2,91" seat="6" name="Player 6" bet="€3,60"/>
+    <player chips="€67,41" dealer="1" win="€0" seat="8" name="Player 8" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 3" sum="€0,25" type="1"/>
+   <action no="2" player="Player 6" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="3" player="Player 8" sum="€0" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="4" player="Player 3" sum="€1,50" type="23"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="5" player="Player 6" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 C7 D8</cards>
+   <action no="6" player="Player 3" sum="€0" type="4"/>
+   <action no="7" player="Player 6" sum="€2,10" type="5"/>
+   <action no="8" player="Player 3" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686711781">
+  <general>
+   <startdate>2022-06-08 16:40:17</startdate>
+   <players>
+    <player chips="€123,55" dealer="1" win="€0" seat="3" name="Player 3" bet="€0"/>
+    <player chips="€26,12" dealer="0" win="€0" seat="6" name="Player 6" bet="€6,30"/>
+    <player chips="€67,41" dealer="0" win="€12,22" seat="8" name="Player 8" bet="€26,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 6" sum="€0,25" type="1"/>
+   <action no="2" player="Player 8" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" player="Player 3" sum="€0" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="4" player="Player 6" sum="€1" type="23"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="5" player="Player 8" sum="€3" type="23"/>
+   <action no="6" player="Player 6" sum="€2" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA CQ D7</cards>
+   <action no="7" player="Player 6" sum="€0" type="4"/>
+   <action no="8" player="Player 8" sum="€1,80" type="5"/>
+   <action no="9" player="Player 6" sum="€1,80" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="10" player="Player 6" sum="€0" type="4"/>
+   <action no="11" player="Player 8" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action no="12" player="Player 6" sum="€1,50" type="5"/>
+   <action no="13" player="Player 8" sum="€21,32" type="23"/>
+   <action no="14" player="Player 6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686711842">
+  <general>
+   <startdate>2022-06-08 16:40:59</startdate>
+   <players>
+    <player chips="€50" dealer="0" win="€0" seat="1" name="13373678" bet="€0,50"/>
+    <player chips="€123,55" dealer="0" win="€3,16" seat="3" name="LazyKoala" bet="€2,32"/>
+    <player chips="€19,82" dealer="1" win="€0" seat="6" name="Nolit" bet="€1,25"/>
+    <player chips="€73,33" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€1,25" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€1,25" type="3"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C2 S5</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 CQ S7</cards>
+   <action no="7" player="LazyKoala" sum="€1,07" type="5"/>
+   <action no="8" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686712829">
+  <general>
+   <startdate>2022-06-08 16:41:22</startdate>
+   <players>
+    <player chips="€50" dealer="0" win="€1" seat="1" name="13373678" bet="€1,50"/>
+    <player chips="€125,46" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€18,57" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€73,08" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">DA HJ</cards>
+   <action no="5" player="13373678" sum="€1,50" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713009">
+  <general>
+   <startdate>2022-06-08 16:41:36</startdate>
+   <players>
+    <player chips="€50,50" dealer="1" win="€9,32" seat="1" name="13373678" bet="€16,69"/>
+    <player chips="€124,96" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€4,68"/>
+    <player chips="€18,57" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€73,08" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D8 DA</cards>
+   <action no="5" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D4 DJ</cards>
+   <action no="8" player="AllGlorytoJC" sum="€0" type="4"/>
+   <action no="9" player="13373678" sum="€3,43" type="5"/>
+   <action no="10" player="AllGlorytoJC" sum="€3,43" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action no="11" player="AllGlorytoJC" sum="€0" type="4"/>
+   <action no="12" player="13373678" sum="€12,01" type="5"/>
+   <action no="13" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713079">
+  <general>
+   <startdate>2022-06-08 16:42:13</startdate>
+   <players>
+    <player chips="€55,14" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€124,71" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€6,75" seat="5" name="AllGlorytoJC" bet="€8,07"/>
+    <player chips="€18,57" dealer="0" win="€0" seat="6" name="Nolit" bet="€3,48"/>
+    <player chips="€73,08" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S6 H10</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€1,50" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S3 S5</cards>
+   <action no="8" player="AllGlorytoJC" sum="€1,98" type="5"/>
+   <action no="9" player="Nolit" sum="€1,98" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action no="10" player="AllGlorytoJC" sum="€4,59" type="5"/>
+   <action no="11" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713324">
+  <general>
+   <startdate>2022-06-08 16:42:43</startdate>
+   <players>
+    <player chips="€55,14" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€124,71" dealer="0" win="€2,67" seat="3" name="LazyKoala" bet="€3,31"/>
+    <player chips="€53,27" dealer="1" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€15,09" dealer="0" win="€0" seat="6" name="Nolit" bet="€0,25"/>
+    <player chips="€73,08" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 H8</cards>
+   <action no="3" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€1,25" type="23"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 H6 D6</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="9" player="LazyKoala" sum="€2,06" type="5"/>
+   <action no="10" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713373">
+  <general>
+   <startdate>2022-06-08 16:43:09</startdate>
+   <players>
+    <player chips="€55,14" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€126,13" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€53,27" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€14,84" dealer="1" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€71,83" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0,50" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S2 D9</cards>
+   <action no="3" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713402">
+  <general>
+   <startdate>2022-06-08 16:43:28</startdate>
+   <players>
+    <player chips="€55,14" dealer="0" win="€0" seat="1" name="13373678" bet="€0,50"/>
+    <player chips="€126,13" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€53,27" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€14,84" dealer="0" win="€1,25" seat="6" name="Nolit" bet="€1,50"/>
+    <player chips="€71,58" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50,25" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="5" player="Nolit" sum="€1,50" type="23"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="6" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">SJ D2</cards>
+   <action no="8" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713435">
+  <general>
+   <startdate>2022-06-08 16:43:47</startdate>
+   <players>
+    <player chips="€54,64" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€126,13" dealer="0" win="€0,50" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€53,27" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€15,59" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€71,58" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D3 CQ</cards>
+   <action no="7" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713461">
+  <general>
+   <startdate>2022-06-08 16:44:02</startdate>
+   <players>
+    <player chips="€54,39" dealer="1" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€126,38" dealer="0" win="€5,82" seat="3" name="LazyKoala" bet="€6,50"/>
+    <player chips="€53,27" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€3"/>
+    <player chips="€15,59" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€71,58" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S3 H2</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€1,50" type="23"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="8" player="AllGlorytoJC" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S9 DJ</cards>
+   <action no="9" player="LazyKoala" sum="€0" type="4"/>
+   <action no="10" player="AllGlorytoJC" sum="€1,50" type="5"/>
+   <action no="11" player="LazyKoala" sum="€1,50" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="12" player="LazyKoala" sum="€0" type="4"/>
+   <action no="13" player="AllGlorytoJC" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action no="14" player="LazyKoala" sum="€3,50" type="5"/>
+   <action no="15" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713542">
+  <general>
+   <startdate>2022-06-08 16:44:48</startdate>
+   <players>
+    <player chips="€54,39" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€129,20" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50,27" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€3"/>
+    <player chips="€15,59" dealer="0" win="€5,82" seat="6" name="Nolit" bet="€6"/>
+    <player chips="€71,58" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="4" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D6 C3</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€1,50" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="8" player="Nolit" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK H8 DA</cards>
+   <action no="9" player="AllGlorytoJC" sum="€1,50" type="5"/>
+   <action no="10" player="Nolit" sum="€1,50" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action no="11" player="AllGlorytoJC" sum="€0" type="4"/>
+   <action no="12" player="Nolit" sum="€3" type="5"/>
+   <action no="13" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713603">
+  <general>
+   <startdate>2022-06-08 16:45:23</startdate>
+   <players>
+    <player chips="€54,39" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€129,20" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€18,41" dealer="0" win="€0" seat="6" name="Nolit" bet="€0,25"/>
+    <player chips="€71,58" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€1,10"/>
+    <player chips="€50" dealer="0" win="€2,38" seat="10" name="Kakkelberg" bet="€3,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="3" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">HA H9</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0,60" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 H6 S4</cards>
+   <action no="9" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="10" player="Kakkelberg" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action no="11" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="12" player="Kakkelberg" sum="€2" type="5"/>
+   <action no="13" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713687">
+  <general>
+   <startdate>2022-06-08 16:46:12</startdate>
+   <players>
+    <player chips="€54,39" dealer="0" win="€3,16" seat="1" name="13373678" bet="€2,32"/>
+    <player chips="€129,20" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€1,25"/>
+    <player chips="€18,16" dealer="1" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€70,48" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,25"/>
+    <player chips="€51,28" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 S8</cards>
+   <action no="3" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€1,25" type="3"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="8" player="Kakkelberg" sum="€0" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 DA HK</cards>
+   <action no="9" player="13373678" sum="€1,07" type="5"/>
+   <action no="10" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713725">
+  <general>
+   <startdate>2022-06-08 16:46:36</startdate>
+   <players>
+    <player chips="€56,30" dealer="0" win="€0" seat="1" name="13373678" bet="€0,50"/>
+    <player chips="€129,20" dealer="0" win="€12,81" seat="3" name="LazyKoala" bet="€11,59"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€18,16" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€70,23" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€6,23"/>
+    <player chips="€50,78" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€1,25" type="23"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="5" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="6" player="UduHaXyuKopa6JIb" sum="€3,75" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C3 H10</cards>
+   <action no="8" player="13373678" sum="€0" type="0"/>
+   <action no="9" player="LazyKoala" sum="€2,50" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 D5 DQ</cards>
+   <action no="10" player="LazyKoala" sum="€0" type="4"/>
+   <action no="11" player="UduHaXyuKopa6JIb" sum="€2,48" type="5"/>
+   <action no="12" player="LazyKoala" sum="€7,84" type="23"/>
+   <action no="13" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713805">
+  <general>
+   <startdate>2022-06-08 16:47:20</startdate>
+   <players>
+    <player chips="€55,80" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€135,78" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€18,16" dealer="0" win="€0" seat="6" name="Nolit" bet="€3"/>
+    <player chips="€64" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50,53" dealer="1" win="€6,55" seat="10" name="Kakkelberg" bet="€5,97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€1" type="23"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€3" type="23"/>
+   <cards player="13373678" type="Pocket">SJ C4</cards>
+   <action no="7" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="8" player="LazyKoala" sum="€0" type="0"/>
+   <action no="9" player="Nolit" sum="€2" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 HA S4</cards>
+   <action no="10" player="Nolit" sum="€0" type="4"/>
+   <action no="11" player="Kakkelberg" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action no="12" player="Nolit" sum="€0" type="4"/>
+   <action no="13" player="Kakkelberg" sum="€2,97" type="5"/>
+   <action no="14" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713866">
+  <general>
+   <startdate>2022-06-08 16:47:53</startdate>
+   <players>
+    <player chips="€55,55" dealer="1" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€135,28" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,50"/>
+    <player chips="€15,16" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€64" dealer="0" win="€1,25" seat="8" name="UduHaXyuKopa6JIb" bet="€1,25"/>
+    <player chips="€54,08" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€1,25" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H3 SQ</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="8" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713899">
+  <general>
+   <startdate>2022-06-08 16:48:13</startdate>
+   <players>
+    <player chips="€55,55" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€135,03" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,25"/>
+    <player chips="€15,16" dealer="0" win="€0,50" seat="6" name="Nolit" bet="€0,50"/>
+    <player chips="€64,75" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€54,08" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="4" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">CQ S5</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713918">
+  <general>
+   <startdate>2022-06-08 16:48:25</startdate>
+   <players>
+    <player chips="€55,55" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€135,03" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="5" name="AllGlorytoJC" bet="€1,25"/>
+    <player chips="€15,41" dealer="0" win="€3" seat="6" name="Nolit" bet="€15,41"/>
+    <player chips="€64,75" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,50"/>
+    <player chips="€54,08" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="3" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H2 H5</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€1,25" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€15,41" type="23"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <action no="9" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686713987">
+  <general>
+   <startdate>2022-06-08 16:49:04</startdate>
+   <players>
+    <player chips="€55,55" dealer="0" win="€7,31" seat="1" name="13373678" bet="€7,15"/>
+    <player chips="€135,03" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€17,16" dealer="1" win="€0" seat="6" name="Nolit" bet="€3,39"/>
+    <player chips="€64,25" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,25"/>
+    <player chips="€54,08" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ HA</cards>
+   <action no="3" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€1,25" type="3"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="8" player="Kakkelberg" sum="€0" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 CJ S5</cards>
+   <action no="9" player="13373678" sum="€0" type="4"/>
+   <action no="10" player="Nolit" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action no="11" player="13373678" sum="€2,14" type="5"/>
+   <action no="12" player="Nolit" sum="€2,14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action no="13" player="13373678" sum="€3,76" type="5"/>
+   <action no="14" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686714068">
+  <general>
+   <startdate>2022-06-08 16:49:50</startdate>
+   <players>
+    <player chips="€59,47" dealer="0" win="€2,19" seat="1" name="13373678" bet="€2,48"/>
+    <player chips="€135,03" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€13,77" dealer="0" win="€0" seat="6" name="Nolit" bet="€1"/>
+    <player chips="€64" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€53,58" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="5" player="Nolit" sum="€1" type="23"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="6" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H8 H6</cards>
+   <action no="8" player="13373678" sum="€0,50" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H4 S8</cards>
+   <action no="9" player="13373678" sum="€0" type="4"/>
+   <action no="10" player="Nolit" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action no="11" player="13373678" sum="€1,48" type="5"/>
+   <action no="12" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686714414">
+  <general>
+   <startdate>2022-06-08 16:50:19</startdate>
+   <players>
+    <player chips="€60,66" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€135,03" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€1,94"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€12,77" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€64" dealer="0" win="€4,01" seat="8" name="UduHaXyuKopa6JIb" bet="€5,07"/>
+    <player chips="€53,33" dealer="1" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€1,25" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S7 SK</cards>
+   <action no="7" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="8" player="LazyKoala" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C2 DQ</cards>
+   <action no="9" player="LazyKoala" sum="€0" type="4"/>
+   <action no="10" player="UduHaXyuKopa6JIb" sum="€0,69" type="5"/>
+   <action no="11" player="LazyKoala" sum="€0,69" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action no="12" player="LazyKoala" sum="€0" type="4"/>
+   <action no="13" player="UduHaXyuKopa6JIb" sum="€3,13" type="5"/>
+   <action no="14" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686714678">
+  <general>
+   <startdate>2022-06-08 16:50:57</startdate>
+   <players>
+    <player chips="€60,41" dealer="1" win="€2,67" seat="1" name="13373678" bet="€2,62"/>
+    <player chips="€133,09" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€1,25"/>
+    <player chips="€12,77" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€66,07" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€53,33" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">CA C6</cards>
+   <action no="6" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="8" player="AllGlorytoJC" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H6 C9</cards>
+   <action no="9" player="AllGlorytoJC" sum="€0" type="4"/>
+   <action no="10" player="13373678" sum="€1,37" type="5"/>
+   <action no="11" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686714733">
+  <general>
+   <startdate>2022-06-08 16:51:28</startdate>
+   <players>
+    <player chips="€61,83" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,84" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,25"/>
+    <player chips="€12,77" dealer="0" win="€25,01" seat="6" name="Nolit" bet="€12,77"/>
+    <player chips="€66,07" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€53,33" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€12,77"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">HQ CQ</cards>
+   <action no="4" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">S7 DQ</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">C10 DA</cards>
+   <action no="8" player="Nolit" sum="€12,77" type="23"/>
+   <action no="9" player="Kakkelberg" sum="€11,67" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H10 C9</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+  </round>
+ </game>
+ <game gamecode="3686714795">
+  <general>
+   <startdate>2022-06-08 16:52:03</startdate>
+   <players>
+    <player chips="€61,83" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,84" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="1" win="€1,25" seat="5" name="AllGlorytoJC" bet="€1,25"/>
+    <player chips="€25,01" dealer="0" win="€0" seat="6" name="Nolit" bet="€0,25"/>
+    <player chips="€66,07" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,50"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="3" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D10 SJ</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€1,25" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686714839">
+  <general>
+   <startdate>2022-06-08 16:52:29</startdate>
+   <players>
+    <player chips="€61,83" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,84" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€15,50"/>
+    <player chips="€24,76" dealer="1" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€65,57" dealer="0" win="€30,55" seat="8" name="UduHaXyuKopa6JIb" bet="€50,75"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 HJ</cards>
+   <action no="3" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€1,50" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€6" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="8" player="Kakkelberg" sum="€0" type="0"/>
+   <action no="9" player="AllGlorytoJC" sum="€4,50" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C7 SA</cards>
+   <action no="10" player="UduHaXyuKopa6JIb" sum="€9,50" type="5"/>
+   <action no="11" player="AllGlorytoJC" sum="€9,50" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="12" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="13" player="AllGlorytoJC" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action no="14" player="UduHaXyuKopa6JIb" sum="€35,25" type="5"/>
+   <action no="15" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686715886">
+  <general>
+   <startdate>2022-06-08 16:53:49</startdate>
+   <players>
+    <player chips="€61,83" dealer="0" win="€2,67" seat="1" name="13373678" bet="€3,06"/>
+    <player chips="€132,84" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€24,76" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€80,62" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€1,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="5" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="6" player="UduHaXyuKopa6JIb" sum="€1,25" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S5 S7</cards>
+   <action no="8" player="13373678" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C3 D3</cards>
+   <action no="9" player="13373678" sum="€0" type="4"/>
+   <action no="10" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action no="11" player="13373678" sum="€1,81" type="5"/>
+   <action no="12" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686715960">
+  <general>
+   <startdate>2022-06-08 16:54:35</startdate>
+   <players>
+    <player chips="€63,25" dealer="0" win="€1" seat="1" name="13373678" bet="€1,50"/>
+    <player chips="€132,84" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€24,76" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€79,37" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C10 HQ</cards>
+   <action no="7" player="13373678" sum="€1,50" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="8" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716000">
+  <general>
+   <startdate>2022-06-08 16:54:57</startdate>
+   <players>
+    <player chips="€63,75" dealer="1" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,34" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,50"/>
+    <player chips="€24,76" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€79,37" dealer="0" win="€1,25" seat="8" name="UduHaXyuKopa6JIb" bet="€1,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="3" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€1,25" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C6 CK</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="8" player="AllGlorytoJC" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716026">
+  <general>
+   <startdate>2022-06-08 16:55:17</startdate>
+   <players>
+    <player chips="€63,75" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,09" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,25"/>
+    <player chips="€24,76" dealer="0" win="€0" seat="6" name="Nolit" bet="€0,50"/>
+    <player chips="€80,12" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="0" win="€1,25" seat="10" name="Kakkelberg" bet="€1,10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="4" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">D8 H5</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="8" player="Nolit" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716055">
+  <general>
+   <startdate>2022-06-08 16:55:32</startdate>
+   <players>
+    <player chips="€63,75" dealer="0" win="€6,03" seat="1" name="13373678" bet="€6,57"/>
+    <player chips="€132,09" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€24,26" dealer="0" win="€0" seat="6" name="Nolit" bet="€1,25"/>
+    <player chips="€80,12" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€2,48"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="3" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">C4 CA</cards>
+   <action no="4" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€1" type="3"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C6 C10</cards>
+   <action no="9" player="Nolit" sum="€0" type="4"/>
+   <action no="10" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="11" player="13373678" sum="€1,23" type="5"/>
+   <action no="12" player="Nolit" sum="€0" type="0"/>
+   <action no="13" player="UduHaXyuKopa6JIb" sum="€1,23" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="14" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="15" player="13373678" sum="€4,09" type="5"/>
+   <action no="16" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716179">
+  <general>
+   <startdate>2022-06-08 16:56:41</startdate>
+   <players>
+    <player chips="€67,30" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€132,09" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€23,01" dealer="1" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€77,64" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0,25"/>
+    <player chips="€50,75" dealer="0" win="€0,50" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="UduHaXyuKopa6JIb" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 S8</cards>
+   <action no="3" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="6" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="7" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716211">
+  <general>
+   <startdate>2022-06-08 16:56:59</startdate>
+   <players>
+    <player chips="€67,30" dealer="0" win="€0" seat="1" name="13373678" bet="€0,50"/>
+    <player chips="€132,09" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€1,25" seat="5" name="AllGlorytoJC" bet="€1,50"/>
+    <player chips="€23,01" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€77,39" dealer="1" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€51" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€1,50" type="23"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="5" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="6" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">CJ H6</cards>
+   <action no="8" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716239">
+  <general>
+   <startdate>2022-06-08 16:57:16</startdate>
+   <players>
+    <player chips="€66,80" dealer="0" win="€9" seat="1" name="13373678" bet="€12"/>
+    <player chips="€132,09" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€4,50"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€23,01" dealer="0" win="€0" seat="6" name="Nolit" bet="€0"/>
+    <player chips="€77,39" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50,75" dealer="1" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="4" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">HK SA</cards>
+   <action no="7" player="13373678" sum="€1,50" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="8" player="LazyKoala" sum="€4,50" type="23"/>
+   <action no="9" player="13373678" sum="€12" type="23"/>
+   <action no="10" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716294">
+  <general>
+   <startdate>2022-06-08 16:57:48</startdate>
+   <players>
+    <player chips="€71,30" dealer="1" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€127,59" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€23,01"/>
+    <player chips="€23,01" dealer="0" win="€44,87" seat="6" name="Nolit" bet="€23,01"/>
+    <player chips="€77,39" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nolit" type="Pocket">HQ SA</cards>
+   <action no="3" player="Nolit" sum="€1,50" type="23"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S7 H5</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">S9 C9</cards>
+   <action no="8" player="AllGlorytoJC" sum="€6" type="23"/>
+   <action no="9" player="Nolit" sum="€23,01" type="23"/>
+   <action no="10" player="AllGlorytoJC" sum="€17,01" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA CJ D8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+  </round>
+ </game>
+ <game gamecode="3686716361">
+  <general>
+   <startdate>2022-06-08 16:58:23</startdate>
+   <players>
+    <player chips="€71,30" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€127,34" dealer="1" win="€15,47" seat="3" name="LazyKoala" bet="€7,05"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,25"/>
+    <player chips="€44,87" dealer="0" win="€0" seat="6" name="Nolit" bet="€1,60"/>
+    <player chips="€77,39" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€7,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Nolit" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">SA C5</cards>
+   <action no="4" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">HQ SJ</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">CA S10</cards>
+   <action no="6" player="LazyKoala" sum="€1,10" type="3"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="8" player="Nolit" sum="€0,60" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ H7 DA</cards>
+   <action no="9" player="Nolit" sum="€0,50" type="5"/>
+   <action no="10" player="Kakkelberg" sum="€2,22" type="23"/>
+   <action no="11" player="LazyKoala" sum="€2,22" type="3"/>
+   <action no="12" player="Nolit" sum="€0" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="13" player="Kakkelberg" sum="€0" type="4"/>
+   <action no="14" player="LazyKoala" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action no="15" player="Kakkelberg" sum="€3,73" type="5"/>
+   <action no="16" player="LazyKoala" sum="€3,73" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3686716453">
+  <general>
+   <startdate>2022-06-08 16:59:16</startdate>
+   <players>
+    <player chips="€71,30" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€135,76" dealer="0" win="€47,88" seat="3" name="LazyKoala" bet="€24,01"/>
+    <player chips="€50" dealer="1" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€77,39" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€1,10"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€24,01"/>
+    <player chips="€43,27" dealer="0" win="€0" seat="6" name="Nolit" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Nolit" sum="€0,25" type="1"/>
+   <action no="2" player="UduHaXyuKopa6JIb" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">S10 CQ</cards>
+   <action no="3" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">D8 C7</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">DJ HK</cards>
+   <action no="5" player="LazyKoala" sum="€1,10" type="3"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="6" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Nolit" type="Pocket">X X</cards>
+   <action no="7" player="Nolit" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="8" player="UduHaXyuKopa6JIb" sum="€0,60" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H9 SJ</cards>
+   <action no="9" player="UduHaXyuKopa6JIb" sum="€0" type="4"/>
+   <action no="10" player="Kakkelberg" sum="€2,91" type="5"/>
+   <action no="11" player="LazyKoala" sum="€2,91" type="3"/>
+   <action no="12" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="13" player="Kakkelberg" sum="€0" type="4"/>
+   <action no="14" player="LazyKoala" sum="€6" type="5"/>
+   <action no="15" player="Kakkelberg" sum="€6" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action no="16" player="Kakkelberg" sum="€14" type="5"/>
+   <action no="17" player="LazyKoala" sum="€14" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3686716613">
+  <general>
+   <startdate>2022-06-08 17:00:50</startdate>
+   <players>
+    <player chips="€71,30" dealer="0" win="€0" seat="1" name="13373678" bet="€1,25"/>
+    <player chips="€159,63" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€76,29" dealer="1" win="€2,67" seat="8" name="UduHaXyuKopa6JIb" bet="€2,08"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="4" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="5" player="UduHaXyuKopa6JIb" sum="€1,25" type="23"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">D5 SA</cards>
+   <action no="7" player="13373678" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 SQ HJ</cards>
+   <action no="8" player="13373678" sum="€0" type="4"/>
+   <action no="9" player="UduHaXyuKopa6JIb" sum="€0,83" type="5"/>
+   <action no="10" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716675">
+  <general>
+   <startdate>2022-06-08 17:01:29</startdate>
+   <players>
+    <player chips="€70,05" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€159,63" dealer="0" win="€0,50" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+    <player chips="€77,71" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="1" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="4" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">CJ S4</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716700">
+  <general>
+   <startdate>2022-06-08 17:01:42</startdate>
+   <players>
+    <player chips="€69,80" dealer="1" win="€99,25" seat="1" name="13373678" bet="€50"/>
+    <player chips="€159,88" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,50"/>
+    <player chips="€77,71" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="AllGlorytoJC" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">DJ HJ</cards>
+   <action no="4" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">SA DK</cards>
+   <action no="5" player="13373678" sum="€3,75" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="6" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+   <action no="8" player="Kakkelberg" sum="€50" type="23"/>
+   <action no="9" player="13373678" sum="€46,25" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C2 SQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+  </round>
+ </game>
+ <game gamecode="3686716752">
+  <general>
+   <startdate>2022-06-08 17:02:19</startdate>
+   <players>
+    <player chips="€119,05" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€159,63" dealer="1" win="€4,41" seat="3" name="LazyKoala" bet="€4,42"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€4,41" seat="6" name="Apathey" bet="€4,42"/>
+    <player chips="€77,71" dealer="0" win="€0" seat="8" name="UduHaXyuKopa6JIb" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="AllGlorytoJC" sum="€0,25" type="1"/>
+   <action no="2" player="Apathey" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="UduHaXyuKopa6JIb" type="Pocket">X X</cards>
+   <action no="3" player="UduHaXyuKopa6JIb" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="4" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">H4 DJ</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">D6 DA</cards>
+   <action no="6" player="LazyKoala" sum="€1,25" type="23"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="7" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">D3 SA</cards>
+   <action no="8" player="Apathey" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D4 H10</cards>
+   <action no="9" player="Apathey" sum="€0" type="4"/>
+   <action no="10" player="LazyKoala" sum="€0,90" type="5"/>
+   <action no="11" player="Apathey" sum="€0,90" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action no="12" player="Apathey" sum="€0" type="4"/>
+   <action no="13" player="LazyKoala" sum="€0" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action no="14" player="Apathey" sum="€2,27" type="5"/>
+   <action no="15" player="LazyKoala" sum="€2,27" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3686716834">
+  <general>
+   <startdate>2022-06-08 17:03:08</startdate>
+   <players>
+    <player chips="€119,05" dealer="0" win="€0" seat="1" name="13373678" bet="€0"/>
+    <player chips="€159,62" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50" dealer="1" win="€1,25" seat="5" name="AllGlorytoJC" bet="€1,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="6" name="Apathey" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Apathey" sum="€0,25" type="1"/>
+   <action no="2" player="Kakkelberg" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 H5</cards>
+   <action no="3" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="5" player="AllGlorytoJC" sum="€1,25" type="23"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="6" player="Apathey" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="7" player="Kakkelberg" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716880">
+  <general>
+   <startdate>2022-06-08 17:03:36</startdate>
+   <players>
+    <player chips="€119,05" dealer="0" win="€14,60" seat="1" name="13373678" bet="€7,40"/>
+    <player chips="€159,62" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€7,40"/>
+    <player chips="€50" dealer="1" win="€0" seat="6" name="Apathey" bet="€0"/>
+    <player chips="€50" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kakkelberg" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="AllGlorytoJC" type="Pocket">D9 S9</cards>
+   <action no="4" player="AllGlorytoJC" sum="€1,50" type="23"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="5" player="Apathey" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="6" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">HJ C9</cards>
+   <action no="7" player="13373678" sum="€1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D5 C4</cards>
+   <action no="8" player="13373678" sum="€0" type="4"/>
+   <action no="9" player="AllGlorytoJC" sum="€1,62" type="5"/>
+   <action no="10" player="13373678" sum="€1,62" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action no="11" player="13373678" sum="€0" type="4"/>
+   <action no="12" player="AllGlorytoJC" sum="€4,28" type="5"/>
+   <action no="13" player="13373678" sum="€4,28" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action no="14" player="13373678" sum="€0" type="4"/>
+   <action no="15" player="AllGlorytoJC" sum="€0" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3686716952">
+  <general>
+   <startdate>2022-06-08 17:04:18</startdate>
+   <players>
+    <player chips="€126,25" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€159,62" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€50" dealer="0" win="€0" seat="6" name="Apathey" bet="€0"/>
+    <player chips="€50" dealer="1" win="€1,25" seat="10" name="Kakkelberg" bet="€1,10"/>
+    <player chips="€50" dealer="0" win="€0" seat="5" name="AllGlorytoJC" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action no="3" player="AllGlorytoJC" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="4" player="Apathey" sum="€0" type="0"/>
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="5" player="Kakkelberg" sum="€1,10" type="23"/>
+   <cards player="13373678" type="Pocket">HJ S10</cards>
+   <action no="6" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="7" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686716979">
+  <general>
+   <startdate>2022-06-08 17:04:34</startdate>
+   <players>
+    <player chips="€126" dealer="1" win="€1,25" seat="1" name="13373678" bet="€1,25"/>
+    <player chips="€159,12" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="6" name="Apathey" bet="€0,50"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="10" name="Kakkelberg" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="Apathey" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kakkelberg" type="Pocket">X X</cards>
+   <action no="3" player="Kakkelberg" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">SA D8</cards>
+   <action no="4" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="6" player="Apathey" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686717000">
+  <general>
+   <startdate>2022-06-08 17:04:49</startdate>
+   <players>
+    <player chips="€126,75" dealer="0" win="€0" seat="1" name="13373678" bet="€14,10"/>
+    <player chips="€158,87" dealer="1" win="€27,59" seat="3" name="LazyKoala" bet="€36,60"/>
+    <player chips="€50" dealer="0" win="€0" seat="6" name="Apathey" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Apathey" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€1,25" type="23"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="4" player="Apathey" sum="€0" type="0"/>
+   <cards player="13373678" type="Pocket">S10 HK</cards>
+   <action no="5" player="13373678" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA DA S6</cards>
+   <action no="6" player="13373678" sum="€0" type="4"/>
+   <action no="7" player="LazyKoala" sum="€0,90" type="5"/>
+   <action no="8" player="13373678" sum="€0,90" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action no="9" player="13373678" sum="€1,50" type="5"/>
+   <action no="10" player="LazyKoala" sum="€4,52" type="23"/>
+   <action no="11" player="13373678" sum="€11,95" type="23"/>
+   <action no="12" player="LazyKoala" sum="€7,43" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action no="13" player="13373678" sum="€0" type="4"/>
+   <action no="14" player="LazyKoala" sum="€22,50" type="5"/>
+   <action no="15" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686718027">
+  <general>
+   <startdate>2022-06-08 17:06:17</startdate>
+   <players>
+    <player chips="€112,65" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€172,36" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,50"/>
+    <player chips="€50" dealer="1" win="€1,25" seat="6" name="Apathey" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="3" player="Apathey" sum="€1,50" type="23"/>
+   <cards player="13373678" type="Pocket">D5 SJ</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686718043">
+  <general>
+   <startdate>2022-06-08 17:06:28</startdate>
+   <players>
+    <player chips="€112,40" dealer="1" win="€1,25" seat="1" name="13373678" bet="€1,25"/>
+    <player chips="€171,86" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50,75" dealer="0" win="€0" seat="6" name="Apathey" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="Apathey" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK C10</cards>
+   <action no="3" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="5" player="Apathey" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686718062">
+  <general>
+   <startdate>2022-06-08 17:06:40</startdate>
+   <players>
+    <player chips="€113,15" dealer="0" win="€0" seat="1" name="13373678" bet="€0,50"/>
+    <player chips="€171,61" dealer="1" win="€0" seat="3" name="LazyKoala" bet="€0"/>
+    <player chips="€50,25" dealer="0" win="€1" seat="6" name="Apathey" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Apathey" sum="€0,25" type="1"/>
+   <action no="2" player="13373678" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="3" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="4" player="Apathey" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">C7 H3</cards>
+   <action no="5" player="13373678" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686718092">
+  <general>
+   <startdate>2022-06-08 17:06:53</startdate>
+   <players>
+    <player chips="€112,65" dealer="0" win="€0" seat="1" name="13373678" bet="€0,25"/>
+    <player chips="€171,61" dealer="0" win="€2,75" seat="3" name="LazyKoala" bet="€5"/>
+    <player chips="€50,75" dealer="1" win="€0" seat="6" name="Apathey" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" sum="€0,25" type="1"/>
+   <action no="2" player="LazyKoala" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="3" player="Apathey" sum="€1,25" type="23"/>
+   <cards player="13373678" type="Pocket">H5 H3</cards>
+   <action no="4" player="13373678" sum="€0" type="0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="5" player="LazyKoala" sum="€5" type="23"/>
+   <action no="6" player="Apathey" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3686718125">
+  <general>
+   <startdate>2022-06-08 17:07:12</startdate>
+   <players>
+    <player chips="€112,40" dealer="1" win="€1,25" seat="1" name="13373678" bet="€1,25"/>
+    <player chips="€173,11" dealer="0" win="€0" seat="3" name="LazyKoala" bet="€0,25"/>
+    <player chips="€50" dealer="0" win="€0" seat="6" name="Apathey" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="LazyKoala" sum="€0,25" type="1"/>
+   <action no="2" player="Apathey" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 D4</cards>
+   <action no="3" player="13373678" sum="€1,25" type="23"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action no="4" player="LazyKoala" sum="€0" type="0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action no="5" player="Apathey" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

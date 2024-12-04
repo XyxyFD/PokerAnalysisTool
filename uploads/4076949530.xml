@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076949530">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:04</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-06-16 11:25:45</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,50</bets>
+  <wins>€0,50</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€50,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688535408">
+  <general>
+   <startdate>2022-06-16 11:25:45</startdate>
+   <players>
+    <player chips="€50" win="€0,50" name="13373678" dealer="0" seat="1" bet="€0,50"/>
+    <player chips="€61,65" win="€0" name="fsgdhfsjm" dealer="1" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="fsgdhfsjm" no="1" type="1" sum="€0,25"/>
+   <action player="13373678" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 C6</cards>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action player="fsgdhfsjm" no="3" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

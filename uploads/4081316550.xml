@@ -1,0 +1,2803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081316550">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:45:59</duration>
+  <gamecount>78</gamecount>
+  <startdate>2022-08-16 22:15:14</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€224,06</bets>
+  <wins>€98,05</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€96,70</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3703153530">
+  <general>
+   <startdate>2022-08-16 22:15:14</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="Player 1" win="€0" chips="€108,96"/>
+    <player bet="€0,50" seat="5" dealer="0" name="Player 5" win="€0" chips="€132,74"/>
+    <player bet="€1" seat="6" dealer="0" name="Player 6" win="€0" chips="€119,97"/>
+    <player bet="€3" seat="8" dealer="0" name="Player 8" win="€2,50" chips="€74,14"/>
+    <player bet="€0" seat="10" dealer="0" name="Player 10" win="€0" chips="€113,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 5"/>
+   <action sum="€1" type="2" no="2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€3" type="23" no="3" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 6"/>
+  </round>
+ </game>
+ <game gamecode="3703153565">
+  <general>
+   <startdate>2022-08-16 22:15:29</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="Player 1" win="€0" chips="€108,96"/>
+    <player bet="€0" seat="5" dealer="1" name="Player 5" win="€0" chips="€132,24"/>
+    <player bet="€0,50" seat="6" dealer="0" name="Player 6" win="€0" chips="€118,97"/>
+    <player bet="€1" seat="8" dealer="0" name="Player 8" win="€1" chips="€75,64"/>
+    <player bet="€0" seat="10" dealer="0" name="Player 10" win="€0" chips="€113,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 6"/>
+   <action sum="€1" type="2" no="2" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="5" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 6"/>
+  </round>
+ </game>
+ <game gamecode="3703153592">
+  <general>
+   <startdate>2022-08-16 22:15:38</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="Player 1" win="€0" chips="€108,96"/>
+    <player bet="€0" seat="5" dealer="0" name="Player 5" win="€0" chips="€132,24"/>
+    <player bet="€2,50" seat="6" dealer="1" name="Player 6" win="€0" chips="€118,47"/>
+    <player bet="€6,25" seat="8" dealer="0" name="Player 8" win="€7,28" chips="€76,14"/>
+    <player bet="€2,50" seat="10" dealer="0" name="Player 10" win="€0" chips="€113,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 8"/>
+   <action sum="€1" type="2" no="2" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€2" type="3" no="6" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1,50" type="3" no="7" player="Player 10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D6 C8</cards>
+   <action sum="€0" type="4" no="8" player="Player 8"/>
+   <action sum="€0" type="4" no="9" player="Player 10"/>
+   <action sum="€0" type="4" no="10" player="Player 6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€3,75" type="5" no="11" player="Player 8"/>
+   <action sum="€0" type="0" no="12" player="Player 10"/>
+   <action sum="€0" type="0" no="13" player="Player 6"/>
+  </round>
+ </game>
+ <game gamecode="3703153681">
+  <general>
+   <startdate>2022-08-16 22:16:17</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="Player 1" win="€0" chips="€108,96"/>
+    <player bet="€0" seat="5" dealer="0" name="Player 5" win="€0" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="0" name="Player 6" win="€0" chips="€115,97"/>
+    <player bet="€3" seat="8" dealer="1" name="Player 8" win="€2,50" chips="€80,92"/>
+    <player bet="€0,50" seat="10" dealer="0" name="Player 10" win="€0" chips="€111,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Player 10"/>
+   <action sum="€1" type="2" no="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€3" type="23" no="5" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="6" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="7" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3703153746">
+  <general>
+   <startdate>2022-08-16 22:16:40</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€107,96"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€2,50" seat="6" dealer="0" name="JenniXXX" win="€2,50" chips="€115,97"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€82,42"/>
+    <player bet="€0" seat="10" dealer="1" name="FromNowOn" win="€0" chips="€110,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="6" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">H2 S8</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703153801">
+  <general>
+   <startdate>2022-08-16 22:17:02</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€107,46"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€1" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€117,47"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€82,42"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€110,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="5" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">CK D2</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703153860">
+  <general>
+   <startdate>2022-08-16 22:17:24</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€107,46"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,74"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€117,47"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€82,42"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€110,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="4" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">SA D7</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="8" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703154846">
+  <general>
+   <startdate>2022-08-16 22:17:45</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€108,96"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€116,47"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€1" chips="€82,42"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€110,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="3" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">D6 S2</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703154885">
+  <general>
+   <startdate>2022-08-16 22:17:59</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€108,96"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€82,92"/>
+    <player bet="€1" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€110,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="FromNowOn"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">DK H3</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="8" player="FromNowOn"/>
+  </round>
+ </game>
+ <game gamecode="3703154951">
+  <general>
+   <startdate>2022-08-16 22:18:13</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€0" chips="€110,46"/>
+    <player bet="€2,50" seat="3" dealer="0" name="13373678" win="€6,31" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€2,50" seat="8" dealer="1" name="fonsi1" win="€0" chips="€82,42"/>
+    <player bet="€0,50" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€109,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="FromNowOn"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 H6</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">D5 SA</cards>
+   <action sum="€2,50" type="3" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="7" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C5 S10</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+   <action sum="€0" type="4" no="12" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+   <action sum="€0" type="4" no="14" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703155110">
+  <general>
+   <startdate>2022-08-16 22:19:16</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€109,46"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€1" chips="€103,81"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€79,92"/>
+    <player bet="€0" seat="10" dealer="1" name="FromNowOn" win="€0" chips="€109,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S7 H6</cards>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="6" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703155131">
+  <general>
+   <startdate>2022-08-16 22:19:25</startdate>
+   <players>
+    <player bet="€20,31" seat="1" dealer="1" name="beyou" win="€39,88" chips="€108,96"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€104,31"/>
+    <player bet="€20,31" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€132,24"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€79,92"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€109,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="5" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">CJ S10</cards>
+   <action sum="€2,50" type="23" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">C10 HQ</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">S4 SK</cards>
+   <action sum="€1,50" type="3" no="8" player="RutunVinkkari"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 C9 CK</cards>
+   <action sum="€0" type="4" no="9" player="RutunVinkkari"/>
+   <action sum="€0" type="4" no="10" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€0" type="4" no="11" player="RutunVinkkari"/>
+   <action sum="€1,81" type="5" no="12" player="beyou"/>
+   <action sum="€1,81" type="3" no="13" player="RutunVinkkari"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" type="4" no="14" player="RutunVinkkari"/>
+   <action sum="€3" type="5" no="15" player="beyou"/>
+   <action sum="€16" type="23" no="16" player="RutunVinkkari"/>
+   <action sum="€13" type="3" no="17" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703155305">
+  <general>
+   <startdate>2022-08-16 22:20:44</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€128,53"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€103,81"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,93"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€1" chips="€115,97"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€79,92"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€109,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="4" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">SK C2</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703155337">
+  <general>
+   <startdate>2022-08-16 22:20:55</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€128,53"/>
+    <player bet="€4,31" seat="3" dealer="0" name="13373678" win="€0" chips="€103,81"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€111,43"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€116,47"/>
+    <player bet="€10,69" seat="8" dealer="0" name="fonsi1" win="€8,85" chips="€79,92"/>
+    <player bet="€0" seat="10" dealer="0" name="FromNowOn" win="€0" chips="€109,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="FromNowOn">X X</cards>
+   <action sum="€0" type="0" no="3" player="FromNowOn"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">H3 D3</cards>
+   <action sum="€2,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€1,50" type="3" no="8" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 H5 D7</cards>
+   <action sum="€0" type="4" no="9" player="fonsi1"/>
+   <action sum="€1,81" type="5" no="10" player="13373678"/>
+   <action sum="€1,81" type="3" no="11" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€6,38" type="5" no="12" player="fonsi1"/>
+   <action sum="€0" type="0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703155448">
+  <general>
+   <startdate>2022-08-16 22:21:46</startdate>
+   <players>
+    <player bet="€5,50" seat="1" dealer="0" name="beyou" win="€0" chips="€128,53"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,43"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€13,20" seat="8" dealer="0" name="fonsi1" win="€10,67" chips="€84,46"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 CK</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0,50" type="3" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="4" no="7" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 SQ HQ</cards>
+   <action sum="€0" type="4" no="8" player="fonsi1"/>
+   <action sum="€1" type="5" no="9" player="beyou"/>
+   <action sum="€2,50" type="23" no="10" player="fonsi1"/>
+   <action sum="€1,50" type="3" no="11" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€0" type="4" no="12" player="fonsi1"/>
+   <action sum="€2" type="5" no="13" player="beyou"/>
+   <action sum="€2" type="3" no="14" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action sum="€7,70" type="5" no="15" player="fonsi1"/>
+   <action sum="€0" type="0" no="16" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703155582">
+  <general>
+   <startdate>2022-08-16 22:22:48</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€123,03"/>
+    <player bet="€5,87" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€2,25" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,43"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€5,87" seat="8" dealer="1" name="fonsi1" win="€14,06" chips="€89,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€2,25" type="23" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">CK HQ</cards>
+   <action sum="€2,25" type="3" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">C10 H10</cards>
+   <action sum="€1,25" type="3" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 C6 SK</cards>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+   <action sum="€0" type="4" no="9" player="RutunVinkkari"/>
+   <action sum="€3,62" type="5" no="10" player="fonsi1"/>
+   <action sum="€3,62" type="3" no="11" player="13373678"/>
+   <action sum="€0" type="0" no="12" player="RutunVinkkari"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+   <action sum="€0" type="4" no="14" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" type="4" no="15" player="13373678"/>
+   <action sum="€0" type="4" no="16" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703155701">
+  <general>
+   <startdate>2022-08-16 22:23:40</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€122,53"/>
+    <player bet="€11" seat="3" dealer="0" name="13373678" win="€5" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€109,18"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€115,97"/>
+    <player bet="€2" seat="8" dealer="0" name="fonsi1" win="€0" chips="€97,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€2" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">H8 H9</cards>
+   <action sum="€11" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <action sum="€0" type="0" no="8" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703155746">
+  <general>
+   <startdate>2022-08-16 22:23:59</startdate>
+   <players>
+    <player bet="€115,97" seat="1" dealer="0" name="beyou" win="€0" chips="€122,53"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€103"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€108,18"/>
+    <player bet="€115,97" seat="6" dealer="0" name="JenniXXX" win="€230,44" chips="€115,97"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€95,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">D10 DQ</cards>
+   <action sum="€2,50" type="23" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">C5 C3</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">CA C7</cards>
+   <action sum="€11" type="23" no="7" player="JenniXXX"/>
+   <action sum="€8,50" type="3" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C2 S7</cards>
+   <action sum="€7" type="5" no="9" player="JenniXXX"/>
+   <action sum="€7" type="3" no="10" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action sum="€23" type="5" no="11" player="JenniXXX"/>
+   <action sum="€23" type="3" no="12" player="beyou"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€74,97" type="5" no="13" player="JenniXXX"/>
+   <action sum="€74,97" type="3" no="14" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703155867">
+  <general>
+   <startdate>2022-08-16 22:24:53</startdate>
+   <players>
+    <player bet="€3,81" seat="1" dealer="0" name="beyou" win="€4,76" chips="€100"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€103"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€107,68"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€230,44"/>
+    <player bet="€2,20" seat="8" dealer="0" name="fonsi1" win="€0" chips="€95,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,20" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">S6 DJ</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€1,20" type="3" no="7" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C4 H9</cards>
+   <action sum="€0" type="4" no="8" player="fonsi1"/>
+   <action sum="€1,61" type="5" no="9" player="beyou"/>
+   <action sum="€0" type="0" no="10" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703155917">
+  <general>
+   <startdate>2022-08-16 22:25:14</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€0" chips="€102,56"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€103"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€107,68"/>
+    <player bet="€34,75" seat="6" dealer="1" name="JenniXXX" win="€68,50" chips="€229,94"/>
+    <player bet="€34,75" seat="8" dealer="0" name="fonsi1" win="€0" chips="€93,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 C6</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">SQ DQ</cards>
+   <action sum="€2,50" type="23" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">C10 C7</cards>
+   <action sum="€9" type="23" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+   <action sum="€23" type="23" no="8" player="JenniXXX"/>
+   <action sum="€14" type="3" no="9" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 SA H10</cards>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+   <action sum="€11,75" type="5" no="11" player="JenniXXX"/>
+   <action sum="€11,75" type="3" no="12" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+   <action sum="€0" type="4" no="14" player="JenniXXX"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action sum="€0" type="4" no="15" player="fonsi1"/>
+   <action sum="€0" type="4" no="16" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703156533">
+  <general>
+   <startdate>2022-08-16 22:26:30</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€101,56"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€103"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€107,68"/>
+    <player bet="€2,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€263,69"/>
+    <player bet="€2,50" seat="8" dealer="1" name="fonsi1" win="€6,31" chips="€58,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">H9 DA</cards>
+   <action sum="€2,50" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">HA C10</cards>
+   <action sum="€2,50" type="3" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">SQ C6</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 HK CJ</cards>
+   <action sum="€0" type="4" no="8" player="JenniXXX"/>
+   <action sum="€0" type="4" no="9" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€0" type="4" no="10" player="JenniXXX"/>
+   <action sum="€0" type="4" no="11" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€0" type="4" no="12" player="JenniXXX"/>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703156627">
+  <general>
+   <startdate>2022-08-16 22:27:09</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€101,06"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€102"/>
+    <player bet="€3" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€107,68"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€261,19"/>
+    <player bet="€7,55" seat="8" dealer="0" name="fonsi1" win="€6,31" chips="€62,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">HK C3</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€2" type="3" no="7" player="RutunVinkkari"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 CQ SA</cards>
+   <action sum="€0" type="4" no="8" player="RutunVinkkari"/>
+   <action sum="€4,55" type="5" no="9" player="fonsi1"/>
+   <action sum="€0" type="0" no="10" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703156669">
+  <general>
+   <startdate>2022-08-16 22:27:29</startdate>
+   <players>
+    <player bet="€34,50" seat="1" dealer="0" name="beyou" win="€45,10" chips="€101,06"/>
+    <player bet="€22,50" seat="3" dealer="1" name="13373678" win="€0" chips="€101,50"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€104,68"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€261,19"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€65,99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">H5 S5</cards>
+   <action sum="€7,50" type="23" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <action sum="€22,50" type="23" no="8" player="beyou"/>
+   <action sum="€15" type="3" no="9" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ CQ S4</cards>
+   <action sum="€12" type="5" no="10" player="beyou"/>
+   <action sum="€0" type="0" no="11" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703157763">
+  <general>
+   <startdate>2022-08-16 22:28:25</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€123,66"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€104,18"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€260,19"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€1" chips="€65,99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">D8 S10</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703157787">
+  <general>
+   <startdate>2022-08-16 22:28:37</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€123,66"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€104,18"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€259,69"/>
+    <player bet="€3" seat="8" dealer="0" name="fonsi1" win="€2" chips="€66,49"/>
+    <player bet="€1" seat="10" dealer="0" name="Kosti86" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="Kosti86"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">H3 DK</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="8" player="Kosti86"/>
+  </round>
+ </game>
+ <game gamecode="3703157825">
+  <general>
+   <startdate>2022-08-16 22:28:55</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€0" chips="€123,66"/>
+    <player bet="€6,62" seat="3" dealer="0" name="13373678" win="€5,34" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€104,18"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€259,69"/>
+    <player bet="€0" seat="8" dealer="1" name="fonsi1" win="€0" chips="€67,49"/>
+    <player bet="€0,50" seat="10" dealer="0" name="Kosti86" win="€0" chips="€99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Kosti86"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 CK</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="7" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€1,50" type="3" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S4 H4</cards>
+   <action sum="€0" type="4" no="9" player="beyou"/>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€0" type="4" no="11" player="beyou"/>
+   <action sum="€0" type="4" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action sum="€0" type="4" no="13" player="beyou"/>
+   <action sum="€4,12" type="5" no="14" player="13373678"/>
+   <action sum="€0" type="0" no="15" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703157917">
+  <general>
+   <startdate>2022-08-16 22:29:37</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€121,16"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€1" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€104,18"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€259,69"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€67,49"/>
+    <player bet="€0" seat="10" dealer="1" name="Kosti86" win="€0" chips="€98,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HQ S7</cards>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="6" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703157958">
+  <general>
+   <startdate>2022-08-16 22:29:55</startdate>
+   <players>
+    <player bet="€7,31" seat="1" dealer="1" name="beyou" win="€0" chips="€120,66"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€103,34"/>
+    <player bet="€7,31" seat="5" dealer="0" name="RutunVinkkari" win="€14,67" chips="€104,18"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€259,69"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€67,49"/>
+    <player bet="€0" seat="10" dealer="0" name="Kosti86" win="€0" chips="€98,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="5" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">C5 CA</cards>
+   <action sum="€2,50" type="23" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">C6 C9</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">H9 D9</cards>
+   <action sum="€1,50" type="3" no="8" player="RutunVinkkari"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C2 H5</cards>
+   <action sum="€0" type="4" no="9" player="RutunVinkkari"/>
+   <action sum="€0" type="4" no="10" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action sum="€0" type="4" no="11" player="RutunVinkkari"/>
+   <action sum="€1,81" type="5" no="12" player="beyou"/>
+   <action sum="€1,81" type="3" no="13" player="RutunVinkkari"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" type="4" no="14" player="RutunVinkkari"/>
+   <action sum="€3" type="5" no="15" player="beyou"/>
+   <action sum="€3" type="3" no="16" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703158098">
+  <general>
+   <startdate>2022-08-16 22:31:01</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€113,35"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,54"/>
+    <player bet="€3" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€259,69"/>
+    <player bet="€9,65" seat="8" dealer="0" name="fonsi1" win="€9,22" chips="€67,49"/>
+    <player bet="€3" seat="10" dealer="0" name="Kosti86" win="€0" chips="€98,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€3" type="3" no="4" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">D8 D3</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2" type="3" no="8" player="JenniXXX"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 SQ S8</cards>
+   <action sum="€0" type="4" no="9" player="JenniXXX"/>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+   <action sum="€0" type="4" no="11" player="Kosti86"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action sum="€0" type="4" no="12" player="JenniXXX"/>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+   <action sum="€0" type="4" no="14" player="Kosti86"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action sum="€0" type="4" no="15" player="JenniXXX"/>
+   <action sum="€6,65" type="5" no="16" player="fonsi1"/>
+   <action sum="€0" type="0" no="17" player="Kosti86"/>
+   <action sum="€0" type="0" no="18" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703158205">
+  <general>
+   <startdate>2022-08-16 22:31:46</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€113,35"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€111,04"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€256,69"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€0" chips="€73,71"/>
+    <player bet="€0" seat="10" dealer="0" name="Kosti86" win="€0" chips="€95,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="3" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">DJ D5</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="8" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703158266">
+  <general>
+   <startdate>2022-08-16 22:32:12</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€114,85"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,04"/>
+    <player bet="€2,50" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€256,19"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€72,71"/>
+    <player bet="€5,25" seat="10" dealer="0" name="Kosti86" win="€5,34" chips="€95,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="Kosti86"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">D7 C3</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€1,50" type="3" no="8" player="Kosti86"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 C9 H8</cards>
+   <action sum="€0" type="4" no="9" player="Kosti86"/>
+   <action sum="€0" type="4" no="10" player="JenniXXX"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" type="4" no="11" player="Kosti86"/>
+   <action sum="€0" type="4" no="12" player="JenniXXX"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€2,75" type="5" no="13" player="Kosti86"/>
+   <action sum="€0" type="0" no="14" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703158369">
+  <general>
+   <startdate>2022-08-16 22:32:58</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€0" chips="€114,85"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,04"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€253,69"/>
+    <player bet="€5,50" seat="8" dealer="1" name="fonsi1" win="€0" chips="€72,21"/>
+    <player bet="€5,50" seat="10" dealer="0" name="Kosti86" win="€11,64" chips="€98,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Kosti86"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ D8</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">DK HJ</cards>
+   <action sum="€2" type="23" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">S6 C6</cards>
+   <action sum="€1,50" type="3" no="7" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 H5 HK</cards>
+   <action sum="€0" type="4" no="9" player="Kosti86"/>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action sum="€0" type="4" no="11" player="Kosti86"/>
+   <action sum="€3,50" type="5" no="12" player="fonsi1"/>
+   <action sum="€3,50" type="3" no="13" player="Kosti86"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action sum="€0" type="4" no="14" player="Kosti86"/>
+   <action sum="€0" type="4" no="15" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703158454">
+  <general>
+   <startdate>2022-08-16 22:33:37</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€113,85"/>
+    <player bet="€17,50" seat="3" dealer="0" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,04"/>
+    <player bet="€45,38" seat="6" dealer="0" name="JenniXXX" win="€36,85" chips="€253,69"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€66,71"/>
+    <player bet="€2,50" seat="10" dealer="1" name="Kosti86" win="€0" chips="€104,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€2,50" type="3" no="6" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">CA C3</cards>
+   <action sum="€1,50" type="3" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H10 D5</cards>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+   <action sum="€4" type="5" no="10" player="JenniXXX"/>
+   <action sum="€0" type="0" no="11" player="Kosti86"/>
+   <action sum="€15" type="23" no="12" player="13373678"/>
+   <action sum="€11" type="3" no="13" player="JenniXXX"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action sum="€0" type="4" no="14" player="13373678"/>
+   <action sum="€0" type="4" no="15" player="JenniXXX"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action sum="€0" type="4" no="16" player="13373678"/>
+   <action sum="€27,88" type="5" no="17" player="JenniXXX"/>
+   <action sum="€0" type="0" no="18" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703159036">
+  <general>
+   <startdate>2022-08-16 22:34:55</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€113,35"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€111,04"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,04"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€66,71"/>
+    <player bet="€3" seat="10" dealer="0" name="Kosti86" win="€2,50" chips="€101,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€3" type="23" no="5" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">D4 H6</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="8" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703159094">
+  <general>
+   <startdate>2022-08-16 22:35:20</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€113,35"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€110,04"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€1" chips="€66,71"/>
+    <player bet="€0" seat="10" dealer="0" name="Kosti86" win="€0" chips="€103,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="3" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">D2 D4</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703159184">
+  <general>
+   <startdate>2022-08-16 22:35:42</startdate>
+   <players>
+    <player bet="€18,25" seat="1" dealer="0" name="beyou" win="€14,55" chips="€113,35"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€109,54"/>
+    <player bet="€2,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€67,21"/>
+    <player bet="€6,25" seat="10" dealer="0" name="Kosti86" win="€0" chips="€103,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="Kosti86"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">H7 D2</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€2" type="3" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€1,50" type="3" no="7" player="Kosti86"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S10 DA</cards>
+   <action sum="€0" type="4" no="8" player="fonsi1"/>
+   <action sum="€3,75" type="5" no="9" player="Kosti86"/>
+   <action sum="€3,75" type="3" no="10" player="beyou"/>
+   <action sum="€0" type="0" no="11" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" type="4" no="12" player="Kosti86"/>
+   <action sum="€12" type="5" no="13" player="beyou"/>
+   <action sum="€0" type="0" no="14" player="Kosti86"/>
+  </round>
+ </game>
+ <game gamecode="3703159326">
+  <general>
+   <startdate>2022-08-16 22:36:45</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€0" chips="€121,65"/>
+    <player bet="€6,62" seat="3" dealer="0" name="13373678" win="€5,34" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€109,54"/>
+    <player bet="€0" seat="8" dealer="1" name="fonsi1" win="€0" chips="€64,71"/>
+    <player bet="€0,50" seat="10" dealer="0" name="Kosti86" win="€0" chips="€97,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="Kosti86"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 HQ</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="6" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€1,50" type="3" no="7" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H5 H8</cards>
+   <action sum="€0" type="4" no="8" player="beyou"/>
+   <action sum="€4,12" type="5" no="9" player="13373678"/>
+   <action sum="€0" type="0" no="10" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703159399">
+  <general>
+   <startdate>2022-08-16 22:37:15</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€119,15"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€102,84"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€109,54"/>
+    <player bet="€3" seat="8" dealer="0" name="fonsi1" win="€2,50" chips="€64,71"/>
+    <player bet="€0" seat="10" dealer="1" name="Kosti86" win="€0" chips="€96,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="5" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">C9 SQ</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703159454">
+  <general>
+   <startdate>2022-08-16 22:37:37</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€118,65"/>
+    <player bet="€101,84" seat="3" dealer="0" name="13373678" win="€65,71" chips="€101,84"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€109,54"/>
+    <player bet="€66,21" seat="8" dealer="0" name="fonsi1" win="€65,71" chips="€66,21"/>
+    <player bet="€0" seat="10" dealer="0" name="Kosti86" win="€0" chips="€96,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">SK HK</cards>
+   <action sum="€2" type="23" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€0" type="0" no="4" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">CA C8</cards>
+   <action sum="€11" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <action sum="€9" type="3" no="8" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H7 D8</cards>
+   <action sum="€90,84" type="5" no="9" player="13373678"/>
+   <action sum="€55,21" type="7" no="10" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+  </round>
+ </game>
+ <game gamecode="3703159578">
+  <general>
+   <startdate>2022-08-16 22:38:33</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€118,65"/>
+    <player bet="€4" seat="3" dealer="1" name="13373678" win="€0" chips="€101,34"/>
+    <player bet="€9,20" seat="5" dealer="0" name="RutunVinkkari" win="€12,61" chips="€108,54"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,04"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€65,71"/>
+    <player bet="€4" seat="10" dealer="0" name="Kosti86" win="€0" chips="€96,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="Kosti86">X X</cards>
+   <action sum="€1" type="3" no="4" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">C6 C4</cards>
+   <action sum="€4" type="23" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€3,50" type="3" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="8" player="JenniXXX"/>
+   <action sum="€3" type="3" no="9" player="Kosti86"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA H10 H2</cards>
+   <action sum="€5,20" type="5" no="10" player="RutunVinkkari"/>
+   <action sum="€0" type="0" no="11" player="Kosti86"/>
+   <action sum="€0" type="0" no="12" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703159704">
+  <general>
+   <startdate>2022-08-16 22:39:26</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€118,65"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€117,15" seat="5" dealer="1" name="RutunVinkkari" win="€184,96" chips="€117,15"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€272,04"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€0" chips="€65,71"/>
+    <player bet="€92,73" seat="10" dealer="0" name="Kosti86" win="€0" chips="€92,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Kosti86">CK SK</cards>
+   <action sum="€3" type="23" no="3" player="Kosti86"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">S9 CQ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">SA DJ</cards>
+   <action sum="€9,75" type="23" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="8" player="fonsi1"/>
+   <action sum="€6,75" type="3" no="9" player="Kosti86"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA HQ DA</cards>
+   <action sum="€0" type="4" no="10" player="Kosti86"/>
+   <action sum="€6,93" type="5" no="11" player="RutunVinkkari"/>
+   <action sum="€6,93" type="3" no="12" player="Kosti86"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action sum="€0" type="4" no="13" player="Kosti86"/>
+   <action sum="€24,40" type="5" no="14" player="RutunVinkkari"/>
+   <action sum="€24,40" type="3" no="15" player="Kosti86"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action sum="€0" type="4" no="16" player="Kosti86"/>
+   <action sum="€76,07" type="5" no="17" player="RutunVinkkari"/>
+   <action sum="€51,65" type="7" no="18" player="Kosti86"/>
+  </round>
+ </game>
+ <game gamecode="3703160814">
+  <general>
+   <startdate>2022-08-16 22:40:39</startdate>
+   <players>
+    <player bet="€4,50" seat="1" dealer="0" name="beyou" win="€0" chips="€118,65"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€209,38"/>
+    <player bet="€8,50" seat="6" dealer="1" name="JenniXXX" win="€9,22" chips="€271,54"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€64,71"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 CQ</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€1,50" type="3" no="7" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ DQ HA</cards>
+   <action sum="€0" type="4" no="8" player="beyou"/>
+   <action sum="€2" type="5" no="9" player="JenniXXX"/>
+   <action sum="€2" type="3" no="10" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" type="4" no="11" player="beyou"/>
+   <action sum="€4" type="5" no="12" player="JenniXXX"/>
+   <action sum="€0" type="0" no="13" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703160960">
+  <general>
+   <startdate>2022-08-16 22:41:38</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€114,15"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€1" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€209,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€276,26"/>
+    <player bet="€0" seat="8" dealer="1" name="fonsi1" win="€0" chips="€64,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C4</cards>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703161305">
+  <general>
+   <startdate>2022-08-16 22:41:53</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€113,65"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100,50"/>
+    <player bet="€3" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€209,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€276,26"/>
+    <player bet="€6,25" seat="8" dealer="0" name="fonsi1" win="€6,31" chips="€64,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">D8 DA</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€2" type="3" no="7" player="RutunVinkkari"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S8 HJ</cards>
+   <action sum="€0" type="4" no="8" player="RutunVinkkari"/>
+   <action sum="€3,25" type="5" no="9" player="fonsi1"/>
+   <action sum="€0" type="0" no="10" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703161371">
+  <general>
+   <startdate>2022-08-16 22:42:20</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€113,65"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€3" seat="5" dealer="0" name="RutunVinkkari" win="€2" chips="€206,38"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€276,26"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€67,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">C8 D3</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€3" type="23" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703161413">
+  <general>
+   <startdate>2022-08-16 22:42:39</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€113,65"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€207,38"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€275,26"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€1" chips="€67,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">DQ H6</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703161439">
+  <general>
+   <startdate>2022-08-16 22:42:50</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€113,65"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€207,38"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€274,76"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€68,02"/>
+    <player bet="€1" seat="10" dealer="0" name="thesnatch" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="thesnatch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">SA C8</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="8" player="thesnatch"/>
+  </round>
+ </game>
+ <game gamecode="3703161485">
+  <general>
+   <startdate>2022-08-16 22:43:10</startdate>
+   <players>
+    <player bet="€3" seat="1" dealer="0" name="beyou" win="€0" chips="€115,15"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€207,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€274,76"/>
+    <player bet="€6,25" seat="8" dealer="1" name="fonsi1" win="€6,31" chips="€67,52"/>
+    <player bet="€0,50" seat="10" dealer="0" name="thesnatch" win="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="thesnatch"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ D6</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="7" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2" type="3" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 S4 D2</cards>
+   <action sum="€0" type="4" no="9" player="beyou"/>
+   <action sum="€3,25" type="5" no="10" player="fonsi1"/>
+   <action sum="€0" type="0" no="11" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703161565">
+  <general>
+   <startdate>2022-08-16 22:43:40</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€112,15"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€207,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€274,76"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€70,83"/>
+    <player bet="€2,25" seat="10" dealer="1" name="thesnatch" win="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€2,25" type="23" no="6" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">C8 DK</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703161613">
+  <general>
+   <startdate>2022-08-16 22:44:01</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€111,65"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€207,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€274,76"/>
+    <player bet="€18,75" seat="8" dealer="0" name="fonsi1" win="€0" chips="€70,83"/>
+    <player bet="€101,50" seat="10" dealer="0" name="thesnatch" win="€37,82" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€9" type="23" no="5" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">S8 H3</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="8" player="RutunVinkkari"/>
+   <action sum="€6" type="3" no="9" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C5 S5</cards>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+   <action sum="€9,75" type="5" no="11" player="thesnatch"/>
+   <action sum="€9,75" type="3" no="12" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+   <action sum="€82,75" type="5" no="14" player="thesnatch"/>
+   <action sum="€0" type="0" no="15" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703161807">
+  <general>
+   <startdate>2022-08-16 22:45:16</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€111,65"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€206,38"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€274,76"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€52,08"/>
+    <player bet="€2,25" seat="10" dealer="0" name="thesnatch" win="€2,50" chips="€120,57"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€2,25" type="23" no="4" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">H2 D8</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="8" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703161837">
+  <general>
+   <startdate>2022-08-16 22:45:27</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€111,65"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€205,88"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,76"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€0" chips="€52,08"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€122,07"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="3" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">SA H8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="8" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703161885">
+  <general>
+   <startdate>2022-08-16 22:45:47</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€113,15"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€205,88"/>
+    <player bet="€10,60" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€273,26"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€51,08"/>
+    <player bet="€21,45" seat="10" dealer="0" name="thesnatch" win="€21,05" chips="€122,07"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="thesnatch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">H7 C5</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€10,60" type="23" no="8" player="thesnatch"/>
+   <action sum="€8,10" type="3" no="9" player="JenniXXX"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 S9 S7</cards>
+   <action sum="€0" type="4" no="10" player="thesnatch"/>
+   <action sum="€0" type="4" no="11" player="JenniXXX"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action sum="€10,85" type="5" no="12" player="thesnatch"/>
+   <action sum="€0" type="0" no="13" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703162023">
+  <general>
+   <startdate>2022-08-16 22:46:50</startdate>
+   <players>
+    <player bet="€19,01" seat="1" dealer="0" name="beyou" win="€0" chips="€113,15"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€205,88"/>
+    <player bet="€19,01" seat="6" dealer="0" name="JenniXXX" win="€37,36" chips="€262,66"/>
+    <player bet="€0" seat="8" dealer="1" name="fonsi1" win="€0" chips="€50,58"/>
+    <player bet="€0,50" seat="10" dealer="0" name="thesnatch" win="€0" chips="€132,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="thesnatch"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 S5</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">S10 CK</cards>
+   <action sum="€2,50" type="23" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="7" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">HA H7</cards>
+   <action sum="€1,50" type="3" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 DA CQ</cards>
+   <action sum="€0" type="4" no="9" player="beyou"/>
+   <action sum="€2" type="5" no="10" player="JenniXXX"/>
+   <action sum="€5" type="23" no="11" player="beyou"/>
+   <action sum="€3" type="3" no="12" player="JenniXXX"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" type="4" no="13" player="beyou"/>
+   <action sum="€0" type="4" no="14" player="JenniXXX"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€0" type="4" no="15" player="beyou"/>
+   <action sum="€11,51" type="5" no="16" player="JenniXXX"/>
+   <action sum="€11,51" type="3" no="17" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703162160">
+  <general>
+   <startdate>2022-08-16 22:47:56</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€100"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€205,88"/>
+    <player bet="€2,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€281,01"/>
+    <player bet="€7,05" seat="8" dealer="0" name="fonsi1" win="€6,31" chips="€50,58"/>
+    <player bet="€0" seat="10" dealer="1" name="thesnatch" win="€0" chips="€132,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€2,50" type="3" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="6" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">S4 S3</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK CQ C8</cards>
+   <action sum="€0" type="4" no="9" player="JenniXXX"/>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action sum="€0" type="4" no="11" player="JenniXXX"/>
+   <action sum="€0" type="4" no="12" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" type="4" no="13" player="JenniXXX"/>
+   <action sum="€4,55" type="5" no="14" player="fonsi1"/>
+   <action sum="€0" type="0" no="15" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703162270">
+  <general>
+   <startdate>2022-08-16 22:48:39</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="1" name="beyou" win="€2,50" chips="€100"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€205,88"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€278,51"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€54,39"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€132,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="5" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">C7 S8</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="8" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703162328">
+  <general>
+   <startdate>2022-08-16 22:49:03</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€101,50"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€204,88"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€278,51"/>
+    <player bet="€4,50" seat="8" dealer="0" name="fonsi1" win="€2,50" chips="€54,39"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€132,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€4,50" type="23" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="4" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">C3 C5</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="8" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703162383">
+  <general>
+   <startdate>2022-08-16 22:49:28</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€101,50"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€204,38"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€277,51"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€1" chips="€55,89"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€132,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="3" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">C3 D9</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703162433">
+  <general>
+   <startdate>2022-08-16 22:49:47</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€101,50"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€204,38"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€277,01"/>
+    <player bet="€1" seat="8" dealer="0" name="fonsi1" win="€0,97" chips="€56,39"/>
+    <player bet="€1" seat="10" dealer="0" name="thesnatch" win="€0,97" chips="€132,02"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="thesnatch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">H2 DK</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">S4 D6</cards>
+   <action sum="€0,50" type="3" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">H6 C3</cards>
+   <action sum="€0" type="4" no="8" player="thesnatch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C7 SJ</cards>
+   <action sum="€0" type="4" no="9" player="fonsi1"/>
+   <action sum="€0" type="4" no="10" player="thesnatch"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action sum="€0" type="4" no="11" player="fonsi1"/>
+   <action sum="€0" type="4" no="12" player="thesnatch"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+   <action sum="€0" type="4" no="14" player="thesnatch"/>
+  </round>
+ </game>
+ <game gamecode="3703163431">
+  <general>
+   <startdate>2022-08-16 22:50:15</startdate>
+   <players>
+    <player bet="€11,75" seat="1" dealer="0" name="beyou" win="€23,28" chips="€101,50"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€11,75" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€204,38"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€277,01"/>
+    <player bet="€0" seat="8" dealer="1" name="fonsi1" win="€0" chips="€56,36"/>
+    <player bet="€0,50" seat="10" dealer="0" name="thesnatch" win="€0" chips="€131,99"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="thesnatch"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ D8</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">HK CA</cards>
+   <action sum="€2,25" type="23" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="7" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">D10 CJ</cards>
+   <action sum="€1,25" type="3" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C10 S4</cards>
+   <action sum="€0" type="4" no="9" player="beyou"/>
+   <action sum="€2,50" type="5" no="10" player="RutunVinkkari"/>
+   <action sum="€2,50" type="3" no="11" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€0" type="4" no="12" player="beyou"/>
+   <action sum="€7" type="5" no="13" player="RutunVinkkari"/>
+   <action sum="€7" type="3" no="14" player="beyou"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action sum="€0" type="4" no="15" player="beyou"/>
+   <action sum="€0" type="4" no="16" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703163558">
+  <general>
+   <startdate>2022-08-16 22:51:07</startdate>
+   <players>
+    <player bet="€5" seat="1" dealer="0" name="beyou" win="€0" chips="€113,03"/>
+    <player bet="€12,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€192,63"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€277,01"/>
+    <player bet="€12,50" seat="8" dealer="0" name="fonsi1" win="€29,10" chips="€56,36"/>
+    <player bet="€0" seat="10" dealer="1" name="thesnatch" win="€0" chips="€131,49"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">SJ S7</cards>
+   <action sum="€1" type="3" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="6" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0,50" type="3" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">H4 H3</cards>
+   <action sum="€5" type="23" no="8" player="13373678"/>
+   <action sum="€4" type="3" no="9" player="fonsi1"/>
+   <action sum="€4" type="3" no="10" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S3 H5</cards>
+   <action sum="€0" type="4" no="11" player="beyou"/>
+   <action sum="€0" type="4" no="12" player="13373678"/>
+   <action sum="€0" type="4" no="13" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" type="4" no="14" player="beyou"/>
+   <action sum="€0" type="4" no="15" player="13373678"/>
+   <action sum="€7,50" type="5" no="16" player="fonsi1"/>
+   <action sum="€0" type="0" no="17" player="beyou"/>
+   <action sum="€7,50" type="3" no="18" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€0" type="4" no="19" player="13373678"/>
+   <action sum="€0" type="4" no="20" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703163996">
+  <general>
+   <startdate>2022-08-16 22:52:21</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="1" name="beyou" win="€0" chips="€108,03"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€192,63"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€277,01"/>
+    <player bet="€3" seat="8" dealer="0" name="fonsi1" win="€2,50" chips="€72,96"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€131,49"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€3" type="23" no="4" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="5" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+   <cards type="Pocket" player="13373678">SJ D10</cards>
+   <action sum="€0" type="0" no="7" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="8" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703164026">
+  <general>
+   <startdate>2022-08-16 22:52:34</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€2,50" chips="€108,03"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,63"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€277,01"/>
+    <player bet="€0" seat="8" dealer="0" name="fonsi1" win="€0" chips="€74,46"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€131,49"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="3" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="4" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">S8 C9</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="8" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703164101">
+  <general>
+   <startdate>2022-08-16 22:53:02</startdate>
+   <players>
+    <player bet="€2,25" seat="1" dealer="0" name="beyou" win="€0" chips="€109,53"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="1" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€276,01"/>
+    <player bet="€47,09" seat="8" dealer="0" name="fonsi1" win="€0" chips="€74,46"/>
+    <player bet="€47,09" seat="10" dealer="0" name="thesnatch" win="€94,93" chips="€131,49"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="fonsi1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="thesnatch">S10 C10</cards>
+   <action sum="€2,25" type="23" no="3" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,25" type="3" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">C6 C8</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="7" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">H3 HQ</cards>
+   <action sum="€1,25" type="3" no="8" player="fonsi1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D10 DQ</cards>
+   <action sum="€0" type="4" no="9" player="fonsi1"/>
+   <action sum="€0" type="4" no="10" player="thesnatch"/>
+   <action sum="€0" type="4" no="11" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€5,07" type="5" no="12" player="fonsi1"/>
+   <action sum="€16,84" type="23" no="13" player="thesnatch"/>
+   <action sum="€0" type="0" no="14" player="beyou"/>
+   <action sum="€11,77" type="3" no="15" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action sum="€0" type="4" no="16" player="fonsi1"/>
+   <action sum="€28" type="5" no="17" player="thesnatch"/>
+   <action sum="€28" type="3" no="18" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703164447">
+  <general>
+   <startdate>2022-08-16 22:54:55</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€107,28"/>
+    <player bet="€2,50" seat="3" dealer="0" name="13373678" win="€2,50" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€0" seat="6" dealer="1" name="JenniXXX" win="€0" chips="€275,51"/>
+    <player bet="€0,50" seat="8" dealer="0" name="fonsi1" win="€0" chips="€27,37"/>
+    <player bet="€1" seat="10" dealer="0" name="thesnatch" win="€0" chips="€179,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="fonsi1"/>
+   <action sum="€1" type="2" no="2" player="thesnatch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">DA D10</cards>
+   <action sum="€2,50" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="5" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="6" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">X X</cards>
+   <action sum="€0" type="0" no="7" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="8" player="thesnatch"/>
+  </round>
+ </game>
+ <game gamecode="3703164516">
+  <general>
+   <startdate>2022-08-16 22:55:19</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€0" chips="€107,28"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€101,50"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€2,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€275,51"/>
+    <player bet="€2,50" seat="8" dealer="1" name="fonsi1" win="€6,31" chips="€26,87"/>
+    <player bet="€0,50" seat="10" dealer="0" name="thesnatch" win="€0" chips="€178,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="thesnatch"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D10 D3</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">DA C10</cards>
+   <action sum="€2,50" type="23" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">D7 DJ</cards>
+   <action sum="€2,50" type="3" no="6" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="7" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="8" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK HJ H2</cards>
+   <action sum="€0" type="4" no="9" player="JenniXXX"/>
+   <action sum="€0" type="4" no="10" player="fonsi1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€0" type="4" no="11" player="JenniXXX"/>
+   <action sum="€0" type="4" no="12" player="fonsi1"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action sum="€0" type="4" no="13" player="JenniXXX"/>
+   <action sum="€0" type="4" no="14" player="fonsi1"/>
+  </round>
+ </game>
+ <game gamecode="3703164622">
+  <general>
+   <startdate>2022-08-16 22:56:01</startdate>
+   <players>
+    <player bet="€30,68" seat="1" dealer="0" name="beyou" win="€60,48" chips="€106,28"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€101,50"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,01"/>
+    <player bet="€30,68" seat="8" dealer="0" name="fonsi1" win="€0" chips="€30,68"/>
+    <player bet="€0" seat="10" dealer="1" name="thesnatch" win="€0" chips="€177,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="fonsi1">D10 H10</cards>
+   <action sum="€4" type="23" no="5" player="fonsi1"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="6" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">CQ DQ</cards>
+   <action sum="€11" type="23" no="7" player="beyou"/>
+   <cards type="Pocket" player="13373678">D6 D2</cards>
+   <action sum="€0" type="0" no="8" player="13373678"/>
+   <action sum="€30,68" type="23" no="9" player="fonsi1"/>
+   <action sum="€19,68" type="3" no="10" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 SJ S3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3703164731">
+  <general>
+   <startdate>2022-08-16 22:56:41</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="1" name="beyou" win="€2,50" chips="€136,08"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100,50"/>
+    <player bet="€1" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€0" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,01"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€177,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="RutunVinkkari"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="4" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">D6 H4</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="7" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703164770">
+  <general>
+   <startdate>2022-08-16 22:56:56</startdate>
+   <players>
+    <player bet="€0" seat="1" dealer="0" name="beyou" win="€0" chips="€137,58"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0,50" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€190,13"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€1" chips="€273,01"/>
+    <player bet="€0" seat="10" dealer="0" name="thesnatch" win="€0" chips="€177,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="RutunVinkkari"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <cards type="Pocket" player="thesnatch">X X</cards>
+   <action sum="€0" type="0" no="3" player="thesnatch"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">SQ C6</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="6" player="RutunVinkkari"/>
+  </round>
+ </game>
+ <game gamecode="3703164796">
+  <general>
+   <startdate>2022-08-16 22:57:06</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€0" chips="€137,58"/>
+    <player bet="€0" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€2,25" seat="5" dealer="1" name="RutunVinkkari" win="€2,50" chips="€189,63"/>
+    <player bet="€0,50" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 S8</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€2,25" type="23" no="4" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="6" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703164860">
+  <general>
+   <startdate>2022-08-16 22:57:30</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€136,58"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€0" seat="5" dealer="0" name="RutunVinkkari" win="€0" chips="€191,13"/>
+    <player bet="€2,50" seat="6" dealer="1" name="JenniXXX" win="€2,50" chips="€273,01"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="RutunVinkkari">X X</cards>
+   <action sum="€0" type="0" no="3" player="RutunVinkkari"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="5" player="beyou"/>
+   <cards type="Pocket" player="13373678">DK S3</cards>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703164899">
+  <general>
+   <startdate>2022-08-16 22:57:42</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="1" name="beyou" win="€2,50" chips="€136,08"/>
+    <player bet="€0,50" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€1" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€274,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="JenniXXX"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">S8 S4</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" no="5" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703164939">
+  <general>
+   <startdate>2022-08-16 22:57:57</startdate>
+   <players>
+    <player bet="€137,58" seat="1" dealer="0" name="beyou" win="€38,79" chips="€137,58"/>
+    <player bet="€0" seat="3" dealer="1" name="13373678" win="€0" chips="€100"/>
+    <player bet="€20" seat="6" dealer="0" name="JenniXXX" win="€0" chips="€273,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="JenniXXX"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 C8</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€3" type="23" no="4" player="JenniXXX"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2" type="3" no="5" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ CJ D5</cards>
+   <action sum="€0" type="4" no="6" player="JenniXXX"/>
+   <action sum="€2" type="5" no="7" player="beyou"/>
+   <action sum="€2" type="3" no="8" player="JenniXXX"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€0" type="4" no="9" player="JenniXXX"/>
+   <action sum="€15" type="5" no="10" player="beyou"/>
+   <action sum="€15" type="3" no="11" player="JenniXXX"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€0" type="4" no="12" player="JenniXXX"/>
+   <action sum="€117,58" type="5" no="13" player="beyou"/>
+   <action sum="€0" type="0" no="14" player="JenniXXX"/>
+  </round>
+ </game>
+ <game gamecode="3703165122">
+  <general>
+   <startdate>2022-08-16 22:59:07</startdate>
+   <players>
+    <player bet="€0,50" seat="1" dealer="0" name="beyou" win="€0" chips="€156,37"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€100"/>
+    <player bet="€2,50" seat="6" dealer="1" name="JenniXXX" win="€2,50" chips="€253,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="JenniXXX"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€0" type="0" no="4" player="beyou"/>
+   <cards type="Pocket" player="13373678">D9 H7</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703165173">
+  <general>
+   <startdate>2022-08-16 22:59:27</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="0" name="beyou" win="€0" chips="€155,87"/>
+    <player bet="€4,15" seat="3" dealer="1" name="13373678" win="€4,85" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C9 H8</cards>
+   <action sum="€2,50" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€1,50" type="3" no="4" player="beyou"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 DK D4</cards>
+   <action sum="€0" type="4" no="5" player="beyou"/>
+   <action sum="€1,65" type="5" no="6" player="13373678"/>
+   <action sum="€0" type="0" no="7" player="beyou"/>
+  </round>
+ </game>
+ <game gamecode="3703165246">
+  <general>
+   <startdate>2022-08-16 22:59:52</startdate>
+   <players>
+    <player bet="€2,50" seat="1" dealer="1" name="beyou" win="€2" chips="€153,37"/>
+    <player bet="€1" seat="3" dealer="0" name="13373678" win="€0" chips="€102,35"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">C5 D8</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703165291">
+  <general>
+   <startdate>2022-08-16 23:00:11</startdate>
+   <players>
+    <player bet="€1" seat="1" dealer="0" name="beyou" win="€1" chips="€154,37"/>
+    <player bet="€0,50" seat="3" dealer="1" name="13373678" win="€0" chips="€101,35"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="13373678"/>
+   <action sum="€1" type="2" no="2" player="beyou"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">X X</cards>
+   <cards type="Pocket" player="13373678">C3 H4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3703165303">
+  <general>
+   <startdate>2022-08-16 23:00:17</startdate>
+   <players>
+    <player bet="€4,15" seat="1" dealer="1" name="beyou" win="€8,05" chips="€154,87"/>
+    <player bet="€4,15" seat="3" dealer="0" name="13373678" win="€0" chips="€100,85"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" no="1" player="beyou"/>
+   <action sum="€1" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beyou">SJ C6</cards>
+   <action sum="€2,50" type="23" no="3" player="beyou"/>
+   <cards type="Pocket" player="13373678">C10 C3</cards>
+   <action sum="€1,50" type="3" no="4" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S3 SA</cards>
+   <action sum="€0" type="4" no="5" player="13373678"/>
+   <action sum="€0" type="4" no="6" player="beyou"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" type="4" no="7" player="13373678"/>
+   <action sum="€1,65" type="5" no="8" player="beyou"/>
+   <action sum="€1,65" type="3" no="9" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" type="4" no="10" player="13373678"/>
+   <action sum="€0" type="4" no="11" player="beyou"/>
+  </round>
+ </game>
+</session>

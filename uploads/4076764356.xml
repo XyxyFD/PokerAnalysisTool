@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076764356">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:18</duration>
+  <gamecount>3</gamecount>
+  <startdate>2022-06-13 12:40:07</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€7,55</bets>
+  <wins>€4,27</wins>
+  <chipsin>€47,80</chipsin>
+  <chipsout>€52,07</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687887958">
+  <general>
+   <startdate>2022-06-13 12:40:07</startdate>
+   <players>
+    <player win="€0" bet="€2,20" seat="1" chips="€50" dealer="0" name="13373678"/>
+    <player win="€4,27" bet="€3,85" seat="5" chips="€50" dealer="1" name="fsgdhfsjm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">S5 S9</cards>
+   <action sum="€0,60" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D2 C3</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€1,10" no="7" player="13373678" type="5"/>
+   <action sum="€2,75" no="8" player="fsgdhfsjm" type="23"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887986">
+  <general>
+   <startdate>2022-06-13 12:40:36</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€50" dealer="1" name="13373678"/>
+    <player win="€0,50" bet="€0,50" seat="5" chips="€52,07" dealer="0" name="fsgdhfsjm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 S3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887991">
+  <general>
+   <startdate>2022-06-13 12:40:42</startdate>
+   <players>
+    <player win="€4,27" bet="€5,10" seat="1" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€2,20" seat="5" chips="€52,32" dealer="1" name="fsgdhfsjm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">H6 DA</cards>
+   <action sum="€0,60" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S3 HA</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,10" no="6" player="fsgdhfsjm" type="5"/>
+   <action sum="€1,10" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="fsgdhfsjm" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€2,90" no="10" player="13373678" type="5"/>
+   <action sum="€0" no="11" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+</session>

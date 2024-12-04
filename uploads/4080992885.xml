@@ -1,0 +1,3005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080992885">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:49:12</duration>
+  <gamecount>83</gamecount>
+  <startdate>2022-08-12 15:39:42</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€356,99</bets>
+  <wins>€275,86</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€217,46</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702036539">
+  <general>
+   <startdate>2022-08-12 15:39:42</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€100" name="Player 1" seat="1" win="€0"/>
+    <player bet="€3,50" dealer="0" chips="€210,70" name="Player 5" seat="5" win="€2,43"/>
+    <player bet="€0" dealer="0" chips="€168,90" name="Player 6" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€101" name="Player 8" seat="8" win="€0"/>
+    <player bet="€1" dealer="1" chips="€103,18" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Player 1"/>
+   <action sum="€1" no="2" type="2" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" no="3" type="0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" no="4" type="0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1" no="5" type="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" no="6" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" no="7" type="4" player="Player 5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C6 C9</cards>
+   <action sum="€0" no="8" type="4" player="Player 5"/>
+   <action sum="€0" no="9" type="4" player="Player 10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" no="10" type="4" player="Player 5"/>
+   <action sum="€0" no="11" type="4" player="Player 10"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€2,50" no="12" type="5" player="Player 5"/>
+   <action sum="€0" no="13" type="0" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3702036971">
+  <general>
+   <startdate>2022-08-12 15:40:19</startdate>
+   <players>
+    <player bet="€7,14" dealer="1" chips="€100" name="Player 1" seat="1" win="€9,22"/>
+    <player bet="€0,50" dealer="0" chips="€212,13" name="Player 5" seat="5" win="€0"/>
+    <player bet="€4" dealer="0" chips="€168,90" name="Player 6" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€101" name="Player 8" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€102,18" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Player 5"/>
+   <action sum="€1" no="2" type="2" player="Player 6"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" no="3" type="0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1" no="4" type="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€4" no="5" type="23" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" no="6" type="0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€3" no="7" type="3" player="Player 6"/>
+   <action sum="€0" no="8" type="0" player="Player 10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK D9 C2</cards>
+   <action sum="€0" no="9" type="4" player="Player 6"/>
+   <action sum="€3,14" no="10" type="5" player="Player 1"/>
+   <action sum="€0" no="11" type="0" player="Player 6"/>
+  </round>
+ </game>
+ <game gamecode="3702037025">
+  <general>
+   <startdate>2022-08-12 15:40:58</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€105,22" name="Player 1" seat="1" win="€0"/>
+    <player bet="€5,25" dealer="1" chips="€211,63" name="Player 5" seat="5" win="€7,28"/>
+    <player bet="€0,50" dealer="0" chips="€164,90" name="Player 6" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€101" name="Player 8" seat="8" win="€0"/>
+    <player bet="€3" dealer="0" chips="€101,18" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Player 6"/>
+   <action sum="€1" no="2" type="2" player="Player 8"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1" no="3" type="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" no="4" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€3" no="5" type="23" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" no="6" type="0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" no="7" type="0" player="Player 8"/>
+   <action sum="€2" no="8" type="3" player="Player 10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H9 C3</cards>
+   <action sum="€0" no="9" type="4" player="Player 10"/>
+   <action sum="€2,25" no="10" type="5" player="Player 5"/>
+   <action sum="€0" no="11" type="0" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3702037058">
+  <general>
+   <startdate>2022-08-12 15:41:24</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€105,22" name="Player 1" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€215,91" name="Player 5" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€164,40" name="Player 6" seat="6" win="€0"/>
+    <player bet="€12" dealer="0" chips="€100" name="Player 8" seat="8" win="€5,82"/>
+    <player bet="€3" dealer="0" chips="€98,18" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Player 8"/>
+   <action sum="€1" no="2" type="2" player="Player 10"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" no="3" type="0" player="Player 1"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" no="4" type="0" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" no="5" type="0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€3" no="6" type="23" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€2" no="7" type="3" player="Player 10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 CJ HQ</cards>
+   <action sum="€0" no="8" type="4" player="Player 8"/>
+   <action sum="€0" no="9" type="4" player="Player 10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" no="10" type="4" player="Player 8"/>
+   <action sum="€0" no="11" type="4" player="Player 10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€9" no="12" type="5" player="Player 8"/>
+   <action sum="€0" no="13" type="0" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3702037144">
+  <general>
+   <startdate>2022-08-12 15:42:22</startdate>
+   <players>
+    <player bet="€10,65" dealer="0" chips="€105,22" name="Player 1" seat="1" win="€9,66"/>
+    <player bet="€2" dealer="0" chips="€215,91" name="Player 5" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€164,40" name="Player 6" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€102,82" name="Player 8" seat="8" win="€0"/>
+    <player bet="€3,98" dealer="0" chips="€95,18" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Player 10"/>
+   <action sum="€1" no="2" type="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€2" no="3" type="23" player="Player 5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" no="4" type="0" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" no="5" type="0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1,50" no="6" type="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€1" no="7" type="3" player="Player 1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 S4 H8</cards>
+   <action sum="€0" no="8" type="4" player="Player 10"/>
+   <action sum="€1,98" no="9" type="5" player="Player 1"/>
+   <action sum="€0" no="10" type="0" player="Player 5"/>
+   <action sum="€1,98" no="11" type="3" player="Player 10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="12" type="4" player="Player 10"/>
+   <action sum="€6,67" no="13" type="5" player="Player 1"/>
+   <action sum="€0" no="14" type="0" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3702037349">
+  <general>
+   <startdate>2022-08-12 15:43:16</startdate>
+   <players>
+    <player bet="€6,97" dealer="0" chips="€110,90" name="Butterfisch" seat="1" win="€8,73"/>
+    <player bet="€1" dealer="0" chips="€100" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€213,91" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€164,40" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€4" dealer="1" chips="€91,20" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="5" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="6" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="7" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H4 C5</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+   <action sum="€3" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 H3 S4</cards>
+   <action sum="€2,97" no="10" type="5" player="Butterfisch"/>
+   <action sum="€0" no="11" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702037408">
+  <general>
+   <startdate>2022-08-12 15:43:52</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€115,63" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€4" dealer="0" chips="€100" name="13373678" seat="3" win="€3"/>
+    <player bet="€1" dealer="0" chips="€213,91" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€164,40" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€87,20" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Back2Warcraft"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="4" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DJ SQ</cards>
+   <action sum="€4" no="7" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="8" type="0" player="Back2Warcraft"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702037457">
+  <general>
+   <startdate>2022-08-12 15:44:17</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€115,63" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€4,31" dealer="1" chips="€102" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€212,91" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€4,31" dealer="0" chips="€164,40" name="m1lfhunter64" seat="6" win="€8,85"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€0" dealer="0" chips="€86,20" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Back2Warcraft"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="3" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="4" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C10 SQ</cards>
+   <action sum="€2,50" no="6" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="7" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">D4 H4</cards>
+   <action sum="€1,50" no="8" type="3" player="m1lfhunter64"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ S3 D5</cards>
+   <action sum="€0" no="9" type="4" player="m1lfhunter64"/>
+   <action sum="€1,81" no="10" type="5" player="13373678"/>
+   <action sum="€1,81" no="11" type="3" player="m1lfhunter64"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€0" no="12" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="13" type="4" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€0" no="14" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="15" type="4" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702037540">
+  <general>
+   <startdate>2022-08-12 15:45:07</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€115,63" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€212,41" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€168,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€5" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€3"/>
+    <player bet="€1" dealer="0" chips="€86,20" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Helleoo"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HA C3</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="6" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0,50" no="7" type="3" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€5" no="8" type="23" player="Helleoo"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+   <action sum="€0" no="10" type="0" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702038505">
+  <general>
+   <startdate>2022-08-12 15:45:39</startdate>
+   <players>
+    <player bet="€3,82" dealer="0" chips="€115,63" name="Butterfisch" seat="1" win="€4,76"/>
+    <player bet="€0" dealer="0" chips="€100" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€212,41" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€167,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€104,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€2,20" dealer="0" chips="€85,20" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Helleoo"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D3 D8</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="5" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="7" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1,20" no="8" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ CK S4</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€1,62" no="10" type="5" player="Butterfisch"/>
+   <action sum="€0" no="11" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702038567">
+  <general>
+   <startdate>2022-08-12 15:46:15</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€118,19" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="13373678" seat="3" win="€0"/>
+    <player bet="€2" dealer="0" chips="€212,41" name="Back2Warcraft" seat="5" win="€4,85"/>
+    <player bet="€0" dealer="0" chips="€167,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€104,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€2" dealer="0" chips="€83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 DQ</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">HQ HA</cards>
+   <action sum="€2" no="4" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="6" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">S7 S2</cards>
+   <action sum="€1,50" no="7" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 H9 S3</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="Back2Warcraft"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+   <action sum="€0" no="12" type="4" player="Back2Warcraft"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€0" no="13" type="4" player="Edmehu"/>
+   <action sum="€0" no="14" type="4" player="Back2Warcraft"/>
+  </round>
+ </game>
+ <game gamecode="3702038676">
+  <general>
+   <startdate>2022-08-12 15:47:20</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€117,19" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="13373678" seat="3" win="€1"/>
+    <player bet="€0" dealer="0" chips="€215,26" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€167,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€104,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€0" dealer="1" chips="€81" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 SK</cards>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="5" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="6" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702038710">
+  <general>
+   <startdate>2022-08-12 15:47:36</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€116,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€3" dealer="0" chips="€100,50" name="13373678" seat="3" win="€2"/>
+    <player bet="€1" dealer="0" chips="€215,26" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€167,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€104,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€0" dealer="0" chips="€81" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Back2Warcraft"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="4" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="5" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DJ C9</cards>
+   <action sum="€3" no="7" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="8" type="0" player="Back2Warcraft"/>
+  </round>
+ </game>
+ <game gamecode="3702038758">
+  <general>
+   <startdate>2022-08-12 15:48:04</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€116,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€8,75" dealer="1" chips="€101,50" name="13373678" seat="3" win="€9,22"/>
+    <player bet="€0,50" dealer="0" chips="€214,26" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€167,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€104,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€4" dealer="0" chips="€81" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Back2Warcraft"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="3" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HQ CJ</cards>
+   <action sum="€4" no="6" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="7" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+   <action sum="€3" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ SQ D5</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€4,75" no="11" type="5" player="13373678"/>
+   <action sum="€0" no="12" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702038810">
+  <general>
+   <startdate>2022-08-12 15:48:34</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€116,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€106,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€2,50" dealer="1" chips="€213,76" name="Back2Warcraft" seat="5" win="€2,50"/>
+    <player bet="€0,50" dealer="0" chips="€166,94" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€104,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€0" dealer="0" chips="€77" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Helleoo"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="3" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D4 HJ</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€2,50" no="6" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="7" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="8" type="0" player="Helleoo"/>
+  </round>
+ </game>
+ <game gamecode="3702038872">
+  <general>
+   <startdate>2022-08-12 15:49:07</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€116,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€106,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€2,30" dealer="0" chips="€215,26" name="Back2Warcraft" seat="5" win="€2,50"/>
+    <player bet="€0" dealer="1" chips="€166,44" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€103,32" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€77" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Helleoo"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HJ S2</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€2,30" no="5" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="7" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="8" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702038904">
+  <general>
+   <startdate>2022-08-12 15:49:25</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€116,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€106,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€5,75" dealer="0" chips="€216,76" name="Back2Warcraft" seat="5" win="€4,85"/>
+    <player bet="€0" dealer="0" chips="€166,44" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€2" dealer="0" chips="€76" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 C6</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€2" no="4" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="6" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1,50" no="7" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D2 C2</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€3,75" no="10" type="5" player="Back2Warcraft"/>
+   <action sum="€0" no="11" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702038937">
+  <general>
+   <startdate>2022-08-12 15:49:50</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€115,69" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€106,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€219,61" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€6,07" dealer="0" chips="€166,44" name="m1lfhunter64" seat="6" win="€6,31"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€2,50" dealer="1" chips="€74" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,50" no="4" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="5" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€2,50" no="6" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S4 H7</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H4 C9</cards>
+   <action sum="€3,57" no="9" type="5" player="m1lfhunter64"/>
+   <action sum="€0" no="10" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702038985">
+  <general>
+   <startdate>2022-08-12 15:50:21</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€115,19" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€5" dealer="0" chips="€105,72" name="13373678" seat="3" win="€3"/>
+    <player bet="€1" dealer="0" chips="€219,61" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€170,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€71,50" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Back2Warcraft"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="4" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C8 H8</cards>
+   <action sum="€5" no="7" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="8" type="0" player="Back2Warcraft"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039043">
+  <general>
+   <startdate>2022-08-12 15:50:52</startdate>
+   <players>
+    <player bet="€76,71" dealer="0" chips="€115,19" name="Butterfisch" seat="1" win="€35,81"/>
+    <player bet="€0" dealer="1" chips="€107,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€218,61" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€170,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€17,71" dealer="0" chips="€70,50" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Back2Warcraft"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="3" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="5" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C7 DA</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="7" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+   <action sum="€3" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 SJ SK</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€3,14" no="11" type="5" player="Butterfisch"/>
+   <action sum="€3,14" no="12" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action sum="€0" no="13" type="4" player="Edmehu"/>
+   <action sum="€10,57" no="14" type="5" player="Butterfisch"/>
+   <action sum="€10,57" no="15" type="3" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€0" no="16" type="4" player="Edmehu"/>
+   <action sum="€59" no="17" type="5" player="Butterfisch"/>
+   <action sum="€0" no="18" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039400">
+  <general>
+   <startdate>2022-08-12 15:51:55</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€133,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€107,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€218,11" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€169,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€102,82" name="Helleoo" seat="8" win="€2,91"/>
+    <player bet="€1" dealer="0" chips="€52,79" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Helleoo"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">C2 CJ</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">SQ D7</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="6" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">D4 DJ</cards>
+   <action sum="€0,50" no="7" type="3" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">S5 S6</cards>
+   <action sum="€0" no="8" type="4" player="Helleoo"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 DK H6</cards>
+   <action sum="€0" no="9" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="10" type="4" player="Helleoo"/>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€0" no="12" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="13" type="4" player="Helleoo"/>
+   <action sum="€0" no="14" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action sum="€0" no="15" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="16" type="4" player="Helleoo"/>
+   <action sum="€0" no="17" type="4" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039501">
+  <general>
+   <startdate>2022-08-12 15:52:56</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€133,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€107,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€218,11" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€12,80" dealer="1" chips="€168,25" name="m1lfhunter64" seat="6" win="€9,97"/>
+    <player bet="€0,50" dealer="0" chips="€104,73" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€4,89" dealer="0" chips="€51,79" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Helleoo"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H4 H2</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="5" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,20" no="6" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="7" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1,20" no="8" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D8 S5</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€2,69" no="10" type="5" player="m1lfhunter64"/>
+   <action sum="€2,69" no="11" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+   <action sum="€0" no="13" type="4" player="m1lfhunter64"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€0" no="14" type="4" player="Edmehu"/>
+   <action sum="€7,91" no="15" type="5" player="m1lfhunter64"/>
+   <action sum="€0" no="16" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039553">
+  <general>
+   <startdate>2022-08-12 15:53:27</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€133,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€107,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€2" dealer="0" chips="€218,11" name="Back2Warcraft" seat="5" win="€4,85"/>
+    <player bet="€0" dealer="0" chips="€173,33" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€104,23" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€2" dealer="0" chips="€46,90" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 HQ</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">SA SQ</cards>
+   <action sum="€2" no="4" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="6" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">SK H9</cards>
+   <action sum="€1,50" no="7" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H10 D10</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="Back2Warcraft"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+   <action sum="€0" no="12" type="4" player="Back2Warcraft"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" no="13" type="4" player="Edmehu"/>
+   <action sum="€0" no="14" type="4" player="Back2Warcraft"/>
+  </round>
+ </game>
+ <game gamecode="3702039607">
+  <general>
+   <startdate>2022-08-12 15:53:59</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€132,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€107,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€220,96" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€16,57" dealer="0" chips="€173,33" name="m1lfhunter64" seat="6" win="€13,23"/>
+    <player bet="€0" dealer="0" chips="€104,23" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€6,07" dealer="1" chips="€44,90" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,50" no="4" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="5" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€2,50" no="6" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S4 D2</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 SK D4</cards>
+   <action sum="€3,57" no="9" type="5" player="m1lfhunter64"/>
+   <action sum="€3,57" no="10" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€10,50" no="11" type="5" player="m1lfhunter64"/>
+   <action sum="€0" no="12" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039777">
+  <general>
+   <startdate>2022-08-12 15:54:38</startdate>
+   <players>
+    <player bet="€4" dealer="1" chips="€131,79" name="Butterfisch" seat="1" win="€3,50"/>
+    <player bet="€0,50" dealer="0" chips="€106,72" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€220,96" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€180,49" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€104,23" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€38,83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Back2Warcraft"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="4" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="6" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C9 DJ</cards>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="8" type="0" player="Back2Warcraft"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702039806">
+  <general>
+   <startdate>2022-08-12 15:54:57</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€134,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="1" chips="€106,22" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€219,96" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€44,67" dealer="0" chips="€180,49" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€44,67" dealer="0" chips="€104,23" name="Helleoo" seat="8" win="€87,84"/>
+    <player bet="€0" dealer="0" chips="€37,83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Back2Warcraft"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Helleoo">CA DA</cards>
+   <action sum="€2,20" no="3" type="23" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="4" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C8 S6</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="7" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">CK CJ</cards>
+   <action sum="€1,20" no="8" type="3" player="m1lfhunter64"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK C4 C10</cards>
+   <action sum="€0" no="9" type="4" player="m1lfhunter64"/>
+   <action sum="€1,47" no="10" type="5" player="Helleoo"/>
+   <action sum="€1,47" no="11" type="3" player="m1lfhunter64"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" no="12" type="4" player="m1lfhunter64"/>
+   <action sum="€6,27" no="13" type="5" player="Helleoo"/>
+   <action sum="€18,54" no="14" type="23" player="m1lfhunter64"/>
+   <action sum="€12,27" no="15" type="3" player="Helleoo"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€0" no="16" type="4" player="m1lfhunter64"/>
+   <action sum="€22,46" no="17" type="5" player="Helleoo"/>
+   <action sum="€22,46" no="18" type="3" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702040892">
+  <general>
+   <startdate>2022-08-12 15:56:20</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€134,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€4" dealer="0" chips="€106,22" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€219,46" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€14" dealer="0" chips="€135,82" name="m1lfhunter64" seat="6" win="€10"/>
+    <player bet="€1" dealer="0" chips="€147,40" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€37,83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Helleoo"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HK C10</cards>
+   <action sum="€4" no="5" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="6" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€14" no="7" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="8" type="0" player="Helleoo"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+   <action sum="€0" no="10" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702040931">
+  <general>
+   <startdate>2022-08-12 15:56:46</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€134,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€102,22" name="13373678" seat="3" win="€0"/>
+    <player bet="€2,30" dealer="0" chips="€219,46" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€141,82" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€11" dealer="0" chips="€146,40" name="Helleoo" seat="8" win="€5,60"/>
+    <player bet="€1" dealer="0" chips="€36,83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Helleoo"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H3 D9</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€2,30" no="5" type="23" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€11" no="7" type="23" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="8" type="0" player="Edmehu"/>
+   <action sum="€0" no="9" type="0" player="Back2Warcraft"/>
+  </round>
+ </game>
+ <game gamecode="3702040984">
+  <general>
+   <startdate>2022-08-12 15:57:22</startdate>
+   <players>
+    <player bet="€2,50" dealer="0" chips="€134,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€35,83" dealer="0" chips="€102,22" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€217,16" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€141,82" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€149,70" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€35,83" dealer="0" chips="€35,83" name="Edmehu" seat="10" win="€72,16"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK CJ</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="4" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="6" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">D8 D7</cards>
+   <action sum="€2" no="7" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€1,50" no="8" type="3" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S8 CK</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="Butterfisch"/>
+   <action sum="€2,47" no="11" type="5" player="13373678"/>
+   <action sum="€2,47" no="12" type="3" player="Edmehu"/>
+   <action sum="€0" no="13" type="0" player="Butterfisch"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action sum="€0" no="14" type="4" player="Edmehu"/>
+   <action sum="€6,22" no="15" type="5" player="13373678"/>
+   <action sum="€6,22" no="16" type="3" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€24,64" no="17" type="5" player="Edmehu"/>
+   <action sum="€24,64" no="18" type="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702041085">
+  <general>
+   <startdate>2022-08-12 15:58:26</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€131,79" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="13373678" seat="3" win="€1"/>
+    <player bet="€0" dealer="0" chips="€217,16" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€141,82" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€149,70" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€0" dealer="1" chips="€72,16" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HA HJ</cards>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="5" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="6" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702041111">
+  <general>
+   <startdate>2022-08-12 15:58:41</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€131,29" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€100,50" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€217,16" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€16,57" dealer="0" chips="€141,82" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€149,70" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€72,16" dealer="0" chips="€72,16" name="Edmehu" seat="10" win="€33,60"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="Back2Warcraft"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,50" no="3" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="4" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€2,50" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H4 HJ</cards>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="8" type="0" player="Back2Warcraft"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D4 C10</cards>
+   <action sum="€3,57" no="9" type="5" player="m1lfhunter64"/>
+   <action sum="€3,57" no="10" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action sum="€10,50" no="11" type="5" player="m1lfhunter64"/>
+   <action sum="€66,09" no="12" type="23" player="Edmehu"/>
+   <action sum="€0" no="13" type="0" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702041178">
+  <general>
+   <startdate>2022-08-12 15:59:18</startdate>
+   <players>
+    <player bet="€42,45" dealer="0" chips="€131,29" name="Butterfisch" seat="1" win="€35,81"/>
+    <player bet="€0" dealer="1" chips="€100" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€216,16" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€125,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€149,70" name="Helleoo" seat="8" win="€0"/>
+    <player bet="€17,71" dealer="0" chips="€89,19" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Back2Warcraft"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Helleoo">X X</cards>
+   <action sum="€0" no="3" type="0" player="Helleoo"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="5" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D9 D10</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="7" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+   <action sum="€3" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S4 C2</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€3,14" no="11" type="5" player="Butterfisch"/>
+   <action sum="€3,14" no="12" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action sum="€0" no="13" type="4" player="Edmehu"/>
+   <action sum="€10,57" no="14" type="5" player="Butterfisch"/>
+   <action sum="€10,57" no="15" type="3" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€0" no="16" type="4" player="Edmehu"/>
+   <action sum="€24,74" no="17" type="5" player="Butterfisch"/>
+   <action sum="€0" no="18" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702041272">
+  <general>
+   <startdate>2022-08-12 16:00:17</startdate>
+   <players>
+    <player bet="€33,47" dealer="0" chips="€149,39" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€33,47" dealer="0" chips="€100" name="13373678" seat="3" win="€66,44"/>
+    <player bet="€0" dealer="1" chips="€215,66" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€124,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€71,48" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">D6 D5</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DQ SK</cards>
+   <action sum="€7,50" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="5" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="7" type="0" player="Edmehu"/>
+   <action sum="€5,30" no="8" type="3" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C7 D7</cards>
+   <action sum="€0" no="9" type="4" player="Butterfisch"/>
+   <action sum="€5,44" no="10" type="5" player="13373678"/>
+   <action sum="€5,44" no="11" type="3" player="Butterfisch"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" no="12" type="4" player="Butterfisch"/>
+   <action sum="€20,53" no="13" type="5" player="13373678"/>
+   <action sum="€20,53" no="14" type="3" player="Butterfisch"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action sum="€0" no="15" type="4" player="Butterfisch"/>
+   <action sum="€0" no="16" type="4" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702041363">
+  <general>
+   <startdate>2022-08-12 16:01:08</startdate>
+   <players>
+    <player bet="€4" dealer="0" chips="€115,92" name="Butterfisch" seat="1" win="€2"/>
+    <player bet="€0" dealer="0" chips="€132,97" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€215,66" name="Back2Warcraft" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€123,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€70,48" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA S9</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="4" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0,50" no="6" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="7" type="23" player="Butterfisch"/>
+   <action sum="€0" no="8" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702041396">
+  <general>
+   <startdate>2022-08-12 16:01:28</startdate>
+   <players>
+    <player bet="€3" dealer="0" chips="€116,92" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€10" dealer="0" chips="€132,97" name="13373678" seat="3" win="€6"/>
+    <player bet="€0" dealer="0" chips="€123,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€69,48" name="Edmehu" seat="10" win="€0"/>
+    <player bet="€0" dealer="0" chips="€215,66" name="Back2Warcraft" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Back2Warcraft">X X</cards>
+   <action sum="€0" no="3" type="0" player="Back2Warcraft"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="5" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€3" no="6" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">SK CA</cards>
+   <action sum="€10" no="7" type="23" player="13373678"/>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702041453">
+  <general>
+   <startdate>2022-08-12 16:01:57</startdate>
+   <players>
+    <player bet="€4" dealer="1" chips="€113,92" name="Butterfisch" seat="1" win="€3,50"/>
+    <player bet="€0,50" dealer="0" chips="€135,97" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€123,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€69,48" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HQ S7</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <action sum="€0" no="7" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702041483">
+  <general>
+   <startdate>2022-08-12 16:02:15</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€116,42" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="1" chips="€135,47" name="13373678" seat="3" win="€0"/>
+    <player bet="€3" dealer="0" chips="€122,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€22" dealer="0" chips="€68,48" name="Edmehu" seat="10" win="€5,82"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D8 H10</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€3" no="5" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€2" no="6" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S5 H3</cards>
+   <action sum="€0" no="7" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="8" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€0" no="9" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action sum="€0" no="11" type="4" player="m1lfhunter64"/>
+   <action sum="€19" no="12" type="5" player="Edmehu"/>
+   <action sum="€0" no="13" type="0" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702041560">
+  <general>
+   <startdate>2022-08-12 16:02:59</startdate>
+   <players>
+    <player bet="€4,68" dealer="0" chips="€116,42" name="Butterfisch" seat="1" win="€3,88"/>
+    <player bet="€0" dealer="0" chips="€135,47" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€119,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€2" dealer="0" chips="€71,30" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H7 C4</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0,50" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="4" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D2 D9</cards>
+   <action sum="€0" no="7" type="4" player="Edmehu"/>
+   <action sum="€1" no="8" type="5" player="Butterfisch"/>
+   <action sum="€1" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€0" no="11" type="4" player="Butterfisch"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+   <action sum="€2,68" no="13" type="5" player="Butterfisch"/>
+   <action sum="€0" no="14" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702041606">
+  <general>
+   <startdate>2022-08-12 16:03:34</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€118,30" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€135,47" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€119,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€2" dealer="1" chips="€69,30" name="Edmehu" seat="10" win="€2,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C6 D4</cards>
+   <action sum="€0" no="6" type="4" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ D9 DK</cards>
+   <action sum="€0" no="7" type="4" player="13373678"/>
+   <action sum="€0" no="8" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" no="9" type="4" player="13373678"/>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action sum="€0" no="11" type="4" player="13373678"/>
+   <action sum="€1" no="12" type="5" player="Edmehu"/>
+   <action sum="€0" no="13" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702041687">
+  <general>
+   <startdate>2022-08-12 16:04:21</startdate>
+   <players>
+    <player bet="€7,14" dealer="1" chips="€117,80" name="Butterfisch" seat="1" win="€9,22"/>
+    <player bet="€0,50" dealer="0" chips="€134,47" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€119,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€4" dealer="0" chips="€70,73" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€4" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">SA C9</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <action sum="€3" no="7" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ HA C5</cards>
+   <action sum="€0" no="8" type="4" player="Edmehu"/>
+   <action sum="€3,14" no="9" type="5" player="Butterfisch"/>
+   <action sum="€0" no="10" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702041718">
+  <general>
+   <startdate>2022-08-12 16:04:41</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€123,02" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€3,50" dealer="1" chips="€133,97" name="13373678" seat="3" win="€7,28"/>
+    <player bet="€0,50" dealer="0" chips="€118,75" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€3,50" dealer="0" chips="€66,73" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">CJ C6</cards>
+   <action sum="€2,50" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">DA S5</cards>
+   <action sum="€1,50" no="6" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 C3 HQ</cards>
+   <action sum="€0" no="7" type="4" player="Edmehu"/>
+   <action sum="€0" no="8" type="4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€1" no="11" type="5" player="Edmehu"/>
+   <action sum="€1" no="12" type="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702042045">
+  <general>
+   <startdate>2022-08-12 16:05:30</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€123,02" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€20,50" dealer="0" chips="€137,75" name="13373678" seat="3" win="€15,50"/>
+    <player bet="€7" dealer="1" chips="€118,25" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€63,23" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK SJ</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€7" no="4" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="5" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <action sum="€20,50" no="7" type="23" player="13373678"/>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702042093">
+  <general>
+   <startdate>2022-08-12 16:06:02</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€122,02" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€34,15" dealer="0" chips="€146,25" name="13373678" seat="3" win="€0"/>
+    <player bet="€34,15" dealer="0" chips="€111,25" name="m1lfhunter64" seat="6" win="€66,80"/>
+    <player bet="€0" dealer="1" chips="€62,73" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">CK SK</cards>
+   <action sum="€2,50" no="3" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="4" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H9 D9</cards>
+   <action sum="€1,50" no="6" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S8 DJ</cards>
+   <action sum="€0" no="7" type="4" player="13373678"/>
+   <action sum="€3,02" no="8" type="5" player="m1lfhunter64"/>
+   <action sum="€3,02" no="9" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action sum="€0" no="10" type="4" player="13373678"/>
+   <action sum="€8,88" no="11" type="5" player="m1lfhunter64"/>
+   <action sum="€28,63" no="12" type="23" player="13373678"/>
+   <action sum="€19,75" no="13" type="3" player="m1lfhunter64"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" no="14" type="4" player="13373678"/>
+   <action sum="€0" no="15" type="4" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702042204">
+  <general>
+   <startdate>2022-08-12 16:07:12</startdate>
+   <players>
+    <player bet="€9,12" dealer="1" chips="€121,52" name="Butterfisch" seat="1" win="€12,13"/>
+    <player bet="€0,50" dealer="0" chips="€112,10" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€143,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€5" dealer="0" chips="€62,73" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+   <action sum="€1" no="3" type="2" player="Herbert2021"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="5" type="4" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="6" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€5" no="7" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S7 DQ</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="9" type="0" player="PartyTiger"/>
+   <action sum="€0" no="10" type="0" player="Herbert2021"/>
+   <action sum="€4" no="11" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D7 C2</cards>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+   <action sum="€4,12" no="13" type="5" player="Butterfisch"/>
+   <action sum="€0" no="14" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702043266">
+  <general>
+   <startdate>2022-08-12 16:07:50</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€128,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€7,13" dealer="1" chips="€111,60" name="13373678" seat="3" win="€9,22"/>
+    <player bet="€0,50" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€143,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€99" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€4" dealer="0" chips="€57,73" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="3" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DQ S8</cards>
+   <action sum="€4" no="6" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="7" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+   <action sum="€3" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 SJ SQ</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€3,13" no="11" type="5" player="13373678"/>
+   <action sum="€0" no="12" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702043321">
+  <general>
+   <startdate>2022-08-12 16:08:21</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€128,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€116,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€142,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€99" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€6" dealer="0" chips="€53,73" name="Edmehu" seat="10" win="€2,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Herbert2021"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D10 SJ</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="6" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0,50" no="7" type="3" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="8" type="4" player="Herbert2021"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C7 H8</cards>
+   <action sum="€0" no="9" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="10" type="4" player="Herbert2021"/>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€0" no="12" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="13" type="4" player="Herbert2021"/>
+   <action sum="€0" no="14" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action sum="€0" no="15" type="4" player="m1lfhunter64"/>
+   <action sum="€0" no="16" type="4" player="Herbert2021"/>
+   <action sum="€5" no="17" type="5" player="Edmehu"/>
+   <action sum="€0" no="18" type="0" player="m1lfhunter64"/>
+   <action sum="€0" no="19" type="0" player="Herbert2021"/>
+  </round>
+ </game>
+ <game gamecode="3702043408">
+  <general>
+   <startdate>2022-08-12 16:09:10</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€128,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€116,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€141,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€98" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€55,64" name="Edmehu" seat="10" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Herbert2021"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S7 H6</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="7" type="0" player="Herbert2021"/>
+  </round>
+ </game>
+ <game gamecode="3702043446">
+  <general>
+   <startdate>2022-08-12 16:09:33</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€128,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€3,50" dealer="0" chips="€116,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€141,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="1" chips="€97,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€3,50" dealer="0" chips="€56,14" name="Edmehu" seat="10" win="€7,76"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 H6</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="5" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="6" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">D10 H8</cards>
+   <action sum="€2" no="7" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C9 H3</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+   <action sum="€0" no="12" type="4" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action sum="€1" no="13" type="5" player="Edmehu"/>
+   <action sum="€1" no="14" type="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702043513">
+  <general>
+   <startdate>2022-08-12 16:10:12</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€127,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€113,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€141,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€3" dealer="0" chips="€97,50" name="Herbert2021" seat="8" win="€2,50"/>
+    <player bet="€0" dealer="1" chips="€60,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€3" no="5" type="23" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="6" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S5 S10</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702043529">
+  <general>
+   <startdate>2022-08-12 16:10:25</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€112,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€141,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€3" dealer="0" chips="€99" name="Herbert2021" seat="8" win="€2,50"/>
+    <player bet="€0" dealer="0" chips="€60,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€3" no="4" type="23" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="5" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D6 CJ</cards>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="8" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702043559">
+  <general>
+   <startdate>2022-08-12 16:10:44</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="1" chips="€111,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€141,90" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€4" dealer="0" chips="€100,50" name="Herbert2021" seat="8" win="€2,50"/>
+    <player bet="€0" dealer="0" chips="€60,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€4" no="3" type="23" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="4" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H4 DJ</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="7" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+  </round>
+ </game>
+ <game gamecode="3702043589">
+  <general>
+   <startdate>2022-08-12 16:11:05</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€111,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€11,05" dealer="0" chips="€140,90" name="m1lfhunter64" seat="6" win="€10,67"/>
+    <player bet="€1" dealer="0" chips="€102" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€5" dealer="0" chips="€60,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Herbert2021"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C7 D9</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="6" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€5" no="7" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="8" type="0" player="Herbert2021"/>
+   <action sum="€4" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 C5 HJ</cards>
+   <action sum="€6,05" no="10" type="5" player="m1lfhunter64"/>
+   <action sum="€0" no="11" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702043629">
+  <general>
+   <startdate>2022-08-12 16:11:36</startdate>
+   <players>
+    <player bet="€2,20" dealer="0" chips="€127,15" name="Butterfisch" seat="1" win="€2,50"/>
+    <player bet="€0" dealer="0" chips="€111,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€146,57" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€101" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€1" dealer="0" chips="€55,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Herbert2021"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HJ H5</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="7" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="8" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702043664">
+  <general>
+   <startdate>2022-08-12 16:11:57</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€128,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€111,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€2,50" dealer="0" chips="€146,57" name="m1lfhunter64" seat="6" win="€2,50"/>
+    <player bet="€0" dealer="1" chips="€100,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€54,40" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 C9</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,50" no="5" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="6" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="7" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702043703">
+  <general>
+   <startdate>2022-08-12 16:12:17</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€127,65" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€111,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€3" dealer="0" chips="€100" name="PartyTiger" seat="5" win="€2,50"/>
+    <player bet="€0" dealer="0" chips="€148,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€0" dealer="1" chips="€53,90" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€3" no="3" type="23" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="5" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="6" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H6 HJ</cards>
+   <action sum="€0" no="8" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702043767">
+  <general>
+   <startdate>2022-08-12 16:12:54</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€110,82" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€101,50" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€148,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€4" dealer="0" chips="€53,90" name="Edmehu" seat="10" win="€2,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="4" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S4 HJ</cards>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="8" type="4" player="PartyTiger"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D9 CK</cards>
+   <action sum="€0" no="9" type="4" player="PartyTiger"/>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€0" no="11" type="4" player="PartyTiger"/>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€0" no="13" type="4" player="PartyTiger"/>
+   <action sum="€3" no="14" type="5" player="Edmehu"/>
+   <action sum="€0" no="15" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702044104">
+  <general>
+   <startdate>2022-08-12 16:13:49</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€4" dealer="1" chips="€110,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€16" dealer="0" chips="€100,50" name="PartyTiger" seat="5" win="€35,88"/>
+    <player bet="€1" dealer="0" chips="€148,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€16" dealer="0" chips="€55,33" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="m1lfhunter64"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="3" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">SJ CQ</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S10 HQ</cards>
+   <action sum="€4" no="6" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">SQ CK</cards>
+   <action sum="€16" no="7" type="23" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="8" type="0" player="m1lfhunter64"/>
+   <action sum="€15" no="9" type="3" player="Edmehu"/>
+   <action sum="€0" no="10" type="0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C6 D5</cards>
+   <action sum="€0" no="11" type="4" player="PartyTiger"/>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action sum="€0" no="13" type="4" player="PartyTiger"/>
+   <action sum="€0" no="14" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action sum="€0" no="15" type="4" player="PartyTiger"/>
+   <action sum="€0" no="16" type="4" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702044336">
+  <general>
+   <startdate>2022-08-12 16:14:58</startdate>
+   <players>
+    <player bet="€3,50" dealer="0" chips="€127,15" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€106,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€3,50" dealer="1" chips="€120,38" name="PartyTiger" seat="5" win="€11,64"/>
+    <player bet="€0,50" dealer="0" chips="€147,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€3,50" dealer="0" chips="€39,33" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="m1lfhunter64"/>
+   <action sum="€1" no="2" type="2" player="Herbert2021"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">CK C9</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">SQ DJ</cards>
+   <action sum="€3,50" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S9 H3</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">SK S10</cards>
+   <action sum="€3,50" no="6" type="3" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="7" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="8" type="0" player="Herbert2021"/>
+   <action sum="€2,50" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S5 D2</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€0" no="11" type="4" player="Butterfisch"/>
+   <action sum="€0" no="12" type="4" player="PartyTiger"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" no="13" type="4" player="Edmehu"/>
+   <action sum="€0" no="14" type="4" player="Butterfisch"/>
+   <action sum="€0" no="15" type="4" player="PartyTiger"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action sum="€0" no="16" type="4" player="Edmehu"/>
+   <action sum="€0" no="17" type="4" player="Butterfisch"/>
+   <action sum="€0" no="18" type="4" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702044466">
+  <general>
+   <startdate>2022-08-12 16:16:13</startdate>
+   <players>
+    <player bet="€3,82" dealer="0" chips="€123,65" name="Butterfisch" seat="1" win="€4,76"/>
+    <player bet="€0" dealer="0" chips="€106,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€128,52" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€146,57" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€99,50" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€2,20" dealer="0" chips="€35,83" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Herbert2021"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H9 H6</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="6" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="7" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1,20" no="8" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S3 C3</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€1,62" no="10" type="5" player="Butterfisch"/>
+   <action sum="€0" no="11" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702044528">
+  <general>
+   <startdate>2022-08-12 16:16:54</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€126,21" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€106,32" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="0" chips="€128,52" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€2,50" dealer="0" chips="€146,57" name="m1lfhunter64" seat="6" win="€2,50"/>
+    <player bet="€0" dealer="1" chips="€99" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€33,63" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 S6</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€2,50" no="5" type="23" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="6" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="7" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="8" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702044565">
+  <general>
+   <startdate>2022-08-12 16:17:20</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€125,21" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€11,12" dealer="0" chips="€106,32" name="13373678" seat="3" win="€12,61"/>
+    <player bet="€0" dealer="0" chips="€128,52" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€148,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€6,25" dealer="0" chips="€99" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€0" dealer="1" chips="€33,13" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="4" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€3" no="5" type="23" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€0" no="6" type="0" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DA SJ</cards>
+   <action sum="€2" no="8" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 S3 CJ</cards>
+   <action sum="€0" no="9" type="4" player="13373678"/>
+   <action sum="€3,25" no="10" type="5" player="Herbert2021"/>
+   <action sum="€8,12" no="11" type="23" player="13373678"/>
+   <action sum="€0" no="12" type="0" player="Herbert2021"/>
+  </round>
+ </game>
+ <game gamecode="3702044627">
+  <general>
+   <startdate>2022-08-12 16:18:00</startdate>
+   <players>
+    <player bet="€5,48" dealer="1" chips="€124,71" name="Butterfisch" seat="1" win="€7,28"/>
+    <player bet="€0,50" dealer="0" chips="€112,68" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€128,52" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€148,07" name="m1lfhunter64" seat="6" win="€0"/>
+    <player bet="€0" dealer="0" chips="€92,75" name="Herbert2021" seat="8" win="€0"/>
+    <player bet="€3" dealer="0" chips="€33,13" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="m1lfhunter64">X X</cards>
+   <action sum="€0" no="3" type="0" player="m1lfhunter64"/>
+   <cards type="Pocket" player="Herbert2021">X X</cards>
+   <action sum="€0" no="4" type="0" player="Herbert2021"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€3" no="6" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D3 S10</cards>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="8" type="0" player="PartyTiger"/>
+   <action sum="€2" no="9" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 HQ H3</cards>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+   <action sum="€2,48" no="11" type="5" player="Butterfisch"/>
+   <action sum="€0" no="12" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702044696">
+  <general>
+   <startdate>2022-08-12 16:18:47</startdate>
+   <players>
+    <player bet="€3,82" dealer="0" chips="€128,99" name="Butterfisch" seat="1" win="€4,76"/>
+    <player bet="€0" dealer="1" chips="€112,18" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€127,52" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€2,20" dealer="0" chips="€30,13" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">C10 S6</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="Edmehu">X X</cards>
+   <action sum="€1,20" no="6" type="3" player="Edmehu"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C6 D3</cards>
+   <action sum="€0" no="7" type="4" player="Edmehu"/>
+   <action sum="€1,62" no="8" type="5" player="Butterfisch"/>
+   <action sum="€0" no="9" type="0" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702045204">
+  <general>
+   <startdate>2022-08-12 16:19:14</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€131,55" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€112,18" name="13373678" seat="3" win="€0"/>
+    <player bet="€2,50" dealer="1" chips="€127,02" name="PartyTiger" seat="5" win="€5,82"/>
+    <player bet="€2,50" dealer="0" chips="€27,93" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Edmehu"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 D4</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">S5 H5</cards>
+   <action sum="€2,50" no="4" type="23" player="PartyTiger"/>
+   <cards type="Pocket" player="Edmehu">S2 D2</cards>
+   <action sum="€2" no="5" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HQ S7</cards>
+   <action sum="€0" no="7" type="4" player="Edmehu"/>
+   <action sum="€0" no="8" type="4" player="PartyTiger"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€0" no="9" type="4" player="Edmehu"/>
+   <action sum="€0" no="10" type="4" player="PartyTiger"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€0" no="11" type="4" player="Edmehu"/>
+   <action sum="€0" no="12" type="4" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702045745">
+  <general>
+   <startdate>2022-08-12 16:19:51</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€130,55" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€112,18" name="13373678" seat="3" win="€2,43"/>
+    <player bet="€0" dealer="0" chips="€130,34" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="1" chips="€25,43" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="Edmehu">DK S9</cards>
+   <action sum="€1" no="4" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">S7 C3</cards>
+   <action sum="€0" no="6" type="4" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C5 S8</cards>
+   <action sum="€0" no="7" type="4" player="13373678"/>
+   <action sum="€0" no="8" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" no="9" type="4" player="13373678"/>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€0" no="11" type="4" player="13373678"/>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702046019">
+  <general>
+   <startdate>2022-08-12 16:20:35</startdate>
+   <players>
+    <player bet="€0" dealer="1" chips="€130,05" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€113,61" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€130,34" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€24,43" name="Edmehu" seat="10" win="€2,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Edmehu">CA C3</cards>
+   <action sum="€1" no="3" type="3" player="Edmehu"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DA S2</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">S3 D2</cards>
+   <action sum="€0" no="6" type="4" player="PartyTiger"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ D7 C6</cards>
+   <action sum="€0" no="7" type="4" player="PartyTiger"/>
+   <action sum="€0" no="8" type="4" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" no="9" type="4" player="PartyTiger"/>
+   <action sum="€0" no="10" type="4" player="Edmehu"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action sum="€0" no="11" type="4" player="PartyTiger"/>
+   <action sum="€0" no="12" type="4" player="Edmehu"/>
+  </round>
+ </game>
+ <game gamecode="3702046295">
+  <general>
+   <startdate>2022-08-12 16:21:02</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€130,05" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€2,50" dealer="1" chips="€113,11" name="13373678" seat="3" win="€0"/>
+    <player bet="€32,50" dealer="0" chips="€129,34" name="PartyTiger" seat="5" win="€52,58"/>
+    <player bet="€25,86" dealer="0" chips="€25,86" name="Edmehu" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="Edmehu"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D5 D10</cards>
+   <action sum="€2,50" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">SA HQ</cards>
+   <action sum="€10" no="5" type="23" player="PartyTiger"/>
+   <cards type="Pocket" player="Edmehu">D3 CA</cards>
+   <action sum="€9" no="6" type="3" player="Edmehu"/>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H4 D4</cards>
+   <action sum="€22,50" no="8" type="5" player="PartyTiger"/>
+   <action sum="€15,86" no="9" type="7" player="Edmehu"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3702046373">
+  <general>
+   <startdate>2022-08-12 16:21:56</startdate>
+   <players>
+    <player bet="€29,13" dealer="0" chips="€130,05" name="Butterfisch" seat="1" win="€22,60"/>
+    <player bet="€11,65" dealer="0" chips="€110,61" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€156,06" name="PartyTiger" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€3" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H4 H5</cards>
+   <action sum="€2" no="5" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 CQ S4</cards>
+   <action sum="€1,98" no="6" type="5" player="Butterfisch"/>
+   <action sum="€1,98" no="7" type="3" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€6,67" no="8" type="5" player="Butterfisch"/>
+   <action sum="€6,67" no="9" type="3" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action sum="€17,48" no="10" type="5" player="Butterfisch"/>
+   <action sum="€0" no="11" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3702046473">
+  <general>
+   <startdate>2022-08-12 16:23:04</startdate>
+   <players>
+    <player board1win="€0" bet="€100" dealer="1" chips="€141" name="Butterfisch" board2win="€0" seat="1" win="€0"/>
+    <player board1win="€99,50" bet="€100" dealer="0" chips="€100" name="13373678" board2win="€99,50" seat="3" win="€199"/>
+    <player board1win="€0" bet="€1" dealer="0" chips="€156,06" name="PartyTiger" board2win="€0" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">HQ CQ</cards>
+   <action sum="€2,50" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DA HK</cards>
+   <action sum="€11" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <action sum="€23,50" no="6" type="23" player="Butterfisch"/>
+   <action sum="€100" no="7" type="23" player="13373678"/>
+   <action sum="€76,50" no="8" type="3" player="Butterfisch"/>
+  </round>
+  <round no="2">
+   <cards type="Flop" board="board1">H8 S5 CA</cards>
+   <cards type="Flop" board="board2">C7 C6 DJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn" board="board1">D4</cards>
+   <cards type="Turn" board="board2">SK</cards>
+  </round>
+  <round no="4">
+   <cards type="River" board="board1">H5</cards>
+   <cards type="River" board="board2">S9</cards>
+  </round>
+ </game>
+ <game gamecode="3702046549">
+  <general>
+   <startdate>2022-08-12 16:23:53</startdate>
+   <players>
+    <player bet="€2,20" dealer="0" chips="€100" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€7,50" dealer="1" chips="€199" name="13373678" seat="3" win="€5,90"/>
+    <player bet="€0,50" dealer="0" chips="€155,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="H00KED"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">HQ DJ</cards>
+   <action sum="€7,50" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="6" type="0" player="H00KED"/>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046593">
+  <general>
+   <startdate>2022-08-12 16:24:24</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€100" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0" dealer="0" chips="€202,70" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€154,56" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€3" dealer="0" chips="€100" name="H00KED" seat="6" win="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="H00KED"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ C2</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€3" no="5" type="23" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046610">
+  <general>
+   <startdate>2022-08-12 16:24:37</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€100" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€20,08" dealer="0" chips="€202,70" name="13373678" seat="3" win="€23,76"/>
+    <player bet="€12" dealer="0" chips="€154,56" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€101" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€3" no="3" type="23" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="4" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">CQ CA</cards>
+   <action sum="€12" no="6" type="23" player="13373678"/>
+   <action sum="€9" no="7" type="3" player="PartyTiger"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HK H8</cards>
+   <action sum="€8,08" no="8" type="5" player="13373678"/>
+   <action sum="€0" no="9" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702046664">
+  <general>
+   <startdate>2022-08-12 16:25:07</startdate>
+   <players>
+    <player bet="€2,50" dealer="1" chips="€100" name="Butterfisch" seat="1" win="€2,50"/>
+    <player bet="€0,50" dealer="0" chips="€214,46" name="13373678" seat="3" win="€0"/>
+    <player bet="€1" dealer="0" chips="€142,56" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€101" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="3" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,50" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D2 S6</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="6" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702046694">
+  <general>
+   <startdate>2022-08-12 16:25:25</startdate>
+   <players>
+    <player bet="€3,82" dealer="0" chips="€101,50" name="Butterfisch" seat="1" win="€4,76"/>
+    <player bet="€0" dealer="1" chips="€213,96" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€141,56" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€2,20" dealer="0" chips="€101" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="H00KED"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,20" no="3" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">DA H5</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€1,20" no="6" type="3" player="H00KED"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 HA D5</cards>
+   <action sum="€0" no="7" type="4" player="H00KED"/>
+   <action sum="€1,62" no="8" type="5" player="Butterfisch"/>
+   <action sum="€0" no="9" type="0" player="H00KED"/>
+  </round>
+ </game>
+ <game gamecode="3702046729">
+  <general>
+   <startdate>2022-08-12 16:25:46</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€104,06" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€2,50" dealer="0" chips="€213,96" name="13373678" seat="3" win="€2,50"/>
+    <player bet="€0" dealer="1" chips="€141,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="H00KED"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 S10</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="5" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="6" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046750">
+  <general>
+   <startdate>2022-08-12 16:26:01</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€103,06" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€215,46" name="13373678" seat="3" win="€1"/>
+    <player bet="€0" dealer="0" chips="€141,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 CQ</cards>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="4" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046767">
+  <general>
+   <startdate>2022-08-12 16:26:12</startdate>
+   <players>
+    <player bet="€4,32" dealer="1" chips="€102,56" name="Butterfisch" seat="1" win="€5,34"/>
+    <player bet="€0,50" dealer="0" chips="€215,96" name="13373678" seat="3" win="€0"/>
+    <player bet="€2,50" dealer="0" chips="€141,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="3" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,50" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D8 S10</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" no="6" type="3" player="PartyTiger"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 H7 H2</cards>
+   <action sum="€0" no="7" type="4" player="PartyTiger"/>
+   <action sum="€1,82" no="8" type="5" player="Butterfisch"/>
+   <action sum="€0" no="9" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702046839">
+  <general>
+   <startdate>2022-08-12 16:26:50</startdate>
+   <players>
+    <player bet="€0" dealer="0" chips="€105,40" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€2,50" dealer="1" chips="€215,46" name="13373678" seat="3" win="€2,50"/>
+    <player bet="€0,50" dealer="0" chips="€138,56" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€1" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="H00KED"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="3" type="0" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">D7 D9</cards>
+   <action sum="€2,50" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="5" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="6" type="0" player="H00KED"/>
+  </round>
+ </game>
+ <game gamecode="3702046864">
+  <general>
+   <startdate>2022-08-12 16:27:04</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€105,40" name="Butterfisch" seat="1" win="€1"/>
+    <player bet="€0" dealer="0" chips="€216,96" name="13373678" seat="3" win="€0"/>
+    <player bet="€0" dealer="1" chips="€138,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="H00KED"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <cards type="Pocket" player="13373678">C9 H7</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="5" type="0" player="H00KED"/>
+  </round>
+ </game>
+ <game gamecode="3702046883">
+  <general>
+   <startdate>2022-08-12 16:27:18</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€105,90" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€216,96" name="13373678" seat="3" win="€1"/>
+    <player bet="€0" dealer="0" chips="€138,06" name="PartyTiger" seat="5" win="€0"/>
+    <player bet="€0" dealer="1" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 D6</cards>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="4" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="5" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046898">
+  <general>
+   <startdate>2022-08-12 16:27:27</startdate>
+   <players>
+    <player bet="€2,50" dealer="1" chips="€105,40" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€217,46" name="13373678" seat="3" win="€0"/>
+    <player bet="€10" dealer="0" chips="€138,06" name="PartyTiger" seat="5" win="€5,50"/>
+    <player bet="€0" dealer="0" chips="€100" name="H00KED" seat="6" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="PartyTiger"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="3" type="0" player="H00KED"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€2,50" no="4" type="23" player="Butterfisch"/>
+   <cards type="Pocket" player="13373678">H10 C6</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€10" no="6" type="23" player="PartyTiger"/>
+   <action sum="€0" no="7" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+ <game gamecode="3702046935">
+  <general>
+   <startdate>2022-08-12 16:27:47</startdate>
+   <players>
+    <player bet="€1" dealer="0" chips="€102,90" name="Butterfisch" seat="1" win="€1"/>
+    <player bet="€0" dealer="1" chips="€216,96" name="13373678" seat="3" win="€0"/>
+    <player bet="€0,50" dealer="0" chips="€141,06" name="PartyTiger" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="PartyTiger"/>
+   <action sum="€1" no="2" type="2" player="Butterfisch"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <cards type="Pocket" player="13373678">C3 C7</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="4" type="0" player="PartyTiger"/>
+  </round>
+ </game>
+ <game gamecode="3702046961">
+  <general>
+   <startdate>2022-08-12 16:28:00</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" chips="€103,40" name="Butterfisch" seat="1" win="€0"/>
+    <player bet="€1" dealer="0" chips="€216,96" name="13373678" seat="3" win="€1"/>
+    <player bet="€0" dealer="1" chips="€140,56" name="PartyTiger" seat="5" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="Butterfisch"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ D10</cards>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" no="3" type="0" player="PartyTiger"/>
+   <cards type="Pocket" player="Butterfisch">X X</cards>
+   <action sum="€0" no="4" type="0" player="Butterfisch"/>
+  </round>
+ </game>
+</session>

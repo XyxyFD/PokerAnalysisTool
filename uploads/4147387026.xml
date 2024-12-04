@@ -1,0 +1,2291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4147387026">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:39:47</duration>
+  <gamecount>74</gamecount>
+  <startdate>2024-08-23 22:30:09</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€61,36</bets>
+  <wins>€33,06</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€58,06</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3922023106">
+  <general>
+   <startdate>2024-08-23 22:30:09</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="Player 1" chips="€35,86"/>
+    <player seat="3" win="€1,25" bet="€2" dealer="0" name="Player 3" chips="€50,75"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Player 5" chips="€50"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="Player 10" chips="€54,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 10" type="1"/>
+   <action no="2" sum="€0,50" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" sum="€2" player="Player 3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Player 5" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Player 1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922023178">
+  <general>
+   <startdate>2024-08-23 22:30:29</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="Player 1" chips="€35,36"/>
+    <player seat="3" win="€0,50" bet="€0,50" dealer="0" name="Player 3" chips="€51,50"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Player 5" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="Player 10" chips="€53,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 1" type="1"/>
+   <action no="2" sum="€0,50" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Player 5" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Player 1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922023236">
+  <general>
+   <startdate>2024-08-23 22:30:46</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€35,11" dealer="1" board1win="€0" board2win="€0" name="Player 1" chips="€35,11"/>
+    <player seat="3" win="€69,22" bet="€35,11" dealer="0" board1win="€34,61" board2win="€34,61" name="Player 3" chips="€51,75"/>
+    <player seat="5" win="€0" bet="€0,50" dealer="0" board1win="€0" board2win="€0" name="Player 5" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" board1win="€0" board2win="€0" name="Player 10" chips="€53,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 3" type="1"/>
+   <action no="2" sum="€0,50" player="Player 5" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">S10 D10</cards>
+   <action no="4" sum="€1,50" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">SJ DJ</cards>
+   <action no="5" sum="€7" player="Player 3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Player 5" type="0"/>
+   <action no="7" sum="€35,11" player="Player 1" type="23"/>
+   <action no="8" sum="€28,11" player="Player 3" type="3"/>
+  </round>
+  <round no="2">
+   <cards board="board1" type="Flop">D7 H8 CK</cards>
+   <cards board="board2" type="Flop">C9 HQ H5</cards>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">D8</cards>
+   <cards board="board2" type="Turn">D9</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">H6</cards>
+   <cards board="board2" type="River">H2</cards>
+  </round>
+ </game>
+ <game gamecode="3922024087">
+  <general>
+   <startdate>2024-08-23 22:31:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€20"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="LANGSTRUMPF" chips="€85,86"/>
+    <player seat="5" win="€1" bet="€1,50" dealer="0" name="Pottwal" chips="€50"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€53,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="LANGSTRUMPF" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="LANGSTRUMPF" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">C10 S4</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922024132">
+  <general>
+   <startdate>2024-08-23 22:31:41</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€20"/>
+    <player seat="3" win="€0" bet="€2" dealer="0" name="LANGSTRUMPF" chips="€85,86"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Pottwal" chips="€50,50"/>
+    <player seat="6" win="€4,50" bet="€8" dealer="0" name="13373678" chips="€49,50"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€53,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="LANGSTRUMPF" type="Pocket">X X</cards>
+   <action no="4" sum="€2" player="LANGSTRUMPF" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">CQ DQ</cards>
+   <action no="6" sum="€8" player="13373678" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="SuperDonkey" type="0"/>
+   <action no="8" sum="€0" player="LANGSTRUMPF" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922024212">
+  <general>
+   <startdate>2024-08-23 22:32:12</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€20"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="LANGSTRUMPF" chips="€83,86"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€50,50"/>
+    <player seat="6" win="€1,25" bet="€1,25" dealer="1" name="13373678" chips="€52"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€53,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="LANGSTRUMPF" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="LANGSTRUMPF" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">DK CK</cards>
+   <action no="5" sum="€1,25" player="13373678" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922024252">
+  <general>
+   <startdate>2024-08-23 22:32:26</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1,25" dealer="0" name="NutsinmyAAs" chips="€19,50"/>
+    <player seat="5" win="€3,75" bet="€6" dealer="0" name="Pottwal" chips="€50,50"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€52,75"/>
+    <player seat="10" win="€0" bet="€1,25" dealer="1" name="SuperDonkey" chips="€53,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 DQ</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€1" player="NutsinmyAAs" type="3"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€6" player="Pottwal" type="23"/>
+   <action no="7" sum="€0" player="SuperDonkey" type="0"/>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922024346">
+  <general>
+   <startdate>2024-08-23 22:32:58</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="1" name="NutsinmyAAs" chips="€18,25"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€53"/>
+    <player seat="6" win="€0" bet="€9,50" dealer="0" name="13373678" chips="€52,75"/>
+    <player seat="10" win="€18,67" bet="€9,50" dealer="0" name="SuperDonkey" chips="€51,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">HK HQ</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C9 CK</cards>
+   <action no="6" sum="€0,75" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H6 S2</cards>
+   <action no="7" sum="€0" player="13373678" type="4"/>
+   <action no="8" sum="€2,75" player="SuperDonkey" type="5"/>
+   <action no="9" sum="€8,25" player="13373678" type="23"/>
+   <action no="10" sum="€5,50" player="SuperDonkey" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action no="11" sum="€0" player="13373678" type="4"/>
+   <action no="12" sum="€0" player="SuperDonkey" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action no="13" sum="€0" player="13373678" type="4"/>
+   <action no="14" sum="€0" player="SuperDonkey" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3922024962">
+  <general>
+   <startdate>2024-08-23 22:34:24</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€18,25"/>
+    <player seat="5" win="€1,25" bet="€1,25" dealer="1" name="Pottwal" chips="€52,75"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€43,25"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€61,15"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">S4 D10</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922025007">
+  <general>
+   <startdate>2024-08-23 22:34:40</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1,25" dealer="0" name="NutsinmyAAs" chips="€18,25"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€53,50"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€43"/>
+    <player seat="10" win="€2,43" bet="€2,75" dealer="0" name="SuperDonkey" chips="€60,65"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D9 C3</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€0,75" player="NutsinmyAAs" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S8 DJ</cards>
+   <action no="7" sum="€0" player="SuperDonkey" type="4"/>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action no="9" sum="€1,50" player="SuperDonkey" type="5"/>
+   <action no="10" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922025102">
+  <general>
+   <startdate>2024-08-23 22:35:15</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="NutsinmyAAs" chips="€17"/>
+    <player seat="3" win="€0,50" bet="€0,50" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€53,50"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€43"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€61,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">H4 DJ</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922025139">
+  <general>
+   <startdate>2024-08-23 22:35:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€4,64" dealer="1" name="NutsinmyAAs" chips="€16,75"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€50,25"/>
+    <player seat="5" win="€9,25" bet="€7,78" dealer="0" name="Pottwal" chips="€53,50"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€43"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€61,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ H8</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€0,50" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€1,50" player="Pottwal" type="23"/>
+   <action no="8" sum="€1" player="NutsinmyAAs" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 CQ SQ</cards>
+   <action no="9" sum="€1,07" player="Pottwal" type="5"/>
+   <action no="10" sum="€3,14" player="NutsinmyAAs" type="23"/>
+   <action no="11" sum="€2,07" player="Pottwal" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="12" sum="€0" player="Pottwal" type="4"/>
+   <action no="13" sum="€0" player="NutsinmyAAs" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action no="14" sum="€3,14" player="Pottwal" type="5"/>
+   <action no="15" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026633">
+  <general>
+   <startdate>2024-08-23 22:36:52</startdate>
+   <players>
+    <player seat="1" win="€1,25" bet="€1" dealer="0" name="NutsinmyAAs" chips="€12,11"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€58,11"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€61,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€1" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D2 C5</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026675">
+  <general>
+   <startdate>2024-08-23 22:37:07</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,86"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€1,25" bet="€1,25" dealer="1" name="Pottwal" chips="€57,86"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€49,50"/>
+    <player seat="8" win="€0" bet="€0,50" dealer="0" name="MahatRulle" chips="€53,48"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€61,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">DA H9</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="MahatRulle" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026722">
+  <general>
+   <startdate>2024-08-23 22:37:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,86"/>
+    <player seat="3" win="€1,25" bet="€1,05" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€49,25"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€52,98"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€61,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€1,05" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">S10 C6</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026764">
+  <general>
+   <startdate>2024-08-23 22:37:40</startdate>
+   <players>
+    <player seat="1" win="€0,50" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€12,86"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€50,75"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€49,25"/>
+    <player seat="8" win="€0" bet="€0" dealer="1" name="MahatRulle" chips="€52,73"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€61,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">S5 H2</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026818">
+  <general>
+   <startdate>2024-08-23 22:38:02</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€13,11"/>
+    <player seat="3" win="€1" bet="€2" dealer="0" name="hahahahahahaxDD" chips="€50,75"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€49,25"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€52,73"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€61,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">CQ S3</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0,25" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="8" sum="€2" player="hahahahahahaxDD" type="23"/>
+   <action no="9" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026890">
+  <general>
+   <startdate>2024-08-23 22:38:23</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="1" name="NutsinmyAAs" chips="€12,61"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€51,25"/>
+    <player seat="5" win="€0,50" bet="€0,50" dealer="0" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€49,25"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€52,73"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€61,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CJ C6</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="hahahahahahaxDD" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922026918">
+  <general>
+   <startdate>2024-08-23 22:38:35</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,61"/>
+    <player seat="3" win="€4,61" bet="€8,47" dealer="1" name="hahahahahahaxDD" chips="€51"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€58,86"/>
+    <player seat="6" win="€0" bet="€2,25" dealer="0" name="13373678" chips="€49,25"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€52,73"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€61,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€1,25" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C7 HA</cards>
+   <action no="8" sum="€0,75" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 HJ SK</cards>
+   <action no="9" sum="€0" player="13373678" type="4"/>
+   <action no="10" sum="€1" player="hahahahahahaxDD" type="5"/>
+   <action no="11" sum="€1" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action no="12" sum="€0" player="13373678" type="4"/>
+   <action no="13" sum="€6,22" player="hahahahahahaxDD" type="5"/>
+   <action no="14" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922027103">
+  <general>
+   <startdate>2024-08-23 22:39:36</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,61"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€53,36"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€47"/>
+    <player seat="8" win="€2,67" bet="€2,15" dealer="0" name="MahatRulle" chips="€52,73"/>
+    <player seat="10" win="€0" bet="€1,25" dealer="0" name="SuperDonkey" chips="€61,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">SQ C4</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="8" sum="€0,75" player="MahatRulle" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ H4 SK</cards>
+   <action no="9" sum="€0" player="MahatRulle" type="4"/>
+   <action no="10" sum="€0" player="SuperDonkey" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action no="11" sum="€0,90" player="MahatRulle" type="5"/>
+   <action no="12" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922027214">
+  <general>
+   <startdate>2024-08-23 22:40:15</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,61"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€53,36"/>
+    <player seat="5" win="€1,25" bet="€1,25" dealer="0" name="Pottwal" chips="€58,61"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€54,15"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">S2 H10</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922028003">
+  <general>
+   <startdate>2024-08-23 22:40:50</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€12,61"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€53,36"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€59,36"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0" dealer="1" name="MahatRulle" chips="€53,90"/>
+    <player seat="10" win="€1" bet="€1,25" dealer="0" name="SuperDonkey" chips="€59,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">S5 C10</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="7" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922028076">
+  <general>
+   <startdate>2024-08-23 22:41:17</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1" dealer="0" name="NutsinmyAAs" chips="€12,11"/>
+    <player seat="3" win="€1,94" bet="€2" dealer="0" name="hahahahahahaxDD" chips="€53,36"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€59,36"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€53,90"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D8 D3</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0,25" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ HJ C4</cards>
+   <action no="9" sum="€0,50" player="NutsinmyAAs" type="5"/>
+   <action no="10" sum="€0,50" player="hahahahahahaxDD" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="11" sum="€0" player="NutsinmyAAs" type="4"/>
+   <action no="12" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action no="13" sum="€0" player="NutsinmyAAs" type="4"/>
+   <action no="14" sum="€1" player="hahahahahahaxDD" type="5"/>
+   <action no="15" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922028190">
+  <general>
+   <startdate>2024-08-23 22:41:59</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="1" name="NutsinmyAAs" chips="€11,11"/>
+    <player seat="3" win="€0" bet="€1,50" dealer="0" name="hahahahahahaxDD" chips="€54,30"/>
+    <player seat="5" win="€3" bet="€4,50" dealer="0" name="Pottwal" chips="€59,36"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€53,90"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CQ D5</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="7" sum="€1,50" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="8" sum="€4,50" player="Pottwal" type="23"/>
+   <action no="9" sum="€0" player="hahahahahahaxDD" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922028649">
+  <general>
+   <startdate>2024-08-23 22:42:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€11,11"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€60,86"/>
+    <player seat="6" win="€0,50" bet="€0,50" dealer="0" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€53,90"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 S4</cards>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922028886">
+  <general>
+   <startdate>2024-08-23 22:42:49</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€11,11"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€1,25" bet="€1,25" dealer="1" name="Pottwal" chips="€60,61"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€50,25"/>
+    <player seat="8" win="€0" bet="€0,50" dealer="0" name="MahatRulle" chips="€53,90"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">S4 C5</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="MahatRulle" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030128">
+  <general>
+   <startdate>2024-08-23 22:43:20</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€11,11"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€61,36"/>
+    <player seat="6" win="€1,25" bet="€1,25" dealer="1" name="13373678" chips="€50"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€53,40"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€59,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D10 CA</cards>
+   <action no="6" sum="€1,25" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030184">
+  <general>
+   <startdate>2024-08-23 22:43:39</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€11,11"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€10,86" bet="€8,91" dealer="0" name="Pottwal" chips="€61,36"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50,75"/>
+    <player seat="8" win="€0" bet="€5,22" dealer="1" name="MahatRulle" chips="€53,15"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€59,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">D3 D2</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€3" player="MahatRulle" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="0"/>
+   <action no="9" sum="€1,75" player="Pottwal" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 S10 CK</cards>
+   <action no="10" sum="€0" player="Pottwal" type="4"/>
+   <action no="11" sum="€2,22" player="MahatRulle" type="5"/>
+   <action no="12" sum="€2,22" player="Pottwal" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="13" sum="€0" player="Pottwal" type="4"/>
+   <action no="14" sum="€0" player="MahatRulle" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action no="15" sum="€3,69" player="Pottwal" type="5"/>
+   <action no="16" sum="€0" player="MahatRulle" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030372">
+  <general>
+   <startdate>2024-08-23 22:44:45</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="NutsinmyAAs" chips="€10,61"/>
+    <player seat="3" win="€0,50" bet="€0,50" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€67"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50,75"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€59,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D5 H6</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030419">
+  <general>
+   <startdate>2024-08-23 22:44:58</startdate>
+   <players>
+    <player seat="1" win="€3,16" bet="€4" dealer="1" name="NutsinmyAAs" chips="€10,36"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€53,05"/>
+    <player seat="5" win="€0" bet="€1,50" dealer="0" name="Pottwal" chips="€67"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€50,75"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 CQ</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€1" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="8" sum="€0,50" player="Pottwal" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ C5 C10</cards>
+   <action no="9" sum="€0" player="Pottwal" type="4"/>
+   <action no="10" sum="€0,50" player="NutsinmyAAs" type="5"/>
+   <action no="11" sum="€0,50" player="Pottwal" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="12" sum="€0" player="Pottwal" type="4"/>
+   <action no="13" sum="€2,50" player="NutsinmyAAs" type="5"/>
+   <action no="14" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030499">
+  <general>
+   <startdate>2024-08-23 22:45:25</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,02"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€65,50"/>
+    <player seat="6" win="€0,50" bet="€0,50" dealer="0" name="13373678" chips="€50,75"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S9 D6</cards>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030527">
+  <general>
+   <startdate>2024-08-23 22:45:35</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,02"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€1,25" bet="€1,25" dealer="1" name="Pottwal" chips="€65,25"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€51"/>
+    <player seat="8" win="€0" bet="€0,50" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="SuperDonkey" chips="€59,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">H2 S7</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="MahatRulle" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030586">
+  <general>
+   <startdate>2024-08-23 22:45:56</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,02"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€1,25" dealer="0" name="Pottwal" chips="€66"/>
+    <player seat="6" win="€3,25" bet="€3,75" dealer="1" name="13373678" chips="€50,75"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€59,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">DJ CQ</cards>
+   <action no="6" sum="€3,75" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="SuperDonkey" type="0"/>
+   <action no="9" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030675">
+  <general>
+   <startdate>2024-08-23 22:46:27</startdate>
+   <players>
+    <player seat="1" win="€0,50" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€12,02"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€64,75"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€52,75"/>
+    <player seat="8" win="€0" bet="€0" dealer="1" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€58,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">S9 HQ</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030736">
+  <general>
+   <startdate>2024-08-23 22:46:49</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="NutsinmyAAs" chips="€12,27"/>
+    <player seat="3" win="€0" bet="€0,50" dealer="0" name="hahahahahahaxDD" chips="€52,80"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€64,75"/>
+    <player seat="6" win="€1,25" bet="€1,25" dealer="0" name="13373678" chips="€52,75"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€58,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">CK HJ</cards>
+   <action no="4" sum="€1,25" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="hahahahahahaxDD" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030862">
+  <general>
+   <startdate>2024-08-23 22:47:31</startdate>
+   <players>
+    <player seat="1" win="€1,25" bet="€1" dealer="1" name="NutsinmyAAs" chips="€12,02"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€52,30"/>
+    <player seat="5" win="€0" bet="€0,50" dealer="0" name="Pottwal" chips="€64,75"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€53,50"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 HK</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€1" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922030900">
+  <general>
+   <startdate>2024-08-23 22:47:48</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€12,77"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="hahahahahahaxDD" chips="€52,05"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€64,25"/>
+    <player seat="6" win="€1,22" bet="€7" dealer="0" name="13373678" chips="€53,50"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0,50" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C6 H7</cards>
+   <action no="7" sum="€0" player="13373678" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 D8 HQ</cards>
+   <action no="8" sum="€0" player="13373678" type="4"/>
+   <action no="9" sum="€0" player="NutsinmyAAs" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action no="10" sum="€0" player="13373678" type="4"/>
+   <action no="11" sum="€0" player="NutsinmyAAs" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action no="12" sum="€6,50" player="13373678" type="5"/>
+   <action no="13" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922031038">
+  <general>
+   <startdate>2024-08-23 22:48:34</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,27"/>
+    <player seat="3" win="€0" bet="€7,89" dealer="0" name="hahahahahahaxDD" chips="€52,05"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Pottwal" chips="€64"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€54,22"/>
+    <player seat="8" win="€15,55" bet="€21,39" dealer="0" name="MahatRulle" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€1,05" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C4 CJ</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€5,60" player="MahatRulle" type="23"/>
+   <action no="8" sum="€4,55" player="hahahahahahaxDD" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DJ DA</cards>
+   <action no="9" sum="€2,29" player="MahatRulle" type="5"/>
+   <action no="10" sum="€2,29" player="hahahahahahaxDD" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action no="11" sum="€0" player="MahatRulle" type="4"/>
+   <action no="12" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="13" sum="€13,50" player="MahatRulle" type="5"/>
+   <action no="14" sum="€0" player="hahahahahahaxDD" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922031869">
+  <general>
+   <startdate>2024-08-23 22:49:49</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€12,27"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€23" bet="€23,59" dealer="0" name="Pottwal" chips="€64"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€53,97"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€57,66"/>
+    <player seat="10" win="€23" bet="€23,59" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="RafaelinEnkeli" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">HK H6</cards>
+   <action no="5" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">C5 D7</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">D6 DK</cards>
+   <action no="8" sum="€0,75" player="RafaelinEnkeli" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 CK H5</cards>
+   <action no="9" sum="€0" player="RafaelinEnkeli" type="4"/>
+   <action no="10" sum="€0,90" player="Pottwal" type="5"/>
+   <action no="11" sum="€3,27" player="RafaelinEnkeli" type="23"/>
+   <action no="12" sum="€2,37" player="Pottwal" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action no="13" sum="€5,57" player="RafaelinEnkeli" type="5"/>
+   <action no="14" sum="€5,57" player="Pottwal" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="15" sum="€13,50" player="RafaelinEnkeli" type="5"/>
+   <action no="16" sum="€13,50" player="Pottwal" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3922033428">
+  <general>
+   <startdate>2024-08-23 22:51:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€12,27"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€63,41"/>
+    <player seat="6" win="€1,25" bet="€1,25" dealer="0" name="13373678" chips="€53,97"/>
+    <player seat="8" win="€0" bet="€0" dealer="1" name="MahatRulle" chips="€57,41"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="RafaelinEnkeli" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">HK H8</cards>
+   <action no="5" sum="€1,25" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922033508">
+  <general>
+   <startdate>2024-08-23 22:51:54</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€3" dealer="0" name="NutsinmyAAs" chips="€11,77"/>
+    <player seat="3" win="€5,82" bet="€6" dealer="0" name="hahahahahahaxDD" chips="€50"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€63,41"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€54,72"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€57,41"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">S4 S9</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€0,25" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="8" sum="€1,50" player="hahahahahahaxDD" type="23"/>
+   <action no="9" sum="€1" player="NutsinmyAAs" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C4 C3</cards>
+   <action no="10" sum="€0" player="NutsinmyAAs" type="4"/>
+   <action no="11" sum="€1,50" player="hahahahahahaxDD" type="5"/>
+   <action no="12" sum="€1,50" player="NutsinmyAAs" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action no="13" sum="€0" player="NutsinmyAAs" type="4"/>
+   <action no="14" sum="€3" player="hahahahahahaxDD" type="5"/>
+   <action no="15" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922033601">
+  <general>
+   <startdate>2024-08-23 22:52:28</startdate>
+   <players>
+    <player seat="1" win="€3,25" bet="€4,50" dealer="1" name="NutsinmyAAs" chips="€8,77"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€52,82"/>
+    <player seat="5" win="€0" bet="€0,50" dealer="0" name="Pottwal" chips="€63,41"/>
+    <player seat="6" win="€0" bet="€1,25" dealer="0" name="13373678" chips="€54,72"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€57,41"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 S6</cards>
+   <action no="3" sum="€1,25" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="6" sum="€4,50" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="Pottwal" type="0"/>
+   <action no="9" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922033689">
+  <general>
+   <startdate>2024-08-23 22:52:59</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€4,50" dealer="0" name="NutsinmyAAs" chips="€10,77"/>
+    <player seat="3" win="€10,43" bet="€7,40" dealer="1" name="hahahahahahaxDD" chips="€52,57"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€62,91"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€53,47"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€57,41"/>
+    <player seat="10" win="€0" bet="€1" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="4" sum="€1" player="RafaelinEnkeli" type="23"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="5" sum="€1" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="6" sum="€4,50" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D4 H6</cards>
+   <action no="8" sum="€0" player="13373678" type="0"/>
+   <action no="9" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <action no="10" sum="€3,50" player="NutsinmyAAs" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D3 DA</cards>
+   <action no="11" sum="€0" player="NutsinmyAAs" type="4"/>
+   <action no="12" sum="€2,90" player="hahahahahahaxDD" type="5"/>
+   <action no="13" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034183">
+  <general>
+   <startdate>2024-08-23 22:53:56</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="NutsinmyAAs" chips="€6,27"/>
+    <player seat="3" win="€2,28" bet="€1,05" dealer="0" name="hahahahahahaxDD" chips="€58,50"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Pottwal" chips="€62,66"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€52,97"/>
+    <player seat="8" win="€0" bet="€1,05" dealer="0" name="MahatRulle" chips="€57,41"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="NutsinmyAAs" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">H6 H7</cards>
+   <action no="5" sum="€1,05" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C3 D5</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">C9 C10</cards>
+   <action no="8" sum="€0,55" player="MahatRulle" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S9 S10</cards>
+   <action no="9" sum="€0" player="MahatRulle" type="4"/>
+   <action no="10" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="11" sum="€0" player="MahatRulle" type="4"/>
+   <action no="12" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action no="13" sum="€0" player="MahatRulle" type="4"/>
+   <action no="14" sum="€0" player="hahahahahahaxDD" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3922034286">
+  <general>
+   <startdate>2024-08-23 22:54:30</startdate>
+   <players>
+    <player seat="1" win="€1,25" bet="€1" dealer="0" name="NutsinmyAAs" chips="€6,27"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€59,73"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€62,66"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€52,72"/>
+    <player seat="8" win="€0" bet="€0,25" dealer="0" name="MahatRulle" chips="€56,36"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="RafaelinEnkeli" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="3" sum="€1" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">H2 H10</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="RafaelinEnkeli" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034355">
+  <general>
+   <startdate>2024-08-23 22:54:51</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="NutsinmyAAs" chips="€7,02"/>
+    <player seat="3" win="€1,25" bet="€1,05" dealer="0" name="hahahahahahaxDD" chips="€59,73"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€62,66"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€52,72"/>
+    <player seat="8" win="€0" bet="€0" dealer="1" name="MahatRulle" chips="€56,11"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="RafaelinEnkeli" type="1"/>
+   <action no="2" sum="€0,50" player="NutsinmyAAs" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€1,05" player="hahahahahahaxDD" type="23"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C10 H7</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="NutsinmyAAs" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034403">
+  <general>
+   <startdate>2024-08-23 22:55:07</startdate>
+   <players>
+    <player seat="1" win="€3" bet="€6,50" dealer="0" name="NutsinmyAAs" chips="€6,52"/>
+    <player seat="3" win="€0" bet="€0,50" dealer="0" name="hahahahahahaxDD" chips="€60,48"/>
+    <player seat="5" win="€0" bet="€1,25" dealer="0" name="Pottwal" chips="€62,66"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€52,72"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€56,11"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="NutsinmyAAs" type="1"/>
+   <action no="2" sum="€0,50" player="hahahahahahaxDD" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="Pottwal" type="23"/>
+   <cards player="13373678" type="Pocket">D6 HQ</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">X X</cards>
+   <action no="7" sum="€6,50" player="NutsinmyAAs" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <action no="9" sum="€0" player="Pottwal" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034463">
+  <general>
+   <startdate>2024-08-23 22:55:29</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€8,27" dealer="1" name="NutsinmyAAs" chips="€8,27"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="hahahahahahaxDD" chips="€59,98"/>
+    <player seat="5" win="€0" bet="€0,50" dealer="0" name="Pottwal" chips="€61,41"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€52,72"/>
+    <player seat="8" win="€16,77" bet="€8,27" dealer="0" name="MahatRulle" chips="€56,11"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="hahahahahahaxDD" type="1"/>
+   <action no="2" sum="€0,50" player="Pottwal" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 S3</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="MahatRulle" type="Pocket">CQ HQ</cards>
+   <action no="4" sum="€1,24" player="MahatRulle" type="23"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="NutsinmyAAs" type="Pocket">H7 H8</cards>
+   <action no="6" sum="€1,24" player="NutsinmyAAs" type="3"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="Pottwal" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 D7 CJ</cards>
+   <action no="9" sum="€2,64" player="MahatRulle" type="5"/>
+   <action no="10" sum="€7,03" player="NutsinmyAAs" type="23"/>
+   <action no="11" sum="€4,39" player="MahatRulle" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+  </round>
+ </game>
+ <game gamecode="3922034582">
+  <general>
+   <startdate>2024-08-23 22:56:08</startdate>
+   <players>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="hahahahahahaxDD" chips="€59,73"/>
+    <player seat="5" win="€0" bet="€0,25" dealer="0" name="Pottwal" chips="€60,91"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€52,72"/>
+    <player seat="8" win="€0" bet="€0" dealer="0" name="MahatRulle" chips="€64,61"/>
+    <player seat="10" win="€1,25" bet="€1" dealer="0" name="RafaelinEnkeli" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Pottwal" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="MahatRulle" type="0"/>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="4" sum="€1" player="RafaelinEnkeli" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">C9 H6</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034623">
+  <general>
+   <startdate>2024-08-23 22:56:22</startdate>
+   <players>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€59,73"/>
+    <player seat="5" win="€0" bet="€0" dealer="1" name="Pottwal" chips="€60,66"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€52,22"/>
+    <player seat="8" win="€0,50" bet="€0,50" dealer="0" name="MahatRulle" chips="€64,61"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="RafaelinEnkeli" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="MahatRulle" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <cards player="RafaelinEnkeli" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="RafaelinEnkeli" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">SQ D7</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034687">
+  <general>
+   <startdate>2024-08-23 22:56:47</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="Guineapig69" chips="€50"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="hahahahahahaxDD" chips="€59,73"/>
+    <player seat="5" win="€0" bet="€0" dealer="0" name="Pottwal" chips="€60,66"/>
+    <player seat="6" win="€0" bet="€1,25" dealer="1" name="13373678" chips="€51,97"/>
+    <player seat="8" win="€3" bet="€5,50" dealer="0" name="MahatRulle" chips="€64,86"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="MahatRulle" type="1"/>
+   <action no="2" sum="€0,50" player="Guineapig69" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="hahahahahahaxDD" type="0"/>
+   <cards player="Pottwal" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Pottwal" type="0"/>
+   <cards player="13373678" type="Pocket">D2 S2</cards>
+   <action no="5" sum="€1,25" player="13373678" type="23"/>
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="6" sum="€5,50" player="MahatRulle" type="23"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="Guineapig69" type="0"/>
+   <action no="8" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034810">
+  <general>
+   <startdate>2024-08-23 22:57:27</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="Guineapig69" chips="€50"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€50,72"/>
+    <player seat="8" win="€1,25" bet="€1,04" dealer="1" name="MahatRulle" chips="€66,61"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Guineapig69" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MahatRulle" type="Pocket">X X</cards>
+   <action no="3" sum="€1,04" player="MahatRulle" type="23"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Guineapig69" type="0"/>
+   <cards player="13373678" type="Pocket">H3 DQ</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034831">
+  <general>
+   <startdate>2024-08-23 22:57:36</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€5,50" dealer="1" name="Guineapig69" chips="€50"/>
+    <player seat="6" win="€11,16" bet="€9,29" dealer="0" name="13373678" chips="€50,22"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="DivaaniJari" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="DivaaniJari" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="Guineapig69" type="23"/>
+   <cards player="13373678" type="Pocket">DK C10</cards>
+   <action no="4" sum="€5,50" player="13373678" type="23"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DivaaniJari" type="0"/>
+   <action no="6" sum="€4,25" player="Guineapig69" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ H4 C6</cards>
+   <action no="7" sum="€3,79" player="13373678" type="5"/>
+   <action no="8" sum="€0" player="Guineapig69" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034958">
+  <general>
+   <startdate>2024-08-23 22:58:18</startdate>
+   <players>
+    <player seat="1" win="€0,50" bet="€0,50" dealer="0" name="Guineapig69" chips="€50"/>
+    <player seat="6" win="€0" bet="€0" dealer="1" name="13373678" chips="€55,88"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="DivaaniJari" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DivaaniJari" type="1"/>
+   <action no="2" sum="€0,50" player="Guineapig69" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C7 D9</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="DivaaniJari" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922034991">
+  <general>
+   <startdate>2024-08-23 22:58:28</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="Guineapig69" chips="€50,25"/>
+    <player seat="3" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€58,33"/>
+    <player seat="6" win="€0" bet="€0" dealer="0" name="13373678" chips="€55,88"/>
+    <player seat="10" win="€1,25" bet="€1,25" dealer="1" name="DivaaniJari" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Guineapig69" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 D4</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="DivaaniJari" type="23"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Guineapig69" type="0"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922035043">
+  <general>
+   <startdate>2024-08-23 22:58:45</startdate>
+   <players>
+    <player seat="1" win="€1,25" bet="€1,25" dealer="1" name="Guineapig69" chips="€50"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€57,83"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€55,88"/>
+    <player seat="10" win="€0" bet="€0" dealer="0" name="DivaaniJari" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DivaaniJari" type="0"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="Guineapig69" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D8</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036290">
+  <general>
+   <startdate>2024-08-23 22:59:04</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="Guineapig69" chips="€50,75"/>
+    <player seat="3" win="€1,25" bet="€1,25" dealer="1" name="SuperDonkey" chips="€57,58"/>
+    <player seat="6" win="€0" bet="€0,25" dealer="0" name="13373678" chips="€55,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="Guineapig69" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="13373678" type="Pocket">H2 C2</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Guineapig69" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036337">
+  <general>
+   <startdate>2024-08-23 22:59:22</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="1" name="Guineapig69" chips="€50,25"/>
+    <player seat="6" win="€0,50" bet="€0,50" dealer="0" name="13373678" chips="€55,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Guineapig69" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 H9</cards>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Guineapig69" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036354">
+  <general>
+   <startdate>2024-08-23 22:59:29</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="Guineapig69" chips="€50"/>
+    <player seat="6" win="€1" bet="€1,25" dealer="1" name="13373678" chips="€55,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="Guineapig69" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 H6</cards>
+   <action no="3" sum="€1,25" player="13373678" type="23"/>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Guineapig69" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036395">
+  <general>
+   <startdate>2024-08-23 22:59:41</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="1" name="Guineapig69" chips="€50"/>
+    <player seat="6" win="€0,50" bet="€0,50" dealer="0" name="13373678" chips="€55,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Guineapig69" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 CK</cards>
+   <cards player="Guineapig69" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Guineapig69" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036407">
+  <general>
+   <startdate>2024-08-23 23:01:36</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="DivaaniJari" chips="€50,75"/>
+    <player seat="6" win="€1" bet="€1,25" dealer="1" name="13373678" chips="€56,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="DivaaniJari" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 CA</cards>
+   <action no="3" sum="€1,25" player="13373678" type="23"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="DivaaniJari" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036745">
+  <general>
+   <startdate>2024-08-23 23:01:45</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="1" name="DivaaniJari" chips="€50,25"/>
+    <player seat="6" win="€0,50" bet="€0,50" dealer="0" name="13373678" chips="€56,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DivaaniJari" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 D5</cards>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DivaaniJari" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036755">
+  <general>
+   <startdate>2024-08-23 23:01:50</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1,25" dealer="0" name="DivaaniJari" chips="€50"/>
+    <player seat="6" win="€2,43" bet="€2,07" dealer="1" name="13373678" chips="€56,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="DivaaniJari" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK S8</cards>
+   <action no="3" sum="€1,25" player="13373678" type="23"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="4" sum="€0,75" player="DivaaniJari" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 HQ D5</cards>
+   <action no="5" sum="€0" player="DivaaniJari" type="4"/>
+   <action no="6" sum="€0,82" player="13373678" type="5"/>
+   <action no="7" sum="€0" player="DivaaniJari" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036839">
+  <general>
+   <startdate>2024-08-23 23:02:19</startdate>
+   <players>
+    <player seat="1" win="€1" bet="€1,25" dealer="1" name="DivaaniJari" chips="€50"/>
+    <player seat="6" win="€0" bet="€0,50" dealer="0" name="13373678" chips="€58,06"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DivaaniJari" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="DivaaniJari" type="23"/>
+   <cards player="13373678" type="Pocket">D2 CQ</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922036887">
+  <general>
+   <startdate>2024-08-23 23:05:01</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,50" dealer="0" name="552474" chips="€50"/>
+    <player seat="6" win="€1" bet="€1,25" dealer="1" name="13373678" chips="€57,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="552474" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA DJ</cards>
+   <action no="3" sum="€1,25" player="13373678" type="23"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="552474" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922038008">
+  <general>
+   <startdate>2024-08-23 23:05:18</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="1" name="552474" chips="€50"/>
+    <player seat="10" win="€0,50" bet="€0,50" dealer="0" name="SuperDonkey" chips="€58,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="552474" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="552474" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922038030">
+  <general>
+   <startdate>2024-08-23 23:05:28</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1,75" dealer="0" name="552474" chips="€50"/>
+    <player seat="10" win="€3,40" bet="€4,51" dealer="1" name="SuperDonkey" chips="€58,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="552474" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="4" sum="€0,75" player="552474" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 HQ S8</cards>
+   <action no="5" sum="€0,50" player="552474" type="5"/>
+   <action no="6" sum="€0,50" player="SuperDonkey" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="7" sum="€0" player="552474" type="4"/>
+   <action no="8" sum="€2,76" player="SuperDonkey" type="5"/>
+   <action no="9" sum="€0" player="552474" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922038158">
+  <general>
+   <startdate>2024-08-23 23:06:08</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="1" name="552474" chips="€50"/>
+    <player seat="10" win="€0,50" bet="€0,50" dealer="0" name="SuperDonkey" chips="€60,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="552474" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="552474" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922038182">
+  <general>
+   <startdate>2024-08-23 23:06:15</startdate>
+   <players>
+    <player seat="1" win="€8,73" bet="€7,25" dealer="0" name="552474" chips="€50"/>
+    <player seat="3" win="€0" bet="€0,50" dealer="0" name="DivaaniJari" chips="€50,50"/>
+    <player seat="10" win="€0" bet="€4,25" dealer="1" name="SuperDonkey" chips="€60,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="552474" type="1"/>
+   <action no="2" sum="€0,50" player="DivaaniJari" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="4" sum="€2" player="552474" type="23"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DivaaniJari" type="0"/>
+   <action no="6" sum="€0,75" player="SuperDonkey" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S9 S7</cards>
+   <action no="7" sum="€0" player="552474" type="4"/>
+   <action no="8" sum="€0" player="SuperDonkey" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action no="9" sum="€2,25" player="552474" type="5"/>
+   <action no="10" sum="€2,25" player="SuperDonkey" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action no="11" sum="€3" player="552474" type="5"/>
+   <action no="12" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922039622">
+  <general>
+   <startdate>2024-08-23 23:07:43</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="1" name="552474" chips="€54,48"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="DivaaniJari" chips="€50"/>
+    <player seat="5" win="€0" bet="€0,50" dealer="0" name="Rane41" chips="€50"/>
+    <player seat="10" win="€1,25" bet="€1,25" dealer="0" name="SuperDonkey" chips="€56,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DivaaniJari" type="1"/>
+   <action no="2" sum="€0,50" player="Rane41" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="552474" type="0"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DivaaniJari" type="0"/>
+   <cards player="Rane41" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Rane41" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922039680">
+  <general>
+   <startdate>2024-08-23 23:08:06</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0" dealer="0" name="552474" chips="€54,48"/>
+    <player seat="3" win="€0" bet="€0" dealer="1" name="DivaaniJari" chips="€50"/>
+    <player seat="5" win="€1" bet="€2" dealer="0" name="Rane41" chips="€49,50"/>
+    <player seat="10" win="€0" bet="€0,50" dealer="0" name="SuperDonkey" chips="€56,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Rane41" type="1"/>
+   <action no="2" sum="€0,50" player="SuperDonkey" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="552474" type="0"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="DivaaniJari" type="0"/>
+   <cards player="Rane41" type="Pocket">X X</cards>
+   <action no="5" sum="€2" player="Rane41" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922039741">
+  <general>
+   <startdate>2024-08-23 23:08:25</startdate>
+   <players>
+    <player seat="1" win="€8" bet="€6" dealer="0" name="552474" chips="€54,48"/>
+    <player seat="3" win="€0" bet="€0" dealer="0" name="DivaaniJari" chips="€50"/>
+    <player seat="5" win="€0" bet="€4" dealer="1" name="Rane41" chips="€50"/>
+    <player seat="10" win="€0" bet="€0,25" dealer="0" name="SuperDonkey" chips="€56,48"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="SuperDonkey" type="1"/>
+   <action no="2" sum="€0,50" player="552474" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DivaaniJari" type="0"/>
+   <cards player="Rane41" type="Pocket">X X</cards>
+   <action no="4" sum="€2" player="Rane41" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="552474" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 C5 HK</cards>
+   <action no="7" sum="€0" player="552474" type="4"/>
+   <action no="8" sum="€2" player="Rane41" type="5"/>
+   <action no="9" sum="€4" player="552474" type="23"/>
+   <action no="10" sum="€0" player="Rane41" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922039853">
+  <general>
+   <startdate>2024-08-23 23:09:02</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€0,25" dealer="0" name="552474" chips="€58,48"/>
+    <player seat="3" win="€0" bet="€0,50" dealer="0" name="DivaaniJari" chips="€50"/>
+    <player seat="5" win="€1,25" bet="€2" dealer="0" name="Rane41" chips="€46"/>
+    <player seat="10" win="€0" bet="€0" dealer="1" name="SuperDonkey" chips="€56,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="552474" type="1"/>
+   <action no="2" sum="€0,50" player="DivaaniJari" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rane41" type="Pocket">X X</cards>
+   <action no="3" sum="€2" player="Rane41" type="23"/>
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="SuperDonkey" type="0"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="552474" type="0"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="DivaaniJari" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3922040223">
+  <general>
+   <startdate>2024-08-23 23:09:19</startdate>
+   <players>
+    <player seat="1" win="€0" bet="€1,25" dealer="1" name="552474" chips="€58,23"/>
+    <player seat="3" win="€0" bet="€0,25" dealer="0" name="DivaaniJari" chips="€50"/>
+    <player seat="5" win="€7,76" bet="€10,25" dealer="0" name="Rane41" chips="€46,75"/>
+    <player seat="10" win="€0" bet="€3,25" dealer="0" name="SuperDonkey" chips="€56,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DivaaniJari" type="1"/>
+   <action no="2" sum="€0,50" player="Rane41" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="SuperDonkey" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="SuperDonkey" type="23"/>
+   <cards player="552474" type="Pocket">X X</cards>
+   <action no="4" sum="€1,25" player="552474" type="3"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DivaaniJari" type="0"/>
+   <cards player="Rane41" type="Pocket">X X</cards>
+   <action no="6" sum="€0,75" player="Rane41" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D2 C4</cards>
+   <action no="7" sum="€0" player="Rane41" type="4"/>
+   <action no="8" sum="€2" player="SuperDonkey" type="5"/>
+   <action no="9" sum="€0" player="552474" type="0"/>
+   <action no="10" sum="€9" player="Rane41" type="23"/>
+   <action no="11" sum="€0" player="SuperDonkey" type="0"/>
+  </round>
+ </game>
+</session>

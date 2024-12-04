@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081259456">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:12</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-16 01:55:53</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2,50</bets>
+  <wins>€2</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€101</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702943587">
+  <general>
+   <startdate>2022-08-16 01:55:53</startdate>
+   <players>
+    <player dealer="1" chips="€100" seat="1" win="€2" name="13373678" bet="€2,50"/>
+    <player dealer="0" chips="€100" seat="5" win="€0" name="FlatV" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="13373678" no="1" type="1"/>
+   <action sum="€1" player="FlatV" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 S9</cards>
+   <action sum="€2,50" player="13373678" no="3" type="23"/>
+   <cards player="FlatV" type="Pocket">X X</cards>
+   <action sum="€0" player="FlatV" no="4" type="0"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4146442821">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 11, 488046336</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:28:42</duration>
+  <gamecount>43</gamecount>
+  <startdate>2024-08-13 22:58:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€254,05</bets>
+  <wins>€83,73</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€100</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3918934415">
+  <general>
+   <startdate>2024-08-13 22:58:29</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€80" win="€0" bet="€80" name="Player 1"/>
+    <player seat="3" dealer="0" chips="€100" win="€159,50" bet="€80" name="Player 3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" sum="€0,50" no="1" type="1"/>
+   <action player="Player 3" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">SK D4</cards>
+   <action player="Player 1" sum="€2,50" no="3" type="23"/>
+   <cards player="Player 3" type="Pocket">D10 C10</cards>
+   <action player="Player 3" sum="€10" no="4" type="23"/>
+   <action player="Player 1" sum="€7,50" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 CA D2</cards>
+   <action player="Player 3" sum="€5" no="6" type="5"/>
+   <action player="Player 1" sum="€17,50" no="7" type="23"/>
+   <action player="Player 3" sum="€12,50" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="Player 3" sum="€0" no="9" type="4"/>
+   <action player="Player 1" sum="€52,50" no="10" type="5"/>
+   <action player="Player 3" sum="€52,50" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+  </round>
+ </game>
+ <game gamecode="3918934544">
+  <general>
+   <startdate>2024-08-13 22:59:15</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€179,50" win="€11,64" bet="€6" name="Player 3"/>
+    <player seat="5" dealer="1" chips="€100" win="€0" bet="€6" name="Player 5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" sum="€0,50" no="1" type="1"/>
+   <action player="Player 3" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">S3 CJ</cards>
+   <action player="Player 5" sum="€0,50" no="3" type="3"/>
+   <cards player="Player 3" type="Pocket">S9 DA</cards>
+   <action player="Player 3" sum="€6" no="4" type="23"/>
+   <action player="Player 5" sum="€5" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C9 H10</cards>
+   <action player="Player 3" sum="€0" no="6" type="4"/>
+   <action player="Player 5" sum="€0" no="7" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="Player 3" sum="€0" no="8" type="4"/>
+   <action player="Player 5" sum="€0" no="9" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action player="Player 3" sum="€0" no="10" type="4"/>
+   <action player="Player 5" sum="€0" no="11" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918934677">
+  <general>
+   <startdate>2024-08-13 23:00:13</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€185,14" win="€0" bet="€0" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€94" win="€0" bet="€18,75" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€100" win="€36,37" bet="€18,75" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" sum="€0,50" no="1" type="1"/>
+   <action player="Player 6" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" no="3" type="0"/>
+   <cards player="Player 5" type="Pocket">H6 C7</cards>
+   <action player="Player 5" sum="€0,50" no="4" type="3"/>
+   <cards player="Player 6" type="Pocket">S8 HQ</cards>
+   <action player="Player 6" sum="€5" no="5" type="23"/>
+   <action player="Player 5" sum="€4" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 D9 CQ</cards>
+   <action player="Player 5" sum="€0" no="7" type="4"/>
+   <action player="Player 6" sum="€2,50" no="8" type="5"/>
+   <action player="Player 5" sum="€2,50" no="9" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="Player 5" sum="€0" no="10" type="4"/>
+   <action player="Player 6" sum="€11,25" no="11" type="5"/>
+   <action player="Player 5" sum="€11,25" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action player="Player 5" sum="€0" no="13" type="4"/>
+   <action player="Player 6" sum="€0" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918935907">
+  <general>
+   <startdate>2024-08-13 23:00:55</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€185,14" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€75,25" win="€149,50" bet="€75,25" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€117,62" win="€0" bet="€75,25" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€100" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">D9 C9</cards>
+   <action player="KPJR" sum="€1" no="4" type="3"/>
+   <cards player="Rom14" type="Pocket">DA HA</cards>
+   <action player="Rom14" sum="€5" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">S4 D3</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <action player="KPJR" sum="€11" no="7" type="23"/>
+   <action player="Rom14" sum="€28" no="8" type="23"/>
+   <action player="KPJR" sum="€17" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C7 S9</cards>
+   <action player="Rom14" sum="€0" no="10" type="4"/>
+   <action player="KPJR" sum="€7" no="11" type="5"/>
+   <action player="Rom14" sum="€20" no="12" type="23"/>
+   <action player="KPJR" sum="€47,25" no="13" type="23"/>
+   <action player="Rom14" sum="€27,25" no="14" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+  </round>
+ </game>
+ <game gamecode="3918936066">
+  <general>
+   <startdate>2024-08-13 23:02:05</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€185,14" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€149,50" win="€0" bet="€1" name="KPJR"/>
+    <player seat="6" dealer="1" chips="€100" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€100" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€2,43" bet="€2,25" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€1" no="4" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S4 CJ</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 HQ SK</cards>
+   <action player="Israelle" sum="€0" no="8" type="4"/>
+   <action player="KPJR" sum="€0" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="Israelle" sum="€0" no="10" type="4"/>
+   <action player="KPJR" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action player="Israelle" sum="€1,25" no="12" type="5"/>
+   <action player="KPJR" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936218">
+  <general>
+   <startdate>2024-08-13 23:03:04</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€185,14" win="€0" bet="€1" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€148,50" win="€0" bet="€8" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€100" win="€16,97" bet="€14,75" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,43" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€1" no="3" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S4 SA</cards>
+   <action player="13373678" sum="€4" no="5" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <action player="KPJR" sum="€3" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 SQ DQ</cards>
+   <action player="KPJR" sum="€4" no="9" type="5"/>
+   <action player="13373678" sum="€10,75" no="10" type="23"/>
+   <action player="KPJR" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936371">
+  <general>
+   <startdate>2024-08-13 23:04:05</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€184,14" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€140,50" win="€16,25" bet="€16,50" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€16,24" bet="€16,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€108,97" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€100,93" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="KPJR" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rom14" type="Pocket">H5 H7</cards>
+   <action player="Rom14" sum="€2,50" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">H8 DJ</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="KPJR" type="Pocket">C3 C7</cards>
+   <action player="KPJR" sum="€6" no="7" type="23"/>
+   <action player="Rom14" sum="€3,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D4 S10</cards>
+   <action player="KPJR" sum="€5" no="9" type="5"/>
+   <action player="Rom14" sum="€5" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action player="KPJR" sum="€0" no="11" type="4"/>
+   <action player="Rom14" sum="€5,50" no="12" type="5"/>
+   <action player="KPJR" sum="€5,50" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="KPJR" sum="€0" no="14" type="4"/>
+   <action player="Rom14" sum="€0" no="15" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918936504">
+  <general>
+   <startdate>2024-08-13 23:04:52</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€183,64" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€140,25" win="€2" bet="€4" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€1" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€108,97" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100,93" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KPJR" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C8 D6</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€4" no="6" type="23"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936565">
+  <general>
+   <startdate>2024-08-13 23:05:14</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€183,64" win="€10,46" bet="€12,22" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€141,25" win="€0" bet="€4,14" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€108,97" win="€0" bet="€2" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100,93" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="4" type="23"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€2" no="5" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">S9 S8</cards>
+   <action player="13373678" sum="€1" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 CK DJ</cards>
+   <action player="13373678" sum="€0" no="8" type="4"/>
+   <action player="126782814592" sum="€2,14" no="9" type="5"/>
+   <action player="KPJR" sum="€2,14" no="10" type="3"/>
+   <action player="13373678" sum="€0" no="11" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="126782814592" sum="€8,08" no="12" type="5"/>
+   <action player="KPJR" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936655">
+  <general>
+   <startdate>2024-08-13 23:05:53</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€189,96" win="€2,50" bet="€2" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€137,11" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="1" chips="€100" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€106,97" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100,93" win="€0" bet="€1" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="3" type="23"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="4" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C7 D6</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937382">
+  <general>
+   <startdate>2024-08-13 23:06:11</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€5,50" bet="€12" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€191,46" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€137,11" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€106,47" win="€0" bet="€2,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="4" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">H5 H3</cards>
+   <action player="13373678" sum="€2,50" no="6" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€12" no="8" type="23"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937482">
+  <general>
+   <startdate>2024-08-13 23:06:45</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€103" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€191,46" win="€0" bet="€1" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€137,11" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€2,50" bet="€2,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€103,97" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="3" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€2,50" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">C4 S9</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937604">
+  <general>
+   <startdate>2024-08-13 23:07:34</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€102,50" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€190,46" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€137,11" win="€0" bet="€1" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€101,50" win="€0" bet="€2,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€103,97" win="€6,50" bet="€7,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="KPJR" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€2,50" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">H6 S6</cards>
+   <action player="13373678" sum="€7,50" no="4" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="8" type="0"/>
+   <action player="Rom14" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937698">
+  <general>
+   <startdate>2024-08-13 23:08:09</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€102,50" win="€6,50" bet="€8" name="Toppilanmies"/>
+    <player seat="3" dealer="1" chips="€189,96" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€136,11" win="€0" bet="€0,50" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€1" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€107,97" win="€0" bet="€2,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KPJR" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ CJ</cards>
+   <action player="13373678" sum="€2,50" no="3" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€8" no="5" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="7" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="8" type="0"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937805">
+  <general>
+   <startdate>2024-08-13 23:08:53</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€189,96" win="€0" bet="€20,25" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€135,61" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€100" win="€42,43" bet="€29" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€105,47" win="€0" bet="€1" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€2,25" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,25" no="3" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€7,50" no="5" type="23"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="6" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€20,25" no="7" type="23"/>
+   <cards player="13373678" type="Pocket">H7 HQ</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+   <action player="Israelle" sum="€0" no="9" type="0"/>
+   <action player="126782814592" sum="€12,75" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA HK S2</cards>
+   <action player="Rom14" sum="€8,75" no="11" type="5"/>
+   <action player="126782814592" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937954">
+  <general>
+   <startdate>2024-08-13 23:09:49</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€169,71" win="€0" bet="€0" name="126782814592"/>
+    <player seat="6" dealer="1" chips="€122,18" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€104,47" win="€32,59" bet="€39" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€16,80" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">HK H7</cards>
+   <action player="13373678" sum="€3" no="6" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 DQ C4</cards>
+   <action player="13373678" sum="€0" no="8" type="4"/>
+   <action player="Israelle" sum="€1,80" no="9" type="5"/>
+   <action player="13373678" sum="€1,80" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="13373678" sum="€0" no="11" type="4"/>
+   <action player="Israelle" sum="€12" no="12" type="5"/>
+   <action player="13373678" sum="€34,20" no="13" type="23"/>
+   <action player="Israelle" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939218">
+  <general>
+   <startdate>2024-08-13 23:10:53</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€169,71" win="€0" bet="€2" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€135,61" win="€0" bet="€2" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€122,18" win="€7,50" bet="€10" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€120,26" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="3" type="23"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€2" no="4" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€10" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">C8 CQ</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+   <action player="126782814592" sum="€0" no="9" type="0"/>
+   <action player="KPJR" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939341">
+  <general>
+   <startdate>2024-08-13 23:11:38</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€105,50" win="€17,46" bet="€22,50" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€167,71" win="€0" bet="€9" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€133,61" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€127,68" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€120,26" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="3" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S2 H4</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€3" no="7" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€9" no="8" type="23"/>
+   <action player="Toppilanmies" sum="€6" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 DA SQ</cards>
+   <action player="Toppilanmies" sum="€0" no="10" type="4"/>
+   <action player="126782814592" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="Toppilanmies" sum="€13,50" no="12" type="5"/>
+   <action player="126782814592" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939552">
+  <general>
+   <startdate>2024-08-13 23:13:00</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€113,96" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€158,71" win="€11,64" bet="€6" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€133,61" win="€0" bet="€6" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€127,68" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€120,26" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="KPJR" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">DA C4</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">C6 C9</cards>
+   <action player="126782814592" sum="€3" no="7" type="23"/>
+   <cards player="KPJR" type="Pocket">H9 D7</cards>
+   <action player="KPJR" sum="€2" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ D3 D9</cards>
+   <action player="126782814592" sum="€0" no="9" type="4"/>
+   <action player="KPJR" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action player="126782814592" sum="€0" no="11" type="4"/>
+   <action player="KPJR" sum="€3" no="12" type="5"/>
+   <action player="126782814592" sum="€3" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="126782814592" sum="€0" no="14" type="4"/>
+   <action player="KPJR" sum="€0" no="15" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918939689">
+  <general>
+   <startdate>2024-08-13 23:13:54</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€113,96" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="1" chips="€164,35" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€127,61" win="€0" bet="€4,38" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€127,68" win="€12,75" bet="€24,09" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€120,26" win="€0" bet="€4,38" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KPJR" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 CA</cards>
+   <action player="13373678" sum="€2,50" no="3" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€2" no="7" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€1,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C4 D3</cards>
+   <action player="KPJR" sum="€0" no="9" type="4"/>
+   <action player="Rom14" sum="€1,88" no="10" type="5"/>
+   <action player="13373678" sum="€1,88" no="11" type="3"/>
+   <action player="KPJR" sum="€1,88" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="KPJR" sum="€0" no="13" type="4"/>
+   <action player="Rom14" sum="€19,71" no="14" type="5"/>
+   <action player="13373678" sum="€0" no="15" type="0"/>
+   <action player="KPJR" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940428">
+  <general>
+   <startdate>2024-08-13 23:15:29</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€113,96" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,35" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€123,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€136,05" win="€0" bet="€0,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€115,88" win="€0" bet="€1" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€2,50" bet="€2,25" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,25" no="3" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="6" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">CK H5</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940478">
+  <general>
+   <startdate>2024-08-13 23:15:51</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€113,96" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,35" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€123,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="1" chips="€135,55" win="€2,50" bet="€2,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€114,88" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,50" win="€0" bet="€1" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="5" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€2,50" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">C2 D5</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940515">
+  <general>
+   <startdate>2024-08-13 23:16:06</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€113,96" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,35" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€123,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€137,05" win="€2,50" bet="€2,50" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€114,38" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100,50" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="4" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€2,50" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">H4 DK</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940571">
+  <general>
+   <startdate>2024-08-13 23:16:28</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€112,96" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,35" win="€1" bet="€1" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€123,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€138,55" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€114,38" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="3" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">C6 DQ</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940598">
+  <general>
+   <startdate>2024-08-13 23:16:43</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€112,46" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,85" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€123,23" win="€0" bet="€13,50" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€138,55" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€114,38" win="€26,67" bet="€47,87" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="KPJR" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">DQ SK</cards>
+   <action player="13373678" sum="€2,50" no="4" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€1,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ S8 S5</cards>
+   <action player="KPJR" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€2,75" no="10" type="5"/>
+   <action player="KPJR" sum="€2,75" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="KPJR" sum="€0" no="12" type="4"/>
+   <action player="13373678" sum="€8,25" no="13" type="5"/>
+   <action player="KPJR" sum="€8,25" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action player="KPJR" sum="€0" no="15" type="4"/>
+   <action player="13373678" sum="€34,37" no="16" type="5"/>
+   <action player="KPJR" sum="€0" no="17" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940761">
+  <general>
+   <startdate>2024-08-13 23:17:49</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€112,46" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="1" chips="€164,35" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€109,73" win="€0" bet="€0,50" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€138,55" win="€0" bet="€1" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€127,55" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100" win="€2,50" bet="€2,21" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KPJR" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 C2</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,21" no="4" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="7" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940797">
+  <general>
+   <startdate>2024-08-13 23:18:03</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€112,46" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€164,35" win="€0" bet="€32,20" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€109,23" win="€0" bet="€20" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€137,55" win="€83,40" bet="€53,55" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€127,55" win="€0" bet="€1" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,50" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="5" type="23"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€6" no="6" type="23"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€20" no="7" type="23"/>
+   <cards player="13373678" type="Pocket">SJ H2</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+   <action player="126782814592" sum="€18" no="9" type="3"/>
+   <action player="KPJR" sum="€14" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 SK DK</cards>
+   <action player="Rom14" sum="€12,20" no="11" type="5"/>
+   <action player="126782814592" sum="€12,20" no="12" type="3"/>
+   <action player="KPJR" sum="€0" no="13" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="Rom14" sum="€21,35" no="14" type="5"/>
+   <action player="126782814592" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940948">
+  <general>
+   <startdate>2024-08-13 23:18:59</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€112,46" win="€0" bet="€2,15" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€132,15" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€89,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="1" chips="€188,75" win="€5,80" bet="€7,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€126,55" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,50" win="€0" bet="€1" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€2,15" no="3" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="5" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€7,50" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">HK S6</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+   <action player="Toppilanmies" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918941048">
+  <general>
+   <startdate>2024-08-13 23:19:38</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€1" bet="€1" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€132,15" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€89,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€192,40" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€126,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€100,50" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="4" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">HQ C4</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918941085">
+  <general>
+   <startdate>2024-08-13 23:19:54</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,81" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€132,15" win="€0" bet="€1" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€89,23" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€192,40" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€126,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€100" win="€2,50" bet="€2,13" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="3" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">H4 DK</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,13" no="6" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942361">
+  <general>
+   <startdate>2024-08-13 23:20:38</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€110,31" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€131,15" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€89,23" win="€1" bet="€1" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€192,40" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€126,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,50" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="KPJR" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">D4 HK</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942401">
+  <general>
+   <startdate>2024-08-13 23:20:54</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="1" chips="€130,65" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€89,73" win="€0" bet="€35,25" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€192,40" win="€0" bet="€1" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€126,05" win="€0" bet="€2,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€101,50" win="€72" bet="€35,25" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KPJR" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ DJ</cards>
+   <action player="13373678" sum="€2,50" no="3" type="23"/>
+   <cards player="Israelle" type="Pocket">S9 SA</cards>
+   <action player="Israelle" sum="€7,50" no="4" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="KPJR" type="Pocket">D10 DK</cards>
+   <action player="KPJR" sum="€7" no="7" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="8" type="0"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 SJ D9</cards>
+   <action player="KPJR" sum="€0" no="10" type="4"/>
+   <action player="Israelle" sum="€9,25" no="11" type="5"/>
+   <action player="KPJR" sum="€9,25" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action player="KPJR" sum="€0" no="13" type="4"/>
+   <action player="Israelle" sum="€18,50" no="14" type="5"/>
+   <action player="KPJR" sum="€18,50" no="15" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="KPJR" sum="€0" no="16" type="4"/>
+   <action player="Israelle" sum="€0" no="17" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918942607">
+  <general>
+   <startdate>2024-08-13 23:22:11</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€2,50" bet="€2,15" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€130,65" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="1" chips="€54,48" win="€0" bet="€0" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€191,40" win="€0" bet="€0,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€123,55" win="€0" bet="€1" name="13373678"/>
+    <player seat="10" dealer="0" chips="€138,25" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€2,15" no="4" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€0" no="6" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">H9 C8</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942890">
+  <general>
+   <startdate>2024-08-13 23:22:28</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€111,81" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€130,65" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€54,48" win="€4,12" bet="€4" name="KPJR"/>
+    <player seat="6" dealer="1" chips="€190,90" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€122,55" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€138,25" win="€4,13" bet="€4" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="KPJR" type="Pocket">H10 CQ</cards>
+   <action player="KPJR" sum="€1" no="5" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">H6 DA</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">SQ HJ</cards>
+   <action player="Israelle" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA HK H8</cards>
+   <action player="Israelle" sum="€0" no="9" type="4"/>
+   <action player="KPJR" sum="€1" no="10" type="5"/>
+   <action player="Israelle" sum="€1" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Israelle" sum="€0" no="12" type="4"/>
+   <action player="KPJR" sum="€1" no="13" type="5"/>
+   <action player="Israelle" sum="€1" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="Israelle" sum="€0" no="15" type="4"/>
+   <action player="KPJR" sum="€1" no="16" type="5"/>
+   <action player="Israelle" sum="€1" no="17" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918943187">
+  <general>
+   <startdate>2024-08-13 23:23:08</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€111,81" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€130,65" win="€0" bet="€0" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€54,60" win="€0" bet="€4" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€190,90" win="€9,22" bet="€7,14" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€122,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€138,38" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="KPJR" type="Pocket">X X</cards>
+   <action player="KPJR" sum="€1" no="4" type="3"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€4" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">HA S7</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+   <action player="KPJR" sum="€3" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 SJ D4</cards>
+   <action player="KPJR" sum="€0" no="10" type="4"/>
+   <action player="Rom14" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="KPJR" sum="€0" no="12" type="4"/>
+   <action player="Rom14" sum="€3,14" no="13" type="5"/>
+   <action player="KPJR" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943361">
+  <general>
+   <startdate>2024-08-13 23:24:14</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,81" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€130,65" win="€0" bet="€1" name="126782814592"/>
+    <player seat="5" dealer="0" chips="€50,60" win="€0" bet="€50,60" name="KPJR"/>
+    <player seat="6" dealer="0" chips="€196,12" win="€100,70" bet="€196,12" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€122,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€137,88" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KPJR" type="Pocket">CA CJ</cards>
+   <action player="KPJR" sum="€1" no="3" type="3"/>
+   <cards player="Rom14" type="Pocket">S9 H9</cards>
+   <action player="Rom14" sum="€4" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">HJ C4</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+   <action player="KPJR" sum="€10" no="9" type="23"/>
+   <action player="Rom14" sum="€196,12" no="10" type="23"/>
+   <action player="KPJR" sum="€40,60" no="11" type="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H10 C7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+  </round>
+ </game>
+ <game gamecode="3918943487">
+  <general>
+   <startdate>2024-08-13 23:25:07</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€110,31" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€129,65" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="6" dealer="0" chips="€246,22" win="€1" bet="€1" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€122,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€137,88" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Rom14" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S6 DK</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943527">
+  <general>
+   <startdate>2024-08-13 23:25:20</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="1" chips="€129,15" win="€0" bet="€0" name="126782814592"/>
+    <player seat="6" dealer="0" chips="€246,72" win="€0" bet="€0,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€122,05" win="€1" bet="€1" name="13373678"/>
+    <player seat="10" dealer="0" chips="€137,88" win="€0" bet="€0" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rom14" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA S7</cards>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943549">
+  <general>
+   <startdate>2024-08-13 23:25:31</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€129,15" win="€0" bet="€2" name="126782814592"/>
+    <player seat="6" dealer="1" chips="€246,22" win="€5,50" bet="€7,50" name="Rom14"/>
+    <player seat="8" dealer="0" chips="€122,55" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€137,88" win="€0" bet="€1" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="4" type="23"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€7,50" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">CJ SA</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943607">
+  <general>
+   <startdate>2024-08-13 23:25:54</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€110,31" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="3" dealer="0" chips="€127,15" win="€2,50" bet="€2" name="126782814592"/>
+    <player seat="6" dealer="0" chips="€249,72" win="€0" bet="€0" name="Rom14"/>
+    <player seat="8" dealer="1" chips="€122,05" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€136,88" win="€0" bet="€0,50" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="3" type="23"/>
+   <cards player="Rom14" type="Pocket">X X</cards>
+   <action player="Rom14" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S2 D3</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943638">
+  <general>
+   <startdate>2024-08-13 23:26:08</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€109,31" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="8" dealer="0" chips="€122,05" win="€0" bet="€1" name="13373678"/>
+    <player seat="10" dealer="1" chips="€136,38" win="€2,50" bet="€2,11" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,11" no="3" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">SK C3</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943668">
+  <general>
+   <startdate>2024-08-13 23:26:21</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€108,81" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="8" dealer="0" chips="€121,05" win="€0" bet="€121,05" name="13373678"/>
+    <player seat="10" dealer="0" chips="€137,88" win="€240,10" bet="€121,05" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">HJ H10</cards>
+   <action player="13373678" sum="€3" no="4" type="23"/>
+   <cards player="Israelle" type="Pocket">SA H8</cards>
+   <action player="Israelle" sum="€2" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 DQ H4</cards>
+   <action player="13373678" sum="€0" no="6" type="4"/>
+   <action player="Israelle" sum="€0" no="7" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="13373678" sum="€7,50" no="8" type="5"/>
+   <action player="Israelle" sum="€7,50" no="9" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="13373678" sum="€110,55" no="10" type="5"/>
+   <action player="Israelle" sum="€110,55" no="11" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918943762">
+  <general>
+   <startdate>2024-08-13 23:27:02</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€108,81" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="8" dealer="1" chips="€100" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€256,93" win="€2" bet="€3" name="Israelle"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 D5</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€3" no="4" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+  </round>
+ </game>
+</session>

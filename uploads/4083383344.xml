@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083383344">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:08:56</duration>
+  <gamecount>20</gamecount>
+  <startdate>2022-09-14 00:05:25</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€19,68</bets>
+  <wins>€10,11</wins>
+  <chipsin>€101,28</chipsin>
+  <chipsout>€104,39</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3710184838">
+  <general>
+   <startdate>2022-09-14 00:05:25</startdate>
+   <players>
+    <player name="Catalin2407" chips="€46,28" bet="€0,50" seat="3" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€65,85" bet="€1,10" seat="5" win="€1,25" dealer="1"/>
+    <player name="MrJootnii" chips="€67,31" bet="€0,25" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="MrJootnii"/>
+   <action sum="€0,50" no="2" type="2" player="Catalin2407"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€1,10" no="3" type="23" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="4" type="0" player="MrJootnii"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0" no="5" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710184888">
+  <general>
+   <startdate>2022-09-14 00:06:08</startdate>
+   <players>
+    <player name="Catalin2407" chips="€45,78" bet="€0,25" seat="3" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€66,60" bet="€0,50" seat="5" win="€0,50" dealer="0"/>
+    <player name="MrJootnii" chips="€67,06" bet="€0" seat="8" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="Catalin2407"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="3" type="0" player="MrJootnii"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0" no="4" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710184921">
+  <general>
+   <startdate>2022-09-14 00:06:31</startdate>
+   <players>
+    <player name="Catalin2407" chips="€45,53" bet="€7,50" seat="3" win="€0" dealer="1"/>
+    <player name="CykaJa3ve3da" chips="€66,85" bet="€7,50" seat="5" win="€15,52" dealer="0"/>
+    <player name="13373678" chips="€102,28" bet="€1" seat="6" win="€0" dealer="0"/>
+    <player name="MrJootnii" chips="€67,06" bet="€0" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="3" type="0" player="MrJootnii"/>
+   <cards type="Pocket" player="Catalin2407">S10 DQ</cards>
+   <action sum="€1" no="4" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">SJ C10</cards>
+   <action sum="€0,75" no="5" type="3" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H7 H9</cards>
+   <action sum="€0,50" no="6" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C9 HK</cards>
+   <action sum="€0" no="7" type="4" player="CykaJa3ve3da"/>
+   <action sum="€0" no="8" type="4" player="13373678"/>
+   <action sum="€2" no="9" type="5" player="Catalin2407"/>
+   <action sum="€2" no="10" type="3" player="CykaJa3ve3da"/>
+   <action sum="€0" no="11" type="0" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€0" no="12" type="4" player="CykaJa3ve3da"/>
+   <action sum="€0" no="13" type="4" player="Catalin2407"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€0" no="14" type="4" player="CykaJa3ve3da"/>
+   <action sum="€4,50" no="15" type="5" player="Catalin2407"/>
+   <action sum="€4,50" no="16" type="3" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3710184999">
+  <general>
+   <startdate>2022-09-14 00:07:31</startdate>
+   <players>
+    <player name="Catalin2407" chips="€38,03" bet="€2" seat="3" win="€1,25" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€74,87" bet="€0" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" chips="€101,28" bet="€0,25" seat="6" win="€0" dealer="0"/>
+    <player name="MrJootnii" chips="€67,06" bet="€0,50" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="13373678"/>
+   <action sum="€0,50" no="2" type="2" player="MrJootnii"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€2" no="3" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="4" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">DA C9</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="6" type="0" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3710185022">
+  <general>
+   <startdate>2022-09-14 00:07:44</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€0,50" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€38,78" bet="€4,50" seat="3" win="€4,37" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€74,87" bet="€0" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€101,03" bet="€0" seat="6" win="€0" dealer="1"/>
+    <player name="MrJootnii" chips="€66,56" bet="€2" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="MrJootnii"/>
+   <action sum="€0,50" no="2" type="2" player="SLORPGLORPIN"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€2" no="3" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="4" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">S5 D5</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€1,75" no="6" type="3" player="MrJootnii"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="7" type="0" player="SLORPGLORPIN"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA SQ S7</cards>
+   <action sum="€0" no="8" type="4" player="MrJootnii"/>
+   <action sum="€2,50" no="9" type="5" player="Catalin2407"/>
+   <action sum="€0" no="10" type="0" player="MrJootnii"/>
+  </round>
+ </game>
+ <game gamecode="3710185068">
+  <general>
+   <startdate>2022-09-14 00:08:15</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€0,25" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€41,15" bet="€2,25" seat="3" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€74,87" bet="€0" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€101,03" bet="€8,18" seat="6" win="€4,61" dealer="0"/>
+    <player name="MrJootnii" chips="€64,56" bet="€0" seat="8" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="SLORPGLORPIN"/>
+   <action sum="€0,50" no="2" type="2" player="Catalin2407"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="3" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">CK D10</cards>
+   <action sum="€1,25" no="4" type="23" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="5" type="0" player="MrJootnii"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="6" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0,75" no="7" type="3" player="Catalin2407"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D2 HA</cards>
+   <action sum="€0" no="8" type="4" player="Catalin2407"/>
+   <action sum="€0" no="9" type="4" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€1" no="10" type="5" player="Catalin2407"/>
+   <action sum="€1" no="11" type="3" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€0" no="12" type="4" player="Catalin2407"/>
+   <action sum="€5,93" no="13" type="5" player="13373678"/>
+   <action sum="€0" no="14" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710185112">
+  <general>
+   <startdate>2022-09-14 00:08:49</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€1,93" seat="1" win="€2,62" dealer="1"/>
+    <player name="Catalin2407" chips="€38,90" bet="€1,10" seat="3" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€74,87" bet="€0,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€103,39" bet="€0" seat="6" win="€0" dealer="0"/>
+    <player name="MrJootnii" chips="€64,56" bet="€0" seat="8" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="Catalin2407"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK S5</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="MrJootnii">X X</cards>
+   <action sum="€0" no="4" type="0" player="MrJootnii"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€1,10" no="5" type="23" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0,85" no="6" type="3" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="7" type="0" player="CykaJa3ve3da"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 HA C5</cards>
+   <action sum="€0" no="8" type="4" player="Catalin2407"/>
+   <action sum="€0,83" no="9" type="5" player="SLORPGLORPIN"/>
+   <action sum="€0" no="10" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710185165">
+  <general>
+   <startdate>2022-09-14 00:09:31</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€51,52" bet="€0" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€37,80" bet="€1,50" seat="3" win="€0" dealer="1"/>
+    <player name="CykaJa3ve3da" chips="€74,37" bet="€0,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€103,39" bet="€6" seat="6" win="€3,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="3" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€1,50" no="4" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="5" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">CA SQ</cards>
+   <action sum="€6" no="6" type="23" player="13373678"/>
+   <action sum="€0" no="7" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710185202">
+  <general>
+   <startdate>2022-09-14 00:09:54</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€51,52" bet="€0,50" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€36,30" bet="€3,50" seat="3" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€74,12" bet="€6,06" seat="5" win="€7,52" dealer="1"/>
+    <player name="13373678" chips="€105,14" bet="€0,25" seat="6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="13373678"/>
+   <action sum="€0,50" no="2" type="2" player="SLORPGLORPIN"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€1" no="3" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€3,50" no="4" type="23" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H2 S9</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="6" type="0" player="SLORPGLORPIN"/>
+   <action sum="€2,50" no="7" type="3" player="Catalin2407"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ CA H7</cards>
+   <action sum="€0" no="8" type="4" player="Catalin2407"/>
+   <action sum="€2,56" no="9" type="5" player="CykaJa3ve3da"/>
+   <action sum="€0" no="10" type="0" player="Catalin2407"/>
+  </round>
+ </game>
+ <game gamecode="3710188031">
+  <general>
+   <startdate>2022-09-14 00:10:19</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€51,02" bet="€0,25" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€32,80" bet="€2,15" seat="3" win="€2,48" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€78,14" bet="€1,15" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,89" bet="€0" seat="6" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="SLORPGLORPIN"/>
+   <action sum="€0,50" no="2" type="2" player="Catalin2407"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€1,15" no="3" type="23" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">H6 SJ</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="5" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0,65" no="6" type="3" player="Catalin2407"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 HJ H10</cards>
+   <action sum="€1" no="7" type="5" player="Catalin2407"/>
+   <action sum="€0" no="8" type="0" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3710188062">
+  <general>
+   <startdate>2022-09-14 00:10:40</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50,77" bet="€3,20" seat="1" win="€0" dealer="1"/>
+    <player name="Catalin2407" chips="€34,13" bet="€5,70" seat="3" win="€6,70" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€76,99" bet="€0,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,89" bet="€0" seat="6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="Catalin2407"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ C2</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€1,10" no="4" type="23" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€3,20" no="5" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="6" type="0" player="CykaJa3ve3da"/>
+   <action sum="€2,10" no="7" type="3" player="SLORPGLORPIN"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 CQ D2</cards>
+   <action sum="€2,50" no="8" type="5" player="Catalin2407"/>
+   <action sum="€0" no="9" type="0" player="SLORPGLORPIN"/>
+  </round>
+ </game>
+ <game gamecode="3710188096">
+  <general>
+   <startdate>2022-09-14 00:11:12</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€0" seat="1" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€37,63" bet="€1,63" seat="3" win="€1,25" dealer="1"/>
+    <player name="CykaJa3ve3da" chips="€76,49" bet="€0,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,89" bet="€0,50" seat="6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="3" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€1,63" no="4" type="23" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="5" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">S2 HK</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3710188113">
+  <general>
+   <startdate>2022-09-14 00:11:27</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€0,50" seat="1" win="€0,50" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€76,24" bet="€0" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" chips="€104,39" bet="€0,25" seat="6" win="€0" dealer="0"/>
+    <player name="Catalin2407" chips="€38,38" bet="€0" seat="3" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="13373678"/>
+   <action sum="€0,50" no="2" type="2" player="SLORPGLORPIN"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <cards type="Pocket" player="Catalin2407">X X</cards>
+   <action sum="€0" no="3" type="0" player="Catalin2407"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="4" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">SA C2</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3710188904">
+  <general>
+   <startdate>2022-09-14 00:11:49</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50,25" bet="€0,25" seat="1" win="€0" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€76,24" bet="€0,50" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,14" bet="€1,25" seat="6" win="€1,25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="SLORPGLORPIN"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 H7</cards>
+   <action sum="€1,25" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="4" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="5" type="0" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3710188922">
+  <general>
+   <startdate>2022-09-14 00:12:02</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€1,10" seat="1" win="€0" dealer="1"/>
+    <player name="CykaJa3ve3da" chips="€75,74" bet="€5,50" seat="5" win="€2,70" dealer="0"/>
+    <player name="13373678" chips="€104,89" bet="€0,50" seat="6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€1,10" no="3" type="23" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€5,50" no="4" type="23" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">CJ C3</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <action sum="€0" no="6" type="0" player="SLORPGLORPIN"/>
+  </round>
+ </game>
+ <game gamecode="3710188965">
+  <general>
+   <startdate>2022-09-14 00:12:35</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50" bet="€0,50" seat="1" win="€0,50" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€77,34" bet="€0" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" chips="€104,39" bet="€0,25" seat="6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="13373678"/>
+   <action sum="€0,50" no="2" type="2" player="SLORPGLORPIN"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="3" type="0" player="CykaJa3ve3da"/>
+   <cards type="Pocket" player="13373678">D7 SQ</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3710189000">
+  <general>
+   <startdate>2022-09-14 00:13:05</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€50,25" bet="€1,25" seat="1" win="€2,43" dealer="0"/>
+    <player name="CykaJa3ve3da" chips="€77,34" bet="€1,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,14" bet="€0" seat="6" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="SLORPGLORPIN"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 D9</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+   <cards type="Pocket" player="SLORPGLORPIN">H2 D2</cards>
+   <action sum="€1,25" no="4" type="23" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="CykaJa3ve3da">S10 CK</cards>
+   <action sum="€0,75" no="5" type="3" player="CykaJa3ve3da"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 CQ H3</cards>
+   <action sum="€0" no="6" type="4" player="SLORPGLORPIN"/>
+   <action sum="€0" no="7" type="4" player="CykaJa3ve3da"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action sum="€0" no="8" type="4" player="SLORPGLORPIN"/>
+   <action sum="€0" no="9" type="4" player="CykaJa3ve3da"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action sum="€0" no="10" type="4" player="SLORPGLORPIN"/>
+   <action sum="€0" no="11" type="4" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3710189073">
+  <general>
+   <startdate>2022-09-14 00:14:00</startdate>
+   <players>
+    <player name="SLORPGLORPIN" chips="€51,43" bet="€0" seat="1" win="€0" dealer="1"/>
+    <player name="CykaJa3ve3da" chips="€76,09" bet="€0,25" seat="5" win="€0" dealer="0"/>
+    <player name="13373678" chips="€104,14" bet="€0,50" seat="6" win="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D7 SJ</cards>
+   <cards type="Pocket" player="SLORPGLORPIN">X X</cards>
+   <action sum="€0" no="3" type="0" player="SLORPGLORPIN"/>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="4" type="0" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+ <game gamecode="3710189088">
+  <general>
+   <startdate>2022-09-14 00:14:13</startdate>
+   <players>
+    <player name="CykaJa3ve3da" chips="€75,84" bet="€0,50" seat="5" win="€0,50" dealer="0"/>
+    <player name="13373678" chips="€104,39" bet="€0,25" seat="6" win="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="13373678"/>
+   <action sum="€0,50" no="2" type="2" player="CykaJa3ve3da"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <cards type="Pocket" player="13373678">C4 SJ</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3710189097">
+  <general>
+   <startdate>2022-09-14 00:14:19</startdate>
+   <players>
+    <player name="CykaJa3ve3da" chips="€76,09" bet="€0,25" seat="5" win="€0" dealer="1"/>
+    <player name="13373678" chips="€104,14" bet="€0,50" seat="6" win="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="CykaJa3ve3da"/>
+   <action sum="€0,50" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C4 S5</cards>
+   <cards type="Pocket" player="CykaJa3ve3da">X X</cards>
+   <action sum="€0" no="3" type="0" player="CykaJa3ve3da"/>
+  </round>
+ </game>
+</session>

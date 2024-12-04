@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4084133870">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:15:28</duration>
+  <gamecount>22</gamecount>
+  <startdate>2022-09-23 16:08:27</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€140,05</bets>
+  <wins>€26,35</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€114,87</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3712614434">
+  <general>
+   <startdate>2022-09-23 16:08:27</startdate>
+   <players>
+    <player name="Player 1" chips="€118,64" win="€1" seat="1" bet="€1" dealer="0"/>
+    <player name="Player 3" chips="€47,99" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="Player 5" chips="€127,14" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Player 6" chips="€199,10" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player name="Player 8" chips="€152,99" win="€0" seat="8" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Player 8" no="1"/>
+   <action type="2" sum="€1" player="Player 1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="0" sum="€0" player="Player 3" no="3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" sum="€0" player="Player 5" no="4"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" sum="€0" player="Player 6" no="5"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" sum="€0" player="Player 8" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3712614457">
+  <general>
+   <startdate>2022-09-23 16:08:38</startdate>
+   <players>
+    <player name="Player 1" chips="€119,14" win="€5,82" seat="1" bet="€4" dealer="0"/>
+    <player name="Player 3" chips="€47,99" win="€0" seat="3" bet="€3" dealer="0"/>
+    <player name="Player 5" chips="€127,14" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Player 6" chips="€199,10" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="Player 8" chips="€152,49" win="€0" seat="8" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Player 1" no="1"/>
+   <action type="2" sum="€1" player="Player 3" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" sum="€0" player="Player 5" no="3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" sum="€0" player="Player 6" no="4"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" sum="€0" player="Player 8" no="5"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="3" sum="€0,50" player="Player 1" no="6"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="4" sum="€0" player="Player 3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 HK H3</cards>
+   <action type="5" sum="€1" player="Player 1" no="8"/>
+   <action type="3" sum="€1" player="Player 3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="5" sum="€1" player="Player 1" no="10"/>
+   <action type="3" sum="€1" player="Player 3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action type="5" sum="€1" player="Player 1" no="12"/>
+   <action type="0" sum="€0" player="Player 3" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3712614513">
+  <general>
+   <startdate>2022-09-23 16:09:16</startdate>
+   <players>
+    <player name="Player 1" chips="€121,96" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player name="Player 3" chips="€44,99" win="€4,85" seat="3" bet="€3" dealer="0"/>
+    <player name="Player 5" chips="€127,14" win="€0" seat="5" bet="€1" dealer="0"/>
+    <player name="Player 6" chips="€199,10" win="€0" seat="6" bet="€2" dealer="0"/>
+    <player name="Player 8" chips="€152,49" win="€0" seat="8" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Player 3" no="1"/>
+   <action type="2" sum="€1" player="Player 5" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="23" sum="€2" player="Player 6" no="3"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" sum="€0" player="Player 8" no="4"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="0" sum="€0" player="Player 1" no="5"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="3" sum="€1,50" player="Player 3" no="6"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" sum="€0" player="Player 5" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C5 S5</cards>
+   <action type="4" sum="€0" player="Player 3" no="8"/>
+   <action type="4" sum="€0" player="Player 6" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="4" sum="€0" player="Player 3" no="10"/>
+   <action type="4" sum="€0" player="Player 6" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action type="5" sum="€1" player="Player 3" no="12"/>
+   <action type="0" sum="€0" player="Player 6" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3712614592">
+  <general>
+   <startdate>2022-09-23 16:10:16</startdate>
+   <players>
+    <player name="Player 1" chips="€121,96" win="€0" seat="1" bet="€1" dealer="0"/>
+    <player name="Player 3" chips="€47,84" win="€0" seat="3" bet="€0" dealer="1"/>
+    <player name="Player 5" chips="€126,14" win="€3" seat="5" bet="€6" dealer="0"/>
+    <player name="Player 6" chips="€197,10" win="€0" seat="6" bet="€1" dealer="0"/>
+    <player name="Player 8" chips="€152,49" win="€0" seat="8" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Player 5" no="1"/>
+   <action type="2" sum="€1" player="Player 6" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" sum="€0" player="Player 8" no="3"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="3" sum="€1" player="Player 1" no="4"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="0" sum="€0" player="Player 3" no="5"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="23" sum="€6" player="Player 5" no="6"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="0" sum="€0" player="Player 6" no="7"/>
+   <action type="0" sum="€0" player="Player 1" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3712614624">
+  <general>
+   <startdate>2022-09-23 16:10:36</startdate>
+   <players>
+    <player name="Player 1" chips="€120,96" win="€5,82" seat="1" bet="€5,50" dealer="0"/>
+    <player name="Player 3" chips="€47,84" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="Player 5" chips="€128,14" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player name="Player 6" chips="€196,10" win="€0" seat="6" bet="€2,50" dealer="0"/>
+    <player name="Player 8" chips="€152,49" win="€0" seat="8" bet="€1" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Player 6" no="1"/>
+   <action type="2" sum="€1" player="Player 8" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action type="3" sum="€1" player="Player 1" no="3"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="0" sum="€0" player="Player 3" no="4"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action type="0" sum="€0" player="Player 5" no="5"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="3" sum="€0,50" player="Player 6" no="6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="4" sum="€0" player="Player 8" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA CQ D10</cards>
+   <action type="4" sum="€0" player="Player 6" no="8"/>
+   <action type="4" sum="€0" player="Player 8" no="9"/>
+   <action type="5" sum="€1,50" player="Player 1" no="10"/>
+   <action type="3" sum="€1,50" player="Player 6" no="11"/>
+   <action type="0" sum="€0" player="Player 8" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="4" sum="€0" player="Player 6" no="13"/>
+   <action type="5" sum="€3" player="Player 1" no="14"/>
+   <action type="0" sum="€0" player="Player 6" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3712614713">
+  <general>
+   <startdate>2022-09-23 16:11:38</startdate>
+   <players>
+    <player name="13er10" chips="€124,28" win="€5,34" seat="1" bet="€4,75" dealer="0"/>
+    <player name="beginners" chips="€47,84" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="DextersLab" chips="€128,14" win="€0" seat="5" bet="€2" dealer="0"/>
+    <player name="Grinding4Emma" chips="€193,60" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player name="IIIIIIlIIlIIII" chips="€151,49" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€1" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="IIIIIIlIIlIIII" no="1"/>
+   <action type="2" sum="€1" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="23" sum="€2" player="13er10" no="3"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="4"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="3" sum="€2" player="DextersLab" no="5"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="6"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="7"/>
+   <cards type="Pocket" player="13373678">C7 S4</cards>
+   <action type="0" sum="€0" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 D3 HA</cards>
+   <action type="5" sum="€2,75" player="13er10" no="9"/>
+   <action type="0" sum="€0" player="DextersLab" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3712614821">
+  <general>
+   <startdate>2022-09-23 16:12:14</startdate>
+   <players>
+    <player name="13er10" chips="€127,62" win="€15,04" seat="1" bet="€7" dealer="0"/>
+    <player name="beginners" chips="€47,84" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€126,14" win="€0" seat="5" bet="€7" dealer="0"/>
+    <player name="Grinding4Emma" chips="€193,60" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13373678" no="1"/>
+   <action type="2" sum="€1" player="13er10" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="3"/>
+   <cards type="Pocket" player="DextersLab">H2 S2</cards>
+   <action type="23" sum="€4" player="DextersLab" no="4"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="5"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="6"/>
+   <cards type="Pocket" player="13373678">C2 D10</cards>
+   <action type="0" sum="€0" player="13373678" no="7"/>
+   <cards type="Pocket" player="13er10">S5 H3</cards>
+   <action type="3" sum="€3" player="13er10" no="8"/>
+   <action type="0" sum="€0" player="beginners" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C8 S3</cards>
+   <action type="5" sum="€1" player="13er10" no="10"/>
+   <action type="3" sum="€1" player="DextersLab" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action type="5" sum="€1" player="13er10" no="12"/>
+   <action type="3" sum="€1" player="DextersLab" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action type="5" sum="€1" player="13er10" no="14"/>
+   <action type="3" sum="€1" player="DextersLab" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3712615805">
+  <general>
+   <startdate>2022-09-23 16:12:52</startdate>
+   <players>
+    <player name="13er10" chips="€135,66" win="€0" seat="1" bet="€5" dealer="0"/>
+    <player name="beginners" chips="€46,84" win="€9,70" seat="3" bet="€8" dealer="0"/>
+    <player name="DextersLab" chips="€119,14" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€193,60" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13er10" no="1"/>
+   <action type="2" sum="€1" player="beginners" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="3"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="4"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="5"/>
+   <cards type="Pocket" player="13373678">D4 C7</cards>
+   <action type="0" sum="€0" player="13373678" no="6"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="3" sum="€0,50" player="13er10" no="7"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="23" sum="€4" player="beginners" no="8"/>
+   <action type="3" sum="€3" player="13er10" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ S8 HK</cards>
+   <action type="4" sum="€0" player="13er10" no="10"/>
+   <action type="4" sum="€0" player="beginners" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action type="5" sum="€1" player="13er10" no="12"/>
+   <action type="3" sum="€1" player="beginners" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action type="4" sum="€0" player="13er10" no="14"/>
+   <action type="5" sum="€3" player="beginners" no="15"/>
+   <action type="0" sum="€0" player="13er10" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3712615874">
+  <general>
+   <startdate>2022-09-23 16:13:33</startdate>
+   <players>
+    <player name="13er10" chips="€130,66" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player name="beginners" chips="€51,54" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player name="DextersLab" chips="€119,14" win="€0" seat="5" bet="€1" dealer="0"/>
+    <player name="Grinding4Emma" chips="€193,60" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€2,50" seat="8" bet="€2,50" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="beginners" no="1"/>
+   <action type="2" sum="€1" player="DextersLab" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="3"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="23" sum="€2,50" player="IIIIIIlIIlIIII" no="4"/>
+   <cards type="Pocket" player="13373678">H7 HQ</cards>
+   <action type="0" sum="€0" player="13373678" no="5"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="0" sum="€0" player="13er10" no="6"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="7"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3712615907">
+  <general>
+   <startdate>2022-09-23 16:13:51</startdate>
+   <players>
+    <player name="13er10" chips="€130,66" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player name="beginners" chips="€51,04" win="€0" seat="3" bet="€1" dealer="1"/>
+    <player name="DextersLab" chips="€118,14" win="€0" seat="5" bet="€1" dealer="0"/>
+    <player name="Grinding4Emma" chips="€193,60" win="€2,91" seat="6" bet="€4" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€152,49" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="DextersLab" no="1"/>
+   <action type="2" sum="€1" player="Grinding4Emma" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="3"/>
+   <cards type="Pocket" player="13373678">CQ S5</cards>
+   <action type="0" sum="€0" player="13373678" no="4"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="0" sum="€0" player="13er10" no="5"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="6"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="3" sum="€0,50" player="DextersLab" no="7"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C6 H8</cards>
+   <action type="4" sum="€0" player="DextersLab" no="9"/>
+   <action type="4" sum="€0" player="Grinding4Emma" no="10"/>
+   <action type="4" sum="€0" player="beginners" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="4" sum="€0" player="DextersLab" no="12"/>
+   <action type="5" sum="€3" player="Grinding4Emma" no="13"/>
+   <action type="0" sum="€0" player="beginners" no="14"/>
+   <action type="0" sum="€0" player="DextersLab" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3712616038">
+  <general>
+   <startdate>2022-09-23 16:15:19</startdate>
+   <players>
+    <player name="13er10" chips="€130,66" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player name="beginners" chips="€50,04" win="€0" seat="3" bet="€4" dealer="0"/>
+    <player name="DextersLab" chips="€117,14" win="€9,22" seat="5" bet="€7,13" dealer="1"/>
+    <player name="Grinding4Emma" chips="€195,51" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€152,49" win="€0" seat="8" bet="€1" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Grinding4Emma" no="1"/>
+   <action type="2" sum="€1" player="IIIIIIlIIlIIII" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 D10</cards>
+   <action type="0" sum="€0" player="13373678" no="3"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="0" sum="€0" player="13er10" no="4"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="5"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="23" sum="€4" player="DextersLab" no="6"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="7"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="8"/>
+   <action type="3" sum="€3" player="beginners" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C9 D5</cards>
+   <action type="4" sum="€0" player="beginners" no="10"/>
+   <action type="5" sum="€3,13" player="DextersLab" no="11"/>
+   <action type="0" sum="€0" player="beginners" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3712616099">
+  <general>
+   <startdate>2022-09-23 16:15:56</startdate>
+   <players>
+    <player name="13er10" chips="€130,66" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player name="beginners" chips="€46,04" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="DextersLab" chips="€122,36" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€195,01" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player name="IIIIIIlIIlIIII" chips="€151,49" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player name="13373678" chips="€100" win="€1" seat="10" bet="€1" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="IIIIIIlIIlIIII" no="1"/>
+   <action type="2" sum="€1" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DJ S9</cards>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="0" sum="€0" player="13er10" no="3"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="4"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="5"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="6"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3712616357">
+  <general>
+   <startdate>2022-09-23 16:16:11</startdate>
+   <players>
+    <player name="13er10" chips="€130,66" win="€2,43" seat="1" bet="€3,50" dealer="0"/>
+    <player name="beginners" chips="€46,04" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€122,36" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€195,01" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player name="13373678" chips="€100,50" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13373678" no="1"/>
+   <action type="2" sum="€1" player="13er10" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="3"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="4"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="5"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="6"/>
+   <cards type="Pocket" player="13373678">CK H4</cards>
+   <action type="0" sum="€0" player="13373678" no="7"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="4" sum="€0" player="13er10" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 S4</cards>
+   <action type="5" sum="€2,50" player="13er10" no="9"/>
+   <action type="0" sum="€0" player="beginners" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3712616404">
+  <general>
+   <startdate>2022-09-23 16:16:42</startdate>
+   <players>
+    <player name="13er10" chips="€132,09" win="€199" seat="1" bet="€100" dealer="0"/>
+    <player name="beginners" chips="€45,04" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€122,36" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€195,01" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€100" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13er10" no="1"/>
+   <action type="2" sum="€1" player="beginners" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="3"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="4"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="5"/>
+   <cards type="Pocket" player="13373678">SK HK</cards>
+   <action type="23" sum="€2,50" player="13373678" no="6"/>
+   <cards type="Pocket" player="13er10">HA DA</cards>
+   <action type="23" sum="€4" player="13er10" no="7"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="8"/>
+   <action type="23" sum="€17,50" player="13373678" no="9"/>
+   <action type="23" sum="€31" player="13er10" no="10"/>
+   <action type="23" sum="€100" player="13373678" no="11"/>
+   <action type="3" sum="€69" player="13er10" no="12"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H9 C10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+  </round>
+ </game>
+ <game gamecode="3712616629">
+  <general>
+   <startdate>2022-09-23 16:17:43</startdate>
+   <players>
+    <player name="13er10" chips="€231,09" win="€0" seat="1" bet="€8" dealer="1"/>
+    <player name="beginners" chips="€44,04" win="€0" seat="3" bet="€3" dealer="0"/>
+    <player name="DextersLab" chips="€122,36" win="€0" seat="5" bet="€3" dealer="0"/>
+    <player name="Grinding4Emma" chips="€195,01" win="€21,34" seat="6" bet="€8" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="beginners" no="1"/>
+   <action type="2" sum="€1" player="DextersLab" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Grinding4Emma">CA C10</cards>
+   <action type="23" sum="€2" player="Grinding4Emma" no="3"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="4"/>
+   <cards type="Pocket" player="13373678">C3 C8</cards>
+   <action type="0" sum="€0" player="13373678" no="5"/>
+   <cards type="Pocket" player="13er10">HK HQ</cards>
+   <action type="3" sum="€2" player="13er10" no="6"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1,50" player="beginners" no="7"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="3" sum="€1" player="DextersLab" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S8 H10</cards>
+   <action type="5" sum="€1" player="beginners" no="9"/>
+   <action type="3" sum="€1" player="DextersLab" no="10"/>
+   <action type="23" sum="€6" player="Grinding4Emma" no="11"/>
+   <action type="3" sum="€6" player="13er10" no="12"/>
+   <action type="0" sum="€0" player="beginners" no="13"/>
+   <action type="0" sum="€0" player="DextersLab" no="14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="15"/>
+   <action type="4" sum="€0" player="13er10" no="16"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="17"/>
+   <action type="4" sum="€0" player="13er10" no="18"/>
+  </round>
+ </game>
+ <game gamecode="3712616750">
+  <general>
+   <startdate>2022-09-23 16:18:51</startdate>
+   <players>
+    <player name="13er10" chips="€223,09" win="€10,67" seat="1" bet="€8" dealer="0"/>
+    <player name="beginners" chips="€41,04" win="€0" seat="3" bet="€2,50" dealer="1"/>
+    <player name="DextersLab" chips="€119,36" win="€0" seat="5" bet="€2,50" dealer="0"/>
+    <player name="Grinding4Emma" chips="€208,35" win="€0" seat="6" bet="€1" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€150,99" win="€0" seat="8" bet="€2,50" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="DextersLab" no="1"/>
+   <action type="2" sum="€1" player="Grinding4Emma" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="23" sum="€2,50" player="IIIIIIlIIlIIII" no="3"/>
+   <cards type="Pocket" player="13373678">D10 S4</cards>
+   <action type="0" sum="€0" player="13373678" no="4"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="3" sum="€2,50" player="13er10" no="5"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€2,50" player="beginners" no="6"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="3" sum="€2" player="DextersLab" no="7"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA C6 C3</cards>
+   <action type="4" sum="€0" player="DextersLab" no="9"/>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="10"/>
+   <action type="5" sum="€5,50" player="13er10" no="11"/>
+   <action type="0" sum="€0" player="beginners" no="12"/>
+   <action type="0" sum="€0" player="DextersLab" no="13"/>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3712616832">
+  <general>
+   <startdate>2022-09-23 16:19:39</startdate>
+   <players>
+    <player name="13er10" chips="€231,26" win="€3,88" seat="1" bet="€3" dealer="0"/>
+    <player name="beginners" chips="€38,54" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€116,86" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player name="Grinding4Emma" chips="€207,35" win="€0" seat="6" bet="€1" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€148,49" win="€0" seat="8" bet="€1" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Grinding4Emma" no="1"/>
+   <action type="2" sum="€1" player="IIIIIIlIIlIIII" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 D3</cards>
+   <action type="0" sum="€0" player="13373678" no="3"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="3" sum="€1" player="13er10" no="4"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="5"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="6"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="3" sum="€0,50" player="Grinding4Emma" no="7"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H4 HJ</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="9"/>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="10"/>
+   <action type="4" sum="€0" player="13er10" no="11"/>
+   <action type="4" sum="€0" player="beginners" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="13"/>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="14"/>
+   <action type="5" sum="€2" player="13er10" no="15"/>
+   <action type="0" sum="€0" player="beginners" no="16"/>
+   <action type="0" sum="€0" player="Grinding4Emma" no="17"/>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="18"/>
+  </round>
+ </game>
+ <game gamecode="3712617276">
+  <general>
+   <startdate>2022-09-23 16:20:31</startdate>
+   <players>
+    <player name="13er10" chips="€234,14" win="€2,91" seat="1" bet="€4" dealer="0"/>
+    <player name="beginners" chips="€37,54" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="DextersLab" chips="€116,86" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€206,35" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player name="IIIIIIlIIlIIII" chips="€147,49" win="€0" seat="8" bet="€1" dealer="0"/>
+    <player name="13373678" chips="€100" win="€0" seat="10" bet="€1" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="IIIIIIlIIlIIII" no="1"/>
+   <action type="2" sum="€1" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="3" sum="€1" player="13er10" no="3"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="4"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="5"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="6"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="3" sum="€0,50" player="IIIIIIlIIlIIII" no="7"/>
+   <cards type="Pocket" player="13373678">C6 SA</cards>
+   <action type="4" sum="€0" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H8 D8</cards>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="9"/>
+   <action type="4" sum="€0" player="13373678" no="10"/>
+   <action type="5" sum="€3" player="13er10" no="11"/>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="12"/>
+   <action type="0" sum="€0" player="13373678" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3712617355">
+  <general>
+   <startdate>2022-09-23 16:21:15</startdate>
+   <players>
+    <player name="13er10" chips="€236,05" win="€0" seat="1" bet="€4,98" dealer="0"/>
+    <player name="beginners" chips="€37,54" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player name="DextersLab" chips="€116,86" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€206,35" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€146,49" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player name="13373678" chips="€100" win="€9,66" seat="10" bet="€17,43" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13373678" no="1"/>
+   <action type="2" sum="€1" player="13er10" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="3"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="4"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="5"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="6"/>
+   <cards type="Pocket" player="13373678">HQ H2</cards>
+   <action type="23" sum="€3" player="13373678" no="7"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="3" sum="€2" player="13er10" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 SJ H5</cards>
+   <action type="5" sum="€1,98" player="13373678" no="9"/>
+   <action type="3" sum="€1,98" player="13er10" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="5" sum="€12,45" player="13373678" no="11"/>
+   <action type="0" sum="€0" player="13er10" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3712617432">
+  <general>
+   <startdate>2022-09-23 16:21:54</startdate>
+   <players>
+    <player name="13er10" chips="€231,07" win="€0" seat="1" bet="€0,50" dealer="0"/>
+    <player name="beginners" chips="€37,54" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€116,86" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player name="Grinding4Emma" chips="€206,35" win="€0" seat="6" bet="€2" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€146,49" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€104,68" win="€5,50" seat="10" bet="€7,50" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="13er10" no="1"/>
+   <action type="2" sum="€1" player="beginners" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="3"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="23" sum="€2" player="Grinding4Emma" no="4"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="5"/>
+   <cards type="Pocket" player="13373678">S8 C8</cards>
+   <action type="23" sum="€7,50" player="13373678" no="6"/>
+   <cards type="Pocket" player="13er10">X X</cards>
+   <action type="0" sum="€0" player="13er10" no="7"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="0" sum="€0" player="beginners" no="8"/>
+   <action type="0" sum="€0" player="Grinding4Emma" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3712617467">
+  <general>
+   <startdate>2022-09-23 16:22:13</startdate>
+   <players>
+    <player name="beginners" chips="€36,54" win="€0" seat="3" bet="€3,50" dealer="1"/>
+    <player name="DextersLab" chips="€116,86" win="€0" seat="5" bet="€2,50" dealer="0"/>
+    <player name="Grinding4Emma" chips="€204,35" win="€0" seat="6" bet="€1" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€146,49" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player name="13373678" chips="€108,18" win="€10,19" seat="10" bet="€11,12" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="DextersLab" no="1"/>
+   <action type="2" sum="€1" player="Grinding4Emma" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="0" sum="€0" player="IIIIIIlIIlIIII" no="3"/>
+   <cards type="Pocket" player="13373678">CK SQ</cards>
+   <action type="23" sum="€2,50" player="13373678" no="4"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€2,50" player="beginners" no="5"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="3" sum="€2" player="DextersLab" no="6"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="0" sum="€0" player="Grinding4Emma" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 CQ D7</cards>
+   <action type="4" sum="€0" player="DextersLab" no="8"/>
+   <action type="4" sum="€0" player="13373678" no="9"/>
+   <action type="5" sum="€1" player="beginners" no="10"/>
+   <action type="0" sum="€0" player="DextersLab" no="11"/>
+   <action type="23" sum="€8,62" player="13373678" no="12"/>
+   <action type="0" sum="€0" player="beginners" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3712618553">
+  <general>
+   <startdate>2022-09-23 16:23:16</startdate>
+   <players>
+    <player name="beginners" chips="€33,04" win="€0" seat="3" bet="€1" dealer="0"/>
+    <player name="DextersLab" chips="€114,36" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player name="Grinding4Emma" chips="€203,35" win="€0" seat="6" bet="€1" dealer="0"/>
+    <player name="IIIIIIlIIlIIII" chips="€146,49" win="€2,91" seat="8" bet="€2,89" dealer="0"/>
+    <player name="13373678" chips="€114,87" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,50" player="Grinding4Emma" no="1"/>
+   <action type="2" sum="€1" player="IIIIIIlIIlIIII" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 H10</cards>
+   <action type="0" sum="€0" player="13373678" no="3"/>
+   <cards type="Pocket" player="beginners">X X</cards>
+   <action type="3" sum="€1" player="beginners" no="4"/>
+   <cards type="Pocket" player="DextersLab">X X</cards>
+   <action type="0" sum="€0" player="DextersLab" no="5"/>
+   <cards type="Pocket" player="Grinding4Emma">X X</cards>
+   <action type="3" sum="€0,50" player="Grinding4Emma" no="6"/>
+   <cards type="Pocket" player="IIIIIIlIIlIIII">X X</cards>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HK H7</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="8"/>
+   <action type="4" sum="€0" player="IIIIIIlIIlIIII" no="9"/>
+   <action type="4" sum="€0" player="beginners" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action type="4" sum="€0" player="Grinding4Emma" no="11"/>
+   <action type="5" sum="€1,89" player="IIIIIIlIIlIIII" no="12"/>
+   <action type="0" sum="€0" player="beginners" no="13"/>
+   <action type="0" sum="€0" player="Grinding4Emma" no="14"/>
+  </round>
+ </game>
+</session>

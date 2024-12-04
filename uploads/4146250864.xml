@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4146250864">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:00:36</duration>
+  <gamecount>2</gamecount>
+  <startdate>2024-08-11 21:34:05</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0</bets>
+  <wins>€0</wins>
+  <chipsin>€0</chipsin>
+  <chipsout>€0</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3918306390">
+  <general>
+   <startdate>2024-08-11 21:34:05</startdate>
+   <players>
+    <player dealer="0" win="€1" bet="€1,50" chips="€57,82" seat="5" name="Player 5"/>
+    <player dealer="0" win="€0" bet="€0,50" chips="€116,30" seat="6" name="Player 6"/>
+    <player dealer="0" win="€0" bet="€0" chips="€33,32" seat="8" name="Player 8"/>
+    <player dealer="1" win="€0" bet="€0" chips="€40,30" seat="10" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 5" sum="€0,25" type="1"/>
+   <action no="2" player="Player 6" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="3" player="Player 8" sum="€0" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="4" player="Player 10" sum="€0" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="5" player="Player 5" sum="€1,50" type="23"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="6" player="Player 6" sum="€0" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918306436">
+  <general>
+   <startdate>2024-08-11 21:34:19</startdate>
+   <players>
+    <player dealer="1" win="€0" bet="€0" chips="€58,32" seat="5" name="Player 5"/>
+    <player dealer="0" win="€0" bet="€0,25" chips="€115,80" seat="6" name="Player 6"/>
+    <player dealer="0" win="€0" bet="€1,25" chips="€33,32" seat="8" name="Player 8"/>
+    <player dealer="0" win="€2,67" bet="€2,75" chips="€40,30" seat="10" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 6" sum="€0,25" type="1"/>
+   <action no="2" player="Player 8" sum="€0,50" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="3" player="Player 10" sum="€1,25" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" player="Player 5" sum="€0" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="5" player="Player 6" sum="€0" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="6" player="Player 8" sum="€0,75" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C10 D9</cards>
+   <action no="7" player="Player 8" sum="€0" type="4"/>
+   <action no="8" player="Player 10" sum="€1,50" type="5"/>
+   <action no="9" player="Player 8" sum="€0" type="0"/>
+  </round>
+ </game>
+</session>

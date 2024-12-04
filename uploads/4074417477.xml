@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4074417477">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:34</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-05-10 23:58:24</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,75</bets>
+  <wins>€1</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3679962090">
+  <general>
+   <startdate>2022-05-10 23:58:24</startdate>
+   <players>
+    <player name="13373678" dealer="0" seat="1" bet="€0,50" chips="€50" win="€0"/>
+    <player name="KrismesLars" dealer="1" seat="10" bet="€1,25" chips="€50" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="KrismesLars" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,25" player="KrismesLars" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">H9 S4</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3679963876">
+  <general>
+   <startdate>2022-05-10 23:58:35</startdate>
+   <players>
+    <player name="13373678" dealer="1" seat="1" bet="€1,25" chips="€50" win="€1"/>
+    <player name="KrismesLars" dealer="0" seat="10" bet="€0,50" chips="€50,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="KrismesLars" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 SA</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" player="KrismesLars" no="4" type="0"/>
+  </round>
+ </game>
+</session>

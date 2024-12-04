@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076746310">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:05:24</duration>
+  <gamecount>13</gamecount>
+  <startdate>2022-06-12 23:26:03</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€23,48</bets>
+  <wins>€17,54</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€57,80</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687821839">
+  <general>
+   <startdate>2022-06-12 23:26:03</startdate>
+   <players>
+    <player bet="€1,25" seat="3" chips="€94,09" win="€0" dealer="1" name="Player 3"/>
+    <player bet="€0,25" seat="6" chips="€66,35" win="€0" dealer="0" name="Player 6"/>
+    <player bet="€2,15" seat="8" chips="€98,62" win="€2,67" dealer="0" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 6" no="1"/>
+   <action sum="€0,50" type="2" player="Player 8" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€1,25" type="23" player="Player 3" no="3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" player="Player 6" no="4"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0,75" type="3" player="Player 8" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C2 D3</cards>
+   <action sum="€0" type="4" player="Player 8" no="6"/>
+   <action sum="€0" type="4" player="Player 3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action sum="€0,90" type="5" player="Player 8" no="8"/>
+   <action sum="€0" type="0" player="Player 3" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3687821889">
+  <general>
+   <startdate>2022-06-12 23:26:35</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€50" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€92,84" win="€0" dealer="0" name="IsuckUout"/>
+    <player bet="€0" seat="6" chips="€66,10" win="€0" dealer="1" name="CmY3iCCCP"/>
+    <player bet="€1,50" seat="8" chips="€100,04" win="€1" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="mithrandir1" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="IsuckUout">X X</cards>
+   <action sum="€0" type="0" player="IsuckUout" no="3"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="4"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€1,50" type="23" player="mithrandir1" no="5"/>
+   <cards type="Pocket" player="13373678">D2 CJ</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687821918">
+  <general>
+   <startdate>2022-06-12 23:26:50</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€50" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0,50" seat="6" chips="€66,10" win="€0,50" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0" seat="8" chips="€100,54" win="€0" dealer="1" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="CmY3iCCCP" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="3"/>
+   <cards type="Pocket" player="13373678">HJ C4</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3687821934">
+  <general>
+   <startdate>2022-06-12 23:27:01</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€50" win="€0" dealer="1" name="13373678"/>
+    <player bet="€0,25" seat="6" chips="€66,35" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0,50" seat="8" chips="€100,54" win="€0,50" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="CmY3iCCCP" no="1"/>
+   <action sum="€0,50" type="2" player="mithrandir1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <cards type="Pocket" player="13373678">C6 D8</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3687821948">
+  <general>
+   <startdate>2022-06-12 23:27:08</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€50" win="€0" dealer="0" name="13373678"/>
+    <player bet="€1,12" seat="6" chips="€66,10" win="€1,25" dealer="1" name="CmY3iCCCP"/>
+    <player bet="€0,25" seat="8" chips="€100,79" win="€0" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="mithrandir1" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€1,12" type="23" player="CmY3iCCCP" no="3"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="4"/>
+   <cards type="Pocket" player="13373678">C3 SJ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3687821977">
+  <general>
+   <startdate>2022-06-12 23:27:24</startdate>
+   <players>
+    <player bet="€5,50" seat="1" chips="€50" win="€3" dealer="0" name="13373678"/>
+    <player bet="€0,50" seat="6" chips="€66,85" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€1,25" seat="8" chips="€100,54" win="€0" dealer="1" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="CmY3iCCCP" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€1,25" type="23" player="mithrandir1" no="3"/>
+   <cards type="Pocket" player="13373678">HA HJ</cards>
+   <action sum="€5,50" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="5"/>
+   <action sum="€0" type="0" player="mithrandir1" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687822010">
+  <general>
+   <startdate>2022-06-12 23:27:45</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€51,75" win="€0" dealer="1" name="13373678"/>
+    <player bet="€0,25" seat="6" chips="€66,35" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0,50" seat="8" chips="€99,29" win="€0,50" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="CmY3iCCCP" no="1"/>
+   <action sum="€0,50" type="2" player="mithrandir1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <cards type="Pocket" player="13373678">H4 SK</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3687822026">
+  <general>
+   <startdate>2022-06-12 23:27:55</startdate>
+   <players>
+    <player bet="€1,12" seat="1" chips="€51,75" win="€2,42" dealer="0" name="13373678"/>
+    <player bet="€1,12" seat="6" chips="€66,10" win="€0" dealer="1" name="CmY3iCCCP"/>
+    <player bet="€0,25" seat="8" chips="€99,54" win="€0" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="mithrandir1" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="CmY3iCCCP">H3 DA</cards>
+   <action sum="€1,12" type="23" player="CmY3iCCCP" no="3"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="4"/>
+   <cards type="Pocket" player="13373678">C3 S3</cards>
+   <action sum="€0,62" type="3" player="13373678" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C2 H9</cards>
+   <action sum="€0" type="4" player="13373678" no="6"/>
+   <action sum="€0" type="4" player="CmY3iCCCP" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+   <action sum="€0" type="4" player="CmY3iCCCP" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+   <action sum="€0" type="4" player="CmY3iCCCP" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3687822098">
+  <general>
+   <startdate>2022-06-12 23:28:37</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€53,05" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0,50" seat="3" chips="€50" win="€0" dealer="0" name="zam1337"/>
+    <player bet="€1,10" seat="5" chips="€50" win="€1,25" dealer="0" name="HansProlo"/>
+    <player bet="€0" seat="6" chips="€64,98" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0" seat="8" chips="€99,29" win="€0" dealer="1" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="zam1337" no="2"/>
+   <action sum="€0,50" type="2" player="HansProlo" no="3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HansProlo">X X</cards>
+   <action sum="€1,10" type="23" player="HansProlo" no="4"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="5"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="6"/>
+   <cards type="Pocket" player="13373678">H4 C6</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="zam1337">X X</cards>
+   <action sum="€0" type="0" player="zam1337" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3687822139">
+  <general>
+   <startdate>2022-06-12 23:29:04</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€52,80" win="€0" dealer="1" name="13373678"/>
+    <player bet="€0,25" seat="3" chips="€50" win="€0" dealer="0" name="zam1337"/>
+    <player bet="€0,50" seat="5" chips="€50,75" win="€0,50" dealer="0" name="HansProlo"/>
+    <player bet="€0" seat="6" chips="€64,98" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0" seat="8" chips="€99,29" win="€0" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zam1337" no="1"/>
+   <action sum="€0,50" type="2" player="HansProlo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HansProlo">X X</cards>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="3"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="4"/>
+   <cards type="Pocket" player="13373678">C10 D5</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="zam1337">X X</cards>
+   <action sum="€0" type="0" player="zam1337" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687822168">
+  <general>
+   <startdate>2022-06-12 23:29:22</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€52,80" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€50" win="€0" dealer="1" name="zam1337"/>
+    <player bet="€3,50" seat="5" chips="€51" win="€0" dealer="0" name="HansProlo"/>
+    <player bet="€0,50" seat="6" chips="€64,98" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€9,12" seat="8" chips="€99,29" win="€7,28" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="HansProlo" no="1"/>
+   <action sum="€0,50" type="2" player="CmY3iCCCP" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€1,25" type="23" player="mithrandir1" no="3"/>
+   <cards type="Pocket" player="13373678">C3 HA</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="zam1337">X X</cards>
+   <action sum="€0" type="0" player="zam1337" no="5"/>
+   <cards type="Pocket" player="HansProlo">X X</cards>
+   <action sum="€1" type="3" player="HansProlo" no="6"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S2 H9</cards>
+   <action sum="€0" type="4" player="HansProlo" no="8"/>
+   <action sum="€2,25" type="5" player="mithrandir1" no="9"/>
+   <action sum="€2,25" type="3" player="HansProlo" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€0" type="4" player="HansProlo" no="11"/>
+   <action sum="€5,62" type="5" player="mithrandir1" no="12"/>
+   <action sum="€0" type="0" player="HansProlo" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3687822229">
+  <general>
+   <startdate>2022-06-12 23:29:58</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€52,80" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€50" win="€0" dealer="0" name="zam1337"/>
+    <player bet="€3" seat="5" chips="€47,50" win="€3,25" dealer="1" name="HansProlo"/>
+    <player bet="€0,25" seat="6" chips="€64,48" win="€0" dealer="0" name="CmY3iCCCP"/>
+    <player bet="€0,50" seat="8" chips="€103,07" win="€0" dealer="0" name="mithrandir1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="CmY3iCCCP" no="1"/>
+   <action sum="€0,50" type="2" player="mithrandir1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HQ H10</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="zam1337">X X</cards>
+   <action sum="€0" type="0" player="zam1337" no="4"/>
+   <cards type="Pocket" player="HansProlo">X X</cards>
+   <action sum="€3" type="23" player="HansProlo" no="5"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="6"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="7"/>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3687822284">
+  <general>
+   <startdate>2022-06-12 23:30:31</startdate>
+   <players>
+    <player bet="€14,11" seat="1" chips="€51,55" win="€12,12" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€50" win="€0" dealer="0" name="zam1337"/>
+    <player bet="€5,87" seat="5" chips="€49,50" win="€0" dealer="0" name="HansProlo"/>
+    <player bet="€0" seat="6" chips="€64,23" win="€0" dealer="1" name="CmY3iCCCP"/>
+    <player bet="€0,25" seat="8" chips="€102,57" win="€0" dealer="0" name="mithrandir1"/>
+    <player bet="€0,50" seat="10" chips="€50" win="€0" dealer="0" name="Diamant76"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="mithrandir1" no="1"/>
+   <action sum="€0,50" type="2" player="Diamant76" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ SA</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="zam1337">X X</cards>
+   <action sum="€0" type="0" player="zam1337" no="4"/>
+   <cards type="Pocket" player="HansProlo">X X</cards>
+   <action sum="€1,25" type="3" player="HansProlo" no="5"/>
+   <cards type="Pocket" player="CmY3iCCCP">X X</cards>
+   <action sum="€0" type="0" player="CmY3iCCCP" no="6"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action sum="€0" type="0" player="mithrandir1" no="7"/>
+   <cards type="Pocket" player="Diamant76">X X</cards>
+   <action sum="€0" type="0" player="Diamant76" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H10 S8</cards>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+   <action sum="€1,07" type="5" player="HansProlo" no="10"/>
+   <action sum="€1,07" type="3" player="13373678" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€3,55" type="5" player="13373678" no="12"/>
+   <action sum="€3,55" type="3" player="HansProlo" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€8,24" type="5" player="13373678" no="14"/>
+   <action sum="€0" type="0" player="HansProlo" no="15"/>
+  </round>
+ </game>
+</session>

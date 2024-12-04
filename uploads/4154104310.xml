@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4154104310">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:05:38</duration>
+  <gamecount>12</gamecount>
+  <startdate>2024-11-02 23:20:49</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€12,50</bets>
+  <wins>€12</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€56</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3944790014">
+  <general>
+   <startdate>2024-11-02 23:20:49</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€121,50" win="€0" name="Player 1"/>
+    <player seat="3" bet="€2,25" dealer="1" chips="€63,83" win="€0" name="Player 3"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€64,02" win="€0" name="Player 5"/>
+    <player seat="10" bet="€5,33" dealer="0" chips="€64,23" win="€4,61" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,25"/>
+   <action player="Player 10" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="3" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" no="4" sum="€1,25"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="5" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C3 C2</cards>
+   <action player="Player 10" type="4" no="7" sum="€0"/>
+   <action player="Player 3" type="5" no="8" sum="€1"/>
+   <action player="Player 10" type="3" no="9" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="Player 10" type="4" no="10" sum="€0"/>
+   <action player="Player 3" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="Player 10" type="5" no="12" sum="€3,08"/>
+   <action player="Player 3" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790206">
+  <general>
+   <startdate>2024-11-02 23:21:35</startdate>
+   <players>
+    <player seat="1" bet="€2,75" dealer="0" chips="€121,50" win="€0" name="Player 1"/>
+    <player seat="3" bet="€6,75" dealer="0" chips="€61,58" win="€5,58" name="Player 3"/>
+    <player seat="5" bet="€0" dealer="1" chips="€63,77" win="€0" name="Player 5"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€66,59" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" type="1" no="1" sum="€0,25"/>
+   <action player="Player 1" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" no="3" sum="€1,25"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="4" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="5" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C10 H9</cards>
+   <action player="Player 1" type="4" no="7" sum="€0"/>
+   <action player="Player 3" type="5" no="8" sum="€1,50"/>
+   <action player="Player 1" type="3" no="9" sum="€1,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="Player 1" type="4" no="10" sum="€0"/>
+   <action player="Player 3" type="5" no="11" sum="€4"/>
+   <action player="Player 1" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790695">
+  <general>
+   <startdate>2024-11-02 23:22:45</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€118,75" win="€0" name="Player 1"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€64,41" win="€0,50" name="Player 3"/>
+    <player seat="5" bet="€0" dealer="0" chips="€63,77" win="€0" name="Player 5"/>
+    <player seat="10" bet="€0" dealer="1" chips="€66,34" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" no="1" sum="€0,25"/>
+   <action player="Player 3" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="3" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="4" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790746">
+  <general>
+   <startdate>2024-11-02 23:23:01</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€118,50" win="€0" name="Player 1"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€64,66" win="€0" name="Player 3"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€63,77" win="€0,50" name="Player 5"/>
+    <player seat="10" bet="€0" dealer="0" chips="€66,34" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" type="1" no="1" sum="€0,25"/>
+   <action player="Player 5" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="3" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="4" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790776">
+  <general>
+   <startdate>2024-11-02 23:23:10</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€118,50" win="€0" name="Puutarhuri03"/>
+    <player seat="3" bet="€0" dealer="1" chips="€64,41" win="€0" name="JoskusIhanOK"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€64,02" win="€0" name="airplane"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50" win="€0,50" name="13373678"/>
+    <player seat="10" bet="€0" dealer="0" chips="€66,34" win="€0" name="storyofmylife"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 D10</cards>
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="0" no="3" sum="€0"/>
+   <cards player="Puutarhuri03" type="Pocket">X X</cards>
+   <action player="Puutarhuri03" type="0" no="4" sum="€0"/>
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790813">
+  <general>
+   <startdate>2024-11-02 23:23:23</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€118,50" win="€0" name="Puutarhuri03"/>
+    <player seat="3" bet="€0" dealer="0" chips="€64,41" win="€0" name="JoskusIhanOK"/>
+    <player seat="5" bet="€1,25" dealer="1" chips="€63,77" win="€1,25" name="airplane"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="13373678"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€66,34" win="€0" name="storyofmylife"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="storyofmylife" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Puutarhuri03" type="Pocket">X X</cards>
+   <action player="Puutarhuri03" type="0" no="3" sum="€0"/>
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">C9 H4</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790862">
+  <general>
+   <startdate>2024-11-02 23:23:41</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€118,50" win="€0" name="Puutarhuri03"/>
+    <player seat="3" bet="€1,25" dealer="0" chips="€64,41" win="€1,25" name="JoskusIhanOK"/>
+    <player seat="5" bet="€0" dealer="0" chips="€64,52" win="€0" name="airplane"/>
+    <player seat="6" bet="€0" dealer="1" chips="€50" win="€0" name="13373678"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€65,84" win="€0" name="storyofmylife"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="storyofmylife" type="1" no="1" sum="€0,25"/>
+   <action player="Puutarhuri03" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="23" no="3" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C8 D4</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="0" no="6" sum="€0"/>
+   <cards player="Puutarhuri03" type="Pocket">X X</cards>
+   <action player="Puutarhuri03" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790891">
+  <general>
+   <startdate>2024-11-02 23:23:52</startdate>
+   <players>
+    <player seat="1" bet="€5" dealer="0" chips="€118" win="€0" name="Puutarhuri03"/>
+    <player seat="3" bet="€5" dealer="0" chips="€65,16" win="€9,70" name="JoskusIhanOK"/>
+    <player seat="5" bet="€0" dealer="0" chips="€64,52" win="€0" name="airplane"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="10" bet="€0" dealer="1" chips="€65,59" win="€0" name="storyofmylife"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Puutarhuri03" type="1" no="1" sum="€0,25"/>
+   <action player="JoskusIhanOK" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H7 DA</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="0" no="5" sum="€0"/>
+   <cards player="Puutarhuri03" type="Pocket">H6 H10</cards>
+   <action player="Puutarhuri03" type="23" no="6" sum="€1"/>
+   <cards player="JoskusIhanOK" type="Pocket">H9 HJ</cards>
+   <action player="JoskusIhanOK" type="3" no="7" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D9 C9</cards>
+   <action player="Puutarhuri03" type="4" no="8" sum="€0"/>
+   <action player="JoskusIhanOK" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="Puutarhuri03" type="5" no="10" sum="€1"/>
+   <action player="JoskusIhanOK" type="3" no="11" sum="€1"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action player="Puutarhuri03" type="4" no="12" sum="€0"/>
+   <action player="JoskusIhanOK" type="5" no="13" sum="€3"/>
+   <action player="Puutarhuri03" type="3" no="14" sum="€3"/>
+  </round>
+ </game>
+ <game gamecode="3944791034">
+  <general>
+   <startdate>2024-11-02 23:24:39</startdate>
+   <players>
+    <player seat="3" bet="€2,50" dealer="0" chips="€69,86" win="€0" name="JoskusIhanOK"/>
+    <player seat="5" bet="€2,50" dealer="0" chips="€64,52" win="€4,85" name="airplane"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="10" bet="€0" dealer="0" chips="€65,59" win="€0" name="storyofmylife"/>
+    <player seat="1" bet="€0" dealer="1" chips="€113" win="€0" name="Puutarhuri03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JoskusIhanOK" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 HA</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="0" no="4" sum="€0"/>
+   <cards player="Puutarhuri03" type="Pocket">X X</cards>
+   <action player="Puutarhuri03" type="0" no="5" sum="€0"/>
+   <cards player="JoskusIhanOK" type="Pocket">H10 S10</cards>
+   <action player="JoskusIhanOK" type="23" no="6" sum="€1,50"/>
+   <cards player="airplane" type="Pocket">HK H8</cards>
+   <action player="airplane" type="3" no="7" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S5 CK</cards>
+   <action player="JoskusIhanOK" type="5" no="8" sum="€1"/>
+   <action player="airplane" type="3" no="9" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="JoskusIhanOK" type="4" no="10" sum="€0"/>
+   <action player="airplane" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action player="JoskusIhanOK" type="4" no="12" sum="€0"/>
+   <action player="airplane" type="4" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944791179">
+  <general>
+   <startdate>2024-11-02 23:25:30</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="1" chips="€67,36" win="€0" name="JoskusIhanOK"/>
+    <player seat="5" bet="€5" dealer="0" chips="€66,87" win="€0" name="airplane"/>
+    <player seat="6" bet="€11" dealer="0" chips="€50" win="€11" name="13373678"/>
+    <player seat="10" bet="€1" dealer="0" chips="€65,59" win="€0" name="storyofmylife"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="storyofmylife" type="Pocket">X X</cards>
+   <action player="storyofmylife" type="23" no="3" sum="€1"/>
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="5" sum="€5"/>
+   <cards player="13373678" type="Pocket">SA S10</cards>
+   <action player="13373678" type="23" no="6" sum="€11"/>
+   <action player="storyofmylife" type="0" no="7" sum="€0"/>
+   <action player="airplane" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944791712">
+  <general>
+   <startdate>2024-11-02 23:25:58</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€67,36" win="€0" name="JoskusIhanOK"/>
+    <player seat="5" bet="€1,25" dealer="1" chips="€61,87" win="€1,25" name="airplane"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€56" win="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="JoskusIhanOK" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">H7 H10</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944791788">
+  <general>
+   <startdate>2024-11-02 23:26:23</startdate>
+   <players>
+    <player seat="3" bet="€0,25" dealer="1" chips="€66,86" win="€0" name="JoskusIhanOK"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€55,75" win="€0,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="JoskusIhanOK" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 SA</cards>
+   <cards player="JoskusIhanOK" type="Pocket">X X</cards>
+   <action player="JoskusIhanOK" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+</session>

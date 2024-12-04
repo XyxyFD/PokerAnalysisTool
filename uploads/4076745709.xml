@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076745709">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:31</duration>
+  <gamecount>6</gamecount>
+  <startdate>2022-06-12 23:15:58</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€6,63</bets>
+  <wins>€0</wins>
+  <chipsin>€93,87</chipsin>
+  <chipsout>€100</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687819045">
+  <general>
+   <startdate>2022-06-12 23:15:58</startdate>
+   <players>
+    <player bet="€0" seat="3" chips="€201,62" win="€0" dealer="0" name="Player 3"/>
+    <player bet="€2,60" seat="5" chips="€151,93" win="€2,50" dealer="1" name="Player 5"/>
+    <player bet="€0,50" seat="8" chips="€100" win="€0" dealer="0" name="Player 8"/>
+    <player bet="€1" seat="10" chips="€100" win="€0" dealer="0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="Player 8" no="1"/>
+   <action sum="€1" type="2" player="Player 10" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" player="Player 3" no="3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€2,60" type="23" player="Player 5" no="4"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" type="0" player="Player 8" no="5"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" player="Player 10" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687819491">
+  <general>
+   <startdate>2022-06-12 23:16:28</startdate>
+   <players>
+    <player bet="€6,13" seat="1" chips="€100" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€201,62" win="€0" dealer="0" name="LLMB"/>
+    <player bet="€0" seat="5" chips="€153,43" win="€0" dealer="0" name="Oganesson"/>
+    <player bet="€10,34" seat="8" chips="€100" win="€12,38" dealer="1" name="KrismesLars"/>
+    <player bet="€0,50" seat="10" chips="€100" win="€0" dealer="0" name="H00KED"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="H00KED" no="1"/>
+   <action sum="€1" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="LLMB">X X</cards>
+   <action sum="€0" type="0" player="LLMB" no="3"/>
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <action sum="€0" type="0" player="Oganesson" no="4"/>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€2,50" type="23" player="KrismesLars" no="5"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" type="0" player="H00KED" no="6"/>
+   <cards type="Pocket" player="13373678">H10 SK</cards>
+   <action sum="€1,50" type="3" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S7 H6</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+   <action sum="€0" type="4" player="KrismesLars" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action sum="€3,63" type="5" player="13373678" no="10"/>
+   <action sum="€3,63" type="3" player="KrismesLars" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action sum="€0" type="4" player="13373678" no="12"/>
+   <action sum="€4,21" type="5" player="KrismesLars" no="13"/>
+   <action sum="€0" type="0" player="13373678" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3687819583">
+  <general>
+   <startdate>2022-06-12 23:17:15</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€100" win="€0" dealer="0" name="13373678"/>
+    <player bet="€1" seat="3" chips="€201,62" win="€0" dealer="0" name="LLMB"/>
+    <player bet="€0" seat="5" chips="€153,43" win="€0" dealer="0" name="Oganesson"/>
+    <player bet="€2,50" seat="8" chips="€106,25" win="€2,50" dealer="0" name="KrismesLars"/>
+    <player bet="€0" seat="10" chips="€100" win="€0" dealer="1" name="H00KED"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="13373678" no="1"/>
+   <action sum="€1" type="2" player="LLMB" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <action sum="€0" type="0" player="Oganesson" no="3"/>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€2,50" type="23" player="KrismesLars" no="4"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" type="0" player="H00KED" no="5"/>
+   <cards type="Pocket" player="13373678">DQ D10</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="LLMB">X X</cards>
+   <action sum="€0" type="0" player="LLMB" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3687819651">
+  <general>
+   <startdate>2022-06-12 23:17:47</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€100" win="€0" dealer="1" name="13373678"/>
+    <player bet="€0,50" seat="3" chips="€200,62" win="€0" dealer="0" name="LLMB"/>
+    <player bet="€1" seat="5" chips="€153,43" win="€1" dealer="0" name="Oganesson"/>
+    <player bet="€0" seat="8" chips="€107,75" win="€0" dealer="0" name="KrismesLars"/>
+    <player bet="€0" seat="10" chips="€100" win="€0" dealer="0" name="H00KED"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="LLMB" no="1"/>
+   <action sum="€1" type="2" player="Oganesson" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€0" type="0" player="KrismesLars" no="3"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" type="0" player="H00KED" no="4"/>
+   <cards type="Pocket" player="13373678">H6 C9</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="LLMB">X X</cards>
+   <action sum="€0" type="0" player="LLMB" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687819671">
+  <general>
+   <startdate>2022-06-12 23:17:57</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€100" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€200,12" win="€0" dealer="1" name="LLMB"/>
+    <player bet="€0,50" seat="5" chips="€153,93" win="€0" dealer="0" name="Oganesson"/>
+    <player bet="€1" seat="8" chips="€107,75" win="€1" dealer="0" name="KrismesLars"/>
+    <player bet="€0" seat="10" chips="€100" win="€0" dealer="0" name="H00KED"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="Oganesson" no="1"/>
+   <action sum="€1" type="2" player="KrismesLars" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" type="0" player="H00KED" no="3"/>
+   <cards type="Pocket" player="13373678">CJ C5</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="LLMB">X X</cards>
+   <action sum="€0" type="0" player="LLMB" no="5"/>
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <action sum="€0" type="0" player="Oganesson" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3687819719">
+  <general>
+   <startdate>2022-06-12 23:18:19</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€100" win="€0" dealer="0" name="13373678"/>
+    <player bet="€0" seat="3" chips="€200,12" win="€0" dealer="0" name="LLMB"/>
+    <player bet="€0" seat="5" chips="€153,43" win="€0" dealer="1" name="Oganesson"/>
+    <player bet="€0,50" seat="8" chips="€108,25" win="€0" dealer="0" name="KrismesLars"/>
+    <player bet="€1" seat="10" chips="€100" win="€1" dealer="0" name="H00KED"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" type="1" player="KrismesLars" no="1"/>
+   <action sum="€1" type="2" player="H00KED" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <cards type="Pocket" player="13373678">S8 HA</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="LLMB">X X</cards>
+   <action sum="€0" type="0" player="LLMB" no="4"/>
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <action sum="€0" type="0" player="Oganesson" no="5"/>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€0" type="0" player="KrismesLars" no="6"/>
+  </round>
+ </game>
+</session>

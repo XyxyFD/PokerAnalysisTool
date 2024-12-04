@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076484770">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:04</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-06-09 12:48:46</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,50</bets>
+  <wins>€0,50</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€50,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3686904451">
+  <general>
+   <startdate>2022-06-09 12:48:46</startdate>
+   <players>
+    <player chips="€50" bet="€0,50" win="€0,50" dealer="0" name="13373678" seat="1"/>
+    <player chips="€50" bet="€0,25" win="€0" dealer="1" name="TopDonkey" seat="5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TopDonkey" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H5 S4</cards>
+   <cards player="TopDonkey" type="Pocket">X X</cards>
+   <action player="TopDonkey" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+</session>

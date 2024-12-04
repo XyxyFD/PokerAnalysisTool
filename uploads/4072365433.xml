@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4072365433">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:10</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-04-12 14:57:14</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,25</bets>
+  <wins>€1</wins>
+  <chipsin>€50,50</chipsin>
+  <chipsout>€50,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3672995968">
+  <general>
+   <startdate>2022-04-12 14:57:14</startdate>
+   <players>
+    <player name="13373678" bet="€1,25" chips="€50" seat="1" win="€1" dealer="1"/>
+    <player name="DonkeyStyle" bet="€0,50" chips="€50" seat="5" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,25"/>
+   <action no="2" type="2" player="DonkeyStyle" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA C4</cards>
+   <action no="3" type="23" player="13373678" sum="€1,25"/>
+   <cards type="Pocket" player="DonkeyStyle">X X</cards>
+   <action no="4" type="0" player="DonkeyStyle" sum="€0"/>
+  </round>
+ </game>
+</session>

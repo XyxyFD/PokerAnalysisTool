@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4078585277">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:03</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-07-10 23:07:33</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1</bets>
+  <wins>€1</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€100,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3694258419">
+  <general>
+   <startdate>2022-07-10 23:07:33</startdate>
+   <players>
+    <player name="13373678" chips="€100" dealer="0" win="€1" seat="1" bet="€1"/>
+    <player name="RutunVinkkari" chips="€100" dealer="1" win="€0" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" player="RutunVinkkari" no="1" type="1"/>
+   <action sum="€1" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 H8</cards>
+   <cards player="RutunVinkkari" type="Pocket">X X</cards>
+   <action sum="€0" player="RutunVinkkari" no="3" type="0"/>
+  </round>
+ </game>
+</session>

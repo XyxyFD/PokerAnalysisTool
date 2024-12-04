@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4071696324">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:15:06</duration>
+  <gamecount>20</gamecount>
+  <startdate>2022-04-03 18:40:10</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€18,84</bets>
+  <wins>€6,52</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3670699439">
+  <general>
+   <startdate>2022-04-03 18:40:10</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0,50" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€40,57" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€35,49" bet="€1,12" seat="5" dealer="0" win="€1,22"/>
+    <player name="StressOutBoys" chips="€60,71" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€62,07" bet="€0" seat="8" dealer="1" win="€0"/>
+    <player name="ReneDescartes" chips="€97,13" bet="€0,25" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="ReneDescartes"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="3" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="5" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="6" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="7" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">D8 HA</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D4 HK</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+   <action type="5" sum="€0,62" no="12" player="Frkaane"/>
+   <action type="0" sum="€0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3670701308">
+  <general>
+   <startdate>2022-04-03 18:41:16</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0,25" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€40,57" bet="€1" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€36,21" bet="€2,12" seat="5" dealer="0" win="€2,19"/>
+    <player name="StressOutBoys" chips="€60,71" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€62,07" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€96,88" bet="€0" seat="10" dealer="1" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Pokerskipper"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="4" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="5" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="6" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">C2 C5</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="4" sum="€0" no="8" player="Pokerskipper"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 C6 D8</cards>
+   <action type="5" sum="€0,50" no="9" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="10" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action type="4" sum="€0" no="11" player="Pokerskipper"/>
+   <action type="5" sum="€1,12" no="12" player="Frkaane"/>
+   <action type="0" sum="€0" no="13" player="Pokerskipper"/>
+  </round>
+ </game>
+ <game gamecode="3670701590">
+  <general>
+   <startdate>2022-04-03 18:42:14</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0" seat="1" dealer="1" win="€0"/>
+    <player name="Pokerskipper" chips="€39,57" bet="€0,25" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€37,40" bet="€0,50" seat="5" dealer="0" win="€0,50"/>
+    <player name="StressOutBoys" chips="€60,71" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€62,07" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€96,88" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Pokerskipper"/>
+   <action type="2" sum="€0,50" no="2" player="Frkaane"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="3" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="4" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="5" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">D2 HK</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="7" player="Pokerskipper"/>
+  </round>
+ </game>
+ <game gamecode="3670701629">
+  <general>
+   <startdate>2022-04-03 18:42:28</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€39,32" bet="€0" seat="3" dealer="1" win="€0"/>
+    <player name="Frkaane" chips="€37,65" bet="€0,50" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€60,71" bet="€2,25" seat="6" dealer="0" win="€1"/>
+    <player name="pikkupullukka" chips="€62,07" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€96,88" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Frkaane"/>
+   <action type="2" sum="€0,50" no="2" player="StressOutBoys"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="3" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="4" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">S8 CQ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="6" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="23" sum="€2,25" no="8" player="StressOutBoys"/>
+   <action type="0" sum="€0" no="9" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670701864">
+  <general>
+   <startdate>2022-04-03 18:43:05</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€39,32" bet="€3" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€37,15" bet="€3" seat="5" dealer="1" win="€0"/>
+    <player name="StressOutBoys" chips="€61,21" bet="€10,12" seat="6" dealer="0" win="€9,22"/>
+    <player name="pikkupullukka" chips="€62,07" bet="€0,50" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€96,88" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="StressOutBoys"/>
+   <action type="2" sum="€0,50" no="2" player="pikkupullukka"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="3" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">H9 CK</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="23" sum="€3" no="7" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="8" player="pikkupullukka"/>
+   <action type="3" sum="€2,50" no="9" player="Pokerskipper"/>
+   <action type="3" sum="€2,50" no="10" player="Frkaane"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 H5 S8</cards>
+   <action type="4" sum="€0" no="11" player="StressOutBoys"/>
+   <action type="4" sum="€0" no="12" player="Pokerskipper"/>
+   <action type="4" sum="€0" no="13" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action type="5" sum="€7,12" no="14" player="StressOutBoys"/>
+   <action type="0" sum="€0" no="15" player="Pokerskipper"/>
+   <action type="0" sum="€0" no="16" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670701980">
+  <general>
+   <startdate>2022-04-03 18:43:47</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€4,55" seat="1" dealer="0" win="€4,02"/>
+    <player name="Pokerskipper" chips="€36,32" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€34,15" bet="€0" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€67,43" bet="€0" seat="6" dealer="1" win="€0"/>
+    <player name="pikkupullukka" chips="€61,57" bet="€1,82" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€96,88" bet="€0,50" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="pikkupullukka"/>
+   <action type="2" sum="€0,50" no="2" player="ReneDescartes"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 D7</cards>
+   <action type="23" sum="€1" no="3" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="4" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="0" sum="€0" no="5" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="6" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="3" sum="€0,75" no="7" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="8" player="ReneDescartes"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S10 CK</cards>
+   <action type="4" sum="€0" no="9" player="pikkupullukka"/>
+   <action type="5" sum="€0,82" no="10" player="13373678"/>
+   <action type="3" sum="€0,82" no="11" player="pikkupullukka"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action type="4" sum="€0" no="12" player="pikkupullukka"/>
+   <action type="5" sum="€2,73" no="13" player="13373678"/>
+   <action type="0" sum="€0" no="14" player="pikkupullukka"/>
+  </round>
+ </game>
+ <game gamecode="3670702107">
+  <general>
+   <startdate>2022-04-03 18:44:35</startdate>
+   <players>
+    <player name="13373678" chips="€52,20" bet="€0,50" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€36,32" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€34,15" bet="€10,45" seat="5" dealer="0" win="€20,76"/>
+    <player name="StressOutBoys" chips="€67,43" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,75" bet="€0" seat="8" dealer="1" win="€0"/>
+    <player name="ReneDescartes" chips="€96,38" bet="€10,45" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="ReneDescartes"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="3" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">C5 CA</cards>
+   <action type="3" sum="€0,50" no="4" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="5" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="6" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">D9 SA</cards>
+   <action type="23" sum="€2,45" no="7" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">HK S4</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€1,95" no="9" player="Frkaane"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 D7 S5</cards>
+   <action type="5" sum="€2,65" no="10" player="ReneDescartes"/>
+   <action type="3" sum="€2,65" no="11" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action type="4" sum="€0" no="12" player="ReneDescartes"/>
+   <action type="5" sum="€5,35" no="13" player="Frkaane"/>
+   <action type="3" sum="€5,35" no="14" player="ReneDescartes"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" sum="€0" no="15" player="ReneDescartes"/>
+   <action type="4" sum="€0" no="16" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670702252">
+  <general>
+   <startdate>2022-04-03 18:45:31</startdate>
+   <players>
+    <player name="13373678" chips="€51,70" bet="€0,25" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€36,32" bet="€2" seat="3" dealer="0" win="€2,19"/>
+    <player name="Frkaane" chips="€44,46" bet="€1" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€67,43" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,75" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€85,93" bet="€0" seat="10" dealer="1" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Pokerskipper"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="4" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="5" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="6" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">S2 S9</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="4" sum="€0" no="8" player="Pokerskipper"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 HA SQ</cards>
+   <action type="5" sum="€0,50" no="9" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="10" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action type="5" sum="€1" no="11" player="Pokerskipper"/>
+   <action type="0" sum="€0" no="12" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670702364">
+  <general>
+   <startdate>2022-04-03 18:46:17</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€0" seat="1" dealer="1" win="€0"/>
+    <player name="Pokerskipper" chips="€37,51" bet="€2,50" seat="3" dealer="0" win="€4,85"/>
+    <player name="Frkaane" chips="€43,46" bet="€2,50" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€67,43" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,75" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€85,93" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Pokerskipper"/>
+   <action type="2" sum="€0,50" no="2" player="Frkaane"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="3" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="4" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="5" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">S9 D7</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">H10 S8</cards>
+   <action type="3" sum="€0,25" no="7" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">HA SQ</cards>
+   <action type="4" sum="€0" no="8" player="Frkaane"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 SJ C10</cards>
+   <action type="5" sum="€0,50" no="9" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="10" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="5" sum="€0,50" no="11" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="12" player="Frkaane"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action type="5" sum="€1" no="13" player="Pokerskipper"/>
+   <action type="3" sum="€1" no="14" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670702496">
+  <general>
+   <startdate>2022-04-03 18:47:08</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€39,86" bet="€2,25" seat="3" dealer="1" win="€4,85"/>
+    <player name="Frkaane" chips="€40,96" bet="€2,25" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€67,43" bet="€0,50" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,75" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€85,93" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Frkaane"/>
+   <action type="2" sum="€0,50" no="2" player="StressOutBoys"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="3" player="pikkupullukka"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="4" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">DQ S5</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">DK D8</cards>
+   <action type="3" sum="€0,50" no="6" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">D4 CJ</cards>
+   <action type="3" sum="€0,25" no="7" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="4" sum="€0" no="8" player="StressOutBoys"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 DA C4</cards>
+   <action type="5" sum="€0,50" no="9" player="Frkaane"/>
+   <action type="0" sum="€0" no="10" player="StressOutBoys"/>
+   <action type="3" sum="€0,50" no="11" player="Pokerskipper"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action type="5" sum="€1,25" no="12" player="Frkaane"/>
+   <action type="3" sum="€1,25" no="13" player="Pokerskipper"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action type="4" sum="€0" no="14" player="Frkaane"/>
+   <action type="4" sum="€0" no="15" player="Pokerskipper"/>
+  </round>
+ </game>
+ <game gamecode="3670702656">
+  <general>
+   <startdate>2022-04-03 18:48:14</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€42,46" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€38,71" bet="€1,12" seat="5" dealer="1" win="€1,22"/>
+    <player name="StressOutBoys" chips="€66,93" bet="€0,25" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,75" bet="€0,50" seat="8" dealer="0" win="€0"/>
+    <player name="ReneDescartes" chips="€85,93" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="StressOutBoys"/>
+   <action type="2" sum="€0,50" no="2" player="pikkupullukka"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="3" player="ReneDescartes"/>
+   <cards type="Pocket" player="13373678">C5 DQ</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="5" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="7" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="4" sum="€0" no="8" player="pikkupullukka"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 HJ H4</cards>
+   <action type="4" sum="€0" no="9" player="pikkupullukka"/>
+   <action type="5" sum="€0,62" no="10" player="Frkaane"/>
+   <action type="0" sum="€0" no="11" player="pikkupullukka"/>
+  </round>
+ </game>
+ <game gamecode="3670703387">
+  <general>
+   <startdate>2022-04-03 18:48:56</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€0,50" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€42,46" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€39,43" bet="€1,12" seat="5" dealer="0" win="€1,22"/>
+    <player name="StressOutBoys" chips="€66,68" bet="€0" seat="6" dealer="1" win="€0"/>
+    <player name="pikkupullukka" chips="€59,25" bet="€0,25" seat="8" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="pikkupullukka"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="3" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="5" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="6" player="pikkupullukka"/>
+   <cards type="Pocket" player="13373678">H10 CJ</cards>
+   <action type="4" sum="€0" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 SK DK</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+   <action type="5" sum="€0,62" no="9" player="Frkaane"/>
+   <action type="0" sum="€0" no="10" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3670703460">
+  <general>
+   <startdate>2022-04-03 18:49:29</startdate>
+   <players>
+    <player name="13373678" chips="€50,95" bet="€0,25" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€42,46" bet="€3,50" seat="3" dealer="0" win="€4,13"/>
+    <player name="Frkaane" chips="€40,15" bet="€2" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€66,68" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59" bet="€0" seat="8" dealer="1" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Pokerskipper"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="4" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="5" player="pikkupullukka"/>
+   <cards type="Pocket" player="13373678">D6 HK</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="4" sum="€0" no="7" player="Pokerskipper"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ C10 H9</cards>
+   <action type="5" sum="€0,50" no="8" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="9" player="Frkaane"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action type="5" sum="€1" no="10" player="Pokerskipper"/>
+   <action type="3" sum="€1" no="11" player="Frkaane"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action type="5" sum="€1,50" no="12" player="Pokerskipper"/>
+   <action type="0" sum="€0" no="13" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670703565">
+  <general>
+   <startdate>2022-04-03 18:50:16</startdate>
+   <players>
+    <player name="13373678" chips="€50,70" bet="€1,25" seat="1" dealer="1" win="€1,25"/>
+    <player name="Pokerskipper" chips="€44,59" bet="€0,25" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€38,15" bet="€0,50" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€66,68" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59" bet="€0" seat="8" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Pokerskipper"/>
+   <action type="2" sum="€0,50" no="2" player="Frkaane"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="3" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="4" player="pikkupullukka"/>
+   <cards type="Pocket" player="13373678">C9 DJ</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="6" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="0" sum="€0" no="7" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670704676">
+  <general>
+   <startdate>2022-04-03 18:50:46</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€44,34" bet="€0" seat="3" dealer="1" win="€0"/>
+    <player name="Frkaane" chips="€37,65" bet="€1,16" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€66,68" bet="€0,50" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59" bet="€3,24" seat="8" dealer="0" win="€2,74"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Frkaane"/>
+   <action type="2" sum="€0,50" no="2" player="StressOutBoys"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="23" sum="€1,16" no="3" player="pikkupullukka"/>
+   <cards type="Pocket" player="13373678">H5 C6</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="5" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,91" no="6" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="7" player="StressOutBoys"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 D6 C8</cards>
+   <action type="4" sum="€0" no="8" player="Frkaane"/>
+   <action type="5" sum="€2,08" no="9" player="pikkupullukka"/>
+   <action type="0" sum="€0" no="10" player="Frkaane"/>
+  </round>
+ </game>
+ <game gamecode="3670704746">
+  <general>
+   <startdate>2022-04-03 18:51:17</startdate>
+   <players>
+    <player name="13373678" chips="€51,45" bet="€1" seat="1" dealer="0" win="€1,25"/>
+    <player name="Pokerskipper" chips="€44,34" bet="€0" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€36,49" bet="€0" seat="5" dealer="1" win="€0"/>
+    <player name="StressOutBoys" chips="€66,18" bet="€0,25" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€60,58" bet="€0,50" seat="8" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="StressOutBoys"/>
+   <action type="2" sum="€0,50" no="2" player="pikkupullukka"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C10 HQ</cards>
+   <action type="23" sum="€1" no="3" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="4" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="0" sum="€0" no="5" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="6" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="7" player="pikkupullukka"/>
+  </round>
+ </game>
+ <game gamecode="3670704819">
+  <general>
+   <startdate>2022-04-03 18:51:47</startdate>
+   <players>
+    <player name="13373678" chips="€52,20" bet="€0" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€44,34" bet="€1" seat="3" dealer="0" win="€1,22"/>
+    <player name="Frkaane" chips="€36,49" bet="€0" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€65,93" bet="€0" seat="6" dealer="1" win="€0"/>
+    <player name="pikkupullukka" chips="€60,08" bet="€0,25" seat="8" dealer="0" win="€0"/>
+    <player name="capybarafan999" chips="€50" bet="€0,50" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="pikkupullukka"/>
+   <action type="2" sum="€0,50" no="2" player="capybarafan999"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 D4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="0" sum="€0" no="5" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="6" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="7" player="pikkupullukka"/>
+   <cards type="Pocket" player="capybarafan999">X X</cards>
+   <action type="4" sum="€0" no="8" player="capybarafan999"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 CJ H6</cards>
+   <action type="4" sum="€0" no="9" player="capybarafan999"/>
+   <action type="4" sum="€0" no="10" player="Pokerskipper"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action type="4" sum="€0" no="11" player="capybarafan999"/>
+   <action type="5" sum="€0,50" no="12" player="Pokerskipper"/>
+   <action type="0" sum="€0" no="13" player="capybarafan999"/>
+  </round>
+ </game>
+ <game gamecode="3670704906">
+  <general>
+   <startdate>2022-04-03 18:52:25</startdate>
+   <players>
+    <player name="13373678" chips="€52,20" bet="€0,50" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€45,06" bet="€1,50" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€36,49" bet="€5,25" seat="5" dealer="0" win="€3,64"/>
+    <player name="StressOutBoys" chips="€65,93" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,83" bet="€0" seat="8" dealer="1" win="€0"/>
+    <player name="capybarafan999" chips="€50" bet="€0,25" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="capybarafan999"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="5" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="6" player="pikkupullukka"/>
+   <cards type="Pocket" player="capybarafan999">X X</cards>
+   <action type="0" sum="€0" no="7" player="capybarafan999"/>
+   <cards type="Pocket" player="13373678">H2 CQ</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 DA DJ</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="5" sum="€0,50" no="10" player="Pokerskipper"/>
+   <action type="3" sum="€0,50" no="11" player="Frkaane"/>
+   <action type="0" sum="€0" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="5" sum="€0,50" no="13" player="Pokerskipper"/>
+   <action type="23" sum="€4,25" no="14" player="Frkaane"/>
+   <action type="0" sum="€0" no="15" player="Pokerskipper"/>
+  </round>
+ </game>
+ <game gamecode="3670705032">
+  <general>
+   <startdate>2022-04-03 18:53:21</startdate>
+   <players>
+    <player name="13373678" chips="€51,70" bet="€9,29" seat="1" dealer="0" win="€0"/>
+    <player name="Pokerskipper" chips="€43,56" bet="€0,50" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€38,63" bet="€0" seat="5" dealer="0" win="€0"/>
+    <player name="StressOutBoys" chips="€65,93" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,83" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="capybarafan999" chips="€50" bet="€18,83" seat="10" dealer="1" win="€18,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Pokerskipper"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="0" sum="€0" no="3" player="Frkaane"/>
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="4" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="5" player="pikkupullukka"/>
+   <cards type="Pocket" player="capybarafan999">X X</cards>
+   <action type="23" sum="€1,25" no="6" player="capybarafan999"/>
+   <cards type="Pocket" player="13373678">CA CQ</cards>
+   <action type="23" sum="€5,50" no="7" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="0" sum="€0" no="8" player="Pokerskipper"/>
+   <action type="3" sum="€4,25" no="9" player="capybarafan999"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S2 D4</cards>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="5" sum="€3,79" no="11" player="capybarafan999"/>
+   <action type="3" sum="€3,79" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="5" sum="€9,54" no="14" player="capybarafan999"/>
+   <action type="0" sum="€0" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3670705245">
+  <general>
+   <startdate>2022-04-03 18:54:46</startdate>
+   <players>
+    <player name="13373678" chips="€50" bet="€0" seat="1" dealer="1" win="€0"/>
+    <player name="Pokerskipper" chips="€43,06" bet="€0,50" seat="3" dealer="0" win="€0"/>
+    <player name="Frkaane" chips="€38,63" bet="€1,50" seat="5" dealer="0" win="€0,97"/>
+    <player name="StressOutBoys" chips="€65,93" bet="€0" seat="6" dealer="0" win="€0"/>
+    <player name="pikkupullukka" chips="€59,83" bet="€0" seat="8" dealer="0" win="€0"/>
+    <player name="capybarafan999" chips="€59,22" bet="€0" seat="10" dealer="0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Pokerskipper"/>
+   <action type="2" sum="€0,50" no="2" player="Frkaane"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StressOutBoys">X X</cards>
+   <action type="0" sum="€0" no="3" player="StressOutBoys"/>
+   <cards type="Pocket" player="pikkupullukka">X X</cards>
+   <action type="0" sum="€0" no="4" player="pikkupullukka"/>
+   <cards type="Pocket" player="capybarafan999">X X</cards>
+   <action type="0" sum="€0" no="5" player="capybarafan999"/>
+   <cards type="Pocket" player="13373678">C6 HK</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Pokerskipper">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Pokerskipper"/>
+   <cards type="Pocket" player="Frkaane">X X</cards>
+   <action type="4" sum="€0" no="8" player="Frkaane"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 SQ SA</cards>
+   <action type="4" sum="€0" no="9" player="Pokerskipper"/>
+   <action type="5" sum="€1" no="10" player="Frkaane"/>
+   <action type="0" sum="€0" no="11" player="Pokerskipper"/>
+  </round>
+ </game>
+</session>

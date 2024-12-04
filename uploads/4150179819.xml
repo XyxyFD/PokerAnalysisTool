@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4150179819">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>5BB Salzburg 11, 484678853</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:00:08</duration>
+  <gamecount>1</gamecount>
+  <startdate>2024-09-21 20:54:06</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0</bets>
+  <wins>€0</wins>
+  <chipsin>€0</chipsin>
+  <chipsout>€0</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3931312684">
+  <general>
+   <startdate>2024-09-21 20:54:06</startdate>
+   <players>
+    <player seat="1" bet="€0,50" chips="€52,73" name="Player 1" win="€0,50" dealer="0"/>
+    <player seat="8" bet="€0" chips="€4,77" name="Player 8" win="€0" dealer="1"/>
+    <player seat="10" bet="€0,25" chips="€13,17" name="Player 10" win="€0" dealer="0"/>
+    <player seat="6" bet="€0" chips="€5,58" name="Player 6" win="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Player 10" sum="€0,25"/>
+   <action no="2" type="2" player="Player 1" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action no="3" type="0" player="Player 6" sum="€0"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action no="4" type="0" player="Player 8" sum="€0"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action no="5" type="0" player="Player 10" sum="€0"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,2938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081165557">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 13, 488049772</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:50:53</duration>
+  <gamecount>92</gamecount>
+  <startdate>2022-08-14 19:52:44</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€309,21</bets>
+  <wins>€166,58</wins>
+  <chipsin>€95,58</chipsin>
+  <chipsout>€129,71</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702610514">
+  <general>
+   <startdate>2022-08-14 19:52:44</startdate>
+   <players>
+    <player seat="1" name="Player 1" win="€0" dealer="0" bet="€0" chips="€124,99"/>
+    <player seat="3" name="Player 3" win="€0" dealer="0" bet="€0" chips="€115,87"/>
+    <player seat="6" name="Player 6" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="8" name="Player 8" win="€0" dealer="0" bet="€0,50" chips="€103"/>
+    <player seat="10" name="Player 10" win="€1" dealer="0" bet="€1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Player 8" type="1"/>
+   <action sum="€1" no="2" player="Player 10" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 3" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 6" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702610542">
+  <general>
+   <startdate>2022-08-14 19:52:55</startdate>
+   <players>
+    <player seat="1" name="Player 1" win="€0" dealer="0" bet="€1" chips="€124,99"/>
+    <player seat="3" name="Player 3" win="€0" dealer="0" bet="€2,50" chips="€115,87"/>
+    <player seat="6" name="Player 6" win="€6,31" dealer="0" bet="€2,50" chips="€100"/>
+    <player seat="8" name="Player 8" win="€0" dealer="1" bet="€0" chips="€102,50"/>
+    <player seat="10" name="Player 10" win="€0" dealer="0" bet="€0,50" chips="€100,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Player 10" type="1"/>
+   <action sum="€1" no="2" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">CA C2</cards>
+   <action sum="€2,50" no="3" player="Player 3" type="23"/>
+   <cards player="Player 6" type="Pocket">C6 D6</cards>
+   <action sum="€2,50" no="4" player="Player 6" type="3"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 8" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Player 1" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D9 S4</cards>
+   <action sum="€0" no="8" player="Player 3" type="4"/>
+   <action sum="€0" no="9" player="Player 6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action sum="€0" no="10" player="Player 3" type="4"/>
+   <action sum="€0" no="11" player="Player 6" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action sum="€0" no="12" player="Player 3" type="4"/>
+   <action sum="€0" no="13" player="Player 6" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702610946">
+  <general>
+   <startdate>2022-08-14 19:53:37</startdate>
+   <players>
+    <player seat="1" name="Player 1" win="€0" dealer="0" bet="€0,50" chips="€123,99"/>
+    <player seat="3" name="Player 3" win="€5,34" dealer="0" bet="€2,50" chips="€113,37"/>
+    <player seat="6" name="Player 6" win="€0" dealer="0" bet="€0" chips="€103,81"/>
+    <player seat="8" name="Player 8" win="€0" dealer="0" bet="€2,50" chips="€102,50"/>
+    <player seat="10" name="Player 10" win="€0" dealer="1" bet="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Player 1" type="1"/>
+   <action sum="€1" no="2" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 6" type="0"/>
+   <cards player="Player 8" type="Pocket">HK CJ</cards>
+   <action sum="€2,50" no="4" player="Player 8" type="23"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">DA S7</cards>
+   <action sum="€1,50" no="7" player="Player 3" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H3 S2</cards>
+   <action sum="€0" no="8" player="Player 3" type="4"/>
+   <action sum="€0" no="9" player="Player 8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="10" player="Player 3" type="4"/>
+   <action sum="€0" no="11" player="Player 8" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€0" no="12" player="Player 3" type="4"/>
+   <action sum="€0" no="13" player="Player 8" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702611073">
+  <general>
+   <startdate>2022-08-14 19:54:35</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€123,49"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€116,21"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€4,42" chips="€100"/>
+    <player seat="6" name="Bingomestari" win="€0" dealer="0" bet="€0" chips="€103,81"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€9,06" dealer="0" bet="€10,49" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bingomestari" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Bingomestari" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S4 D4</cards>
+   <action sum="€1,50" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 S2 S5</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€1,92" no="10" player="Iiidiaid" type="5"/>
+   <action sum="€1,92" no="11" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+   <action sum="€6,07" no="13" player="Iiidiaid" type="5"/>
+   <action sum="€0" no="14" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616170">
+  <general>
+   <startdate>2022-08-14 19:55:23</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€123,49"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€115,71"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€104,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">H9 SQ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616258">
+  <general>
+   <startdate>2022-08-14 19:55:59</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€2,50" chips="€123,49"/>
+    <player seat="3" name="JenniXXX" win="€210,28" dealer="0" bet="€117,21" chips="€117,21"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€104,64" chips="€104,64"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">S9 H9</cards>
+   <action sum="€7,50" no="4" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">C3 D5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">DK CA</cards>
+   <action sum="€22,50" no="7" player="Iiidiaid" type="23"/>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="0"/>
+   <action sum="€15" no="9" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 S7 H8</cards>
+   <action sum="€48" no="10" player="Iiidiaid" type="5"/>
+   <action sum="€94,71" no="11" player="JenniXXX" type="7"/>
+   <action sum="€34,14" no="12" player="Iiidiaid" type="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+  </round>
+ </game>
+ <game gamecode="3702616402">
+  <general>
+   <startdate>2022-08-14 19:57:08</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€1" dealer="0" bet="€1" chips="€120,99"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€222,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C7 D10</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616429">
+  <general>
+   <startdate>2022-08-14 19:57:19</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2" dealer="0" bet="€3" chips="€121,49"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€222,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA C6</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€3" no="6" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616465">
+  <general>
+   <startdate>2022-08-14 19:57:35</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€122,49" chips="€122,49"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€221,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€199,50" dealer="0" bet="€100" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">DK DJ</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">C6 C9</cards>
+   <action sum="€7,50" no="5" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">D7 H4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€5" no="8" player="Iiidiaid" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D6 D5</cards>
+   <action sum="€0" no="9" player="Iiidiaid" type="4"/>
+   <action sum="€0" no="10" player="KekeVahvakasi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€10,72" no="11" player="Iiidiaid" type="5"/>
+   <action sum="€10,72" no="12" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€18,97" no="13" player="Iiidiaid" type="5"/>
+   <action sum="€104,27" no="14" player="KekeVahvakasi" type="23"/>
+   <action sum="€62,81" no="15" player="Iiidiaid" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3702616649">
+  <general>
+   <startdate>2022-08-14 19:58:56</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€221,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€199,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">H6 D5</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616677">
+  <general>
+   <startdate>2022-08-14 19:59:09</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€222,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€22,50" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€44,61" dealer="0" bet="€45,50" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€199,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H9 D9</cards>
+   <action sum="€2,50" no="5" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€11" no="6" player="uusimies2022" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+   <action sum="€8,50" no="8" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 S5</cards>
+   <action sum="€11,50" no="9" player="uusimies2022" type="5"/>
+   <action sum="€11,50" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€23" no="11" player="uusimies2022" type="5"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616790">
+  <general>
+   <startdate>2022-08-14 20:00:04</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€222,85"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€122,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€198,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">HJ DA</cards>
+   <action sum="€2,50" no="4" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616839">
+  <general>
+   <startdate>2022-08-14 20:00:25</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€6" dealer="0" bet="€11" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€222,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€101,50"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€122,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€2,50" chips="€198"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 D5</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€11" no="6" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+   <action sum="€0" no="8" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616936">
+  <general>
+   <startdate>2022-08-14 20:01:07</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="1" bet="€2,50" chips="€103,50"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€221,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€101,50"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€122,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€195,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S2 C4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702616982">
+  <general>
+   <startdate>2022-08-14 20:01:29</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="0" bet="€2,50" chips="€105"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€221,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€100,50"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€1" chips="€122,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€195,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C7 D10</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702619477">
+  <general>
+   <startdate>2022-08-14 20:01:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="0" bet="€2,50" chips="€106,50"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€221,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€121,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€195,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H5 H2</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702620831">
+  <general>
+   <startdate>2022-08-14 20:02:10</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€5,25" chips="€108"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€221,35"/>
+    <player seat="5" name="13373678" win="€10,67" dealer="0" bet="€13,50" chips="€100"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€120,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€194,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S10 CJ</cards>
+   <action sum="€2,50" no="4" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C3 D7</cards>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="4"/>
+   <action sum="€2,75" no="9" player="13373678" type="5"/>
+   <action sum="€2,75" no="10" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action sum="€0" no="13" player="KekeVahvakasi" type="4"/>
+   <action sum="€8,25" no="14" player="13373678" type="5"/>
+   <action sum="€0" no="15" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702622388">
+  <general>
+   <startdate>2022-08-14 20:03:26</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€102,75"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€2,50" chips="€221,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€120,61"/>
+    <player seat="10" name="Iiidiaid" win="€5,34" dealer="1" bet="€4,42" chips="€194"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C9 DK</cards>
+   <action sum="€0" no="8" player="JenniXXX" type="4"/>
+   <action sum="€1,92" no="9" player="Iiidiaid" type="5"/>
+   <action sum="€0" no="10" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623777">
+  <general>
+   <startdate>2022-08-14 20:04:09</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€8" chips="€218,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€25" dealer="0" bet="€28,50" chips="€120,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€8" chips="€196,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="uusimies2022" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€8" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€7,50" no="6" player="JenniXXX" type="3"/>
+   <cards player="13373678" type="Pocket">C6 S9</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€28,50" no="8" player="uusimies2022" type="23"/>
+   <action sum="€0" no="9" player="Iiidiaid" type="0"/>
+   <action sum="€0" no="10" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623868">
+  <general>
+   <startdate>2022-08-14 20:04:48</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€210,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€104,42"/>
+    <player seat="8" name="uusimies2022" win="€1" dealer="0" bet="€1" chips="€137,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C8 D3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623894">
+  <general>
+   <startdate>2022-08-14 20:04:57</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€210,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€103,92"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€138,11"/>
+    <player seat="10" name="Iiidiaid" win="€1" dealer="0" bet="€1" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">D10 S3</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623918">
+  <general>
+   <startdate>2022-08-14 20:05:09</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€1" dealer="0" bet="€1" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€210,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€103,92"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€137,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€189,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C4 H7</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623942">
+  <general>
+   <startdate>2022-08-14 20:05:18</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€102,75"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€210,85"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€103,92"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€137,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 DA</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702623988">
+  <general>
+   <startdate>2022-08-14 20:05:42</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€209,85"/>
+    <player seat="5" name="13373678" win="€1" dealer="0" bet="€1" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€137,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 S7</cards>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702624014">
+  <general>
+   <startdate>2022-08-14 20:05:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€105,92"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€1" chips="€137,61"/>
+    <player seat="10" name="Iiidiaid" win="€2,50" dealer="0" bet="€2,50" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H2 S6</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702625447">
+  <general>
+   <startdate>2022-08-14 20:06:17</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€136,61"/>
+    <player seat="10" name="Iiidiaid" win="€1" dealer="0" bet="€1" chips="€190,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H3 C6</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702625968">
+  <general>
+   <startdate>2022-08-14 20:06:32</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€1" dealer="0" bet="€1" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€136,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€190,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">D6 S9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702627642">
+  <general>
+   <startdate>2022-08-14 20:06:46</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€102,75"/>
+    <player seat="3" name="JenniXXX" win="€1" dealer="0" bet="€1" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€136,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€190,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H9 C2</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702627679">
+  <general>
+   <startdate>2022-08-14 20:07:04</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€7,50" chips="€102,25"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€209,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€105,42"/>
+    <player seat="8" name="uusimies2022" win="€16,50" dealer="0" bet="€22,50" chips="€136,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€190,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="uusimies2022" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€7,50" no="5" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S6 CJ</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€22,50" no="8" player="uusimies2022" type="23"/>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702627809">
+  <general>
+   <startdate>2022-08-14 20:07:57</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€5,82" dealer="0" bet="€6" chips="€104,42"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€3" chips="€145,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€190,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">CK S10</cards>
+   <action sum="€3" no="6" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€2" no="7" player="uusimies2022" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ HK S3</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="uusimies2022" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€3" no="10" player="13373678" type="5"/>
+   <action sum="€0" no="11" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702627923">
+  <general>
+   <startdate>2022-08-14 20:08:45</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="1" bet="€2,50" chips="€107,24"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€142,11"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€190,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S10 S9</cards>
+   <action sum="€2,50" no="5" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702627991">
+  <general>
+   <startdate>2022-08-14 20:09:08</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="0" bet="€2,50" chips="€209,35"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€108,74"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€141,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€189,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">DA H9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702628043">
+  <general>
+   <startdate>2022-08-14 20:09:31</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€2,50" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€7,28" dealer="0" bet="€2,50" chips="€210,85"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€2,50" chips="€108,74"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€141,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ CK</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">S9 S8</cards>
+   <action sum="€2" no="6" player="KekeVahvakasi" type="3"/>
+   <cards player="JenniXXX" type="Pocket">SQ HK</cards>
+   <action sum="€1,50" no="7" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S4 D5</cards>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="9" player="JenniXXX" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="12" player="JenniXXX" type="4"/>
+   <action sum="€0" no="13" player="13373678" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action sum="€0" no="14" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="15" player="JenniXXX" type="4"/>
+   <action sum="€0" no="16" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702629364">
+  <general>
+   <startdate>2022-08-14 20:10:39</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€24,25" dealer="0" bet="€22" chips="€215,63"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€106,24"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€141,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€12" chips="€188,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€12" no="6" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">C9 D3</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€9,50" no="8" player="Iiidiaid" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 S8 DA</cards>
+   <action sum="€0" no="9" player="JenniXXX" type="4"/>
+   <action sum="€0" no="10" player="Iiidiaid" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€10" no="11" player="JenniXXX" type="5"/>
+   <action sum="€0" no="12" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702629508">
+  <general>
+   <startdate>2022-08-14 20:11:39</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€32,55" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€227,88"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€105,24"/>
+    <player seat="8" name="uusimies2022" win="€63,62" dealer="0" bet="€65,35" chips="€141,61"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€176,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H2 C8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€10" no="7" player="uusimies2022" type="23"/>
+   <action sum="€7,50" no="8" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 DK DQ</cards>
+   <action sum="€6,15" no="9" player="uusimies2022" type="5"/>
+   <action sum="€6,15" no="10" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€16,40" no="11" player="uusimies2022" type="5"/>
+   <action sum="€16,40" no="12" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action sum="€32,80" no="13" player="uusimies2022" type="5"/>
+   <action sum="€0" no="14" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631053">
+  <general>
+   <startdate>2022-08-14 20:12:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="0" bet="€2,50" chips="€227,88"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€104,74"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€172,68"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€176,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">DA C2</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631100">
+  <general>
+   <startdate>2022-08-14 20:13:11</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€229,38"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€104,74"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€172,18"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€175,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">DK DJ</cards>
+   <action sum="€2,50" no="4" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631163">
+  <general>
+   <startdate>2022-08-14 20:13:33</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€229,38"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€106,24"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€172,18"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€175,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK HQ</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631207">
+  <general>
+   <startdate>2022-08-14 20:13:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€228,38"/>
+    <player seat="5" name="13373678" win="€1" dealer="0" bet="€1" chips="€107,74"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€172,18"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€175,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 H6</cards>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631251">
+  <general>
+   <startdate>2022-08-14 20:14:11</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€11" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€227,88"/>
+    <player seat="5" name="13373678" win="€22,31" dealer="0" bet="€18,59" chips="€108,24"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€1" chips="€172,18"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€175,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="uusimies2022" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C6 CK</cards>
+   <action sum="€11" no="6" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="uusimies2022" type="0"/>
+   <action sum="€8,50" no="8" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D7 CA</cards>
+   <action sum="€7,59" no="9" player="13373678" type="5"/>
+   <action sum="€0" no="10" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631730">
+  <general>
+   <startdate>2022-08-14 20:14:47</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€227,88"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="1" bet="€2,50" chips="€119,55"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0,50" chips="€171,18"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€175,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="uusimies2022" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H7 H10</cards>
+   <action sum="€2,50" no="5" player="13373678" type="23"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702631782">
+  <general>
+   <startdate>2022-08-14 20:15:07</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="0" bet="€2,50" chips="€227,88"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€121,05"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="1" bet="€0" chips="€170,68"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€174,34"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">S5 C6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702633160">
+  <general>
+   <startdate>2022-08-14 20:15:38</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€9,31" dealer="0" bet="€10,30" chips="€100"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€229,38"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€121,05"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€4,30" chips="€170,68"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€173,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 C4</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="uusimies2022" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2" no="6" player="KekeVahvakasi" type="3"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H7 SA</cards>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="4"/>
+   <action sum="€1,80" no="9" player="uusimies2022" type="5"/>
+   <action sum="€1,80" no="10" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€6" no="11" player="KekeVahvakasi" type="5"/>
+   <action sum="€0" no="12" player="uusimies2022" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702633282">
+  <general>
+   <startdate>2022-08-14 20:16:26</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€2,50" chips="€105,01"/>
+    <player seat="3" name="JenniXXX" win="€210,50" dealer="0" bet="€104,50" chips="€228,38"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€121,05"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€166,38"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€104,50" chips="€173,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">SQ DA</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="KekeVahvakasi" type="3"/>
+   <cards player="JenniXXX" type="Pocket">CJ HJ</cards>
+   <action sum="€15" no="6" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">C6 S2</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€29,50" no="8" player="Iiidiaid" type="23"/>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="0"/>
+   <action sum="€14,50" no="10" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 H10 H4</cards>
+   <action sum="€0" no="11" player="JenniXXX" type="4"/>
+   <action sum="€31,25" no="12" player="Iiidiaid" type="5"/>
+   <action sum="€31,25" no="13" player="JenniXXX" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" no="14" player="JenniXXX" type="4"/>
+   <action sum="€0" no="15" player="Iiidiaid" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" no="16" player="JenniXXX" type="4"/>
+   <action sum="€43,75" no="17" player="Iiidiaid" type="5"/>
+   <action sum="€43,75" no="18" player="JenniXXX" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702633521">
+  <general>
+   <startdate>2022-08-14 20:17:58</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€102,51"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€334,38"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€120,05"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€1" chips="€49"/>
+    <player seat="8" name="uusimies2022" win="€0" dealer="0" bet="€0" chips="€166,38"/>
+    <player seat="10" name="Iiidiaid" win="€2,50" dealer="0" bet="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="PhotoGraf" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="uusimies2022" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="uusimies2022" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D8</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702633561">
+  <general>
+   <startdate>2022-08-14 20:18:12</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€64,40" dealer="0" bet="€52,37" chips="€102,51"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€32,45" chips="€334,38"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€119,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0,50" chips="€48"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="PhotoGraf" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€7,50" no="4" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">D4 HJ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="PhotoGraf" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+   <action sum="€20" no="8" player="KekeVahvakasi" type="23"/>
+   <action sum="€12,50" no="9" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S5 DA</cards>
+   <action sum="€12,45" no="10" player="KekeVahvakasi" type="5"/>
+   <action sum="€12,45" no="11" player="JenniXXX" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€19,92" no="12" player="KekeVahvakasi" type="5"/>
+   <action sum="€0" no="13" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635284">
+  <general>
+   <startdate>2022-08-14 20:19:18</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€134,46"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€301,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€119,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="1" bet="€0" chips="€47,50"/>
+    <player seat="10" name="Iiidiaid" win="€2" dealer="0" bet="€3" chips="€100,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">HQ C8</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="PhotoGraf" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€3" no="6" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635326">
+  <general>
+   <startdate>2022-08-14 20:19:36</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€133,46"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€301,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€2,50" chips="€119,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€47,50"/>
+    <player seat="10" name="Iiidiaid" win="€6,50" dealer="1" bet="€9" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 SQ</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="PhotoGraf" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€9" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="0"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635378">
+  <general>
+   <startdate>2022-08-14 20:19:58</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€22,31" dealer="1" bet="€26" chips="€132,96"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€11" chips="€300,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€117,05"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€47,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€105,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="PhotoGraf" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€11" no="6" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">CQ H8</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€8,50" no="8" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 DQ CK</cards>
+   <action sum="€0" no="9" player="JenniXXX" type="4"/>
+   <action sum="€15" no="10" player="KekeVahvakasi" type="5"/>
+   <action sum="€0" no="11" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635488">
+  <general>
+   <startdate>2022-08-14 20:20:40</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="0" bet="€2,50" chips="€144,27"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€289,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€116,05"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€1" chips="€47,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€105,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="PhotoGraf" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C10 C2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635520">
+  <general>
+   <startdate>2022-08-14 20:20:52</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€145,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€289,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€115,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0,50" chips="€46,50"/>
+    <player seat="8" name="FromNowOn" win="€1" dealer="0" bet="€1" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€105,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="PhotoGraf" type="1"/>
+   <action sum="€1" no="2" player="FromNowOn" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D6</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702635996">
+  <general>
+   <startdate>2022-08-14 20:21:06</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€145,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€289,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€115,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="1" bet="€0" chips="€46"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0,50" chips="€100,50"/>
+    <player seat="10" name="Iiidiaid" win="€1" dealer="0" bet="€1" chips="€105,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FromNowOn" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">SJ H8</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="FromNowOn" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702636029">
+  <general>
+   <startdate>2022-08-14 20:21:20</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€145,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€7,50" chips="€289,93"/>
+    <player seat="5" name="13373678" win="€16" dealer="0" bet="€15,75" chips="€115,55"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€46"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€106"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">CJ HA</cards>
+   <action sum="€7,50" no="4" player="13373678" type="23"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="0"/>
+   <action sum="€5" no="9" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D2 D4</cards>
+   <action sum="€0" no="10" player="JenniXXX" type="4"/>
+   <action sum="€8,25" no="11" player="13373678" type="5"/>
+   <action sum="€0" no="12" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702636103">
+  <general>
+   <startdate>2022-08-14 20:21:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€144,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€282,43"/>
+    <player seat="5" name="13373678" win="€24,62" dealer="0" bet="€11,94" chips="€124,05"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€46"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€11,94" chips="€105,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 DA</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">H2 HA</cards>
+   <action sum="€2,50" no="6" player="Iiidiaid" type="3"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="JenniXXX" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H8 S8</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+   <action sum="€2,27" no="10" player="Iiidiaid" type="5"/>
+   <action sum="€2,27" no="11" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+   <action sum="€7,17" no="13" player="Iiidiaid" type="5"/>
+   <action sum="€7,17" no="14" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" no="15" player="13373678" type="4"/>
+   <action sum="€0" no="16" player="Iiidiaid" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702636294">
+  <general>
+   <startdate>2022-08-14 20:23:13</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€144,27"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€281,43"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€136,73"/>
+    <player seat="6" name="PhotoGraf" win="€2,91" dealer="0" bet="€1" chips="€46"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="PhotoGraf" type="Pocket">S5 H5</cards>
+   <action sum="€1" no="3" player="PhotoGraf" type="3"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">H9 HJ</cards>
+   <action sum="€0,50" no="7" player="JenniXXX" type="3"/>
+   <cards player="13373678" type="Pocket">D7 SJ</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 DA HK</cards>
+   <action sum="€0" no="9" player="JenniXXX" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="PhotoGraf" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€0" no="12" player="JenniXXX" type="4"/>
+   <action sum="€0" no="13" player="13373678" type="4"/>
+   <action sum="€0" no="14" player="PhotoGraf" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" no="15" player="JenniXXX" type="4"/>
+   <action sum="€0" no="16" player="13373678" type="4"/>
+   <action sum="€0" no="17" player="PhotoGraf" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702636416">
+  <general>
+   <startdate>2022-08-14 20:24:00</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€144,27"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€280,43"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€135,73"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€1" chips="€47,91"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="PhotoGraf" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="6" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">S2 C6</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702636465">
+  <general>
+   <startdate>2022-08-14 20:24:23</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€2,50" chips="€144,27"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€281,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€135,23"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€2,50" chips="€46,91"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€1" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€8,25" dealer="0" bet="€6,75" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="PhotoGraf" type="1"/>
+   <action sum="€1" no="2" player="FromNowOn" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="3"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">HK C2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€2" no="7" player="PhotoGraf" type="3"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="FromNowOn" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 C6 C7</cards>
+   <action sum="€0" no="9" player="PhotoGraf" type="4"/>
+   <action sum="€0" no="10" player="Iiidiaid" type="4"/>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€0" no="12" player="PhotoGraf" type="4"/>
+   <action sum="€4,25" no="13" player="Iiidiaid" type="5"/>
+   <action sum="€0" no="14" player="KekeVahvakasi" type="0"/>
+   <action sum="€0" no="15" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702637933">
+  <general>
+   <startdate>2022-08-14 20:25:08</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€141,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€281,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€2,50" chips="€135,23"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="1" bet="€2,50" chips="€44,41"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0,50" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€8" dealer="0" bet="€13" chips="€105,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FromNowOn" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">H9 CA</cards>
+   <action sum="€2,50" no="5" player="13373678" type="23"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€2,50" no="6" player="PhotoGraf" type="3"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€13" no="8" player="Iiidiaid" type="23"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+   <action sum="€0" no="10" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702638001">
+  <general>
+   <startdate>2022-08-14 20:25:36</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€141,77"/>
+    <player seat="3" name="JenniXXX" win="€8,25" dealer="0" bet="€5,50" chips="€281,93"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0" chips="€132,73"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€2,50" chips="€41,91"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€2,50" chips="€111,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">S8 D5</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="PhotoGraf" type="3"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2" no="7" player="Iiidiaid" type="3"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KekeVahvakasi" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 DA CA</cards>
+   <action sum="€0" no="9" player="Iiidiaid" type="4"/>
+   <action sum="€3" no="10" player="JenniXXX" type="5"/>
+   <action sum="€0" no="11" player="PhotoGraf" type="0"/>
+   <action sum="€0" no="12" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702638545">
+  <general>
+   <startdate>2022-08-14 20:26:05</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€2,50" chips="€140,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€287,68"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€5,50" chips="€132,73"/>
+    <player seat="6" name="PhotoGraf" win="€16,49" dealer="0" bet="€17,40" chips="€39,41"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€2,50" chips="€108,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 HA</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="PhotoGraf" type="3"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="6" player="Iiidiaid" type="3"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2" no="7" player="KekeVahvakasi" type="3"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="JenniXXX" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S10 DA</cards>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€3" no="11" player="PhotoGraf" type="5"/>
+   <action sum="€0" no="12" player="Iiidiaid" type="0"/>
+   <action sum="€0" no="13" player="KekeVahvakasi" type="0"/>
+   <action sum="€3" no="14" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" no="15" player="13373678" type="4"/>
+   <action sum="€11,90" no="16" player="PhotoGraf" type="5"/>
+   <action sum="€0" no="17" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702639861">
+  <general>
+   <startdate>2022-08-14 20:26:52</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€138,27"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€286,68"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€1" chips="€50,40"/>
+    <player seat="8" name="FromNowOn" win="€2,50" dealer="0" bet="€2,25" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€106,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="PhotoGraf" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€2,25" no="3" player="FromNowOn" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="PhotoGraf" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702639901">
+  <general>
+   <startdate>2022-08-14 20:27:13</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="0" bet="€2,50" chips="€138,27"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€286,18"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0,50" chips="€49,40"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€1" chips="€101,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€106,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="PhotoGraf" type="1"/>
+   <action sum="€1" no="2" player="FromNowOn" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="FromNowOn" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702639956">
+  <general>
+   <startdate>2022-08-14 20:27:42</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€139,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€286,18"/>
+    <player seat="6" name="PhotoGraf" win="€2,50" dealer="1" bet="€3" chips="€48,90"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0,50" chips="€100,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€106,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FromNowOn" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€3" no="5" player="PhotoGraf" type="23"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640007">
+  <general>
+   <startdate>2022-08-14 20:28:04</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€1" dealer="0" bet="€1" chips="€139,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€286,18"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€50,40"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="1" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0,50" chips="€105,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640091">
+  <general>
+   <startdate>2022-08-14 20:28:39</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€140,27"/>
+    <player seat="3" name="JenniXXX" win="€1" dealer="0" bet="€1" chips="€286,18"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="1" bet="€0" chips="€104,75"/>
+    <player seat="6" name="PhotoGraf" win="€0" dealer="0" bet="€0" chips="€50,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <cards player="PhotoGraf" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="PhotoGraf" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640130">
+  <general>
+   <startdate>2022-08-14 20:28:53</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€139,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€286,68"/>
+    <player seat="8" name="FromNowOn" win="€1" dealer="0" bet="€1" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€104,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="FromNowOn" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640164">
+  <general>
+   <startdate>2022-08-14 20:29:10</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€139,77"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€286,18"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0,50" chips="€100,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€104,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FromNowOn" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="JenniXXX" type="23"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640196">
+  <general>
+   <startdate>2022-08-14 20:29:23</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€23,25" dealer="0" bet="€21,75" chips="€139,77"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€287,68"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="1" bet="€2,25" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€10,50" chips="€103,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€2,25" no="4" player="FromNowOn" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€10,50" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€21,75" no="6" player="KekeVahvakasi" type="23"/>
+   <action sum="€0" no="7" player="FromNowOn" type="0"/>
+   <action sum="€0" no="8" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640302">
+  <general>
+   <startdate>2022-08-14 20:30:10</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€152,52"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€287,68"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€2,50" dealer="1" bet="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640814">
+  <general>
+   <startdate>2022-08-14 20:30:34</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0" chips="€152,02"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€286,68"/>
+    <player seat="6" name="FinnishNoob" win="€1" dealer="0" bet="€1" chips="€100"/>
+    <player seat="8" name="FromNowOn" win="€0" dealer="0" bet="€0" chips="€100"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="FinnishNoob" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FromNowOn" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640859">
+  <general>
+   <startdate>2022-08-14 20:30:58</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€11,50" chips="€152,02"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€286,18"/>
+    <player seat="6" name="FinnishNoob" win="€23,28" dealer="0" bet="€18,70" chips="€100,50"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€1" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FinnishNoob" type="1"/>
+   <action sum="€1" no="2" player="Iiidiaid" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="JenniXXX" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€11,50" no="5" player="FinnishNoob" type="23"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Iiidiaid" type="0"/>
+   <action sum="€9" no="7" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 CK S6</cards>
+   <action sum="€7,20" no="8" player="FinnishNoob" type="5"/>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702640977">
+  <general>
+   <startdate>2022-08-14 20:31:52</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€6" dealer="0" bet="€9" chips="€140,52"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€286,18"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="1" bet="€0" chips="€112,28"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€3" chips="€100,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="Iiidiaid" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="FinnishNoob" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€3" no="5" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€9" no="6" player="KekeVahvakasi" type="23"/>
+   <action sum="€0" no="7" player="Iiidiaid" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702641032">
+  <general>
+   <startdate>2022-08-14 20:32:17</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€143,52"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€2,50" chips="€286,18"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€0" chips="€112,28"/>
+    <player seat="10" name="Iiidiaid" win="€5,34" dealer="1" bet="€4,42" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FinnishNoob" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="Iiidiaid" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€1,50" no="6" player="JenniXXX" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C4 S9</cards>
+   <action sum="€0" no="7" player="JenniXXX" type="4"/>
+   <action sum="€0" no="8" player="Iiidiaid" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action sum="€0" no="9" player="JenniXXX" type="4"/>
+   <action sum="€1,92" no="10" player="Iiidiaid" type="5"/>
+   <action sum="€0" no="11" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702641125">
+  <general>
+   <startdate>2022-08-14 20:32:59</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="1" bet="€2,50" chips="€143,02"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€283,68"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€127,23"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€0" chips="€112,28"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€102,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FinnishNoob" type="0"/>
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="5" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">CK S8</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702641188">
+  <general>
+   <startdate>2022-08-14 20:33:25</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€32,07" chips="€144,52"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="1" bet="€0" chips="€283,18"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€126,23"/>
+    <player seat="6" name="FinnishNoob" win="€62,69" dealer="0" bet="€112,28" chips="€112,28"/>
+    <player seat="10" name="Iiidiaid" win="€0" dealer="0" bet="€0" chips="€102,84"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="FinnishNoob" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Iiidiaid" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Iiidiaid" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S4 SQ</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€1,50" no="7" player="FinnishNoob" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D2 C9</cards>
+   <action sum="€0" no="8" player="FinnishNoob" type="4"/>
+   <action sum="€1,65" no="9" player="KekeVahvakasi" type="5"/>
+   <action sum="€1,65" no="10" player="FinnishNoob" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€2,64" no="11" player="FinnishNoob" type="5"/>
+   <action sum="€9,28" no="12" player="KekeVahvakasi" type="23"/>
+   <action sum="€27,92" no="13" player="FinnishNoob" type="23"/>
+   <action sum="€18,64" no="14" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action sum="€80,21" no="15" player="FinnishNoob" type="5"/>
+   <action sum="€0" no="16" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702641375">
+  <general>
+   <startdate>2022-08-14 20:34:42</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€4,80" chips="€112,45"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0" chips="€283,18"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€125,73"/>
+    <player seat="6" name="FinnishNoob" win="€9,31" dealer="0" bet="€4,80" chips="€142,90"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FinnishNoob" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C3 SK</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">C10 C8</cards>
+   <action sum="€3" no="5" player="FinnishNoob" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">H9 S8</cards>
+   <action sum="€2" no="6" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 HQ S10</cards>
+   <action sum="€1,80" no="7" player="FinnishNoob" type="5"/>
+   <action sum="€1,80" no="8" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" no="9" player="FinnishNoob" type="4"/>
+   <action sum="€0" no="10" player="KekeVahvakasi" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" no="11" player="FinnishNoob" type="4"/>
+   <action sum="€0" no="12" player="KekeVahvakasi" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702642698">
+  <general>
+   <startdate>2022-08-14 20:35:35</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€107,65"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€283,18"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€125,73"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="1" bet="€0" chips="€147,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK HA</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="FinnishNoob" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702642750">
+  <general>
+   <startdate>2022-08-14 20:35:51</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="1" bet="€2,50" chips="€107,15"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€282,18"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€127,23"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€0" chips="€147,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FinnishNoob" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">S9 C3</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702642778">
+  <general>
+   <startdate>2022-08-14 20:36:03</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0" chips="€108,65"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€281,68"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€126,23"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€1" chips="€147,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="FinnishNoob" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">S8 D6</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="FinnishNoob" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702642825">
+  <general>
+   <startdate>2022-08-14 20:36:21</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€2,50" chips="€108,65"/>
+    <player seat="3" name="JenniXXX" win="€5,34" dealer="0" bet="€2,50" chips="€283,18"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€0" chips="€125,73"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€0,50" chips="€146,41"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="FinnishNoob" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">DK SA</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">H6 H10</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="FinnishNoob" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">CA D10</cards>
+   <action sum="€1,50" no="6" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D6 S3</cards>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="8" player="JenniXXX" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="10" player="JenniXXX" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+   <action sum="€0" no="12" player="JenniXXX" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702642929">
+  <general>
+   <startdate>2022-08-14 20:37:06</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€0,50" chips="€106,15"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€1" chips="€286,02"/>
+    <player seat="5" name="13373678" win="€2,50" dealer="0" bet="€2,50" chips="€125,73"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="1" bet="€0" chips="€145,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="JenniXXX" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 C3</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="FinnishNoob" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="JenniXXX" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702643018">
+  <general>
+   <startdate>2022-08-14 20:37:42</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€2,50" dealer="1" bet="€2,50" chips="€105,65"/>
+    <player seat="3" name="JenniXXX" win="€0" dealer="0" bet="€0,50" chips="€285,02"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€1" chips="€127,23"/>
+    <player seat="6" name="FinnishNoob" win="€0" dealer="0" bet="€0" chips="€145,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="JenniXXX" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="FinnishNoob" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="FinnishNoob" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="4" player="KekeVahvakasi" type="23"/>
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="JenniXXX" type="0"/>
+   <cards player="13373678" type="Pocket">C4 D8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702643063">
+  <general>
+   <startdate>2022-08-14 20:37:57</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€107,15"/>
+    <player seat="3" name="JenniXXX" win="€2,50" dealer="1" bet="€2,50" chips="€284,52"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€0,50" chips="€126,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="JenniXXX" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="JenniXXX" type="23"/>
+   <cards player="13373678" type="Pocket">D5 D6</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702643487">
+  <general>
+   <startdate>2022-08-14 20:38:10</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€4,85" dealer="1" bet="€4" chips="€106,15"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€2,50" chips="€125,73"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="13373678" type="Pocket">SA D6</cards>
+   <action sum="€1,50" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S10 CK</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,50" no="6" player="KekeVahvakasi" type="5"/>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702643545">
+  <general>
+   <startdate>2022-08-14 20:38:37</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€52,52" dealer="0" bet="€26,51" chips="€108,50"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€26,51" chips="€123,23"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 C9</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">S4 H4</cards>
+   <action sum="€1,50" no="4" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C2 H2</cards>
+   <action sum="€0" no="5" player="KekeVahvakasi" type="4"/>
+   <action sum="€1,65" no="6" player="13373678" type="5"/>
+   <action sum="€1,65" no="7" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€2,49" no="8" player="KekeVahvakasi" type="5"/>
+   <action sum="€11,82" no="9" player="13373678" type="23"/>
+   <action sum="€9,33" no="10" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+   <action sum="€10,54" no="12" player="13373678" type="5"/>
+   <action sum="€10,54" no="13" player="KekeVahvakasi" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3702643728">
+  <general>
+   <startdate>2022-08-14 20:40:00</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€43,50" dealer="1" bet="€38" chips="€134,51"/>
+    <player seat="5" name="13373678" win="€0" dealer="0" bet="€22" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="13373678" type="Pocket">S10 SQ</cards>
+   <action sum="€10" no="4" player="13373678" type="23"/>
+   <action sum="€7,50" no="5" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D8 C6</cards>
+   <action sum="€0" no="6" player="13373678" type="4"/>
+   <action sum="€0" no="7" player="KekeVahvakasi" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€12" no="9" player="KekeVahvakasi" type="5"/>
+   <action sum="€12" no="10" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€16" no="12" player="KekeVahvakasi" type="5"/>
+   <action sum="€0" no="13" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702644346">
+  <general>
+   <startdate>2022-08-14 20:41:13</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€156,01"/>
+    <player seat="5" name="13373678" win="€2" dealer="1" bet="€2,50" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 CJ</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702644367">
+  <general>
+   <startdate>2022-08-14 20:41:22</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€26,45" chips="€155,01"/>
+    <player seat="5" name="13373678" win="€52,40" dealer="0" bet="€101" chips="€101"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="13373678" type="Pocket">C5 SK</cards>
+   <action sum="€1,50" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D5 CK</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€2,50" no="6" player="KekeVahvakasi" type="5"/>
+   <action sum="€2,50" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€6,20" no="9" player="KekeVahvakasi" type="5"/>
+   <action sum="€21,45" no="10" player="13373678" type="23"/>
+   <action sum="€15,25" no="11" player="KekeVahvakasi" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€74,55" no="12" player="13373678" type="5"/>
+   <action sum="€0" no="13" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702644987">
+  <general>
+   <startdate>2022-08-14 20:42:37</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="0" bet="€1" chips="€128,56"/>
+    <player seat="5" name="13373678" win="€2" dealer="1" bet="€2,50" chips="€126,95"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 D10</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702645004">
+  <general>
+   <startdate>2022-08-14 20:42:45</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€4" chips="€127,56"/>
+    <player seat="5" name="13373678" win="€7,76" dealer="0" bet="€4" chips="€127,95"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">S4 SK</cards>
+   <action sum="€2,50" no="3" player="KekeVahvakasi" type="23"/>
+   <cards player="13373678" type="Pocket">H5 D6</cards>
+   <action sum="€1,50" no="4" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S5 H8</cards>
+   <action sum="€0" no="5" player="13373678" type="4"/>
+   <action sum="€1,50" no="6" player="KekeVahvakasi" type="5"/>
+   <action sum="€1,50" no="7" player="13373678" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="KekeVahvakasi" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="KekeVahvakasi" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3702646306">
+  <general>
+   <startdate>2022-08-14 20:43:22</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€5" dealer="0" bet="€10" chips="€123,56"/>
+    <player seat="5" name="13373678" win="€0" dealer="1" bet="€2,50" chips="€131,71"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KekeVahvakasi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H8 SJ</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€10" no="4" player="KekeVahvakasi" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3702646336">
+  <general>
+   <startdate>2022-08-14 20:43:34</startdate>
+   <players>
+    <player seat="1" name="KekeVahvakasi" win="€0" dealer="1" bet="€0,50" chips="€126,06"/>
+    <player seat="5" name="13373678" win="€1" dealer="0" bet="€1" chips="€129,21"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KekeVahvakasi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA HJ</cards>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KekeVahvakasi" type="0"/>
+  </round>
+ </game>
+</session>

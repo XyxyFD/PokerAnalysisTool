@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4079901944">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:53</duration>
+  <gamecount>3</gamecount>
+  <startdate>2022-07-30 13:30:41</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€16,50</bets>
+  <wins>€8,88</wins>
+  <chipsin>€101,88</chipsin>
+  <chipsout>€103,88</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3698754846">
+  <general>
+   <startdate>2022-07-30 13:30:41</startdate>
+   <players>
+    <player win="€3,88" chips="€100" bet="€5" seat="1" name="13373678" dealer="1"/>
+    <player win="€0" chips="€100" bet="€2" seat="5" name="MaxMoney" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="MaxMoney"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 HQ</cards>
+   <action sum="€2" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="MaxMoney">X X</cards>
+   <action sum="€1" no="4" type="3" player="MaxMoney"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D5 HA</cards>
+   <action sum="€0" no="5" type="4" player="MaxMoney"/>
+   <action sum="€3" no="6" type="5" player="13373678"/>
+   <action sum="€0" no="7" type="0" player="MaxMoney"/>
+  </round>
+ </game>
+ <game gamecode="3698754891">
+  <general>
+   <startdate>2022-07-30 13:31:16</startdate>
+   <players>
+    <player win="€5" chips="€101,88" bet="€11" seat="1" name="13373678" dealer="0"/>
+    <player win="€0" chips="€100" bet="€2,50" seat="5" name="MaxMoney" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="MaxMoney"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaxMoney">X X</cards>
+   <action sum="€2,50" no="3" type="23" player="MaxMoney"/>
+   <cards type="Pocket" player="13373678">C6 C3</cards>
+   <action sum="€11" no="4" type="23" player="13373678"/>
+   <action sum="€0" no="5" type="0" player="MaxMoney"/>
+  </round>
+ </game>
+ <game gamecode="3698754913">
+  <general>
+   <startdate>2022-07-30 13:31:31</startdate>
+   <players>
+    <player win="€0" chips="€104,38" bet="€0,50" seat="1" name="13373678" dealer="1"/>
+    <player win="€1" chips="€100" bet="€1" seat="5" name="MaxMoney" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="MaxMoney"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaxMoney">X X</cards>
+   <cards type="Pocket" player="13373678">C4 D3</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+  </round>
+ </game>
+</session>

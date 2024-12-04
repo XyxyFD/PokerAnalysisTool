@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4153761819">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:01:14</duration>
+  <gamecount>2</gamecount>
+  <startdate>2024-10-30 18:25:39</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€24,72</bets>
+  <wins>€0</wins>
+  <chipsin>€75,78</chipsin>
+  <chipsout>€99,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3943561033">
+  <general>
+   <startdate>2024-10-30 18:25:39</startdate>
+   <players>
+    <player dealer="1" bet="€227,50" win="€47,94" chips="€227,50" seat="5" name="orochi"/>
+    <player dealer="0" bet="€24,22" win="€0" chips="€100" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="orochi" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <action sum="€2,22" no="3" player="orochi" type="23"/>
+   <cards player="13373678" type="Pocket">HA C5</cards>
+   <action sum="€10,44" no="4" player="13373678" type="23"/>
+   <action sum="€8,22" no="5" player="orochi" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D3 S6</cards>
+   <action sum="€13,78" no="6" player="13373678" type="5"/>
+   <action sum="€13,78" no="7" player="orochi" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€0" no="8" player="13373678" type="4"/>
+   <action sum="€0" no="9" player="orochi" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€203,28" no="11" player="orochi" type="5"/>
+   <action sum="€0" no="12" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943562928">
+  <general>
+   <startdate>2024-10-30 18:26:50</startdate>
+   <players>
+    <player dealer="0" bet="€1" win="€1" chips="€251,22" seat="5" name="orochi"/>
+    <player dealer="1" bet="€0,50" win="€0" chips="€100" seat="6" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="orochi" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="orochi" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 C8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4078198070">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:10:36</duration>
+  <gamecount>22</gamecount>
+  <startdate>2022-07-05 19:03:29</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€16</bets>
+  <wins>€10,50</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€103,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3692957748">
+  <general>
+   <startdate>2022-07-05 19:03:29</startdate>
+   <players>
+    <player chips="€347,89" seat="1" win="€0" bet="€52,43" name="Player 1" dealer="0"/>
+    <player chips="€137,99" seat="3" win="€0" bet="€0" name="Player 3" dealer="1"/>
+    <player chips="€105,59" seat="5" win="€0" bet="€0,50" name="Player 5" dealer="0"/>
+    <player chips="€49,76" seat="10" win="€98,02" bet="€49,76" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,50"/>
+   <action player="Player 10" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">H10 H9</cards>
+   <action player="Player 1" type="23" no="3" sum="€2,50"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="4" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="5" sum="€0"/>
+   <cards player="Player 10" type="Pocket">CA H5</cards>
+   <action player="Player 10" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D6 C5</cards>
+   <action player="Player 10" type="4" no="7" sum="€0"/>
+   <action player="Player 1" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Player 10" type="5" no="9" sum="€3,85"/>
+   <action player="Player 1" type="23" no="10" sum="€11,93"/>
+   <action player="Player 10" type="3" no="11" sum="€8,08"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action player="Player 10" type="4" no="12" sum="€0"/>
+   <action player="Player 1" type="5" no="13" sum="€38"/>
+   <action player="Player 10" type="7" no="14" sum="€35,33"/>
+  </round>
+ </game>
+ <game gamecode="3692957888">
+  <general>
+   <startdate>2022-07-05 19:04:32</startdate>
+   <players>
+    <player chips="€298,13" seat="1" win="€2" bet="€4,50" name="Player 1" dealer="0"/>
+    <player chips="€137,99" seat="3" win="€0" bet="€0" name="Player 3" dealer="0"/>
+    <player chips="€105,09" seat="5" win="€0" bet="€0" name="Player 5" dealer="1"/>
+    <player chips="€98,02" seat="10" win="€0" bet="€1" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" type="1" no="1" sum="€0,50"/>
+   <action player="Player 1" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="3" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="4" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="3" no="5" sum="€0,50"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="23" no="6" sum="€4,50"/>
+   <action player="Player 10" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692957917">
+  <general>
+   <startdate>2022-07-05 19:04:48</startdate>
+   <players>
+    <player chips="€299,13" seat="1" win="€0" bet="€3" name="Player 1" dealer="0"/>
+    <player chips="€137,99" seat="3" win="€5,82" bet="€4,80" name="Player 3" dealer="0"/>
+    <player chips="€105,09" seat="5" win="€0" bet="€0" name="Player 5" dealer="0"/>
+    <player chips="€97,02" seat="10" win="€0" bet="€0" name="Player 10" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" no="1" sum="€0,50"/>
+   <action player="Player 3" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="3" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="4" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="23" no="5" sum="€3"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="3" no="6" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S5 S2</cards>
+   <action player="Player 1" type="4" no="7" sum="€0"/>
+   <action player="Player 3" type="5" no="8" sum="€1,80"/>
+   <action player="Player 1" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692958780">
+  <general>
+   <startdate>2022-07-05 19:05:23</startdate>
+   <players>
+    <player chips="€296,13" seat="1" win="€0" bet="€43,67" name="Player 1" dealer="1"/>
+    <player chips="€140,81" seat="3" win="€0" bet="€0,50" name="Player 3" dealer="0"/>
+    <player chips="€105,09" seat="5" win="€85,84" bet="€43,67" name="Player 5" dealer="0"/>
+    <player chips="€97,02" seat="10" win="€0" bet="€0" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" type="1" no="1" sum="€0,50"/>
+   <action player="Player 5" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="3" sum="€0"/>
+   <cards player="Player 1" type="Pocket">C8 C7</cards>
+   <action player="Player 1" type="23" no="4" sum="€2,50"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="5" sum="€0"/>
+   <cards player="Player 5" type="Pocket">D6 SA</cards>
+   <action player="Player 5" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H3 C6</cards>
+   <action player="Player 5" type="4" no="7" sum="€0"/>
+   <action player="Player 1" type="5" no="8" sum="€3,85"/>
+   <action player="Player 5" type="23" no="9" sum="€10,70"/>
+   <action player="Player 1" type="3" no="10" sum="€6,85"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="Player 5" type="5" no="11" sum="€14"/>
+   <action player="Player 1" type="3" no="12" sum="€14"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action player="Player 5" type="4" no="13" sum="€0"/>
+   <action player="Player 1" type="5" no="14" sum="€16,47"/>
+   <action player="Player 5" type="3" no="15" sum="€16,47"/>
+  </round>
+ </game>
+ <game gamecode="3692958983">
+  <general>
+   <startdate>2022-07-05 19:07:04</startdate>
+   <players>
+    <player chips="€252,46" seat="1" win="€0" bet="€0" name="Player 1" dealer="0"/>
+    <player chips="€140,31" seat="3" win="€0" bet="€0" name="Player 3" dealer="1"/>
+    <player chips="€147,26" seat="5" win="€0" bet="€0,50" name="Player 5" dealer="0"/>
+    <player chips="€101" seat="6" win="€0" bet="€1" name="Player 6" dealer="0"/>
+    <player chips="€97,02" seat="10" win="€2,50" bet="€3" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,50"/>
+   <action player="Player 6" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="23" no="3" sum="€3"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="4" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="5" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="6" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959021">
+  <general>
+   <startdate>2022-07-05 19:07:23</startdate>
+   <players>
+    <player chips="€252,46" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="0"/>
+    <player chips="€140,31" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€146,76" seat="5" win="€0" bet="€0" name="Apathey" dealer="1"/>
+    <player chips="€100" seat="6" win="€0" bet="€0,50" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€1" bet="€1" name="13373678" dealer="0"/>
+    <player chips="€98,52" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 DK</cards>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="3" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="4" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="5" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="6" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959043">
+  <general>
+   <startdate>2022-07-05 19:07:38</startdate>
+   <players>
+    <player chips="€252,46" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="0"/>
+    <player chips="€140,31" seat="3" win="€2,50" bet="€2,25" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€146,76" seat="5" win="€0" bet="€0" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€0" name="Grinding4Emma" dealer="1"/>
+    <player chips="€100,50" seat="8" win="€0" bet="€0,50" name="13373678" dealer="0"/>
+    <player chips="€98,52" seat="10" win="€0" bet="€1" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Ansssi221" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="3" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="23" no="4" sum="€2,25"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S3 SK</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959083">
+  <general>
+   <startdate>2022-07-05 19:07:54</startdate>
+   <players>
+    <player chips="€252,46" seat="1" win="€2" bet="€5" name="sdfghreh" dealer="0"/>
+    <player chips="€141,81" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€146,76" seat="5" win="€0" bet="€0" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€0" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€0" bet="€0" name="13373678" dealer="1"/>
+    <player chips="€97,52" seat="10" win="€0" bet="€1" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Ansssi221" type="1" no="1" sum="€0,50"/>
+   <action player="sdfghreh" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="3" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="4" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">C8 D7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="3" no="7" sum="€0,50"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="23" no="8" sum="€5"/>
+   <action player="Ansssi221" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959115">
+  <general>
+   <startdate>2022-07-05 19:08:10</startdate>
+   <players>
+    <player chips="€253,46" seat="1" win="€120,40" bet="€60,70" name="sdfghreh" dealer="0"/>
+    <player chips="€141,81" seat="3" win="€0" bet="€1" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€146,76" seat="5" win="€0" bet="€60,70" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€0" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€0" bet="€0" name="13373678" dealer="0"/>
+    <player chips="€96,52" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="sdfghreh" type="1" no="1" sum="€0,50"/>
+   <action player="RiverhItme1mtime" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Apathey" type="Pocket">S9 C9</cards>
+   <action player="Apathey" type="23" no="3" sum="€3"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">D10 C2</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="6" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">SQ HA</cards>
+   <action player="sdfghreh" type="23" no="7" sum="€13"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="8" sum="€0"/>
+   <action player="Apathey" type="3" no="9" sum="€10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H2 C3</cards>
+   <action player="sdfghreh" type="4" no="10" sum="€0"/>
+   <action player="Apathey" type="5" no="11" sum="€12"/>
+   <action player="sdfghreh" type="3" no="12" sum="€12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="sdfghreh" type="4" no="13" sum="€0"/>
+   <action player="Apathey" type="4" no="14" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="sdfghreh" type="5" no="15" sum="€35,70"/>
+   <action player="Apathey" type="3" no="16" sum="€35,70"/>
+  </round>
+ </game>
+ <game gamecode="3692959272">
+  <general>
+   <startdate>2022-07-05 19:09:25</startdate>
+   <players>
+    <player chips="€313,16" seat="1" win="€0" bet="€9" name="sdfghreh" dealer="1"/>
+    <player chips="€140,81" seat="3" win="€0" bet="€0,50" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€100" seat="5" win="€17,94" bet="€19" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€0" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€0" bet="€0" name="13373678" dealer="0"/>
+    <player chips="€96,52" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RiverhItme1mtime" type="1" no="1" sum="€0,50"/>
+   <action player="Apathey" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H9 D4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="5" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="23" no="6" sum="€2,50"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="7" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="23" no="8" sum="€9"/>
+   <action player="sdfghreh" type="3" no="9" sum="€6,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S5 CA</cards>
+   <action player="Apathey" type="5" no="10" sum="€10"/>
+   <action player="sdfghreh" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959352">
+  <general>
+   <startdate>2022-07-05 19:09:56</startdate>
+   <players>
+    <player chips="€304,16" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="0"/>
+    <player chips="€140,31" seat="3" win="€0" bet="€2,12" name="RiverhItme1mtime" dealer="1"/>
+    <player chips="€108,94" seat="5" win="€5,09" bet="€5,12" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€1" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€0" bet="€0" name="13373678" dealer="0"/>
+    <player chips="€96,52" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Apathey" type="1" no="1" sum="€0,50"/>
+   <action player="Grinding4Emma" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 C6</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="4" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="5" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="23" no="6" sum="€2,12"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="3" no="7" sum="€1,62"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H3 S6</cards>
+   <action player="Apathey" type="4" no="9" sum="€0"/>
+   <action player="RiverhItme1mtime" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action player="Apathey" type="5" no="11" sum="€3"/>
+   <action player="RiverhItme1mtime" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959649">
+  <general>
+   <startdate>2022-07-05 19:10:27</startdate>
+   <players>
+    <player chips="€304,16" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="0"/>
+    <player chips="€138,19" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€111,91" seat="5" win="€0" bet="€0" name="Apathey" dealer="1"/>
+    <player chips="€100" seat="6" win="€0" bet="€0,50" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€1" bet="€1" name="13373678" dealer="0"/>
+    <player chips="€96,52" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Grinding4Emma" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ C4</cards>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="3" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="4" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="5" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="6" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959700">
+  <general>
+   <startdate>2022-07-05 19:10:46</startdate>
+   <players>
+    <player chips="€304,16" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="0"/>
+    <player chips="€138,19" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€111,91" seat="5" win="€0" bet="€0" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€2" name="Grinding4Emma" dealer="1"/>
+    <player chips="€100,50" seat="8" win="€0" bet="€0,50" name="13373678" dealer="0"/>
+    <player chips="€96,52" seat="10" win="€4,50" bet="€10" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Ansssi221" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="3" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="4" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="5" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="6" sum="€2"/>
+   <cards player="13373678" type="Pocket">CK D2</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="23" no="8" sum="€10"/>
+   <action player="Grinding4Emma" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959777">
+  <general>
+   <startdate>2022-07-05 19:11:20</startdate>
+   <players>
+    <player chips="€304,16" seat="1" win="€2" bet="€4,50" name="sdfghreh" dealer="0"/>
+    <player chips="€138,19" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€111,91" seat="5" win="€0" bet="€0" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€0" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€0" bet="€0" name="13373678" dealer="1"/>
+    <player chips="€99,02" seat="10" win="€0" bet="€1" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Ansssi221" type="1" no="1" sum="€0,50"/>
+   <action player="sdfghreh" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="3" sum="€0"/>
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="4" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D5 C2</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="3" no="7" sum="€0,50"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="23" no="8" sum="€4,50"/>
+   <action player="Ansssi221" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959830">
+  <general>
+   <startdate>2022-07-05 19:11:41</startdate>
+   <players>
+    <player chips="€305,16" seat="1" win="€0" bet="€0,50" name="sdfghreh" dealer="0"/>
+    <player chips="€138,19" seat="3" win="€0" bet="€1" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€111,91" seat="5" win="€0" bet="€0" name="Apathey" dealer="0"/>
+    <player chips="€100" seat="6" win="€0" bet="€2" name="Grinding4Emma" dealer="0"/>
+    <player chips="€100" seat="8" win="€5,50" bet="€7,50" name="13373678" dealer="0"/>
+    <player chips="€98,02" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="sdfghreh" type="1" no="1" sum="€0,50"/>
+   <action player="RiverhItme1mtime" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Apathey" type="Pocket">X X</cards>
+   <action player="Apathey" type="0" no="3" sum="€0"/>
+   <cards player="Grinding4Emma" type="Pocket">X X</cards>
+   <action player="Grinding4Emma" type="23" no="4" sum="€2"/>
+   <cards player="13373678" type="Pocket">CJ SK</cards>
+   <action player="13373678" type="23" no="5" sum="€7,50"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="6" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="7" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="8" sum="€0"/>
+   <action player="Grinding4Emma" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959890">
+  <general>
+   <startdate>2022-07-05 19:12:03</startdate>
+   <players>
+    <player chips="€304,66" seat="1" win="€0" bet="€0" name="sdfghreh" dealer="1"/>
+    <player chips="€137,19" seat="3" win="€0" bet="€0,50" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€103,50" seat="8" win="€1" bet="€1" name="13373678" dealer="0"/>
+    <player chips="€98,02" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RiverhItme1mtime" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 D2</cards>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="3" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="4" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692959924">
+  <general>
+   <startdate>2022-07-05 19:12:16</startdate>
+   <players>
+    <player chips="€304,66" seat="1" win="€5,34" bet="€6,35" name="sdfghreh" dealer="0"/>
+    <player chips="€136,69" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="1"/>
+    <player chips="€104" seat="8" win="€0" bet="€0,50" name="13373678" dealer="0"/>
+    <player chips="€98,02" seat="10" win="€0" bet="€2,50" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Ansssi221" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="23" no="3" sum="€2,50"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S2 D6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="3" no="6" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ SK D8</cards>
+   <action player="Ansssi221" type="4" no="7" sum="€0"/>
+   <action player="sdfghreh" type="5" no="8" sum="€3,85"/>
+   <action player="Ansssi221" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692960010">
+  <general>
+   <startdate>2022-07-05 19:12:53</startdate>
+   <players>
+    <player chips="€136,69" seat="3" win="€1" bet="€1" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€103,50" seat="8" win="€0" bet="€0" name="13373678" dealer="1"/>
+    <player chips="€95,52" seat="10" win="€0" bet="€0,50" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Ansssi221" type="1" no="1" sum="€0,50"/>
+   <action player="RiverhItme1mtime" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">DA S2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692960034">
+  <general>
+   <startdate>2022-07-05 19:13:01</startdate>
+   <players>
+    <player chips="€137,19" seat="3" win="€0" bet="€0,50" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€100" seat="5" win="€1" bet="€1" name="CowCane" dealer="0"/>
+    <player chips="€103,50" seat="8" win="€0" bet="€0" name="13373678" dealer="0"/>
+    <player chips="€95,02" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RiverhItme1mtime" type="1" no="1" sum="€0,50"/>
+   <action player="CowCane" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="CowCane" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C5 H8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="4" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692961095">
+  <general>
+   <startdate>2022-07-05 19:13:23</startdate>
+   <players>
+    <player chips="€136,69" seat="3" win="€2,50" bet="€2,12" name="RiverhItme1mtime" dealer="1"/>
+    <player chips="€100,50" seat="5" win="€0" bet="€0,50" name="CowCane" dealer="0"/>
+    <player chips="€103,50" seat="8" win="€0" bet="€1" name="13373678" dealer="0"/>
+    <player chips="€95,02" seat="10" win="€0" bet="€0" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CowCane" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="3" sum="€0"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="23" no="4" sum="€2,12"/>
+   <cards player="CowCane" type="Pocket">X X</cards>
+   <action player="CowCane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D9 S7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692961139">
+  <general>
+   <startdate>2022-07-05 19:13:38</startdate>
+   <players>
+    <player chips="€138,19" seat="3" win="€0" bet="€0" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€100" seat="5" win="€0" bet="€0" name="CowCane" dealer="1"/>
+    <player chips="€102,50" seat="8" win="€2" bet="€3" name="13373678" dealer="0"/>
+    <player chips="€95,02" seat="10" win="€0" bet="€1" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="Ansssi221" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="3" sum="€0"/>
+   <cards player="CowCane" type="Pocket">X X</cards>
+   <action player="CowCane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">HK H7</cards>
+   <action player="13373678" type="23" no="5" sum="€3"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3692961172">
+  <general>
+   <startdate>2022-07-05 19:13:52</startdate>
+   <players>
+    <player chips="€138,19" seat="3" win="€0" bet="€1" name="RiverhItme1mtime" dealer="0"/>
+    <player chips="€100" seat="5" win="€0" bet="€0" name="CowCane" dealer="0"/>
+    <player chips="€103,50" seat="8" win="€0" bet="€0" name="13373678" dealer="1"/>
+    <player chips="€94,02" seat="10" win="€2" bet="€3,50" name="Ansssi221" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Ansssi221" type="1" no="1" sum="€0,50"/>
+   <action player="RiverhItme1mtime" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="CowCane" type="Pocket">X X</cards>
+   <action player="CowCane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">D7 C5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Ansssi221" type="Pocket">X X</cards>
+   <action player="Ansssi221" type="23" no="5" sum="€3,50"/>
+   <cards player="RiverhItme1mtime" type="Pocket">X X</cards>
+   <action player="RiverhItme1mtime" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+</session>

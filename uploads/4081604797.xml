@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081604797">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:25</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-08-21 00:34:46</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,75</bets>
+  <wins>€1</wins>
+  <chipsin>€50,50</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3704150318">
+  <general>
+   <startdate>2022-08-21 00:34:46</startdate>
+   <players>
+    <player bet="€1,25" dealer="1" seat="1" win="€1" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PopDonkey" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="13373678"/>
+   <action type="2" no="2" sum="€0,50" player="PopDonkey"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C7 C9</cards>
+   <action type="23" no="3" sum="€1,25" player="13373678"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="0" no="4" sum="€0" player="PopDonkey"/>
+  </round>
+ </game>
+ <game gamecode="3704150332">
+  <general>
+   <startdate>2022-08-21 00:34:55</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="13373678" chips="€50,50"/>
+    <player bet="€1,50" dealer="1" seat="5" win="€1" name="PopDonkey" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,25" player="PopDonkey"/>
+   <action type="2" no="2" sum="€0,50" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action type="23" no="3" sum="€1,50" player="PopDonkey"/>
+   <cards type="Pocket" player="13373678">SQ H4</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+  </round>
+ </game>
+</session>

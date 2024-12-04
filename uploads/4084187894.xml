@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4084187894">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 11, 488046336</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:59</duration>
+  <gamecount>3</gamecount>
+  <startdate>2022-09-23 23:52:07</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€7</bets>
+  <wins>€4</wins>
+  <chipsin>€101</chipsin>
+  <chipsout>€101</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3712766701">
+  <general>
+   <startdate>2022-09-23 23:52:07</startdate>
+   <players>
+    <player chips="€100" win="€2" bet="€2,50" name="13373678" dealer="1" seat="1"/>
+    <player chips="€100" win="€0" bet="€1" name="MarytHS" dealer="0" seat="3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="13373678" sum="€0,50"/>
+   <action type="2" no="2" player="MarytHS" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 SA</cards>
+   <action type="23" no="3" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="MarytHS">X X</cards>
+   <action type="0" no="4" player="MarytHS" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712766723">
+  <general>
+   <startdate>2022-09-23 23:52:16</startdate>
+   <players>
+    <player chips="€101" win="€0" bet="€2" name="13373678" dealer="0" seat="1"/>
+    <player chips="€100" win="€3,88" bet="€4" name="MarytHS" dealer="1" seat="3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="MarytHS" sum="€0,50"/>
+   <action type="2" no="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MarytHS">X X</cards>
+   <action type="23" no="3" player="MarytHS" sum="€2"/>
+   <cards type="Pocket" player="13373678">H6 HQ</cards>
+   <action type="3" no="4" player="13373678" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 SJ CJ</cards>
+   <action type="4" no="5" player="13373678" sum="€0"/>
+   <action type="5" no="6" player="MarytHS" sum="€2"/>
+   <action type="0" no="7" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3712766824">
+  <general>
+   <startdate>2022-09-23 23:52:59</startdate>
+   <players>
+    <player chips="€100" win="€2" bet="€2,50" name="13373678" dealer="1" seat="1"/>
+    <player chips="€101,88" win="€0" bet="€1" name="MarytHS" dealer="0" seat="3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" player="13373678" sum="€0,50"/>
+   <action type="2" no="2" player="MarytHS" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ DQ</cards>
+   <action type="23" no="3" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="MarytHS">X X</cards>
+   <action type="0" no="4" player="MarytHS" sum="€0"/>
+  </round>
+ </game>
+</session>

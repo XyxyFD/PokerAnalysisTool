@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4146445068">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:26:19</duration>
+  <gamecount>40</gamecount>
+  <startdate>2024-08-13 23:25:39</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€116,12</bets>
+  <wins>€48,13</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€111,30</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3918943570">
+  <general>
+   <startdate>2024-08-13 23:25:39</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€109,32" win="€0" bet="€1" name="Player 1"/>
+    <player seat="3" dealer="0" chips="€104,28" win="€0" bet="€7,61" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€0" name="Player 5"/>
+    <player seat="6" dealer="1" chips="€113,50" win="€0" bet="€2,11" name="Player 6"/>
+    <player seat="8" dealer="0" chips="€33,63" win="€17,78" bet="€7,61" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 8" sum="€0,50" no="1" type="1"/>
+   <action player="Player 1" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">H7 H9</cards>
+   <action player="Player 3" sum="€2,11" no="3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€0" no="4" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€2,11" no="5" type="3"/>
+   <cards player="Player 8" type="Pocket">D3 S3</cards>
+   <action player="Player 8" sum="€1,61" no="6" type="3"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ S4 C7</cards>
+   <action player="Player 8" sum="€0" no="8" type="4"/>
+   <action player="Player 3" sum="€0" no="9" type="4"/>
+   <action player="Player 6" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="Player 8" sum="€0" no="11" type="4"/>
+   <action player="Player 3" sum="€5,50" no="12" type="5"/>
+   <action player="Player 6" sum="€0" no="13" type="0"/>
+   <action player="Player 8" sum="€5,50" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action player="Player 8" sum="€0" no="15" type="4"/>
+   <action player="Player 3" sum="€0" no="16" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918943746">
+  <general>
+   <startdate>2024-08-13 23:26:55</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€108,32" win="€0" bet="€0,50" name="Player 1"/>
+    <player seat="3" dealer="0" chips="€100" win="€4,37" bet="€6,50" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€0" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€111,39" win="€0" bet="€0" name="Player 6"/>
+    <player seat="8" dealer="1" chips="€43,80" win="€0" bet="€2" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" sum="€0,50" no="1" type="1"/>
+   <action player="Player 3" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€0" no="3" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" no="4" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€2" no="5" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" no="6" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€1" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D4 H5</cards>
+   <action player="Player 3" sum="€0" no="8" type="4"/>
+   <action player="Player 8" sum="€0" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="Player 3" sum="€4,50" no="10" type="5"/>
+   <action player="Player 8" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943836">
+  <general>
+   <startdate>2024-08-13 23:27:28</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€107,82" win="€0" bet="€0" name="Player 1"/>
+    <player seat="3" dealer="0" chips="€102,37" win="€0" bet="€0,50" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€1" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€111,39" win="€2,50" bet="€2,25" name="Player 6"/>
+    <player seat="8" dealer="0" chips="€41,80" win="€0" bet="€0" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" sum="€0,50" no="1" type="1"/>
+   <action player="Player 5" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€2,25" no="3" type="23"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€0" no="4" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" no="5" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" no="6" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943901">
+  <general>
+   <startdate>2024-08-13 23:27:55</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€107,82" win="€0" bet="€0" name="Player 1"/>
+    <player seat="3" dealer="1" chips="€101,87" win="€0" bet="€0" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€199,82" win="€2" bet="€3" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€112,89" win="€0" bet="€1" name="Player 6"/>
+    <player seat="8" dealer="0" chips="€41,80" win="€0" bet="€0" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" sum="€0,50" no="1" type="1"/>
+   <action player="Player 6" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€0" no="3" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" no="4" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" no="5" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€3" no="6" type="23"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943949">
+  <general>
+   <startdate>2024-08-13 23:28:19</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€107,82" win="€0" bet="€0" name="Player 1"/>
+    <player seat="3" dealer="0" chips="€101,87" win="€0" bet="€0" name="Player 3"/>
+    <player seat="5" dealer="1" chips="€200,82" win="€0" bet="€0" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€111,89" win="€0" bet="€0,50" name="Player 6"/>
+    <player seat="8" dealer="0" chips="€41,80" win="€1" bet="€1" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 6" sum="€0,50" no="1" type="1"/>
+   <action player="Player 8" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" no="3" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" no="4" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€0" no="5" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944033">
+  <general>
+   <startdate>2024-08-13 23:28:55</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€107,82" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€101,87" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€111,39" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€42,30" win="€1,94" bet="€3" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="6" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0,50" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">DQ C4</cards>
+   <action player="13373678" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D4 SK</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="13373678" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action player="Wal789" sum="€2" no="13" type="5"/>
+   <action player="13373678" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944310">
+  <general>
+   <startdate>2024-08-13 23:30:07</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€107,82" win="€0" bet="€1" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€101,87" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€111,39" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€43,24" win="€0" bet="€2" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€5" bet="€11" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="5" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">CQ CJ</cards>
+   <action player="13373678" sum="€11" no="7" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+   <action player="Wal789" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944376">
+  <general>
+   <startdate>2024-08-13 23:30:33</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,82" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€101,87" win="€10,67" bet="€5,25" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€111,39" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€41,24" win="€0" bet="€5,25" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€103" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="4" type="0"/>
+   <cards player="Wal789" type="Pocket">C6 DK</cards>
+   <action player="Wal789" sum="€1" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">D10 C2</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">HJ C7</cards>
+   <action player="Israelle" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D6 C9</cards>
+   <action player="Israelle" sum="€0" no="9" type="4"/>
+   <action player="Wal789" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="Israelle" sum="€1,50" no="11" type="5"/>
+   <action player="Wal789" sum="€1,50" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action player="Israelle" sum="€2,75" no="13" type="5"/>
+   <action player="Wal789" sum="€2,75" no="14" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918944454">
+  <general>
+   <startdate>2024-08-13 23:31:05</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€106,32" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€107,29" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€200,82" win="€6,50" bet="€12" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€111,39" win="€0" bet="€2" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€35,99" win="€0" bet="€2" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€103" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2" no="3" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">S6 C7</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€12" no="8" type="23"/>
+   <action player="Janika93" sum="€0" no="9" type="0"/>
+   <action player="Wal789" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944540">
+  <general>
+   <startdate>2024-08-13 23:31:45</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,32" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="1" chips="€106,79" win="€0" bet="€2,13" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€205,32" win="€5,26" bet="€11" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€109,39" win="€0" bet="€1" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€33,99" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€103" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SK H7</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,13" no="6" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€11" no="7" type="23"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="8" type="0"/>
+   <action player="Israelle" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944977">
+  <general>
+   <startdate>2024-08-13 23:32:10</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,32" win="€8,16" bet="€8,17" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€104,66" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€208,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€108,39" win="€0" bet="€0,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€33,99" win="€8,17" bet="€8,17" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€103" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 SA</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">HA H4</cards>
+   <action player="126782814592" sum="€2" no="4" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="7" type="0"/>
+   <cards player="Wal789" type="Pocket">D2 CA</cards>
+   <action player="Wal789" sum="€1" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK D3 H3</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="126782814592" sum="€1,12" no="10" type="5"/>
+   <action player="Wal789" sum="€1,12" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action player="Wal789" sum="€0" no="12" type="4"/>
+   <action player="126782814592" sum="€5,05" no="13" type="5"/>
+   <action player="Wal789" sum="€5,05" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="Wal789" sum="€0" no="15" type="4"/>
+   <action player="126782814592" sum="€0" no="16" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918945082">
+  <general>
+   <startdate>2024-08-13 23:33:03</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,31" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€104,66" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€208,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€107,89" win="€2,50" bet="€2,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€33,99" win="€0" bet="€0,50" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€103" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,50" no="6" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">C5 D6</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918945120">
+  <general>
+   <startdate>2024-08-13 23:33:19</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,31" win="€0" bet="€2,25" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€104,66" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€208,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€109,39" win="€0" bet="€2,25" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€33,49" win="€7,04" bet="€9,50" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€102" win="€0" bet="€0,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,25" no="5" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2,25" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">CJ C3</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€1,25" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D8 D6</cards>
+   <action player="126782814592" sum="€0" no="9" type="4"/>
+   <action player="Janika93" sum="€0" no="10" type="4"/>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="126782814592" sum="€0" no="12" type="4"/>
+   <action player="Janika93" sum="€0" no="13" type="4"/>
+   <action player="Wal789" sum="€0" no="14" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action player="126782814592" sum="€0" no="15" type="4"/>
+   <action player="Janika93" sum="€0" no="16" type="4"/>
+   <action player="Wal789" sum="€7,25" no="17" type="5"/>
+   <action player="126782814592" sum="€0" no="18" type="0"/>
+   <action player="Janika93" sum="€0" no="19" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946144">
+  <general>
+   <startdate>2024-08-13 23:34:10</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€104,06" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€104,66" win="€0" bet="€1" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€208,45" win="€16,50" bet="€20" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€107,14" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€38,28" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€101,50" win="€0" bet="€7,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€2,15" no="3" type="23"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="4" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S4 S5</cards>
+   <action player="13373678" sum="€7,50" no="6" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+   <action player="Toppilanmies" sum="€20" no="9" type="23"/>
+   <action player="13373678" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946206">
+  <general>
+   <startdate>2024-08-13 23:34:40</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€103,56" win="€3,50" bet="€4" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€103,66" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€217,45" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€107,14" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€38,28" win="€0" bet="€1" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="3" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">D4 CK</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€4" no="6" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+   <action player="Wal789" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946253">
+  <general>
+   <startdate>2024-08-13 23:35:00</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,06" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="1" chips="€103,16" win="€206,32" bet="€103,16" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€216,45" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€107,14" win="€0" bet="€107,14" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€37,28" win="€0" bet="€1" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">H8 H2</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">S5 S6</cards>
+   <action player="Israelle" sum="€1" no="6" type="3"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0,50" no="7" type="3"/>
+   <cards player="Janika93" type="Pocket">H5 S4</cards>
+   <action player="Janika93" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C10 S3</cards>
+   <action player="Toppilanmies" sum="€0" no="9" type="4"/>
+   <action player="Janika93" sum="€0" no="10" type="4"/>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="Israelle" sum="€2" no="12" type="5"/>
+   <action player="Toppilanmies" sum="€0" no="13" type="0"/>
+   <action player="Janika93" sum="€7" no="14" type="23"/>
+   <action player="Wal789" sum="€0" no="15" type="0"/>
+   <action player="Israelle" sum="€5" no="16" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="Janika93" sum="€13,50" no="17" type="5"/>
+   <action player="Israelle" sum="€13,50" no="18" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action player="Janika93" sum="€85,64" no="19" type="5"/>
+   <action player="Israelle" sum="€81,66" no="20" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3918946425">
+  <general>
+   <startdate>2024-08-13 23:36:25</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,06" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,32" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€215,45" win="€0" bet="€2,50" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€36,28" win="€5,34" bet="€5,25" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 H5</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€2,50" no="6" type="23"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="7" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 DA CQ</cards>
+   <action player="Wal789" sum="€2,75" no="9" type="5"/>
+   <action player="Toppilanmies" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946508">
+  <general>
+   <startdate>2024-08-13 23:37:05</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,06" win="€0" bet="€2" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,32" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€212,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€100" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€39,12" win="€4,85" bet="€7" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€2" no="3" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="6" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1,50" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">S2 C4</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 S5 H4</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="126782814592" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="126782814592" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action player="Wal789" sum="€5" no="13" type="5"/>
+   <action player="126782814592" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946613">
+  <general>
+   <startdate>2024-08-13 23:37:56</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€104,06" win="€0" bet="€1" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,32" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€212,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€41,97" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€2" bet="€3" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="5" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">H5 DA</cards>
+   <action player="13373678" sum="€3" no="7" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946660">
+  <general>
+   <startdate>2024-08-13 23:38:23</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€103,06" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,32" win="€0" bet="€1" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€212,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€41,97" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€101" win="€2,50" bet="€2,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="4" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C9 H8</cards>
+   <action player="13373678" sum="€2,50" no="6" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946744">
+  <general>
+   <startdate>2024-08-13 23:38:56</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€102,56" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€205,32" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€212,95" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€41,97" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€102,50" win="€2,50" bet="€2,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="3" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">SJ S8</cards>
+   <action player="13373678" sum="€2,50" no="5" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946882">
+  <general>
+   <startdate>2024-08-13 23:39:25</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€102,56" win="€0" bet="€4" name="126782814592"/>
+    <player seat="3" dealer="1" chips="€204,82" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€211,95" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€0" bet="€1" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€41,97" win="€9,22" bet="€8,75" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€104" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">H3 S10</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€4" no="5" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="8" type="0"/>
+   <action player="Wal789" sum="€3" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 SQ D7</cards>
+   <action player="Wal789" sum="€0" no="10" type="4"/>
+   <action player="126782814592" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="Wal789" sum="€0" no="12" type="4"/>
+   <action player="126782814592" sum="€0" no="13" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action player="Wal789" sum="€4,75" no="14" type="5"/>
+   <action player="126782814592" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947006">
+  <general>
+   <startdate>2024-08-13 23:40:23</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€204,82" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€211,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€5,82" bet="€5" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€47,19" win="€0" bet="€3" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€104" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ C3</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€3" no="7" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S4 SA</cards>
+   <action player="Janika93" sum="€2" no="9" type="5"/>
+   <action player="Wal789" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947145">
+  <general>
+   <startdate>2024-08-13 23:41:26</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€204,82" win="€13,13" bet="€16,42" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€211,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€102,82" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€44,19" win="€0" bet="€6,27" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€104" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,21" no="4" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="6" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1,71" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">CJ D6</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D3 HA</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="Israelle" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="Israelle" sum="€4,06" no="12" type="5"/>
+   <action player="Wal789" sum="€4,06" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action player="Wal789" sum="€0" no="14" type="4"/>
+   <action player="Israelle" sum="€10,15" no="15" type="5"/>
+   <action player="Wal789" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947548">
+  <general>
+   <startdate>2024-08-13 23:42:16</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€0" bet="€1" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€211,68" win="€0" bet="€2,25" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€211,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€102,82" win="€6" bet="€7,24" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€37,92" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€103" win="€0" bet="€0,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€2,25" no="3" type="23"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€7,24" no="5" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">S2 HK</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="8" type="0"/>
+   <action player="Israelle" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947592">
+  <general>
+   <startdate>2024-08-13 23:42:46</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€209,43" win="€0" bet="€1" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€211,45" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€106,57" win="€2,50" bet="€2,25" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€37,92" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€102,50" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,25" no="4" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D3</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947628">
+  <general>
+   <startdate>2024-08-13 23:43:08</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€100" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€208,43" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€211,45" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€108,07" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€37,92" win="€2,50" bet="€2" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€102,50" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="3" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">D10 H3</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947661">
+  <general>
+   <startdate>2024-08-13 23:43:27</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100" win="€10,50" bet="€12" name="126782814592"/>
+    <player seat="3" dealer="1" chips="€207,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€210,45" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€108,07" win="€0" bet="€1" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€39,42" win="€0" bet="€1" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€102,50" win="€0" bet="€4" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">SA S2</cards>
+   <action player="13373678" sum="€4" no="4" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€12" no="5" type="23"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="8" type="0"/>
+   <action player="Wal789" sum="€0" no="9" type="0"/>
+   <action player="13373678" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947717">
+  <general>
+   <startdate>2024-08-13 23:44:01</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€207,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€209,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€107,07" win="€0" bet="€0,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€38,42" win="€0" bet="€6,62" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€13,33" bet="€18,62" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 CA</cards>
+   <action player="13373678" sum="€2,50" no="3" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="7" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 DK S3</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="13373678" sum="€4,12" no="12" type="5"/>
+   <action player="Wal789" sum="€4,12" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action player="Wal789" sum="€0" no="14" type="4"/>
+   <action player="13373678" sum="€12" no="15" type="5"/>
+   <action player="Wal789" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947789">
+  <general>
+   <startdate>2024-08-13 23:44:46</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€207,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€209,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€106,57" win="€0" bet="€13,30" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€31,80" win="€26,77" bet="€13,30" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€106,71" win="€0" bet="€1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">C3 CQ</cards>
+   <action player="Janika93" sum="€2,50" no="6" type="23"/>
+   <cards player="Wal789" type="Pocket">HJ HQ</cards>
+   <action player="Wal789" sum="€2" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">S4 H7</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C10 H9</cards>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+   <action player="Janika93" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+   <action player="Janika93" sum="€3,90" no="12" type="5"/>
+   <action player="Wal789" sum="€3,90" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action player="Wal789" sum="€6,90" no="14" type="5"/>
+   <action player="Janika93" sum="€6,90" no="15" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918947890">
+  <general>
+   <startdate>2024-08-13 23:45:43</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€106,50" win="€0" bet="€5,15" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€207,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€209,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€100" win="€12,66" bet="€11,94" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€45,27" win="€0" bet="€2,25" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€105,71" win="€0" bet="€0,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="126782814592" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="3" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="4" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,25" no="5" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2,25" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">C8 DQ</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€1,25" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S3 C2</cards>
+   <action player="126782814592" sum="€0" no="9" type="4"/>
+   <action player="Janika93" sum="€2,90" no="10" type="5"/>
+   <action player="Wal789" sum="€0" no="11" type="0"/>
+   <action player="126782814592" sum="€2,90" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action player="126782814592" sum="€0" no="13" type="4"/>
+   <action player="Janika93" sum="€6,79" no="14" type="5"/>
+   <action player="126782814592" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918948855">
+  <general>
+   <startdate>2024-08-13 23:46:28</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€101,35" win="€0" bet="€0,50" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€207,93" win="€0" bet="€1" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€209,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€107,51" win="€2,50" bet="€2,25" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€43,02" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€105,21" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="126782814592" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,25" no="4" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C6 SA</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="7" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918948888">
+  <general>
+   <startdate>2024-08-13 23:46:48</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€100,85" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,93" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€209,95" win="€26" bet="€28" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€109,01" win="€0" bet="€2,25" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€43,02" win="€0" bet="€2,25" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€105,21" win="€0" bet="€10,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€2,25" no="3" type="23"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€2,25" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">D6 H6</cards>
+   <action player="13373678" sum="€10,50" no="5" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€28" no="8" type="23"/>
+   <action player="Janika93" sum="€0" no="9" type="0"/>
+   <action player="Wal789" sum="€0" no="10" type="0"/>
+   <action player="13373678" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918948985">
+  <general>
+   <startdate>2024-08-13 23:47:41</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100,85" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="1" chips="€206,43" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€225,45" win="€0" bet="€0,50" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€106,76" win="€0" bet="€1" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€40,77" win="€0" bet="€4" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€100" win="€9,22" bet="€32" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">D10 S10</cards>
+   <action player="13373678" sum="€4" no="4" type="23"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="8" type="0"/>
+   <action player="Wal789" sum="€3" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H8 D5</cards>
+   <action player="Wal789" sum="€0" no="10" type="4"/>
+   <action player="13373678" sum="€28" no="11" type="5"/>
+   <action player="Wal789" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918949099">
+  <general>
+   <startdate>2024-08-13 23:48:41</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100,85" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,43" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€224,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€105,76" win="€0" bet="€0,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€36,77" win="€1" bet="€1" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€105,22" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S7 HA</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="6" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918949131">
+  <general>
+   <startdate>2024-08-13 23:48:56</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€100,85" win="€0" bet="€0" name="126782814592"/>
+    <player seat="3" dealer="0" chips="€206,43" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€224,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="1" chips="€105,26" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€37,27" win="€0" bet="€7" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€105,22" win="€13,58" bet="€17,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Wal789" sum="€0,50" no="1" type="1"/>
+   <action player="13373678" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="126782814592" type="Pocket">X X</cards>
+   <action player="126782814592" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="6" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0,50" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">C9 H10</cards>
+   <action player="13373678" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 D4 D6</cards>
+   <action player="Wal789" sum="€2" no="9" type="5"/>
+   <action player="13373678" sum="€6" no="10" type="23"/>
+   <action player="Wal789" sum="€4" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="Wal789" sum="€0" no="12" type="4"/>
+   <action player="13373678" sum="€10,50" no="13" type="5"/>
+   <action player="Wal789" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918949245">
+  <general>
+   <startdate>2024-08-13 23:49:53</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€206,43" win="€0" bet="€1" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€224,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€105,26" win="€0" bet="€0" name="Janika93"/>
+    <player seat="8" dealer="1" chips="€30,27" win="€2,43" bet="€3,50" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€111,80" win="€0" bet="€0,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,50" no="1" type="1"/>
+   <action player="Israelle" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="3" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="4" type="0"/>
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€1" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">SQ C8</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="7" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C10 S10</cards>
+   <action player="Israelle" sum="€0" no="8" type="4"/>
+   <action player="Wal789" sum="€0" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="Israelle" sum="€0" no="10" type="4"/>
+   <action player="Wal789" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action player="Israelle" sum="€0" no="12" type="4"/>
+   <action player="Wal789" sum="€2,50" no="13" type="5"/>
+   <action player="Israelle" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918949741">
+  <general>
+   <startdate>2024-08-13 23:50:43</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€205,43" win="€0" bet="€0,50" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€224,95" win="€0" bet="€1" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€105,26" win="€5,82" bet="€5,25" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€31,70" win="€5,82" bet="€5,25" name="Wal789"/>
+    <player seat="10" dealer="1" chips="€111,30" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Israelle" sum="€0,50" no="1" type="1"/>
+   <action player="Toppilanmies" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">SJ DA</cards>
+   <action player="Janika93" sum="€2,25" no="3" type="23"/>
+   <cards player="Wal789" type="Pocket">D9 HA</cards>
+   <action player="Wal789" sum="€2,25" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">CJ H5</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="6" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H10 C2</cards>
+   <action player="Janika93" sum="€0" no="8" type="4"/>
+   <action player="Wal789" sum="€3" no="9" type="5"/>
+   <action player="Janika93" sum="€3" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="Janika93" sum="€0" no="11" type="4"/>
+   <action player="Wal789" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action player="Janika93" sum="€0" no="13" type="4"/>
+   <action player="Wal789" sum="€0" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918949825">
+  <general>
+   <startdate>2024-08-13 23:51:25</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€204,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="0" chips="€223,95" win="€2" bet="€3" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€105,83" win="€0" bet="€1" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€32,27" win="€0" bet="€0" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€111,30" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Toppilanmies" sum="€0,50" no="1" type="1"/>
+   <action player="Janika93" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <action player="Wal789" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">C7 SQ</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="5" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€3" no="6" type="23"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918949856">
+  <general>
+   <startdate>2024-08-13 23:51:49</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€204,93" win="€0" bet="€0" name="Israelle"/>
+    <player seat="5" dealer="1" chips="€224,95" win="€0" bet="€0" name="Toppilanmies"/>
+    <player seat="6" dealer="0" chips="€104,83" win="€0" bet="€0,50" name="Janika93"/>
+    <player seat="8" dealer="0" chips="€32,27" win="€1" bet="€1" name="Wal789"/>
+    <player seat="10" dealer="0" chips="€111,30" win="€0" bet="€0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" sum="€0,50" no="1" type="1"/>
+   <action player="Wal789" sum="€1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Wal789" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S5 S9</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="Israelle" type="Pocket">X X</cards>
+   <action player="Israelle" sum="€0" no="4" type="0"/>
+   <cards player="Toppilanmies" type="Pocket">X X</cards>
+   <action player="Toppilanmies" sum="€0" no="5" type="0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+</session>

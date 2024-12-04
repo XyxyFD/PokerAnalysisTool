@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4148199138">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:08:39</duration>
+  <gamecount>18</gamecount>
+  <startdate>2024-09-01 19:06:57</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€23,87</bets>
+  <wins>€18,98</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€60,98</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3924669386">
+  <general>
+   <startdate>2024-09-01 19:06:57</startdate>
+   <players>
+    <player bet="€25,25" seat="1" chips="€53,95" win="€36,37" name="Player 1" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="Player 3" dealer="0"/>
+    <player bet="€0" seat="8" chips="€105,57" win="€0" name="Player 8" dealer="1"/>
+    <player bet="€18,75" seat="10" chips="€50,25" win="€0" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" sum="€0,25" type="1" no="1"/>
+   <action player="Player 1" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" type="0" no="3"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€0" type="0" no="4"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€1,25" type="23" no="5"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€3,75" type="23" no="6"/>
+   <action player="Player 10" sum="€11,25" type="23" no="7"/>
+   <action player="Player 1" sum="€18,75" type="23" no="8"/>
+   <action player="Player 10" sum="€7,50" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 SA D10</cards>
+   <action player="Player 10" sum="€0" type="4" no="10"/>
+   <action player="Player 1" sum="€6,50" type="5" no="11"/>
+   <action player="Player 10" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3924669545">
+  <general>
+   <startdate>2024-09-01 19:08:00</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€71,57" win="€0" name="Player 1" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€20" win="€0" name="Player 3" dealer="0"/>
+    <player bet="€0" seat="8" chips="€105,57" win="€0" name="Player 8" dealer="0"/>
+    <player bet="€1" seat="10" chips="€50" win="€1,25" name="Player 10" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" sum="€0,25" type="1" no="1"/>
+   <action player="Player 3" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" sum="€0" type="0" no="3"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€1" type="23" no="4"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0" type="0" no="5"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924669584">
+  <general>
+   <startdate>2024-09-01 19:08:14</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="8" chips="€105,57" win="€1,25" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€50,75" win="€0" name="leafmiesv3" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LuuhaPete" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€1,25" type="23" no="3"/>
+   <cards player="leafmiesv3" type="Pocket">X X</cards>
+   <action player="leafmiesv3" sum="€0" type="0" no="4"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="5"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">C9 SJ</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924669663">
+  <general>
+   <startdate>2024-09-01 19:08:42</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€106,32" win="€0,50" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€50,75" win="€0" name="leafmiesv3" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PandaWanda" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <cards player="leafmiesv3" type="Pocket">X X</cards>
+   <action player="leafmiesv3" sum="€0" type="0" no="3"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="4"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">D7 H6</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924669702">
+  <general>
+   <startdate>2024-09-01 19:08:57</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="13373678" dealer="1"/>
+    <player bet="€1,50" seat="8" chips="€106,57" win="€1" name="PandaWanda" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PandaWanda" sum="€0,25" type="1" no="1"/>
+   <action player="vessaharja97" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C5 H8</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€1,50" type="23" no="5"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924670699">
+  <general>
+   <startdate>2024-09-01 19:09:10</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€70,82" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€1,25" seat="6" chips="€50" win="€1,25" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€107,07" win="€0" name="PandaWanda" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="vessaharja97" sum="€0,25" type="1" no="1"/>
+   <action player="LuuhaPete" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 DJ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="4"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="5"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924670742">
+  <general>
+   <startdate>2024-09-01 19:09:26</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€70,57" win="€1,25" name="vessaharja97" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50,75" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€107,07" win="€0" name="PandaWanda" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LuuhaPete" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="3"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€1,25" type="23" no="4"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">C2 C10</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924670777">
+  <general>
+   <startdate>2024-09-01 19:09:39</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="1"/>
+    <player bet="€1,50" seat="6" chips="€50,25" win="€1" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€107,07" win="€0" name="PandaWanda" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PandaWanda" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="3"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S9 HK</cards>
+   <action player="13373678" sum="€1,50" type="23" no="5"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3924670820">
+  <general>
+   <startdate>2024-09-01 19:09:53</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€4,75" seat="6" chips="€50,75" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€106,57" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€11,75" seat="10" chips="€20" win="€9,46" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PandaWanda" sum="€0,25" type="1" no="1"/>
+   <action player="J3ns" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="3"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">SQ S4</cards>
+   <action player="13373678" sum="€1,25" type="23" no="5"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="6"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CA S5</cards>
+   <action player="J3ns" sum="€0,50" type="5" no="8"/>
+   <action player="13373678" sum="€0,50" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action player="J3ns" sum="€3" type="5" no="10"/>
+   <action player="13373678" sum="€3" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action player="J3ns" sum="€7" type="5" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3924671244">
+  <general>
+   <startdate>2024-09-01 19:10:43</startdate>
+   <players>
+    <player bet="€14,50" seat="1" chips="€71,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€106,32" win="€0" name="PandaWanda" dealer="1"/>
+    <player bet="€14,50" seat="10" chips="€24,71" win="€28,13" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="J3ns" sum="€0,25" type="1" no="1"/>
+   <action player="vessaharja97" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S10 H4</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="5"/>
+   <cards player="J3ns" type="Pocket">H7 H8</cards>
+   <action player="J3ns" sum="€0,25" type="3" no="6"/>
+   <cards player="vessaharja97" type="Pocket">D7 C7</cards>
+   <action player="vessaharja97" sum="€1,50" type="23" no="7"/>
+   <action player="J3ns" sum="€1" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H3 H5</cards>
+   <action player="J3ns" sum="€0" type="4" no="9"/>
+   <action player="vessaharja97" sum="€1,50" type="5" no="10"/>
+   <action player="J3ns" sum="€1,50" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action player="J3ns" sum="€0" type="4" no="12"/>
+   <action player="vessaharja97" sum="€4,50" type="5" no="13"/>
+   <action player="J3ns" sum="€4,50" type="3" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="J3ns" sum="€7" type="5" no="15"/>
+   <action player="vessaharja97" sum="€7" type="3" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3924671404">
+  <general>
+   <startdate>2024-09-01 19:11:47</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€56,82" win="€1" name="vessaharja97" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€106,32" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€38,34" win="€0" name="J3ns" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="vessaharja97" sum="€0,25" type="1" no="1"/>
+   <action player="LuuhaPete" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 H5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="4"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0" type="0" no="5"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€1,25" type="23" no="6"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924671460">
+  <general>
+   <startdate>2024-09-01 19:12:07</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€57,32" win="€0" name="vessaharja97" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€0,50" name="MarytHS" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€106,32" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€38,34" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LuuhaPete" sum="€0,25" type="1" no="1"/>
+   <action player="MarytHS" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D7 C3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="4"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0" type="0" no="5"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="6"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3924672734">
+  <general>
+   <startdate>2024-09-01 19:12:25</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€57,32" win="€1,25" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50,25" win="€0" name="MarytHS" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€106,32" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€38,34" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MarytHS" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="3"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0" type="0" no="4"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€1,25" type="23" no="5"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="6"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">H4 S6</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924672780">
+  <general>
+   <startdate>2024-09-01 19:12:42</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€58,07" win="€1,25" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="MarytHS" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€106,32" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€38,34" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PandaWanda" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0" type="0" no="3"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€1,25" type="23" no="4"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="5"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">D2 H8</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3924672814">
+  <general>
+   <startdate>2024-09-01 19:12:58</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€58,82" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="MarytHS" dealer="0"/>
+    <player bet="€14,37" seat="6" chips="€50" win="€16,73" name="13373678" dealer="1"/>
+    <player bet="€5,75" seat="8" chips="€105,82" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€5,75" seat="10" chips="€38,34" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PandaWanda" sum="€0,25" type="1" no="1"/>
+   <action player="J3ns" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="3"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="4"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">D2 H2</cards>
+   <action player="13373678" sum="€1,25" type="23" no="6"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€5,75" type="23" no="7"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€5,25" type="3" no="8"/>
+   <action player="13373678" sum="€4,50" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S7 C5</cards>
+   <action player="PandaWanda" sum="€0" type="4" no="10"/>
+   <action player="J3ns" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="PandaWanda" sum="€0" type="4" no="13"/>
+   <action player="J3ns" sum="€0" type="4" no="14"/>
+   <action player="13373678" sum="€8,62" type="5" no="15"/>
+   <action player="PandaWanda" sum="€0" type="0" no="16"/>
+   <action player="J3ns" sum="€0" type="0" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3924672969">
+  <general>
+   <startdate>2024-09-01 19:13:58</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€58,82" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€1,99" seat="5" chips="€50" win="€2,62" name="MarytHS" dealer="0"/>
+    <player bet="€0" seat="6" chips="€60,98" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€100,07" win="€0" name="PandaWanda" dealer="1"/>
+    <player bet="€1,10" seat="10" chips="€32,59" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="J3ns" sum="€0,25" type="1" no="1"/>
+   <action player="vessaharja97" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="3"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€1,10" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">C5 H4</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="6"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0,85" type="3" no="7"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H5 H3</cards>
+   <action player="J3ns" sum="€0" type="4" no="9"/>
+   <action player="MarytHS" sum="€0,89" type="5" no="10"/>
+   <action player="J3ns" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3924673069">
+  <general>
+   <startdate>2024-09-01 19:14:35</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€58,32" win="€0" name="vessaharja97" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€2,07" seat="5" chips="€51,52" win="€0" name="MarytHS" dealer="0"/>
+    <player bet="€0" seat="6" chips="€60,98" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€100,07" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€6,07" seat="10" chips="€31,49" win="€4,75" name="J3ns" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="vessaharja97" sum="€0,25" type="1" no="1"/>
+   <action player="LuuhaPete" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action player="MarytHS" sum="€1,10" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">C10 S5</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="5"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€1,10" type="3" no="6"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="7"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D3 DJ</cards>
+   <action player="MarytHS" sum="€0,97" type="5" no="9"/>
+   <action player="J3ns" sum="€0,97" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="MarytHS" sum="€0" type="4" no="11"/>
+   <action player="J3ns" sum="€4" type="5" no="12"/>
+   <action player="MarytHS" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3924673190">
+  <general>
+   <startdate>2024-09-01 19:15:21</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€58,07" win="€0" name="vessaharja97" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€20" win="€0" name="LuuhaPete" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€0,50" name="MarytHS" dealer="0"/>
+    <player bet="€0" seat="6" chips="€60,98" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="8" chips="€100,07" win="€0" name="PandaWanda" dealer="0"/>
+    <player bet="€0" seat="10" chips="€34,17" win="€0" name="J3ns" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LuuhaPete" sum="€0,25" type="1" no="1"/>
+   <action player="MarytHS" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">HQ D9</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PandaWanda" type="Pocket">X X</cards>
+   <action player="PandaWanda" sum="€0" type="0" no="4"/>
+   <cards player="J3ns" type="Pocket">X X</cards>
+   <action player="J3ns" sum="€0" type="0" no="5"/>
+   <cards player="vessaharja97" type="Pocket">X X</cards>
+   <action player="vessaharja97" sum="€0" type="0" no="6"/>
+   <cards player="LuuhaPete" type="Pocket">X X</cards>
+   <action player="LuuhaPete" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+</session>

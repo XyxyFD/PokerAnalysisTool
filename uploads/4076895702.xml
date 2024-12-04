@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076895702">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 10, 488045120</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:07</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-06-15 14:56:32</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1</bets>
+  <wins>€1</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€100,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3688348098">
+  <general>
+   <startdate>2022-06-15 14:56:32</startdate>
+   <players>
+    <player bet="€1" seat="1" win="€1" dealer="0" name="13373678" chips="€100"/>
+    <player bet="€0,50" seat="3" win="€0" dealer="1" name="Oganesson" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,50" type="1" player="Oganesson"/>
+   <action no="2" sum="€1" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S8 C2</cards>
+   <cards type="Pocket" player="Oganesson">X X</cards>
+   <action no="3" sum="€0" type="0" player="Oganesson"/>
+  </round>
+ </game>
+</session>

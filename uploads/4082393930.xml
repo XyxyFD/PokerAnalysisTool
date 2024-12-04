@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4082393930">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:27</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-09-01 17:06:01</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1</bets>
+  <wins>€1</wins>
+  <chipsin>€40,50</chipsin>
+  <chipsout>€40,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3706863310">
+  <general>
+   <startdate>2022-09-01 17:06:01</startdate>
+   <players>
+    <player name="Player 3" seat="3" chips="€144,10" win="€0" dealer="0" bet="€0"/>
+    <player name="Player 6" seat="6" chips="€64,67" win="€2,50" dealer="1" bet="€2"/>
+    <player name="Player 8" seat="8" chips="€323,49" win="€0" dealer="0" bet="€0,50"/>
+    <player name="Player 10" seat="10" chips="€146,53" win="€0" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Player 8" no="1" sum="€0,50"/>
+   <action type="2" player="Player 10" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action type="0" player="Player 3" no="3" sum="€0"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action type="23" player="Player 6" no="4" sum="€2"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action type="0" player="Player 8" no="5" sum="€0"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action type="0" player="Player 10" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3706863341">
+  <general>
+   <startdate>2022-09-01 17:06:17</startdate>
+   <players>
+    <player name="13373678" seat="1" chips="€40" win="€1" dealer="0" bet="€1"/>
+    <player name="sdfghreh" seat="3" chips="€144,10" win="€0" dealer="0" bet="€0"/>
+    <player name="lagrmens" seat="6" chips="€66,17" win="€0" dealer="0" bet="€0"/>
+    <player name="DangerBeach" seat="8" chips="€322,99" win="€0" dealer="1" bet="€0"/>
+    <player name="Apathey" seat="10" chips="€145,53" win="€0" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" player="Apathey" no="1" sum="€0,50"/>
+   <action type="2" player="13373678" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 SJ</cards>
+   <cards type="Pocket" player="sdfghreh">X X</cards>
+   <action type="0" player="sdfghreh" no="3" sum="€0"/>
+   <cards type="Pocket" player="lagrmens">X X</cards>
+   <action type="0" player="lagrmens" no="4" sum="€0"/>
+   <cards type="Pocket" player="DangerBeach">X X</cards>
+   <action type="0" player="DangerBeach" no="5" sum="€0"/>
+   <cards type="Pocket" player="Apathey">X X</cards>
+   <action type="0" player="Apathey" no="6" sum="€0"/>
+  </round>
+ </game>
+</session>

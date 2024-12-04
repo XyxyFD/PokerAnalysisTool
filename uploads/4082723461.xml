@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4082723461">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:26:21</duration>
+  <gamecount>45</gamecount>
+  <startdate>2022-09-05 16:40:02</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€95,73</bets>
+  <wins>€38,64</wins>
+  <chipsin>€54,70</chipsin>
+  <chipsout>€57,67</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3707971824">
+  <general>
+   <startdate>2022-09-05 16:40:02</startdate>
+   <players>
+    <player bet="€1,50" seat="1" chips="€42,56" win="€0,97" name="Player 1" dealer="1"/>
+    <player bet="€0,50" seat="5" chips="€50,50" win="€0" name="Player 5" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 1" no="1"/>
+   <action sum="€0,50" type="2" player="Player 5" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0,25" type="3" player="Player 1" no="3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="4" player="Player 5" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H9 CA</cards>
+   <action sum="€0" type="4" player="Player 5" no="5"/>
+   <action sum="€1" type="5" player="Player 1" no="6"/>
+   <action sum="€0" type="0" player="Player 5" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707978450">
+  <general>
+   <startdate>2022-09-05 16:40:40</startdate>
+   <players>
+    <player bet="€5" seat="1" chips="€43,03" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€5" seat="3" chips="€50" win="€9,70" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Asinel">SQ SJ</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">DJ HK</cards>
+   <action sum="€2" type="23" player="13373678" no="5"/>
+   <action sum="€1,50" type="3" player="Asinel" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D5 H4</cards>
+   <action sum="€0" type="4" player="Asinel" no="7"/>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€0" type="4" player="Asinel" no="9"/>
+   <action sum="€3" type="5" player="13373678" no="10"/>
+   <action sum="€3" type="3" player="Asinel" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action sum="€0" type="4" player="Asinel" no="12"/>
+   <action sum="€0" type="4" player="13373678" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3707978522">
+  <general>
+   <startdate>2022-09-05 16:41:16</startdate>
+   <players>
+    <player bet="€1,75" seat="1" chips="€38,03" win="€1,22" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€54,70" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">S8 CQ</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 S7 D9</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="6"/>
+   <action sum="€1,25" type="5" player="Asinel" no="7"/>
+   <action sum="€0" type="0" player="PopDonkey" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707978599">
+  <general>
+   <startdate>2022-09-05 16:41:55</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€38,75" win="€0,50" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€54,45" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <cards type="Pocket" player="13373678">HK S3</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3707979628">
+  <general>
+   <startdate>2022-09-05 16:42:11</startdate>
+   <players>
+    <player bet="€9,87" seat="1" chips="€39" win="€19,15" name="Asinel" dealer="0"/>
+    <player bet="€9,87" seat="3" chips="€54,45" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Asinel">CA S7</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">DJ D4</cards>
+   <action sum="€0" type="4" player="13373678" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 D7 D3</cards>
+   <action sum="€0" type="4" player="Asinel" no="6"/>
+   <action sum="€0,50" type="5" player="13373678" no="7"/>
+   <action sum="€0,50" type="3" player="Asinel" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€0" type="4" player="Asinel" no="9"/>
+   <action sum="€2,50" type="5" player="13373678" no="10"/>
+   <action sum="€2,50" type="3" player="Asinel" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action sum="€0,50" type="5" player="Asinel" no="12"/>
+   <action sum="€6,37" type="23" player="13373678" no="13"/>
+   <action sum="€5,87" type="3" player="Asinel" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707979730">
+  <general>
+   <startdate>2022-09-05 16:42:52</startdate>
+   <players>
+    <player bet="€5,50" seat="1" chips="€48,28" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€50" win="€0" name="13373678" dealer="0"/>
+    <player bet="€14,38" seat="5" chips="€50" win="€10,91" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">SA CQ</cards>
+   <action sum="€1,50" type="23" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">HQ H5</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€5,50" type="23" player="PopDonkey" no="5"/>
+   <action sum="€4" type="3" player="Asinel" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H6 D7</cards>
+   <action sum="€8,88" type="5" player="PopDonkey" no="7"/>
+   <action sum="€0" type="0" player="Asinel" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707979793">
+  <general>
+   <startdate>2022-09-05 16:43:24</startdate>
+   <players>
+    <player bet="€6,70" seat="1" chips="€42,78" win="€4,42" name="Asinel" dealer="0"/>
+    <player bet="€2,15" seat="3" chips="€50" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€55,41" win="€0" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CQ C6</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,75" type="3" player="Asinel" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ H7 CJ</cards>
+   <action sum="€0" type="4" player="Asinel" no="6"/>
+   <action sum="€0,90" type="5" player="13373678" no="7"/>
+   <action sum="€5,45" type="23" player="Asinel" no="8"/>
+   <action sum="€0" type="0" player="13373678" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3707979835">
+  <general>
+   <startdate>2022-09-05 16:43:49</startdate>
+   <players>
+    <player bet="€2" seat="1" chips="€45,05" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€5" seat="3" chips="€50" win="€3,88" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€55,16" win="€0" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">HK HJ</cards>
+   <action sum="€2" type="23" player="13373678" no="5"/>
+   <action sum="€1,50" type="3" player="Asinel" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ CK D7</cards>
+   <action sum="€0" type="4" player="Asinel" no="7"/>
+   <action sum="€3" type="5" player="13373678" no="8"/>
+   <action sum="€0" type="0" player="Asinel" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3707980085">
+  <general>
+   <startdate>2022-09-05 16:44:21</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€43,05" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€2,49" seat="3" chips="€51,88" win="€2,91" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€55,16" win="€0" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">C6 DA</cards>
+   <action sum="€1,50" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1" type="3" player="PopDonkey" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H2 HJ</cards>
+   <action sum="€0,99" type="5" player="13373678" no="6"/>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707980129">
+  <general>
+   <startdate>2022-09-05 16:44:42</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€43,05" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€4,68" seat="3" chips="€53,29" win="€2,67" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€53,66" win="€0" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H4 HJ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,75" type="3" player="Asinel" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H6 H10</cards>
+   <action sum="€0" type="4" player="Asinel" no="6"/>
+   <action sum="€3,43" type="5" player="13373678" no="7"/>
+   <action sum="€0" type="0" player="Asinel" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707980163">
+  <general>
+   <startdate>2022-09-05 16:45:00</startdate>
+   <players>
+    <player bet="€1,50" seat="1" chips="€41,80" win="€2,91" name="Asinel" dealer="0"/>
+    <player bet="€1,50" seat="3" chips="€54,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€53,41" win="€0" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Asinel">DA D9</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">S3 H4</cards>
+   <action sum="€0" type="4" player="13373678" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D7 DJ</cards>
+   <action sum="€0" type="4" player="Asinel" no="6"/>
+   <action sum="€0" type="4" player="13373678" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" type="4" player="Asinel" no="8"/>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action sum="€1" type="5" player="Asinel" no="10"/>
+   <action sum="€1" type="3" player="13373678" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3707980227">
+  <general>
+   <startdate>2022-09-05 16:45:30</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€43,21" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€53,21" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€53,41" win="€0,50" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">H6 S4</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3707980246">
+  <general>
+   <startdate>2022-09-05 16:45:36</startdate>
+   <players>
+    <player bet="€1,50" seat="1" chips="€43,21" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€52,96" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€53,66" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€3,12" seat="6" chips="€20" win="€3,16" name="83836021" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="83836021" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">SK H7</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€1,50" type="23" player="83836021" no="6"/>
+   <action sum="€1" type="3" player="Asinel" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HK C9</cards>
+   <action sum="€1,62" type="5" player="83836021" no="8"/>
+   <action sum="€0" type="0" player="Asinel" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3707980301">
+  <general>
+   <startdate>2022-09-05 16:46:06</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€41,71" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€1,25" seat="3" chips="€52,96" win="€1,25" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€53,41" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€21,66" win="€0" name="83836021" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€39" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="83836021" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">C9 CJ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0" type="0" player="83836021" no="6"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707980341">
+  <general>
+   <startdate>2022-09-05 16:46:24</startdate>
+   <players>
+    <player bet="€1,25" seat="1" chips="€41,71" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€1,25" seat="3" chips="€53,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€53,41" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="6" chips="€21,41" win="€0" name="83836021" dealer="1"/>
+    <player bet="€3,75" seat="10" chips="€38,50" win="€4,85" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 CK</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€1,25" type="3" player="83836021" no="5"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1" type="3" player="oaea" no="6"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,75" type="3" player="Asinel" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 H2 CA</cards>
+   <action sum="€2,50" type="5" player="oaea" no="8"/>
+   <action sum="€0" type="0" player="Asinel" no="9"/>
+   <action sum="€0" type="0" player="13373678" no="10"/>
+   <action sum="€0" type="0" player="83836021" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3707980418">
+  <general>
+   <startdate>2022-09-05 16:47:00</startdate>
+   <players>
+    <player bet="€1,50" seat="1" chips="€40,46" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€52,46" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€53,41" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€4,75" seat="6" chips="€20,16" win="€0" name="83836021" dealer="0"/>
+    <player bet="€9" seat="10" chips="€42,10" win="€12,61" name="oaea" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€1,50" type="3" player="83836021" no="4"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1,50" type="3" player="oaea" no="5"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€1,25" type="3" player="Asinel" no="6"/>
+   <cards type="Pocket" player="13373678">S5 HA</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C7 D10</cards>
+   <action sum="€0" type="4" player="Asinel" no="8"/>
+   <action sum="€0" type="4" player="PopDonkey" no="9"/>
+   <action sum="€3,25" type="5" player="83836021" no="10"/>
+   <action sum="€7,50" type="23" player="oaea" no="11"/>
+   <action sum="€0" type="0" player="Asinel" no="12"/>
+   <action sum="€0" type="0" player="PopDonkey" no="13"/>
+   <action sum="€0" type="0" player="83836021" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707980508">
+  <general>
+   <startdate>2022-09-05 16:47:46</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€38,96" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€51,96" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€51,91" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€1" seat="6" chips="€15,41" win="€1,25" name="83836021" dealer="0"/>
+    <player bet="€0" seat="10" chips="€49,96" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€1" type="23" player="83836021" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">H4 S7</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707980758">
+  <general>
+   <startdate>2022-09-05 16:48:09</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€38,96" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€51,71" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€51,41" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€16,16" win="€0" name="83836021" dealer="0"/>
+    <player bet="€1" seat="10" chips="€49,96" win="€1,25" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="83836021" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1" type="23" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">H7 SK</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0" type="0" player="83836021" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707980818">
+  <general>
+   <startdate>2022-09-05 16:48:40</startdate>
+   <players>
+    <player bet="€38,96" seat="1" chips="€38,96" win="€9,70" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€51,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€51,16" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€4" seat="6" chips="€15,66" win="€0" name="83836021" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€50" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€50,71" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="83836021" no="1"/>
+   <action sum="€0,50" type="2" player="seed100" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">C9 S6</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0,50" type="3" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€1,50" type="23" player="83836021" no="7"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="8"/>
+   <action sum="€1" type="3" player="Asinel" no="9"/>
+   <action sum="€1" type="3" player="PopDonkey" no="10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H10 SK</cards>
+   <action sum="€0" type="4" player="83836021" no="11"/>
+   <action sum="€0" type="4" player="Asinel" no="12"/>
+   <action sum="€0" type="4" player="PopDonkey" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€2,50" type="5" player="83836021" no="14"/>
+   <action sum="€2,50" type="3" player="Asinel" no="15"/>
+   <action sum="€0" type="0" player="PopDonkey" no="16"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€0" type="4" player="83836021" no="17"/>
+   <action sum="€34,96" type="5" player="Asinel" no="18"/>
+   <action sum="€0" type="0" player="83836021" no="19"/>
+  </round>
+ </game>
+ <game gamecode="3707980957">
+  <general>
+   <startdate>2022-09-05 16:49:43</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€44,66" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€51,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€11,66" win="€0" name="83836021" dealer="1"/>
+    <player bet="€4,80" seat="8" chips="€50" win="€0" name="seed100" dealer="0"/>
+    <player bet="€4,80" seat="10" chips="€50,71" win="€9,31" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="seed100" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">CJ C3</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0" type="0" player="83836021" no="6"/>
+   <cards type="Pocket" player="seed100">D5 S5</cards>
+   <action sum="€1,50" type="23" player="seed100" no="7"/>
+   <cards type="Pocket" player="oaea">SJ C10</cards>
+   <action sum="€1" type="3" player="oaea" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S2 H10</cards>
+   <action sum="€0,90" type="5" player="seed100" no="9"/>
+   <action sum="€0,90" type="3" player="oaea" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€0" type="4" player="seed100" no="11"/>
+   <action sum="€2,40" type="5" player="oaea" no="12"/>
+   <action sum="€2,40" type="3" player="seed100" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action sum="€0" type="4" player="seed100" no="14"/>
+   <action sum="€0" type="4" player="oaea" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3707982619">
+  <general>
+   <startdate>2022-09-05 16:50:34</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€44,66" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€51,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€50" win="€1,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€11,66" win="€0" name="83836021" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="seed100" dealer="1"/>
+    <player bet="€0,25" seat="10" chips="€55,22" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S2 C9</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0" type="0" player="83836021" no="5"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="6"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="7"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707982684">
+  <general>
+   <startdate>2022-09-05 16:51:02</startdate>
+   <players>
+    <player bet="€0,25" seat="1" chips="€44,16" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€51,71" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50,75" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€11,66" win="€0" name="83836021" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="seed100" dealer="0"/>
+    <player bet="€1,50" seat="10" chips="€54,97" win="€1,25" name="oaea" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0" type="0" player="83836021" no="4"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="5"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1,50" type="23" player="oaea" no="6"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="7"/>
+   <cards type="Pocket" player="13373678">D3 HQ</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707982718">
+  <general>
+   <startdate>2022-09-05 16:51:19</startdate>
+   <players>
+    <player bet="€4" seat="1" chips="€43,91" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€51,21" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50,75" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€4" seat="6" chips="€11,66" win="€8,49" name="83836021" dealer="0"/>
+    <player bet="€0" seat="8" chips="€50" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€55,72" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="83836021">C10 CA</cards>
+   <action sum="€1,50" type="23" player="83836021" no="3"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="4"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="5"/>
+   <cards type="Pocket" player="Asinel">DK S10</cards>
+   <action sum="€1,50" type="3" player="Asinel" no="6"/>
+   <cards type="Pocket" player="13373678">H5 H9</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C7 C4</cards>
+   <action sum="€2,50" type="5" player="83836021" no="9"/>
+   <action sum="€2,50" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" type="4" player="83836021" no="11"/>
+   <action sum="€0" type="4" player="Asinel" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action sum="€0" type="4" player="83836021" no="13"/>
+   <action sum="€0" type="4" player="Asinel" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707982879">
+  <general>
+   <startdate>2022-09-05 16:52:12</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€39,91" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,96" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50,25" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€1" seat="6" chips="€16,15" win="€0" name="83836021" dealer="0"/>
+    <player bet="€2,68" seat="8" chips="€50" win="€2,19" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€55,72" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="83836021" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€1" type="23" player="seed100" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">HQ S9</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0,50" type="3" player="83836021" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H3 H2</cards>
+   <action sum="€0" type="4" player="83836021" no="9"/>
+   <action sum="€1,68" type="5" player="seed100" no="10"/>
+   <action sum="€0" type="0" player="83836021" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3707982936">
+  <general>
+   <startdate>2022-09-05 16:52:41</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€39,91" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,96" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€1,50" seat="6" chips="€15,15" win="€0,97" name="83836021" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€51,19" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€55,72" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="83836021" no="1"/>
+   <action sum="€0,50" type="2" player="seed100" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">S8 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="83836021">X X</cards>
+   <action sum="€0,25" type="3" player="83836021" no="7"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="4" player="seed100" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S9 S6</cards>
+   <action sum="€0" type="4" player="83836021" no="9"/>
+   <action sum="€0" type="4" player="seed100" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€1" type="5" player="83836021" no="11"/>
+   <action sum="€0" type="0" player="seed100" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3707983036">
+  <general>
+   <startdate>2022-09-05 16:53:27</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€39,91" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,96" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€15,62" seat="6" chips="€15,62" win="€0" name="83836021" dealer="1"/>
+    <player bet="€15,62" seat="8" chips="€50,69" win="€30,78" name="seed100" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€55,72" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="seed100" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">D4 D6</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="83836021">H8 DA</cards>
+   <action sum="€1" type="23" player="83836021" no="6"/>
+   <cards type="Pocket" player="seed100">SK SA</cards>
+   <action sum="€4" type="23" player="seed100" no="7"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="8"/>
+   <action sum="€3" type="3" player="83836021" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S5 HA</cards>
+   <action sum="€2,55" type="5" player="seed100" no="10"/>
+   <action sum="€6,10" type="23" player="83836021" no="11"/>
+   <action sum="€3,55" type="3" player="seed100" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action sum="€0" type="4" player="seed100" no="13"/>
+   <action sum="€5,52" type="5" player="83836021" no="14"/>
+   <action sum="€5,52" type="3" player="seed100" no="15"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+  </round>
+ </game>
+ <game gamecode="3707983154">
+  <general>
+   <startdate>2022-09-05 16:54:21</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€39,91" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€50,96" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,85" win="€0" name="seed100" dealer="1"/>
+    <player bet="€3,95" seat="10" chips="€55,22" win="€3,40" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 H5</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="5"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1,25" type="3" player="oaea" no="6"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 CK HA</cards>
+   <action sum="€0" type="4" player="oaea" no="8"/>
+   <action sum="€0" type="4" player="PopDonkey" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action sum="€2,45" type="5" player="oaea" no="10"/>
+   <action sum="€0" type="0" player="PopDonkey" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3707983217">
+  <general>
+   <startdate>2022-09-05 16:54:50</startdate>
+   <players>
+    <player bet="€1,50" seat="1" chips="€39,41" win="€0,97" name="Asinel" dealer="0"/>
+    <player bet="€0,50" seat="3" chips="€50,96" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,85" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€57,12" win="€0" name="oaea" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="4"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="5"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="6"/>
+   <cards type="Pocket" player="13373678">H7 SK</cards>
+   <action sum="€0" type="4" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S3 H9</cards>
+   <action sum="€1" type="5" player="Asinel" no="8"/>
+   <action sum="€0" type="0" player="13373678" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3707983274">
+  <general>
+   <startdate>2022-09-05 16:55:13</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€39,88" win="€1,22" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€50,46" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,85" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€57,12" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">HJ D10</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">S5 C8</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">S3 H9</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK D6 SJ</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="8"/>
+   <action sum="€0" type="4" player="Asinel" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="10"/>
+   <action sum="€0" type="4" player="Asinel" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="12"/>
+   <action sum="€0" type="4" player="Asinel" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3707983411">
+  <general>
+   <startdate>2022-09-05 16:56:13</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€40,60" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€5,56" seat="3" chips="€50,21" win="€4,42" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€2,15" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,85" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€57,12" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Ocieda" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">HQ D10</cards>
+   <action sum="€1,25" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0,75" type="3" player="Ocieda" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S4 C7</cards>
+   <action sum="€0" type="4" player="Ocieda" no="9"/>
+   <action sum="€0,90" type="5" player="13373678" no="10"/>
+   <action sum="€0,90" type="3" player="Ocieda" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" type="4" player="Ocieda" no="12"/>
+   <action sum="€3,41" type="5" player="13373678" no="13"/>
+   <action sum="€0" type="0" player="Ocieda" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707983537">
+  <general>
+   <startdate>2022-09-05 16:57:01</startdate>
+   <players>
+    <player bet="€5,12" seat="1" chips="€40,60" win="€5,10" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€52,48" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€2,50" seat="8" chips="€65,85" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€57,12" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Ocieda" no="1"/>
+   <action sum="€0,50" type="2" player="seed100" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">H2 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="7"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€2,50" type="23" player="seed100" no="8"/>
+   <action sum="€2" type="3" player="Asinel" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D4 H7</cards>
+   <action sum="€0" type="4" player="seed100" no="10"/>
+   <action sum="€0" type="4" player="Asinel" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" type="4" player="seed100" no="12"/>
+   <action sum="€0" type="4" player="Asinel" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action sum="€0" type="4" player="seed100" no="14"/>
+   <action sum="€2,62" type="5" player="Asinel" no="15"/>
+   <action sum="€0" type="0" player="seed100" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3707983666">
+  <general>
+   <startdate>2022-09-05 16:58:01</startdate>
+   <players>
+    <player bet="€1" seat="1" chips="€43,20" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€52,48" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Ocieda" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€63,35" win="€0" name="seed100" dealer="0"/>
+    <player bet="€2,12" seat="10" chips="€57,12" win="€2,19" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="seed100" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">S6 C9</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="6"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="7"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="4" player="oaea" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C5 D6</cards>
+   <action sum="€0,50" type="5" player="oaea" no="9"/>
+   <action sum="€0,50" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€1,12" type="5" player="oaea" no="11"/>
+   <action sum="€0" type="0" player="Asinel" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3707983731">
+  <general>
+   <startdate>2022-09-05 16:58:32</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€42,20" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€52,48" win="€0" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€4,50" seat="8" chips="€63,10" win="€3,75" name="seed100" dealer="1"/>
+    <player bet="€0,25" seat="10" chips="€58,31" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€1,50" type="23" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="5"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€4,50" type="23" player="seed100" no="6"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="7"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="8"/>
+   <action sum="€0" type="0" player="PopDonkey" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3707983789">
+  <general>
+   <startdate>2022-09-05 16:58:59</startdate>
+   <players>
+    <player bet="€7,12" seat="1" chips="€41,70" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€52,48" seat="3" chips="€52,48" win="€13,81" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,35" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€58,06" win="€0" name="oaea" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="4"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="5"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="6"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,25" type="3" player="Asinel" no="7"/>
+   <cards type="Pocket" player="13373678">C2 C8</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 D2 DK</cards>
+   <action sum="€1" type="5" player="Asinel" no="9"/>
+   <action sum="€1" type="3" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€1,50" type="5" player="Asinel" no="11"/>
+   <action sum="€5,62" type="23" player="13373678" no="12"/>
+   <action sum="€4,12" type="3" player="Asinel" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action sum="€0" type="4" player="Asinel" no="14"/>
+   <action sum="€45,36" type="5" player="13373678" no="15"/>
+   <action sum="€0" type="0" player="Asinel" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3707983871">
+  <general>
+   <startdate>2022-09-05 16:59:43</startdate>
+   <players>
+    <player bet="€0,50" seat="1" chips="€34,58" win="€0" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€59,17" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50" win="€1,22" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,35" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€58,06" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="3"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="4"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="5"/>
+   <cards type="Pocket" player="Asinel">CJ C4</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="6"/>
+   <cards type="Pocket" player="13373678">C5 C8</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="PopDonkey">D5 DA</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H6 C2</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="9"/>
+   <action sum="€0" type="4" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="11"/>
+   <action sum="€0" type="4" player="Asinel" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="13"/>
+   <action sum="€0" type="4" player="Asinel" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707983985">
+  <general>
+   <startdate>2022-09-05 17:00:37</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€34,08" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€58,92" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50,72" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" chips="€50" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€65,35" win="€0" name="seed100" dealer="0"/>
+    <player bet="€1,50" seat="10" chips="€58,06" win="€1,25" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Ocieda" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1,50" type="23" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">D4 H8</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707985032">
+  <general>
+   <startdate>2022-09-05 17:01:04</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€34,08" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€58,92" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50,47" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€3" seat="6" chips="€50" win="€2,91" name="Ocieda" dealer="0"/>
+    <player bet="€1,50" seat="8" chips="€65,35" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€58,81" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Ocieda" no="1"/>
+   <action sum="€0,50" type="2" player="seed100" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">S3 CA</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€1,50" type="23" player="Ocieda" no="7"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€1" type="3" player="seed100" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 SA C7</cards>
+   <action sum="€1,50" type="5" player="Ocieda" no="9"/>
+   <action sum="€0" type="0" player="seed100" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3707985114">
+  <general>
+   <startdate>2022-09-05 17:01:44</startdate>
+   <players>
+    <player bet="€2,36" seat="1" chips="€34,08" win="€2,42" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€58,92" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50,47" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€51,41" win="€0" name="Ocieda" dealer="1"/>
+    <player bet="€0,25" seat="8" chips="€63,85" win="€0" name="seed100" dealer="0"/>
+    <player bet="€1,12" seat="10" chips="€58,81" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="seed100" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">DA S3</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="6"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="7"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="4" player="oaea" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 D4 HK</cards>
+   <action sum="€0,62" type="5" player="oaea" no="9"/>
+   <action sum="€0,62" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€0" type="4" player="oaea" no="11"/>
+   <action sum="€1,24" type="5" player="Asinel" no="12"/>
+   <action sum="€0" type="0" player="oaea" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3707985206">
+  <general>
+   <startdate>2022-09-05 17:02:31</startdate>
+   <players>
+    <player bet="€2,40" seat="1" chips="€35,38" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€58,92" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50,47" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€51,41" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€63,60" win="€0" name="seed100" dealer="1"/>
+    <player bet="€4,80" seat="10" chips="€57,69" win="€4,66" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C6 S2</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="5"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="6"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0,25" type="3" player="oaea" no="7"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="4" player="Asinel" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 D4 C5</cards>
+   <action sum="€0,70" type="5" player="oaea" no="9"/>
+   <action sum="€0,70" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action sum="€1,20" type="5" player="oaea" no="11"/>
+   <action sum="€1,20" type="3" player="Asinel" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€2,40" type="5" player="oaea" no="13"/>
+   <action sum="€0" type="0" player="Asinel" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707985286">
+  <general>
+   <startdate>2022-09-05 17:03:11</startdate>
+   <players>
+    <player bet="€1" seat="1" chips="€32,98" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€1" seat="3" chips="€58,92" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50,47" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€51,41" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€63,60" win="€0" name="seed100" dealer="0"/>
+    <player bet="€2,50" seat="10" chips="€59,95" win="€2,91" name="oaea" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Asinel" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="3"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="4"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="5"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€1" type="23" player="oaea" no="6"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,75" type="3" player="Asinel" no="7"/>
+   <cards type="Pocket" player="13373678">CK C8</cards>
+   <action sum="€0,50" type="3" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C6 H7</cards>
+   <action sum="€0" type="4" player="Asinel" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+   <action sum="€0" type="4" player="oaea" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" type="4" player="Asinel" no="12"/>
+   <action sum="€0" type="4" player="13373678" no="13"/>
+   <action sum="€1,50" type="5" player="oaea" no="14"/>
+   <action sum="€0" type="0" player="Asinel" no="15"/>
+   <action sum="€0" type="0" player="13373678" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3707985362">
+  <general>
+   <startdate>2022-09-05 17:03:46</startdate>
+   <players>
+    <player bet="€1,75" seat="1" chips="€31,98" win="€1,22" name="Asinel" dealer="1"/>
+    <player bet="€0,25" seat="3" chips="€57,92" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" chips="€50,47" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€51,41" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€63,60" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€61,86" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="PopDonkey" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="3"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="4"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="5"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="6"/>
+   <cards type="Pocket" player="13373678">D3 S9</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 HQ HK</cards>
+   <action sum="€0" type="4" player="PopDonkey" no="9"/>
+   <action sum="€1,25" type="5" player="Asinel" no="10"/>
+   <action sum="€0" type="0" player="PopDonkey" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3707985421">
+  <general>
+   <startdate>2022-09-05 17:04:16</startdate>
+   <players>
+    <player bet="€2" seat="1" chips="€32,70" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€57,67" win="€0" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€2" seat="6" chips="€51,41" win="€4,13" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€63,60" win="€0" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€61,86" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PopDonkey" no="1"/>
+   <action sum="€0,50" type="2" player="Ocieda" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="3"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="4"/>
+   <cards type="Pocket" player="Asinel">D4 D5</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="5"/>
+   <cards type="Pocket" player="13373678">C4 H10</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="7"/>
+   <cards type="Pocket" player="Ocieda">D8 C9</cards>
+   <action sum="€0" type="4" player="Ocieda" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H3 D3</cards>
+   <action sum="€0,50" type="5" player="Ocieda" no="9"/>
+   <action sum="€0,50" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€1" type="5" player="Ocieda" no="11"/>
+   <action sum="€1" type="3" player="Asinel" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€0" type="4" player="Ocieda" no="13"/>
+   <action sum="€0" type="4" player="Asinel" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3707985499">
+  <general>
+   <startdate>2022-09-05 17:04:51</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€30,70" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€57,67" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" chips="€53,54" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0,50" seat="8" chips="€63,60" win="€0,50" name="seed100" dealer="0"/>
+    <player bet="€0" seat="10" chips="€61,86" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Ocieda" no="1"/>
+   <action sum="€0,50" type="2" player="seed100" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="seed100">X X</cards>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="3"/>
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="4"/>
+   <cards type="Pocket" player="13373678">H9 S7</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="6"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3707985534">
+  <general>
+   <startdate>2022-09-05 17:05:10</startdate>
+   <players>
+    <player bet="€0" seat="1" chips="€30,70" win="€0" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€57,67" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€53,29" win="€0" name="Ocieda" dealer="1"/>
+    <player bet="€1,50" seat="8" chips="€63,85" win="€1" name="seed100" dealer="0"/>
+    <player bet="€0,50" seat="10" chips="€61,86" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="seed100" no="1"/>
+   <action sum="€0,50" type="2" player="oaea" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Asinel">X X</cards>
+   <action sum="€0" type="0" player="Asinel" no="3"/>
+   <cards type="Pocket" player="13373678">D2 D5</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="5"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="6"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€1,50" type="23" player="seed100" no="7"/>
+   <cards type="Pocket" player="oaea">X X</cards>
+   <action sum="€0" type="0" player="oaea" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3707985565">
+  <general>
+   <startdate>2022-09-05 17:05:27</startdate>
+   <players>
+    <player bet="€4" seat="1" chips="€30,70" win="€7,76" name="Asinel" dealer="0"/>
+    <player bet="€0" seat="3" chips="€57,67" win="€0" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" chips="€50" win="€0" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" chips="€53,29" win="€0" name="Ocieda" dealer="0"/>
+    <player bet="€0" seat="8" chips="€64,35" win="€0" name="seed100" dealer="1"/>
+    <player bet="€4" seat="10" chips="€61,36" win="€0" name="oaea" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="oaea" no="1"/>
+   <action sum="€0,50" type="2" player="Asinel" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 S6</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="PopDonkey">X X</cards>
+   <action sum="€0" type="0" player="PopDonkey" no="4"/>
+   <cards type="Pocket" player="Ocieda">X X</cards>
+   <action sum="€0" type="0" player="Ocieda" no="5"/>
+   <cards type="Pocket" player="seed100">X X</cards>
+   <action sum="€0" type="0" player="seed100" no="6"/>
+   <cards type="Pocket" player="oaea">S4 SQ</cards>
+   <action sum="€1" type="23" player="oaea" no="7"/>
+   <cards type="Pocket" player="Asinel">DA S8</cards>
+   <action sum="€0,50" type="3" player="Asinel" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 H6 S7</cards>
+   <action sum="€1" type="5" player="oaea" no="9"/>
+   <action sum="€1" type="3" player="Asinel" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action sum="€2" type="5" player="oaea" no="11"/>
+   <action sum="€2" type="3" player="Asinel" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" type="4" player="oaea" no="13"/>
+   <action sum="€0" type="4" player="Asinel" no="14"/>
+  </round>
+ </game>
+</session>

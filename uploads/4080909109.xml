@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080909109">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:14</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-11 12:26:27</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0,25</bets>
+  <wins>€0</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€49,75</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701760477">
+  <general>
+   <startdate>2022-08-11 12:26:27</startdate>
+   <players>
+    <player chips="€50" win="€0" name="13373678" bet="€0,25" seat="1" dealer="1"/>
+    <player chips="€52,22" win="€0,50" name="fsgdhfsjm" bet="€0,50" seat="5" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="fsgdhfsjm" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="fsgdhfsjm">X X</cards>
+   <cards type="Pocket" player="13373678">CJ D3</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+  </round>
+ </game>
+</session>

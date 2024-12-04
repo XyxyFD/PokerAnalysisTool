@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4149215825">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:13:18</duration>
+  <gamecount>20</gamecount>
+  <startdate>2024-09-11 22:17:48</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€61,25</bets>
+  <wins>€49,07</wins>
+  <chipsin>€45</chipsin>
+  <chipsout>€73,32</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3928089754">
+  <general>
+   <startdate>2024-09-11 22:17:48</startdate>
+   <players>
+    <player chips="€95,86" name="Player 1" win="€14,40" bet="€15,50" seat="1" dealer="1"/>
+    <player chips="€68,95" name="Player 3" win="€0" bet="€0,25" seat="3" dealer="0"/>
+    <player chips="€144,57" name="Player 8" win="€0" bet="€0,50" seat="8" dealer="0"/>
+    <player chips="€56,34" name="Player 10" win="€0" bet="€7,05" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 3" type="1"/>
+   <action no="2" sum="€0,50" player="Player 8" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="3" sum="€1,25" player="Player 10" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="4" sum="€3,75" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Player 3" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Player 8" type="0"/>
+   <action no="7" sum="€2,50" player="Player 10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H8 D5</cards>
+   <action no="8" sum="€0" player="Player 10" type="4"/>
+   <action no="9" sum="€3,30" player="Player 1" type="5"/>
+   <action no="10" sum="€3,30" player="Player 10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action no="11" sum="€0" player="Player 10" type="4"/>
+   <action no="12" sum="€0" player="Player 1" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action no="13" sum="€0" player="Player 10" type="4"/>
+   <action no="14" sum="€8,45" player="Player 1" type="5"/>
+   <action no="15" sum="€0" player="Player 10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928089995">
+  <general>
+   <startdate>2024-09-11 22:19:21</startdate>
+   <players>
+    <player chips="€103,21" name="Player 1" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€68,70" name="Player 3" win="€0" bet="€0" seat="3" dealer="1"/>
+    <player chips="€144,07" name="Player 8" win="€14,49" bet="€15,68" seat="8" dealer="0"/>
+    <player chips="€50" name="Player 10" win="€0" bet="€7,47" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 8" type="1"/>
+   <action no="2" sum="€0,50" player="Player 10" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Player 3" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="5" sum="€1,50" player="Player 8" type="23"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="6" sum="€4,50" player="Player 10" type="23"/>
+   <action no="7" sum="€3" player="Player 8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H4 CK</cards>
+   <action no="8" sum="€0" player="Player 8" type="4"/>
+   <action no="9" sum="€2,97" player="Player 10" type="5"/>
+   <action no="10" sum="€11,18" player="Player 8" type="23"/>
+   <action no="11" sum="€0" player="Player 10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928090399">
+  <general>
+   <startdate>2024-09-11 22:20:27</startdate>
+   <players>
+    <player chips="€103,21" name="Player 1" win="€0" bet="€0,50" seat="1" dealer="0"/>
+    <player chips="€68,70" name="Player 3" win="€1,25" bet="€1,10" seat="3" dealer="0"/>
+    <player chips="€151,09" name="Player 8" win="€0" bet="€0" seat="8" dealer="1"/>
+    <player chips="€50" name="Player 10" win="€0" bet="€0,25" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 10" type="1"/>
+   <action no="2" sum="€0,50" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="3" sum="€1,10" player="Player 3" type="23"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="Player 8" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Player 1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091528">
+  <general>
+   <startdate>2024-09-11 22:20:44</startdate>
+   <players>
+    <player chips="€102,71" name="Player 1" win="€0" bet="€0,25" seat="1" dealer="0"/>
+    <player chips="€69,45" name="Player 3" win="€0" bet="€0,50" seat="3" dealer="0"/>
+    <player chips="€151,09" name="Player 8" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€50" name="Player 10" win="€1,25" bet="€1,50" seat="10" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="Player 1" type="1"/>
+   <action no="2" sum="€0,50" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="Player 8" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="4" sum="€1,50" player="Player 10" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="Player 1" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="Player 3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091544">
+  <general>
+   <startdate>2024-09-11 22:20:52</startdate>
+   <players>
+    <player chips="€102,46" name="iNitt" win="€0" bet="€0" seat="1" dealer="1"/>
+    <player chips="€68,95" name="PokerIsFun" win="€10" bet="€15" seat="3" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" bet="€5" seat="5" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€50,75" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="PokerIsFun" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="PokerIsFun" type="23"/>
+   <cards player="13373678" type="Pocket">HK S3</cards>
+   <action no="7" sum="€5" player="13373678" type="23"/>
+   <action no="8" sum="€15" player="PokerIsFun" type="23"/>
+   <action no="9" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091663">
+  <general>
+   <startdate>2024-09-11 22:21:38</startdate>
+   <players>
+    <player chips="€102,46" name="iNitt" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="1"/>
+    <player chips="€50" name="13373678" win="€1" bet="€1,50" seat="5" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0,50" seat="8" dealer="0"/>
+    <player chips="€50,75" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="DDiddyLLove" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">C7 HJ</cards>
+   <action no="6" sum="€1,50" player="13373678" type="23"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="DDiddyLLove" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091708">
+  <general>
+   <startdate>2024-09-11 22:21:55</startdate>
+   <players>
+    <player chips="€102,46" name="iNitt" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50,50" name="13373678" win="€0" bet="€0" seat="5" dealer="1"/>
+    <player chips="€150,59" name="DDiddyLLove" win="€1" bet="€1,50" seat="8" dealer="0"/>
+    <player chips="€50,75" name="sizzln" win="€0" bet="€0,50" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DDiddyLLove" type="1"/>
+   <action no="2" sum="€0,50" player="sizzln" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">S8 D2</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="DDiddyLLove" type="23"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="sizzln" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091758">
+  <general>
+   <startdate>2024-09-11 22:22:15</startdate>
+   <players>
+    <player chips="€102,46" name="iNitt" win="€0" bet="€1,50" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50,50" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="1"/>
+    <player chips="€50,25" name="sizzln" win="€2,91" bet="€3,48" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="sizzln" type="1"/>
+   <action no="2" sum="€0,50" player="iNitt" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">H8 C7</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="sizzln" type="23"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="7" sum="€1" player="iNitt" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ H7 H5</cards>
+   <action no="8" sum="€1,98" player="sizzln" type="5"/>
+   <action no="9" sum="€0" player="iNitt" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091840">
+  <general>
+   <startdate>2024-09-11 22:22:45</startdate>
+   <players>
+    <player chips="€100,96" name="iNitt" win="€0" bet="€0,25" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0,50" seat="3" dealer="0"/>
+    <player chips="€50,50" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€51,66" name="sizzln" win="€1,25" bet="€1,50" seat="10" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="iNitt" type="1"/>
+   <action no="2" sum="€0,50" player="PokerIsFun" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 H3</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="5" sum="€1,50" player="sizzln" type="23"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="PokerIsFun" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091924">
+  <general>
+   <startdate>2024-09-11 22:23:19</startdate>
+   <players>
+    <player chips="€100,71" name="iNitt" win="€0" bet="€0" seat="1" dealer="1"/>
+    <player chips="€73,45" name="PokerIsFun" win="€1" bet="€1,50" seat="3" dealer="0"/>
+    <player chips="€50,50" name="13373678" win="€0" bet="€0,50" seat="5" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€52,41" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="PokerIsFun" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="PokerIsFun" type="23"/>
+   <cards player="13373678" type="Pocket">CQ H3</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928091997">
+  <general>
+   <startdate>2024-09-11 22:23:45</startdate>
+   <players>
+    <player chips="€100,71" name="iNitt" win="€1,25" bet="€1,15" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="1"/>
+    <player chips="€50" name="13373678" win="€0" bet="€0,25" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0,50" seat="6" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€52,41" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="135123265123" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="5" sum="€1,15" player="iNitt" type="23"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">H8 DA</cards>
+   <action no="7" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="135123265123" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092046">
+  <general>
+   <startdate>2024-09-11 22:24:02</startdate>
+   <players>
+    <player chips="€101,46" name="iNitt" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50" name="13373678" win="€1,25" bet="€1,25" seat="5" dealer="1"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0,25" seat="6" dealer="0"/>
+    <player chips="€151,09" name="DDiddyLLove" win="€0" bet="€0,50" seat="8" dealer="0"/>
+    <player chips="€52,41" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="135123265123" type="1"/>
+   <action no="2" sum="€0,50" player="DDiddyLLove" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">H8 C7</cards>
+   <action no="6" sum="€1,25" player="13373678" type="23"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="DDiddyLLove" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092078">
+  <general>
+   <startdate>2024-09-11 22:24:21</startdate>
+   <players>
+    <player chips="€101,46" name="iNitt" win="€1,25" bet="€1,05" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50,75" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0" seat="6" dealer="1"/>
+    <player chips="€150,59" name="DDiddyLLove" win="€0" bet="€0,25" seat="8" dealer="0"/>
+    <player chips="€52,41" name="sizzln" win="€0" bet="€0,50" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DDiddyLLove" type="1"/>
+   <action no="2" sum="€0,50" player="sizzln" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="3" sum="€1,05" player="iNitt" type="23"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">S2 C4</cards>
+   <action no="5" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="sizzln" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092194">
+  <general>
+   <startdate>2024-09-11 22:25:06</startdate>
+   <players>
+    <player chips="€102,21" name="iNitt" win="€0" bet="€3,48" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50,75" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0" seat="6" dealer="0"/>
+    <player chips="€150,34" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="1"/>
+    <player chips="€51,91" name="sizzln" win="€6,75" bet="€8,07" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="sizzln" type="1"/>
+   <action no="2" sum="€0,50" player="iNitt" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">HA D2</cards>
+   <action no="4" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="7" sum="€1,50" player="sizzln" type="23"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="8" sum="€1" player="iNitt" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 DQ SJ</cards>
+   <action no="9" sum="€1,98" player="sizzln" type="5"/>
+   <action no="10" sum="€1,98" player="iNitt" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="11" sum="€0" player="sizzln" type="4"/>
+   <action no="12" sum="€0" player="iNitt" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action no="13" sum="€4,59" player="sizzln" type="5"/>
+   <action no="14" sum="€0" player="iNitt" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092383">
+  <general>
+   <startdate>2024-09-11 22:26:27</startdate>
+   <players>
+    <player chips="€98,73" name="iNitt" win="€0" bet="€0,25" seat="1" dealer="0"/>
+    <player chips="€73,95" name="PokerIsFun" win="€0" bet="€0,50" seat="3" dealer="0"/>
+    <player chips="€50,75" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0" seat="6" dealer="0"/>
+    <player chips="€150,34" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€55,18" name="sizzln" win="€1,25" bet="€1,50" seat="10" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="iNitt" type="1"/>
+   <action no="2" sum="€0,50" player="PokerIsFun" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 DQ</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="6" sum="€1,50" player="sizzln" type="23"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="PokerIsFun" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092446">
+  <general>
+   <startdate>2024-09-11 22:26:49</startdate>
+   <players>
+    <player chips="€98,48" name="iNitt" win="€1,25" bet="€1,25" seat="1" dealer="1"/>
+    <player chips="€73,45" name="PokerIsFun" win="€0" bet="€0,25" seat="3" dealer="0"/>
+    <player chips="€50,75" name="13373678" win="€0" bet="€0,50" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0" seat="6" dealer="0"/>
+    <player chips="€150,34" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€55,93" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="PokerIsFun" type="1"/>
+   <action no="2" sum="€0,50" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="6" sum="€1,25" player="iNitt" type="23"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">D3 HK</cards>
+   <action no="8" sum="€0" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092519">
+  <general>
+   <startdate>2024-09-11 22:27:17</startdate>
+   <players>
+    <player chips="€99,23" name="iNitt" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€73,20" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="1"/>
+    <player chips="€50,25" name="13373678" win="€1" bet="€1,50" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€0,50" seat="6" dealer="0"/>
+    <player chips="€150,34" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="0"/>
+    <player chips="€55,93" name="sizzln" win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="13373678" type="1"/>
+   <action no="2" sum="€0,50" player="135123265123" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">S9 HQ</cards>
+   <action no="7" sum="€1,50" player="13373678" type="23"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="135123265123" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928092586">
+  <general>
+   <startdate>2024-09-11 22:27:45</startdate>
+   <players>
+    <player board1win="€0" chips="€99,23" name="iNitt" win="€0" board2win="€0" bet="€0" seat="1" dealer="0"/>
+    <player board1win="€72,58" chips="€73,20" name="PokerIsFun" win="€145,15" board2win="€72,57" bet="€73,20" seat="3" dealer="0"/>
+    <player board1win="€0" chips="€50,75" name="13373678" win="€0" board2win="€0" bet="€0" seat="5" dealer="1"/>
+    <player board1win="€0" chips="€50" name="135123265123" win="€0" board2win="€0" bet="€0,25" seat="6" dealer="0"/>
+    <player board1win="€0" chips="€150,34" name="DDiddyLLove" win="€0" board2win="€0" bet="€150,34" seat="8" dealer="0"/>
+    <player board1win="€0" chips="€55,93" name="sizzln" win="€0" board2win="€0" bet="€0" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="135123265123" type="1"/>
+   <action no="2" sum="€0,50" player="DDiddyLLove" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="sizzln" type="0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">SK HK</cards>
+   <action no="5" sum="€1,10" player="PokerIsFun" type="23"/>
+   <cards player="13373678" type="Pocket">H2 S8</cards>
+   <action no="6" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="135123265123" type="0"/>
+   <cards player="DDiddyLLove" type="Pocket">CQ SQ</cards>
+   <action no="8" sum="€6,50" player="DDiddyLLove" type="23"/>
+   <action no="9" sum="€13,50" player="PokerIsFun" type="23"/>
+   <action no="10" sum="€150,34" player="DDiddyLLove" type="23"/>
+   <action no="11" sum="€59,70" player="PokerIsFun" type="7"/>
+  </round>
+  <round no="2">
+   <cards board="board1" type="Flop">HJ C3 DK</cards>
+   <cards board="board2" type="Flop">S3 H7 DJ</cards>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">HQ</cards>
+   <cards board="board2" type="Turn">S4</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">C5</cards>
+   <cards board="board2" type="River">D8</cards>
+  </round>
+ </game>
+ <game gamecode="3928094510">
+  <general>
+   <startdate>2024-09-11 22:28:51</startdate>
+   <players>
+    <player chips="€99,23" name="iNitt" win="€0" bet="€0" seat="1" dealer="0"/>
+    <player chips="€145,15" name="PokerIsFun" win="€0" bet="€0" seat="3" dealer="0"/>
+    <player chips="€50,75" name="13373678" win="€45,82" bet="€50,75" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€0" bet="€23,25" seat="6" dealer="1"/>
+    <player chips="€77,14" name="DDiddyLLove" win="€0" bet="€0,25" seat="8" dealer="0"/>
+    <player chips="€55,93" name="sizzln" win="€0" bet="€0,50" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="DDiddyLLove" type="1"/>
+   <action no="2" sum="€0,50" player="sizzln" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action no="3" sum="€0" player="iNitt" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">X X</cards>
+   <action no="4" sum="€0" player="PokerIsFun" type="0"/>
+   <cards player="13373678" type="Pocket">D8 H8</cards>
+   <action no="5" sum="€1,25" player="13373678" type="23"/>
+   <cards player="135123265123" type="Pocket">X X</cards>
+   <action no="6" sum="€4" player="135123265123" type="23"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="7" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="8" sum="€0" player="sizzln" type="0"/>
+   <action no="9" sum="€10,25" player="13373678" type="23"/>
+   <action no="10" sum="€6,25" player="135123265123" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 HA DK</cards>
+   <action no="11" sum="€5" player="13373678" type="5"/>
+   <action no="12" sum="€5" player="135123265123" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action no="13" sum="€8" player="13373678" type="5"/>
+   <action no="14" sum="€8" player="135123265123" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="15" sum="€27,50" player="13373678" type="5"/>
+   <action no="16" sum="€0" player="135123265123" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3928094703">
+  <general>
+   <startdate>2024-09-11 22:30:07</startdate>
+   <players>
+    <player chips="€145,15" name="PokerIsFun" win="€0" bet="€1,25" seat="3" dealer="0"/>
+    <player chips="€73,32" name="13373678" win="€0" bet="€0" seat="5" dealer="0"/>
+    <player chips="€50" name="135123265123" win="€2,67" bet="€1,25" seat="6" dealer="0"/>
+    <player chips="€76,89" name="DDiddyLLove" win="€0" bet="€0" seat="8" dealer="1"/>
+    <player chips="€55,43" name="sizzln" win="€0" bet="€0,25" seat="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" sum="€0,25" player="sizzln" type="1"/>
+   <action no="2" sum="€0,50" player="PokerIsFun" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 H10</cards>
+   <action no="3" sum="€0" player="13373678" type="0"/>
+   <cards player="135123265123" type="Pocket">D6 H6</cards>
+   <action no="4" sum="€1,25" player="135123265123" type="23"/>
+   <cards player="DDiddyLLove" type="Pocket">X X</cards>
+   <action no="5" sum="€0" player="DDiddyLLove" type="0"/>
+   <cards player="sizzln" type="Pocket">X X</cards>
+   <action no="6" sum="€0" player="sizzln" type="0"/>
+   <cards player="PokerIsFun" type="Pocket">CK SQ</cards>
+   <action no="7" sum="€0,75" player="PokerIsFun" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 SA CJ</cards>
+   <action no="8" sum="€0" player="PokerIsFun" type="4"/>
+   <action no="9" sum="€0" player="135123265123" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="10" sum="€0" player="PokerIsFun" type="4"/>
+   <action no="11" sum="€0" player="135123265123" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="12" sum="€0" player="PokerIsFun" type="4"/>
+   <action no="13" sum="€0" player="135123265123" type="4"/>
+  </round>
+ </game>
+</session>

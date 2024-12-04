@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081096630">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 14, 488044432</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:13</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-13 20:17:24</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0</bets>
+  <wins>€0</wins>
+  <chipsin>€0</chipsin>
+  <chipsout>€0</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702371177">
+  <general>
+   <startdate>2022-08-13 20:17:24</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€0" chips="€68,16" name="LazyKoala" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€54,47" name="Strippenzieher" dealer="0"/>
+    <player bet="€2,07" seat="5" win="€2,67" chips="€50" name="CallOnMe" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Strippenzieher" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" sum="€1,25" type="23" no="3"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action player="Strippenzieher" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0,75" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S7 S8</cards>
+   <action player="CallOnMe" sum="€0" type="4" no="6"/>
+   <action player="LazyKoala" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="CallOnMe" sum="€0" type="4" no="8"/>
+   <action player="LazyKoala" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action player="CallOnMe" sum="€0,82" type="5" no="10"/>
+   <action player="LazyKoala" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+</session>

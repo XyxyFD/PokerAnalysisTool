@@ -1,0 +1,2920 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4146442950">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:46:00</duration>
+  <gamecount>79</gamecount>
+  <startdate>2024-08-13 23:00:06</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€287,41</bets>
+  <wins>€187,86</wins>
+  <chipsin>€61,05</chipsin>
+  <chipsout>€77,94</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3918934657">
+  <general>
+   <startdate>2024-08-13 23:00:06</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€62,56" win="€0" bet="€4,84" name="Player 1"/>
+    <player seat="3" dealer="1" chips="€50" win="€0" bet="€0" name="Player 3"/>
+    <player seat="5" dealer="0" chips="€28,08" win="€0" bet="€0,25" name="Player 5"/>
+    <player seat="6" dealer="0" chips="€50" win="€9,63" bet="€4,84" name="Player 6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" sum="€0,25" no="1" type="1"/>
+   <action player="Player 6" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">SQ S7</cards>
+   <action player="Player 1" sum="€0,50" no="3" type="3"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" no="4" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€0" no="5" type="0"/>
+   <cards player="Player 6" type="Pocket">D6 D5</cards>
+   <action player="Player 6" sum="€0" no="6" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 DJ S6</cards>
+   <action player="Player 6" sum="€0,62" no="7" type="5"/>
+   <action player="Player 1" sum="€0,62" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="Player 6" sum="€1,24" no="9" type="5"/>
+   <action player="Player 1" sum="€1,24" no="10" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="Player 6" sum="€2,48" no="11" type="5"/>
+   <action player="Player 1" sum="€2,48" no="12" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918935901">
+  <general>
+   <startdate>2024-08-13 23:00:53</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€57,72" win="€0" bet="€11,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€27,83" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,79" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€22,55" bet="€11,50" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">C4 H6</cards>
+   <action player="turokk" sum="€0,50" no="3" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">CA C7</cards>
+   <action player="13373678" sum="€2,50" no="7" type="23"/>
+   <action player="turokk" sum="€2" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 HJ HA</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€2" no="10" type="5"/>
+   <action player="13373678" sum="€2" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="13373678" sum="€0" no="12" type="4"/>
+   <action player="turokk" sum="€3,50" no="13" type="5"/>
+   <action player="13373678" sum="€3,50" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="13373678" sum="€0" no="15" type="4"/>
+   <action player="turokk" sum="€3,50" no="16" type="5"/>
+   <action player="13373678" sum="€3,50" no="17" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918936025">
+  <general>
+   <startdate>2024-08-13 23:01:53</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€46,22" win="€0" bet="€1,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,83" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€54,54" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€61,05" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€50" win="€3,16" bet="€3,94" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,50" no="3" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">C5 HJ</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HA S8</cards>
+   <action player="TanzMitMir" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="TanzMitMir" sum="€2,44" no="11" type="5"/>
+   <action player="turokk" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936125">
+  <general>
+   <startdate>2024-08-13 23:02:25</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€44,72" win="€2,75" bet="€3,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,83" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,54" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="1" chips="€60,80" win="€0" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€51,66" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="turokk" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S7 CK</cards>
+   <action player="13373678" sum="€1,25" no="6" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€3,50" no="8" type="23"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936191">
+  <general>
+   <startdate>2024-08-13 23:02:51</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€46,22" win="€0" bet="€3,74" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,83" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,54" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€59,55" win="€7,74" bet="€5,36" name="13373678"/>
+    <player seat="10" dealer="1" chips="€51,41" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="turokk" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">HA D9</cards>
+   <action player="13373678" sum="€1,25" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1" no="7" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C5 D5</cards>
+   <action player="turokk" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€0,99" no="10" type="5"/>
+   <action player="turokk" sum="€0,99" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="turokk" sum="€0" no="12" type="4"/>
+   <action player="13373678" sum="€0" no="13" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+   <action player="turokk" sum="€1,50" no="14" type="5"/>
+   <action player="13373678" sum="€3,12" no="15" type="23"/>
+   <action player="turokk" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936339">
+  <general>
+   <startdate>2024-08-13 23:03:50</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€42,48" win="€3,16" bet="€3,25" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,83" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,54" win="€0" bet="€1,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€63,55" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€51,41" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,25" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">D2 H4</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,25" no="6" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 CJ S8</cards>
+   <action player="13807085" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="13807085" sum="€0" no="11" type="4"/>
+   <action player="turokk" sum="€2" no="12" type="5"/>
+   <action player="13807085" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936434">
+  <general>
+   <startdate>2024-08-13 23:04:26</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€44,39" win="€1,25" bet="€2" name="turokk"/>
+    <player seat="3" dealer="1" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,33" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€53,29" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€63,55" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€51,41" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 D5</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€2" no="5" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936505">
+  <general>
+   <startdate>2024-08-13 23:04:52</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€45,14" win="€1,25" bet="€1,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€27,08" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,79" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€63,55" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€51,41" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,50" no="4" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">DJ H6</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918936556">
+  <general>
+   <startdate>2024-08-13 23:05:10</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€45,89" win="€0" bet="€0" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€27,08" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€52,54" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€63,05" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€51,41" win="€1,70" bet="€1,81" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0,50" no="5" type="3"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0,50" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">S5 H7</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 DA S7</cards>
+   <action player="TanzMitMir" sum="€0" no="9" type="4"/>
+   <action player="Boonchuay" sum="€0" no="10" type="4"/>
+   <action player="13807085" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="TanzMitMir" sum="€1,31" no="12" type="5"/>
+   <action player="Boonchuay" sum="€0" no="13" type="0"/>
+   <action player="13807085" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937370">
+  <general>
+   <startdate>2024-08-13 23:06:08</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€45,89" win="€0" bet="€0,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€26,58" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,04" win="€18,90" bet="€19,11" name="13807085"/>
+    <player seat="8" dealer="1" chips="€62,80" win="€0" bet="€9,37" name="13373678"/>
+    <player seat="10" dealer="0" chips="€52,61" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="turokk" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,50" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">S10 H10</cards>
+   <action player="13373678" sum="€4,50" no="6" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€0" no="8" type="0"/>
+   <action player="13807085" sum="€3" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D7 D5</cards>
+   <action player="13807085" sum="€4,87" no="10" type="5"/>
+   <action player="13373678" sum="€4,87" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="13807085" sum="€9,74" no="12" type="5"/>
+   <action player="13373678" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937552">
+  <general>
+   <startdate>2024-08-13 23:07:15</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€45,39" win="€3,63" bet="€2,12" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€26,58" win="€0" bet="€1,62" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€61,57" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€53,43" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€52,36" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="turokk" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1,62" no="3" type="23"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">CQ H5</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,37" no="7" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S7 D8</cards>
+   <action player="turokk" sum="€0" no="9" type="4"/>
+   <action player="Boonchuay" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="turokk" sum="€0,50" no="11" type="5"/>
+   <action player="Boonchuay" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937658">
+  <general>
+   <startdate>2024-08-13 23:07:52</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€47,40" win="€0" bet="€2" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€24,96" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€61,57" win="€16,36" bet="€7,06" name="13807085"/>
+    <player seat="8" dealer="0" chips="€53,43" win="€0" bet="€7,06" name="13373678"/>
+    <player seat="10" dealer="0" chips="€52,36" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">SK C10</cards>
+   <action player="13807085" sum="€0,50" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">C3 CA</cards>
+   <action player="13373678" sum="€2" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€2" no="6" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+   <action player="13807085" sum="€1,50" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 CK C8</cards>
+   <action player="13807085" sum="€0" no="10" type="4"/>
+   <action player="13373678" sum="€0" no="11" type="4"/>
+   <action player="turokk" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action player="13807085" sum="€0" no="13" type="4"/>
+   <action player="13373678" sum="€5,06" no="14" type="5"/>
+   <action player="turokk" sum="€0" no="15" type="0"/>
+   <action player="13807085" sum="€5,06" no="16" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="13807085" sum="€0" no="17" type="4"/>
+   <action player="13373678" sum="€0" no="18" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918937797">
+  <general>
+   <startdate>2024-08-13 23:08:50</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€45,40" win="€0" bet="€1,05" name="turokk"/>
+    <player seat="3" dealer="1" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€24,46" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€70,87" win="€0" bet="€1,05" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€52,36" win="€3,30" bet="€3,43" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D4 C3</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,05" no="4" type="23"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,05" no="5" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0,55" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H2 HK</cards>
+   <action player="13807085" sum="€0" no="9" type="4"/>
+   <action player="TanzMitMir" sum="€0" no="10" type="4"/>
+   <action player="turokk" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="13807085" sum="€0" no="12" type="4"/>
+   <action player="TanzMitMir" sum="€2,38" no="13" type="5"/>
+   <action player="turokk" sum="€0" no="14" type="0"/>
+   <action player="13807085" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918937931">
+  <general>
+   <startdate>2024-08-13 23:09:42</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€44,35" win="€0" bet="€1,91" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€24,21" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€69,82" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€54,61" win="€4,44" bet="€1,91" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">CQ CJ</cards>
+   <action player="TanzMitMir" sum="€1,05" no="3" type="23"/>
+   <cards player="turokk" type="Pocket">C7 C3</cards>
+   <action player="turokk" sum="€1,05" no="4" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">DQ S9</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C9 D8</cards>
+   <action player="TanzMitMir" sum="€0,86" no="9" type="5"/>
+   <action player="turokk" sum="€0,86" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="TanzMitMir" sum="€0" no="11" type="4"/>
+   <action player="turokk" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action player="TanzMitMir" sum="€0" no="13" type="4"/>
+   <action player="turokk" sum="€0" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918939136">
+  <general>
+   <startdate>2024-08-13 23:10:20</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€42,44" win="€0" bet="€12,12" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€24,21" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€69,57" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€57,14" win="€23,75" bet="€26,81" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,50" no="3" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">C8 DJ</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€6" no="8" type="23"/>
+   <action player="turokk" sum="€4,50" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C3 H5</cards>
+   <action player="TanzMitMir" sum="€6,12" no="10" type="5"/>
+   <action player="turokk" sum="€6,12" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="TanzMitMir" sum="€14,69" no="12" type="5"/>
+   <action player="turokk" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939243">
+  <general>
+   <startdate>2024-08-13 23:11:02</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€30,32" win="€6,48" bet="€4,24" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€24,21" win="€0" bet="€1,62" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€69,57" win="€0" bet="€1,62" name="13807085"/>
+    <player seat="8" dealer="1" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€68,77" win="€0" bet="€1,62" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="turokk" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1,62" no="4" type="23"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,62" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">D7 C10</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,37" no="7" type="3"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€4,24" no="8" type="23"/>
+   <action player="Boonchuay" sum="€0" no="9" type="0"/>
+   <action player="13807085" sum="€0" no="10" type="0"/>
+   <action player="TanzMitMir" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939352">
+  <general>
+   <startdate>2024-08-13 23:11:42</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€35,18" win="€1,50" bet="€3,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€22,59" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€67,95" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€67,15" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="turokk" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0,50" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">D2 H8</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€3,50" no="7" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+   <action player="13807085" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939416">
+  <general>
+   <startdate>2024-08-13 23:12:07</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€36,18" win="€0" bet="€0" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€22,59" win="€0" bet="€3,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€67,45" win="€0" bet="€3,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€67,15" win="€10,43" bet="€6,73" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,50" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C2 DQ</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,50" no="5" type="3"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€3,50" no="8" type="23"/>
+   <action player="13807085" sum="€2" no="9" type="3"/>
+   <action player="TanzMitMir" sum="€2" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C7 S4</cards>
+   <action player="Boonchuay" sum="€0" no="11" type="4"/>
+   <action player="13807085" sum="€0" no="12" type="4"/>
+   <action player="TanzMitMir" sum="€3,23" no="13" type="5"/>
+   <action player="Boonchuay" sum="€0" no="14" type="0"/>
+   <action player="13807085" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939545">
+  <general>
+   <startdate>2024-08-13 23:12:59</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€36,18" win="€1,25" bet="€2" name="turokk"/>
+    <player seat="3" dealer="1" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€19,09" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€63,95" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€74,08" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S3 D6</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€2" no="5" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918939595">
+  <general>
+   <startdate>2024-08-13 23:13:18</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€36,93" win="€0" bet="€6,68" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€18,84" win="€0" bet="€2" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€63,45" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€15,14" bet="€50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€74,08" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€2" no="4" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€2" no="6" type="3"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">C6 C5</cards>
+   <action player="13373678" sum="€1,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 H2 CK</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€0" no="10" type="4"/>
+   <action player="Boonchuay" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="13373678" sum="€4,68" no="12" type="5"/>
+   <action player="turokk" sum="€4,68" no="13" type="3"/>
+   <action player="Boonchuay" sum="€0" no="14" type="0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="13373678" sum="€43,32" no="15" type="5"/>
+   <action player="turokk" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940301">
+  <general>
+   <startdate>2024-08-13 23:14:40</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€30,25" win="€0" bet="€5,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€16,84" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€63,20" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€58,46" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€74,08" win="€10,91" bet="€5,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">H3 H6</cards>
+   <action player="turokk" sum="€0,50" no="3" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">DK C9</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">CQ S7</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 DQ HQ</cards>
+   <action player="TanzMitMir" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€1,25" no="10" type="5"/>
+   <action player="TanzMitMir" sum="€1,25" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="TanzMitMir" sum="€0" no="12" type="4"/>
+   <action player="turokk" sum="€3,75" no="13" type="5"/>
+   <action player="TanzMitMir" sum="€3,75" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action player="TanzMitMir" sum="€0" no="15" type="4"/>
+   <action player="turokk" sum="€0" no="16" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918940403">
+  <general>
+   <startdate>2024-08-13 23:15:22</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€24,75" win="€0" bet="€1" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50" win="€2,19" bet="€1,67" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€44,17" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€63,20" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="1" chips="€58,21" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,49" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="turokk" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1" no="3" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C3 HA</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€0,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 H4 S5</cards>
+   <action player="turokk" sum="€0" no="9" type="4"/>
+   <action player="RoligaDagen" sum="€0,67" no="10" type="5"/>
+   <action player="turokk" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940505">
+  <general>
+   <startdate>2024-08-13 23:16:02</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€23,75" win="€0" bet="€3,62" name="turokk"/>
+    <player seat="3" dealer="0" chips="€51,19" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€44,17" win="€22,89" bet="€8,12" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€63,20" win="€0" bet="€8,12" name="13807085"/>
+    <player seat="8" dealer="0" chips="€58,21" win="€0" bet="€1,62" name="13373678"/>
+    <player seat="10" dealer="1" chips="€79,24" win="€0" bet="€1,62" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="turokk" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">D10 C10</cards>
+   <action player="Boonchuay" sum="€1,62" no="3" type="23"/>
+   <cards player="13807085" type="Pocket">H10 CQ</cards>
+   <action player="13807085" sum="€1,62" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">C3 H3</cards>
+   <action player="13373678" sum="€1,62" no="5" type="3"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,62" no="6" type="3"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€1,37" no="7" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D6 C9</cards>
+   <action player="turokk" sum="€0" no="9" type="4"/>
+   <action player="Boonchuay" sum="€2" no="10" type="5"/>
+   <action player="13807085" sum="€2" no="11" type="3"/>
+   <action player="13373678" sum="€0" no="12" type="0"/>
+   <action player="TanzMitMir" sum="€0" no="13" type="0"/>
+   <action player="turokk" sum="€2" no="14" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="turokk" sum="€0" no="15" type="4"/>
+   <action player="Boonchuay" sum="€0" no="16" type="4"/>
+   <action player="13807085" sum="€0" no="17" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action player="turokk" sum="€0" no="18" type="4"/>
+   <action player="Boonchuay" sum="€4,50" no="19" type="5"/>
+   <action player="13807085" sum="€4,50" no="20" type="3"/>
+   <action player="turokk" sum="€0" no="21" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940627">
+  <general>
+   <startdate>2024-08-13 23:16:55</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€20,13" win="€4,50" bet="€3,50" name="turokk"/>
+    <player seat="3" dealer="0" chips="€50,69" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€58,94" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,08" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€56,59" win="€0" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€77,62" win="€0" bet="€1,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">CK C10</cards>
+   <action player="13373678" sum="€1,25" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,25" no="5" type="3"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€3,50" no="6" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+   <action player="TanzMitMir" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940725">
+  <general>
+   <startdate>2024-08-13 23:17:35</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€23,38" win="€0" bet="€7,02" name="turokk"/>
+    <player seat="3" dealer="1" chips="€50,44" win="€15,56" bet="€7,02" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€58,44" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,08" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€55,34" win="€0" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€76,37" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 S6</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="turokk" type="Pocket">S5 C2</cards>
+   <action player="turokk" sum="€1,25" no="5" type="3"/>
+   <cards player="RoligaDagen" type="Pocket">SJ DA</cards>
+   <action player="RoligaDagen" sum="€1,25" no="6" type="3"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 CK C5</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="turokk" sum="€0" no="10" type="4"/>
+   <action player="RoligaDagen" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="13373678" sum="€0" no="12" type="4"/>
+   <action player="turokk" sum="€0" no="13" type="4"/>
+   <action player="RoligaDagen" sum="€0" no="14" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action player="13373678" sum="€0" no="15" type="4"/>
+   <action player="turokk" sum="€1" no="16" type="5"/>
+   <action player="RoligaDagen" sum="€5,77" no="17" type="23"/>
+   <action player="13373678" sum="€0" no="18" type="0"/>
+   <action player="turokk" sum="€4,77" no="19" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918940907">
+  <general>
+   <startdate>2024-08-13 23:18:42</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€16,36" win="€1,25" bet="€2" name="turokk"/>
+    <player seat="3" dealer="0" chips="€58,98" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€58,19" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,58" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€54,09" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€76,37" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="turokk" type="Pocket">X X</cards>
+   <action player="turokk" sum="€2" no="4" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">C3 SK</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918940953">
+  <general>
+   <startdate>2024-08-13 23:19:00</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€17,11" win="€0" bet="€17,11" board2win="€0" name="turokk" board1win="€0"/>
+    <player seat="3" dealer="0" chips="€58,98" win="€0" bet="€0" board2win="€0" name="RoligaDagen" board1win="€0"/>
+    <player seat="5" dealer="0" chips="€58,19" win="€33,92" bet="€33,72" board2win="€16,96" name="Boonchuay" board1win="€16,96"/>
+    <player seat="6" dealer="1" chips="€54,33" win="€0" bet="€0" board2win="€0" name="13807085" board1win="€0"/>
+    <player seat="8" dealer="0" chips="€53,59" win="€0" bet="€0,25" board2win="€0" name="13373678" board1win="€0"/>
+    <player seat="10" dealer="0" chips="€76,37" win="€0" bet="€0,50" board2win="€0" name="TanzMitMir" board1win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="turokk" type="Pocket">H7 CA</cards>
+   <action player="turokk" sum="€17,11" no="3" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">DK HK</cards>
+   <action player="Boonchuay" sum="€33,72" no="5" type="23"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">D4 DJ</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards board="board1" type="Flop">C8 H3 CK</cards>
+   <cards board="board2" type="Flop">C2 D5 S2</cards>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">SK</cards>
+   <cards board="board2" type="Turn">H8</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">H5</cards>
+   <cards board="board2" type="River">S7</cards>
+  </round>
+ </game>
+ <game gamecode="3918941051">
+  <general>
+   <startdate>2024-08-13 23:19:39</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€58,98" win="€0,50" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€75" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,33" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="1" chips="€53,34" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€75,87" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S8 H4</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918941073">
+  <general>
+   <startdate>2024-08-13 23:19:48</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€59,23" win="€17,85" bet="€19,07" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€75" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,33" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€53,34" win="€0" bet="€8,95" name="13373678"/>
+    <player seat="10" dealer="1" chips="€75,62" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SJ SA</cards>
+   <action player="13373678" sum="€1,25" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€5,50" no="6" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <action player="13373678" sum="€4,25" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D4 SK</cards>
+   <action player="RoligaDagen" sum="€3,45" no="9" type="5"/>
+   <action player="13373678" sum="€3,45" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action player="RoligaDagen" sum="€10,12" no="11" type="5"/>
+   <action player="13373678" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942370">
+  <general>
+   <startdate>2024-08-13 23:20:43</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€68,13" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€74,50" win="€0" bet="€1,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,33" win="€2,43" bet="€1,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€75,62" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 H8</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">HJ H5</cards>
+   <action player="Boonchuay" sum="€0,25" no="6" type="3"/>
+   <cards player="13807085" type="Pocket">CK HA</cards>
+   <action player="13807085" sum="€1,25" no="7" type="23"/>
+   <action player="Boonchuay" sum="€0,75" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H10 SQ</cards>
+   <action player="Boonchuay" sum="€0" no="9" type="4"/>
+   <action player="13807085" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="Boonchuay" sum="€0" no="11" type="4"/>
+   <action player="13807085" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="Boonchuay" sum="€0" no="13" type="4"/>
+   <action player="13807085" sum="€0" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918942448">
+  <general>
+   <startdate>2024-08-13 23:21:12</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€68,13" win="€1,25" bet="€1,25" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€73,25" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,51" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€75,62" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="4" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">D2 S7</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942495">
+  <general>
+   <startdate>2024-08-13 23:21:30</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€68,88" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,25" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€55,26" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€75,62" win="€0,50" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">DJ H7</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942512">
+  <general>
+   <startdate>2024-08-13 23:21:39</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0,50" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="0" chips="€68,88" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,25" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,26" win="€1,25" bet="€1,25" name="13807085"/>
+    <player seat="8" dealer="1" chips="€50" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€75,87" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="hahahahahahaxDD" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,25" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">S5 CJ</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942583">
+  <general>
+   <startdate>2024-08-13 23:22:00</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0,25" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="0" chips="€68,88" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,25" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€56,01" win="€0" bet="€0,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€0" bet="€2" name="13373678"/>
+    <player seat="10" dealer="1" chips="€75,62" win="€5,25" bet="€6" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="hahahahahahaxDD" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0,50" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">DQ D7</cards>
+   <action player="13373678" sum="€2" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€6" no="6" type="23"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="7" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+   <action player="13807085" sum="€0" no="9" type="0"/>
+   <action player="13373678" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918942649">
+  <general>
+   <startdate>2024-08-13 23:22:27</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€50" win="€0" bet="€0" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="0" chips="€68,38" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,25" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,51" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,87" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">DK C10</cards>
+   <action player="13373678" sum="€1,25" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943129">
+  <general>
+   <startdate>2024-08-13 23:22:42</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="1" chips="€68,13" win="€2,67" bet="€3,36" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72,75" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€55,51" win="€0" bet="€1,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50,75" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,87" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13807085" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK H2</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="6" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0,75" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 D2 CJ</cards>
+   <action player="13807085" sum="€0" no="9" type="4"/>
+   <action player="RoligaDagen" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="13807085" sum="€0" no="11" type="4"/>
+   <action player="RoligaDagen" sum="€2,11" no="12" type="5"/>
+   <action player="13807085" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943248">
+  <general>
+   <startdate>2024-08-13 23:23:32</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="0" chips="€69,55" win="€1,25" bet="€1,25" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€72,50" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,26" win="€0" bet="€0,25" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50,75" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,87" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13807085" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="5" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">S3 C5</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943300">
+  <general>
+   <startdate>2024-08-13 23:23:51</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="hahahahahahaxDD"/>
+    <player seat="3" dealer="0" chips="€70,30" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72,50" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€54,01" win="€0" bet="€2" name="13807085"/>
+    <player seat="8" dealer="0" chips="€50,25" win="€5" bet="€8" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,87" win="€0" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="hahahahahahaxDD" type="Pocket">X X</cards>
+   <action player="hahahahahahaxDD" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0,50" no="5" type="3"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€2" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">CQ HK</cards>
+   <action player="13373678" sum="€8" no="7" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+   <action player="Boonchuay" sum="€0" no="9" type="0"/>
+   <action player="13807085" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943398">
+  <general>
+   <startdate>2024-08-13 23:24:29</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€70,30" win="€0" bet="€1,62" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72" win="€3,39" bet="€3,36" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,01" win="€0" bet="€0" name="13807085"/>
+    <player seat="8" dealer="1" chips="€53,25" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,37" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1,62" no="3" type="23"/>
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S10 D7</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,12" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HK S5</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="4"/>
+   <action player="Boonchuay" sum="€1,74" no="9" type="5"/>
+   <action player="RoligaDagen" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943459">
+  <general>
+   <startdate>2024-08-13 23:24:51</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€68,68" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,77" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,01" win="€1,25" bet="€1,50" name="13807085"/>
+    <player seat="8" dealer="0" chips="€53,25" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€78,12" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13807085" type="Pocket">X X</cards>
+   <action player="13807085" sum="€1,50" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">D4 DJ</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943510">
+  <general>
+   <startdate>2024-08-13 23:25:13</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€68,43" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,27" win="€1" bet="€1,25" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€53,25" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,12" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1,25" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">S9 CJ</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943534">
+  <general>
+   <startdate>2024-08-13 23:25:22</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€68,43" win="€0" bet="€1,25" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€73,77" win="€0" bet="€1,25" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€52,75" win="€4,25" bet="€7" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,12" win="€0" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="3" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1,25" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">DJ DA</cards>
+   <action player="13373678" sum="€7" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943588">
+  <general>
+   <startdate>2024-08-13 23:25:47</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€67,18" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72,52" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="8" dealer="1" chips="€55,75" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€77,62" win="€1" bet="€1,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">S8 C5</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,50" no="5" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943619">
+  <general>
+   <startdate>2024-08-13 23:26:00</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€66,68" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72,52" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€55,75" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="1" chips="€78,12" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S4 SK</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943647">
+  <general>
+   <startdate>2024-08-13 23:26:12</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€66,43" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€72,02" win="€4,35" bet="€1,99" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€56,50" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,12" win="€0" bet="€1,99" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">CJ DA</cards>
+   <action player="TanzMitMir" sum="€1,15" no="3" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">CK SJ</cards>
+   <action player="Boonchuay" sum="€0,90" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">C6 H3</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C2 DQ</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="4"/>
+   <action player="TanzMitMir" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="Boonchuay" sum="€0" no="9" type="4"/>
+   <action player="TanzMitMir" sum="€0,84" no="10" type="5"/>
+   <action player="Boonchuay" sum="€0,84" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="Boonchuay" sum="€0" no="12" type="4"/>
+   <action player="TanzMitMir" sum="€0" no="13" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918943720">
+  <general>
+   <startdate>2024-08-13 23:26:45</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€66,43" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€74,38" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€56" win="€9,52" bet="€11,02" name="13373678"/>
+    <player seat="10" dealer="0" chips="€76,13" win="€0" bet="€4,76" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">DQ CQ</cards>
+   <action player="13373678" sum="€1,50" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€4,76" no="6" type="23"/>
+   <action player="13373678" sum="€11,02" no="7" type="23"/>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943801">
+  <general>
+   <startdate>2024-08-13 23:27:14</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€66,43" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€74,38" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="8" dealer="1" chips="€60,76" win="€0" bet="€11,99" name="13373678"/>
+    <player seat="10" dealer="0" chips="€71,37" win="€24,48" bet="€71,37" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SK CJ</cards>
+   <action player="13373678" sum="€1,25" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€5,62" no="5" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <action player="13373678" sum="€11,99" no="7" type="23"/>
+   <action player="TanzMitMir" sum="€71,37" no="8" type="23"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943866">
+  <general>
+   <startdate>2024-08-13 23:27:42</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€65,93" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€74,38" win="€0" bet="€5,12" name="Boonchuay"/>
+    <player seat="8" dealer="0" chips="€50" win="€10,18" bet="€14,12" name="13373678"/>
+    <player seat="10" dealer="1" chips="€83,86" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 C5</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0,75" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S7 S3</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="4"/>
+   <action player="13373678" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="Boonchuay" sum="€1,37" no="9" type="5"/>
+   <action player="13373678" sum="€1,37" no="10" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="Boonchuay" sum="€2,50" no="11" type="5"/>
+   <action player="13373678" sum="€11,50" no="12" type="23"/>
+   <action player="Boonchuay" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918943994">
+  <general>
+   <startdate>2024-08-13 23:28:35</startdate>
+   <players>
+    <player seat="3" dealer="1" chips="€65,68" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€69,26" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0,50" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€55,06" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€83,86" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 H7</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944018">
+  <general>
+   <startdate>2024-08-13 23:28:47</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€65,68" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€69,01" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€5" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€55,81" win="€11,05" bet="€11,45" name="13373678"/>
+    <player seat="10" dealer="0" chips="€83,86" win="€0" bet="€1,05" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WAHOO" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,05" no="3" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€5" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">CA CJ</cards>
+   <action player="13373678" sum="€11,45" no="7" type="23"/>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+   <action player="WAHOO" sum="€0" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918944081">
+  <general>
+   <startdate>2024-08-13 23:29:15</startdate>
+   <players>
+    <player seat="3" dealer="0" chips="€65,68" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€69,01" win="€8,72" bet="€4,37" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€61,86" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€82,81" win="€0" bet="€4,37" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">DA H10</cards>
+   <action player="Boonchuay" sum="€0,50" no="4" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S8 C3</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">HA C8</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 CA D3</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="4"/>
+   <action player="Boonchuay" sum="€0" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="TanzMitMir" sum="€0" no="10" type="4"/>
+   <action player="Boonchuay" sum="€1,25" no="11" type="5"/>
+   <action player="TanzMitMir" sum="€1,25" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action player="TanzMitMir" sum="€0" no="13" type="4"/>
+   <action player="Boonchuay" sum="€2,62" no="14" type="5"/>
+   <action player="TanzMitMir" sum="€2,62" no="15" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3918944248">
+  <general>
+   <startdate>2024-08-13 23:29:43</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€49,38" bet="€50" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,68" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,36" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="1" chips="€61,61" win="€49,37" bet="€61,61" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,44" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="gilgameshh" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S7 DA</cards>
+   <action player="13373678" sum="€1,25" no="6" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="gilgameshh" type="Pocket">SA H6</cards>
+   <action player="gilgameshh" sum="€0,75" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA HQ HK</cards>
+   <action player="gilgameshh" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="gilgameshh" sum="€0" no="11" type="4"/>
+   <action player="13373678" sum="€3,43" no="12" type="5"/>
+   <action player="gilgameshh" sum="€3,43" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action player="gilgameshh" sum="€3,17" no="14" type="5"/>
+   <action player="13373678" sum="€56,93" no="15" type="23"/>
+   <action player="gilgameshh" sum="€42,15" no="16" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3918944499">
+  <general>
+   <startdate>2024-08-13 23:31:26</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0,25" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,68" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€73,36" win="€17,04" bet="€8,41" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€8,41" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="gilgameshh" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">CK DK</cards>
+   <action player="Boonchuay" sum="€0,50" no="3" type="3"/>
+   <cards player="WAHOO" type="Pocket">H10 CQ</cards>
+   <action player="WAHOO" sum="€1,62" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">S8 S3</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="7" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+   <action player="Boonchuay" sum="€1,12" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 H7 D10</cards>
+   <action player="Boonchuay" sum="€0" no="10" type="4"/>
+   <action player="WAHOO" sum="€2,19" no="11" type="5"/>
+   <action player="Boonchuay" sum="€2,19" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="Boonchuay" sum="€0" no="13" type="4"/>
+   <action player="WAHOO" sum="€4,60" no="14" type="5"/>
+   <action player="Boonchuay" sum="€4,60" no="15" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action player="Boonchuay" sum="€0" no="16" type="4"/>
+   <action player="WAHOO" sum="€0" no="17" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918945017">
+  <general>
+   <startdate>2024-08-13 23:32:33</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,18" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,99" win="€0,50" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">D8 D3</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918945048">
+  <general>
+   <startdate>2024-08-13 23:32:49</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="1" chips="€64,93" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€82,24" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0,50" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ H9</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918945102">
+  <general>
+   <startdate>2024-08-13 23:33:10</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€64,93" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€81,99" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0,25" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€61,73" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€1,25" bet="€1,05" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WAHOO" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,05" no="3" type="23"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">SJ H2</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918945135">
+  <general>
+   <startdate>2024-08-13 23:33:26</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€64,93" win="€0" bet="€1,82" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,99" win="€4,26" bet="€1,82" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€61,23" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,94" win="€0" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">DQ D7</cards>
+   <action player="RoligaDagen" sum="€1" no="4" type="23"/>
+   <cards player="Boonchuay" type="Pocket">C8 C10</cards>
+   <action player="Boonchuay" sum="€1" no="5" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">D5 S7</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 SK S8</cards>
+   <action player="RoligaDagen" sum="€0,82" no="9" type="5"/>
+   <action player="Boonchuay" sum="€0,82" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action player="RoligaDagen" sum="€0" no="11" type="4"/>
+   <action player="Boonchuay" sum="€0" no="12" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action player="RoligaDagen" sum="€0" no="13" type="4"/>
+   <action player="Boonchuay" sum="€0" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918946163">
+  <general>
+   <startdate>2024-08-13 23:34:19</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€3,49" bet="€3,46" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€63,11" win="€0" bet="€1,67" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€84,43" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="1" chips="€60,98" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,44" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="gilgameshh" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1" no="3" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C2 S3</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D4 CQ</cards>
+   <action player="gilgameshh" sum="€0" no="9" type="4"/>
+   <action player="RoligaDagen" sum="€0,67" no="10" type="5"/>
+   <action player="gilgameshh" sum="€2,46" no="11" type="23"/>
+   <action player="RoligaDagen" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946264">
+  <general>
+   <startdate>2024-08-13 23:35:03</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€51,82" win="€1" bet="€1,50" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€61,44" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€84,43" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="gilgameshh" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">C3 SJ</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€1,50" no="7" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946299">
+  <general>
+   <startdate>2024-08-13 23:35:22</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€52,32" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€60,94" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€84,43" win="€0,50" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">S3 H2</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946322">
+  <general>
+   <startdate>2024-08-13 23:35:34</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€52,32" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="1" chips="€60,69" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€84,68" win="€0" bet="€1,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€50" win="€3,75" bet="€8" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,98" win="€0" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ CA</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1" no="7" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€8" no="8" type="23"/>
+   <action player="13373678" sum="€0" no="9" type="0"/>
+   <action player="Boonchuay" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946381">
+  <general>
+   <startdate>2024-08-13 23:36:01</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€52,32" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€60,69" win="€0" bet="€2,07" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€83,43" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,50" win="€0" bet="€0,25" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€59,73" win="€4,26" bet="€5,15" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WAHOO" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="4" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="5" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">SJ S5</cards>
+   <action player="13373678" sum="€0,75" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ C5 HQ</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="RoligaDagen" sum="€0,82" no="10" type="5"/>
+   <action player="13373678" sum="€3,90" no="11" type="23"/>
+   <action player="RoligaDagen" sum="€0" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946488">
+  <general>
+   <startdate>2024-08-13 23:36:56</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€52,32" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€58,62" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€83,43" win="€0" bet="€1,44" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€52,25" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€61,92" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€78,19" win="€3,04" bet="€3,01" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0,50" no="5" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">D7 HK</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 HJ D6</cards>
+   <action player="TanzMitMir" sum="€0" no="9" type="4"/>
+   <action player="Boonchuay" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action player="TanzMitMir" sum="€0,94" no="11" type="5"/>
+   <action player="Boonchuay" sum="€0,94" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action player="TanzMitMir" sum="€1,57" no="13" type="5"/>
+   <action player="Boonchuay" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946542">
+  <general>
+   <startdate>2024-08-13 23:37:24</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€52,32" win="€0" bet="€3,40" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€58,62" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,99" win="€6,84" bet="€3,40" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,25" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="1" chips="€61,67" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,79" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="gilgameshh" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">C2 D2</cards>
+   <action player="Boonchuay" sum="€0,50" no="4" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S4 S2</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="gilgameshh" type="Pocket">SA S5</cards>
+   <action player="gilgameshh" sum="€2" no="8" type="23"/>
+   <action player="Boonchuay" sum="€1,50" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D3 S7</cards>
+   <action player="gilgameshh" sum="€0" no="10" type="4"/>
+   <action player="Boonchuay" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action player="gilgameshh" sum="€1,40" no="12" type="5"/>
+   <action player="Boonchuay" sum="€1,40" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action player="gilgameshh" sum="€0" no="14" type="4"/>
+   <action player="Boonchuay" sum="€0" no="15" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3918946668">
+  <general>
+   <startdate>2024-08-13 23:38:26</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0,25" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€58,62" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€85,43" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,25" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€61,67" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="1" chips="€79,54" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="gilgameshh" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">CA D8</cards>
+   <action player="13373678" sum="€1,25" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="7" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946717">
+  <general>
+   <startdate>2024-08-13 23:38:45</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€58,12" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€85,43" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,25" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€62,42" win="€1,25" bet="€1,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,54" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">C8 C10</cards>
+   <action player="13373678" sum="€1,25" no="4" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946759">
+  <general>
+   <startdate>2024-08-13 23:39:05</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€1,15" name="gilgameshh"/>
+    <player seat="3" dealer="1" chips="€57,87" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€84,93" win="€0" bet="€1,15" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€52,25" win="€3,35" bet="€3,04" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€63,17" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,54" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 H8</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€1,15" no="5" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="6" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0,90" no="7" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0,65" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 D5 H2</cards>
+   <action player="Boonchuay" sum="€0" no="9" type="4"/>
+   <action player="WAHOO" sum="€0" no="10" type="4"/>
+   <action player="gilgameshh" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="Boonchuay" sum="€0" no="12" type="4"/>
+   <action player="WAHOO" sum="€1,89" no="13" type="5"/>
+   <action player="gilgameshh" sum="€0" no="14" type="0"/>
+   <action player="Boonchuay" sum="€0" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918946948">
+  <general>
+   <startdate>2024-08-13 23:39:56</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€1" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€57,87" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€83,78" win="€0" bet="€1" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,45" win="€0" bet="€0,25" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€63,17" win="€3,16" bet="€3,43" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,54" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WAHOO" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€1" no="4" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1" no="6" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">D8 S8</cards>
+   <action player="13373678" sum="€0,50" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D9 CJ</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="gilgameshh" sum="€0" no="10" type="4"/>
+   <action player="Boonchuay" sum="€0" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="13373678" sum="€2,43" no="12" type="5"/>
+   <action player="gilgameshh" sum="€0" no="13" type="0"/>
+   <action player="Boonchuay" sum="€0" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947053">
+  <general>
+   <startdate>2024-08-13 23:40:46</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€57,87" win="€13,50" bet="€57,87" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€82,78" win="€0" bet="€1" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€54,20" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€65,33" win="€0" bet="€6" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,54" win="€0" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1" no="4" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€1" no="5" type="3"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">H3 HA</cards>
+   <action player="13373678" sum="€6" no="7" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+   <action player="RoligaDagen" sum="€57,87" no="9" type="23"/>
+   <action player="Boonchuay" sum="€0" no="10" type="0"/>
+   <action player="13373678" sum="€0" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947148">
+  <general>
+   <startdate>2024-08-13 23:41:29</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€1,25" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,78" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,20" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="1" chips="€59,33" win="€2,67" bet="€4,68" name="13373678"/>
+    <player seat="10" dealer="0" chips="€79,04" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="gilgameshh" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">H10 H5</cards>
+   <action player="13373678" sum="€1,25" no="6" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0,75" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 DJ C3</cards>
+   <action player="gilgameshh" sum="€0" no="9" type="4"/>
+   <action player="13373678" sum="€0" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action player="gilgameshh" sum="€0" no="11" type="4"/>
+   <action player="13373678" sum="€3,43" no="12" type="5"/>
+   <action player="gilgameshh" sum="€0" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947552">
+  <general>
+   <startdate>2024-08-13 23:42:19</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0,25" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,78" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,20" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€60,75" win="€32,31" bet="€25,28" name="13373678"/>
+    <player seat="10" dealer="1" chips="€78,79" win="€0" bet="€16,28" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="gilgameshh" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">DQ D9</cards>
+   <action player="13373678" sum="€1,25" no="5" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,25" no="6" type="3"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="7" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 DJ C7</cards>
+   <action player="13373678" sum="€0" no="9" type="4"/>
+   <action player="TanzMitMir" sum="€2,28" no="10" type="5"/>
+   <action player="13373678" sum="€5,04" no="11" type="23"/>
+   <action player="TanzMitMir" sum="€2,76" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action player="13373678" sum="€9,99" no="13" type="5"/>
+   <action player="TanzMitMir" sum="€9,99" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action player="13373678" sum="€9" no="15" type="5"/>
+   <action player="TanzMitMir" sum="€0" no="16" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947663">
+  <general>
+   <startdate>2024-08-13 23:43:28</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€64,87" win="€0" bet="€0,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,78" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,20" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,78" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€62,51" win="€1,25" bet="€1,15" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">D2 H4</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€1,15" no="5" type="23"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="7" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947695">
+  <general>
+   <startdate>2024-08-13 23:43:43</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="1" chips="€64,62" win="€1,25" bet="€1,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,28" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,20" win="€0" bet="€0,50" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,78" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€63,26" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 DK</cards>
+   <action player="13373678" sum="€0" no="3" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="6" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947714">
+  <general>
+   <startdate>2024-08-13 23:44:00</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€1,25" bet="€1" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="1" chips="€81,03" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€53,70" win="€0" bet="€0,25" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,78" win="€0" bet="€0,50" name="13373678"/>
+    <player seat="10" dealer="0" chips="€63,26" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WAHOO" sum="€0,25" no="1" type="1"/>
+   <action player="13373678" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="3" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€1" no="4" type="23"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="5" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="6" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">C2 D10</cards>
+   <action player="13373678" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947747">
+  <general>
+   <startdate>2024-08-13 23:44:19</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50,75" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,03" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="1" chips="€53,45" win="€1,25" bet="€1,27" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,28" win="€0" bet="€0,25" name="13373678"/>
+    <player seat="10" dealer="0" chips="€63,26" win="€0" bet="€0,50" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" no="1" type="1"/>
+   <action player="TanzMitMir" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="3" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="4" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="5" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€1,27" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">S6 CJ</cards>
+   <action player="13373678" sum="€0" no="7" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947769">
+  <general>
+   <startdate>2024-08-13 23:44:35</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50,75" win="€0" bet="€0,50" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0" bet="€0" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,03" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,20" win="€1,25" bet="€1,27" name="WAHOO"/>
+    <player seat="8" dealer="1" chips="€76,03" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€62,76" win="€0" bet="€0,25" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TanzMitMir" sum="€0,25" no="1" type="1"/>
+   <action player="gilgameshh" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€0" no="3" type="0"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="4" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€1,27" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">S2 SK</cards>
+   <action player="13373678" sum="€0" no="6" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="7" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947814">
+  <general>
+   <startdate>2024-08-13 23:44:58</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50,25" win="€0" bet="€0,25" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,37" win="€0,50" bet="€0,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,03" win="€0" bet="€0" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,95" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,03" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="1" chips="€62,51" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="gilgameshh" sum="€0,25" no="1" type="1"/>
+   <action player="RoligaDagen" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="3" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S7 H6</cards>
+   <action player="13373678" sum="€0" no="5" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="6" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947839">
+  <general>
+   <startdate>2024-08-13 23:45:14</startdate>
+   <players>
+    <player seat="1" dealer="1" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="0" chips="€65,62" win="€1" bet="€1,50" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€81,03" win="€0" bet="€0,50" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,95" win="€0" bet="€0" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,03" win="€0" bet="€0" name="13373678"/>
+    <player seat="10" dealer="0" chips="€62,51" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RoligaDagen" sum="€0,25" no="1" type="1"/>
+   <action player="Boonchuay" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">D3 S7</cards>
+   <action player="13373678" sum="€0" no="4" type="0"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="5" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="6" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,50" no="7" type="23"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3918947879">
+  <general>
+   <startdate>2024-08-13 23:45:34</startdate>
+   <players>
+    <player seat="1" dealer="0" chips="€50" win="€0" bet="€0" name="gilgameshh"/>
+    <player seat="3" dealer="1" chips="€66,12" win="€0" bet="€1,25" name="RoligaDagen"/>
+    <player seat="5" dealer="0" chips="€80,53" win="€0" bet="€0,25" name="Boonchuay"/>
+    <player seat="6" dealer="0" chips="€54,95" win="€0" bet="€0,50" name="WAHOO"/>
+    <player seat="8" dealer="0" chips="€76,03" win="€3,16" bet="€2,32" name="13373678"/>
+    <player seat="10" dealer="0" chips="€62,51" win="€0" bet="€0" name="TanzMitMir"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Boonchuay" sum="€0,25" no="1" type="1"/>
+   <action player="WAHOO" sum="€0,50" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 DK</cards>
+   <action player="13373678" sum="€1,25" no="3" type="23"/>
+   <cards player="TanzMitMir" type="Pocket">X X</cards>
+   <action player="TanzMitMir" sum="€0" no="4" type="0"/>
+   <cards player="gilgameshh" type="Pocket">X X</cards>
+   <action player="gilgameshh" sum="€0" no="5" type="0"/>
+   <cards player="RoligaDagen" type="Pocket">X X</cards>
+   <action player="RoligaDagen" sum="€1,25" no="6" type="3"/>
+   <cards player="Boonchuay" type="Pocket">X X</cards>
+   <action player="Boonchuay" sum="€0" no="7" type="0"/>
+   <cards player="WAHOO" type="Pocket">X X</cards>
+   <action player="WAHOO" sum="€0" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 HK CK</cards>
+   <action player="13373678" sum="€1,07" no="9" type="5"/>
+   <action player="RoligaDagen" sum="€0" no="10" type="0"/>
+  </round>
+ </game>
+</session>

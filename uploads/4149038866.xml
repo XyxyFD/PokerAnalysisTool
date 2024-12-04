@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4149038866">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:31:23</duration>
+  <gamecount>64</gamecount>
+  <startdate>2024-09-09 22:51:05</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€130,07</bets>
+  <wins>€140,51</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€112,46</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3927488257">
+  <general>
+   <startdate>2024-09-09 22:51:05</startdate>
+   <players>
+    <player chips="€50" name="Player 1" win="€0" seat="1" bet="€0,25" dealer="1"/>
+    <player chips="€75,85" name="Player 8" win="€0,50" seat="8" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 1" no="1"/>
+   <action sum="€0,50" type="2" player="Player 8" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" player="Player 1" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3927488276">
+  <general>
+   <startdate>2024-09-09 22:51:15</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€1" seat="1" bet="€1,25" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€76,10" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,25" type="23" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">D5 S4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927488379">
+  <general>
+   <startdate>2024-09-09 22:51:32</startdate>
+   <players>
+    <player chips="€50,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€76,10" name="AKissbyBliss" win="€0,50" seat="8" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">D4 S10</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3927488420">
+  <general>
+   <startdate>2024-09-09 22:51:48</startdate>
+   <players>
+    <player chips="€50,50" name="BlackRiverDrift" win="€6,11" seat="1" bet="€8,25" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€76,35" name="AKissbyBliss" win="€0" seat="8" bet="€3,15" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 C8</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1" type="3" player="BlackRiverDrift" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H4 S4</cards>
+   <action sum="€1,65" type="5" player="AKissbyBliss" no="6"/>
+   <action sum="€1,65" type="3" player="BlackRiverDrift" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="8"/>
+   <action sum="€5,10" type="5" player="BlackRiverDrift" no="9"/>
+   <action sum="€0" type="0" player="AKissbyBliss" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3927488499">
+  <general>
+   <startdate>2024-09-09 22:52:23</startdate>
+   <players>
+    <player chips="€53,46" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0,50" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€73,20" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK CJ</cards>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3927488521">
+  <general>
+   <startdate>2024-09-09 22:52:33</startdate>
+   <players>
+    <player chips="€53,21" name="BlackRiverDrift" win="€0" seat="1" bet="€1,68" dealer="1"/>
+    <player chips="€50,25" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€73,20" name="AKissbyBliss" win="€3,51" seat="8" bet="€1,68" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">C8 SA</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">D9 D7</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">HJ D10</cards>
+   <action sum="€0,55" type="3" player="AKissbyBliss" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S2 CJ</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="6"/>
+   <action sum="€0,63" type="5" player="BlackRiverDrift" no="7"/>
+   <action sum="€0,63" type="3" player="AKissbyBliss" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="9"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="11"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3927488602">
+  <general>
+   <startdate>2024-09-09 22:53:04</startdate>
+   <players>
+    <player chips="€51,53" name="BlackRiverDrift" win="€0,50" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€75,03" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <cards type="Pocket" player="13373678">D2 CQ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3927488624">
+  <general>
+   <startdate>2024-09-09 22:53:13</startdate>
+   <players>
+    <player chips="€51,78" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€74,78" name="AKissbyBliss" win="€1,25" seat="8" bet="€1,25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,25" type="23" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">D2 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927488652">
+  <general>
+   <startdate>2024-09-09 22:53:22</startdate>
+   <players>
+    <player chips="€51,53" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="BayHarborButcher" win="€0,50" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€75,53" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="BayHarborButcher" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">D9 C3</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927488666">
+  <general>
+   <startdate>2024-09-09 22:53:30</startdate>
+   <players>
+    <player chips="€51,53" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€1,25" dealer="1"/>
+    <player chips="€50,25" name="BayHarborButcher" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€75,53" name="AKissbyBliss" win="€2,67" seat="8" bet="€5,75" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BayHarborButcher" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">CA SJ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0,75" type="3" player="AKissbyBliss" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 CJ CQ</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="7"/>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€4,50" type="5" player="AKissbyBliss" no="11"/>
+   <action sum="€0" type="0" player="13373678" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3927488761">
+  <general>
+   <startdate>2024-09-09 22:54:09</startdate>
+   <players>
+    <player chips="€51,53" name="BlackRiverDrift" win="€0" seat="1" bet="€1,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50" name="BayHarborButcher" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player chips="€76,95" name="AKissbyBliss" win="€2,91" seat="8" bet="€2,67" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 D8</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1" type="3" player="BlackRiverDrift" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 CA C2</cards>
+   <action sum="€1,17" type="5" player="AKissbyBliss" no="7"/>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927488992">
+  <general>
+   <startdate>2024-09-09 22:54:38</startdate>
+   <players>
+    <player chips="€50,03" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50" name="BayHarborButcher" win="€1,25" seat="6" bet="€1,25" dealer="0"/>
+    <player chips="€78,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C3 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€1,25" type="23" player="BayHarborButcher" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3927489025">
+  <general>
+   <startdate>2024-09-09 22:54:53</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€1,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€3" seat="5" bet="€5" dealer="0"/>
+    <player chips="€50,75" name="BayHarborButcher" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€78,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€1,50" type="23" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">D3 SA</cards>
+   <action sum="€5" type="23" player="13373678" no="7"/>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927489100">
+  <general>
+   <startdate>2024-09-09 22:55:22</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€3,75" seat="1" bet="€4,50" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="1"/>
+    <player chips="€51,50" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€50,75" name="BayHarborButcher" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€78,36" name="AKissbyBliss" win="€0" seat="8" bet="€1,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="BayHarborButcher" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€4,50" type="23" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="5"/>
+   <cards type="Pocket" player="13373678">HK H8</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="7"/>
+   <action sum="€0" type="0" player="AKissbyBliss" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927490317">
+  <general>
+   <startdate>2024-09-09 22:55:45</startdate>
+   <players>
+    <player chips="€52,25" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€51,25" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€50,25" name="BayHarborButcher" win="€1" seat="6" bet="€1,50" dealer="0"/>
+    <player chips="€76,86" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BayHarborButcher" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">H3 DJ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€1,50" type="23" player="BayHarborButcher" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3927490357">
+  <general>
+   <startdate>2024-09-09 22:56:02</startdate>
+   <players>
+    <player chips="€52,25" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€1,05" dealer="0"/>
+    <player chips="€51,25" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50,75" name="BayHarborButcher" win="€2,85" seat="6" bet="€4,10" dealer="1"/>
+    <player chips="€76,36" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€1,05" type="23" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">D7 DQ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€4,10" type="23" player="BayHarborButcher" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="8"/>
+   <action sum="€0" type="0" player="Myung" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3927490420">
+  <general>
+   <startdate>2024-09-09 22:56:31</startdate>
+   <players>
+    <player chips="€52,25" name="BlackRiverDrift" win="€0" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€51,25" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€52,55" name="BayHarborButcher" win="€1,25" seat="6" bet="€1,25" dealer="0"/>
+    <player chips="€76,11" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€49,50" name="PresidentHiggins" win="€0" seat="10" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">C6 SA</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€1,25" type="23" player="BayHarborButcher" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="7"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927490486">
+  <general>
+   <startdate>2024-09-09 22:56:56</startdate>
+   <players>
+    <player chips="€51,75" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€51,25" name="13373678" win="€1,25" seat="5" bet="€1,25" dealer="0"/>
+    <player chips="€53,30" name="BayHarborButcher" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€76,11" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€49,25" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK S10</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="7"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927490523">
+  <general>
+   <startdate>2024-09-09 22:57:11</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,25" dealer="0"/>
+    <player chips="€52" name="13373678" win="€2,67" seat="5" bet="€4,68" dealer="0"/>
+    <player chips="€53,30" name="BayHarborButcher" win="€0" seat="6" bet="€1,25" dealer="0"/>
+    <player chips="€76,11" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€49,25" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€1,25" type="23" player="BayHarborButcher" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+   <cards type="Pocket" player="13373678">SJ CQ</cards>
+   <action sum="€0,75" type="3" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C2 H7</cards>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+   <action sum="€0" type="4" player="BayHarborButcher" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€3,43" type="5" player="13373678" no="11"/>
+   <action sum="€0" type="0" player="BayHarborButcher" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3927490673">
+  <general>
+   <startdate>2024-09-09 22:58:15</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="1"/>
+    <player chips="€53,42" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€52,05" name="BayHarborButcher" win="€6,07" seat="6" bet="€7,68" dealer="0"/>
+    <player chips="€76,11" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€49,25" name="PresidentHiggins" win="€0" seat="10" bet="€3" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="BayHarborButcher" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0,50" type="3" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">S5 D8</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€3" type="23" player="BayHarborButcher" no="8"/>
+   <action sum="€2,50" type="3" player="PresidentHiggins" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ CA S6</cards>
+   <action sum="€4,68" type="5" player="BayHarborButcher" no="10"/>
+   <action sum="€0" type="0" player="PresidentHiggins" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3927490791">
+  <general>
+   <startdate>2024-09-09 22:59:05</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€1,15" dealer="0"/>
+    <player chips="€53,17" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€55,12" name="BayHarborButcher" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€76,11" name="AKissbyBliss" win="€2,55" seat="8" bet="€4,30" dealer="0"/>
+    <player chips="€46,25" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BayHarborButcher" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€1,15" type="23" player="Myung" no="5"/>
+   <cards type="Pocket" player="13373678">D3 H7</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="7"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€4,30" type="23" player="AKissbyBliss" no="8"/>
+   <action sum="€0" type="0" player="Myung" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3927490842">
+  <general>
+   <startdate>2024-09-09 22:59:22</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€53,17" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€54,87" name="BayHarborButcher" win="€0" seat="6" bet="€7,06" dealer="1"/>
+    <player chips="€77,51" name="AKissbyBliss" win="€14,18" seat="8" bet="€18,56" dealer="0"/>
+    <player chips="€46,25" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">C4 C9</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€1,25" type="23" player="BayHarborButcher" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€4,50" type="23" player="AKissbyBliss" no="7"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="8"/>
+   <action sum="€3,25" type="3" player="BayHarborButcher" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 CQ HQ</cards>
+   <action sum="€2,56" type="5" player="AKissbyBliss" no="10"/>
+   <action sum="€2,56" type="3" player="BayHarborButcher" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€11,50" type="5" player="AKissbyBliss" no="12"/>
+   <action sum="€0" type="0" player="BayHarborButcher" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927490990">
+  <general>
+   <startdate>2024-09-09 23:00:27</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0,50" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€53,17" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50" name="BayHarborButcher" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€45,75" name="PresidentHiggins" win="€0" seat="10" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">DK C7</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3927491050">
+  <general>
+   <startdate>2024-09-09 23:00:51</startdate>
+   <players>
+    <player chips="€51,75" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€53,17" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50" name="BayHarborButcher" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€45,50" name="PresidentHiggins" win="€1,22" seat="10" bet="€1,75" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK C4</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="BayHarborButcher">X X</cards>
+   <action sum="€0" type="0" player="BayHarborButcher" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0,50" type="3" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="7"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="4" player="Myung" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C6 HQ</cards>
+   <action sum="€0" type="4" player="Myung" no="9"/>
+   <action sum="€0" type="4" player="PresidentHiggins" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" type="4" player="Myung" no="11"/>
+   <action sum="€1,25" type="5" player="PresidentHiggins" no="12"/>
+   <action sum="€0" type="0" player="Myung" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927491647">
+  <general>
+   <startdate>2024-09-09 23:01:36</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€53,17" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0,50" seat="8" bet="€0,50" dealer="0"/>
+    <player chips="€46,22" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">S9 C7</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927491684">
+  <general>
+   <startdate>2024-09-09 23:01:53</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€52,92" name="13373678" win="€0" seat="5" bet="€2,15" dealer="1"/>
+    <player chips="€84,88" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€46,22" name="PresidentHiggins" win="€4,42" seat="10" bet="€6,70" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">HJ HQ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0,75" type="3" player="PresidentHiggins" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 HK C7</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="7"/>
+   <action sum="€0,90" type="5" player="13373678" no="8"/>
+   <action sum="€0,90" type="3" player="PresidentHiggins" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€4,55" type="5" player="PresidentHiggins" no="10"/>
+   <action sum="€0" type="0" player="13373678" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3927491760">
+  <general>
+   <startdate>2024-09-09 23:02:26</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€0" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50,77" name="13373678" win="€1,25" seat="5" bet="€1,25" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€48,49" name="PresidentHiggins" win="€0" seat="10" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 HA</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3927491793">
+  <general>
+   <startdate>2024-09-09 23:02:42</startdate>
+   <players>
+    <player chips="€51" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€51,52" name="13373678" win="€0,50" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€48,24" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA DJ</cards>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927491817">
+  <general>
+   <startdate>2024-09-09 23:02:52</startdate>
+   <players>
+    <player chips="€50,75" name="BlackRiverDrift" win="€1,25" seat="1" bet="€1,05" dealer="1"/>
+    <player chips="€51,77" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€84,63" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player chips="€48,24" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">H8 S2</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3927491836">
+  <general>
+   <startdate>2024-09-09 23:03:02</startdate>
+   <players>
+    <player chips="€51,50" name="BlackRiverDrift" win="€1,25" seat="1" bet="€1,05" dealer="0"/>
+    <player chips="€51,52" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€84,13" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€48,24" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">S3 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3927491867">
+  <general>
+   <startdate>2024-09-09 23:03:17</startdate>
+   <players>
+    <player chips="€52,25" name="BlackRiverDrift" win="€0,50" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€51,52" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€83,88" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€47,74" name="PresidentHiggins" win="€0" seat="10" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <cards type="Pocket" player="13373678">H5 D2</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927491888">
+  <general>
+   <startdate>2024-09-09 23:03:28</startdate>
+   <players>
+    <player chips="€52,50" name="BlackRiverDrift" win="€1" seat="1" bet="€1,25" dealer="0"/>
+    <player chips="€51,52" name="13373678" win="€0" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€83,88" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€47,49" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,25" type="23" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="13373678">D3 H10</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3927491922">
+  <general>
+   <startdate>2024-09-09 23:03:41</startdate>
+   <players>
+    <player chips="€53" name="BlackRiverDrift" win="€1,25" seat="1" bet="€1,05" dealer="1"/>
+    <player chips="€51,02" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€83,88" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player chips="€47,49" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">SA H6</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3927491962">
+  <general>
+   <startdate>2024-09-09 23:03:56</startdate>
+   <players>
+    <player chips="€53,75" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50,77" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€83,38" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€47,49" name="PresidentHiggins" win="€0,50" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">HJ S6</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927492004">
+  <general>
+   <startdate>2024-09-09 23:04:15</startdate>
+   <players>
+    <player chips="€53,75" name="BlackRiverDrift" win="€3,64" seat="1" bet="€1,25" dealer="0"/>
+    <player chips="€50,77" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€83,13" name="AKissbyBliss" win="€0" seat="8" bet="€1,25" dealer="1"/>
+    <player chips="€47,74" name="PresidentHiggins" win="€0" seat="10" bet="€1,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 S2</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">H8 D8</cards>
+   <action sum="€1,25" type="23" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">CA C6</cards>
+   <action sum="€1" type="3" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">S7 SQ</cards>
+   <action sum="€0,75" type="3" player="BlackRiverDrift" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 CQ H2</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="7"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="8"/>
+   <action sum="€0" type="4" player="AKissbyBliss" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="10"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="11"/>
+   <action sum="€0" type="4" player="AKissbyBliss" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="13"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="14"/>
+   <action sum="€0" type="4" player="AKissbyBliss" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3927493207">
+  <general>
+   <startdate>2024-09-09 23:05:15</startdate>
+   <players>
+    <player chips="€56,14" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50,77" name="13373678" win="€0,50" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€81,88" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€46,49" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 S10</cards>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3927493267">
+  <general>
+   <startdate>2024-09-09 23:05:37</startdate>
+   <players>
+    <player chips="€55,89" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€51,02" name="13373678" win="€0" seat="5" bet="€3" dealer="0"/>
+    <player chips="€50" name="Whiteboard18" win="€5,82" seat="6" bet="€3" dealer="0"/>
+    <player chips="€81,88" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€46,49" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Whiteboard18" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="13373678">SK S9</cards>
+   <action sum="€1,50" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="Whiteboard18">SA HJ</cards>
+   <action sum="€1" type="3" player="Whiteboard18" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 DA S2</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+   <action sum="€0" type="4" player="Whiteboard18" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€1,50" type="5" player="13373678" no="10"/>
+   <action sum="€1,50" type="3" player="Whiteboard18" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€0" type="4" player="13373678" no="12"/>
+   <action sum="€0" type="4" player="Whiteboard18" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927493347">
+  <general>
+   <startdate>2024-09-09 23:06:17</startdate>
+   <players>
+    <player chips="€55,89" name="BlackRiverDrift" win="€0" seat="1" bet="€1,05" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€52,82" name="Whiteboard18" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€81,88" name="AKissbyBliss" win="€2,28" seat="8" bet="€1,05" dealer="0"/>
+    <player chips="€46,49" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Whiteboard18" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">S9 SK</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="13373678">H10 C4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">DA H9</cards>
+   <action sum="€0,55" type="3" player="AKissbyBliss" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D2 H5</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="8"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="10"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="12"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927493434">
+  <general>
+   <startdate>2024-09-09 23:06:54</startdate>
+   <players>
+    <player chips="€54,84" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€52,57" name="Whiteboard18" win="€0" seat="6" bet="€1,25" dealer="1"/>
+    <player chips="€83,11" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€46,49" name="PresidentHiggins" win="€2,67" seat="10" bet="€1,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="13373678">CQ S6</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Whiteboard18">C6 C7</cards>
+   <action sum="€1,25" type="23" player="Whiteboard18" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">DQ HJ</cards>
+   <action sum="€0,75" type="3" player="PresidentHiggins" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H9 SA</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="8"/>
+   <action sum="€0" type="4" player="Whiteboard18" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="10"/>
+   <action sum="€0" type="4" player="Whiteboard18" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="12"/>
+   <action sum="€0" type="4" player="Whiteboard18" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927493537">
+  <general>
+   <startdate>2024-09-09 23:07:43</startdate>
+   <players>
+    <player chips="€54,84" name="BlackRiverDrift" win="€0,97" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€51,32" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,86" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€47,91" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 SJ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">H4 H5</cards>
+   <action sum="€0,25" type="3" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">S9 H7</cards>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D7 CA</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="8"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="10"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="12"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927493633">
+  <general>
+   <startdate>2024-09-09 23:08:24</startdate>
+   <players>
+    <player chips="€55,31" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0,50" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€51,32" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,86" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€47,41" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <cards type="Pocket" player="13373678">S8 H2</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3927493661">
+  <general>
+   <startdate>2024-09-09 23:08:35</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="1"/>
+    <player chips="€50,25" name="Myung" win="€0" seat="3" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="13373678" win="€0" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€51,32" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,86" name="AKissbyBliss" win="€1,25" seat="8" bet="€1,50" dealer="0"/>
+    <player chips="€47,41" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+   <cards type="Pocket" player="13373678">D8 S6</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927493780">
+  <general>
+   <startdate>2024-09-09 23:09:01</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="1"/>
+    <player chips="€50" name="13373678" win="€1" seat="5" bet="€1,50" dealer="0"/>
+    <player chips="€51,32" name="Whiteboard18" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€83,61" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€47,41" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Whiteboard18" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">S3 CA</cards>
+   <action sum="€1,50" type="23" player="13373678" no="7"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927493895">
+  <general>
+   <startdate>2024-09-09 23:09:48</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€50,50" name="13373678" win="€1,25" seat="5" bet="€1,25" dealer="1"/>
+    <player chips="€50,82" name="Whiteboard18" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€83,61" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player chips="€47,41" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Whiteboard18" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="5"/>
+   <cards type="Pocket" player="13373678">H3 SJ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="7"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927493934">
+  <general>
+   <startdate>2024-09-09 23:10:11</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€51,25" name="13373678" win="€1,25" seat="5" bet="€1,25" dealer="0"/>
+    <player chips="€50,57" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player chips="€83,11" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€47,41" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">CK HQ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927493980">
+  <general>
+   <startdate>2024-09-09 23:10:30</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€1" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€52" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50,57" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,86" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€46,91" name="PresidentHiggins" win="€1,94" seat="10" bet="€3" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">H6 C10</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€1" type="23" player="PresidentHiggins" no="7"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0,50" type="3" player="BlackRiverDrift" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H3 S6</cards>
+   <action sum="€2" type="5" player="PresidentHiggins" no="9"/>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3927494040">
+  <general>
+   <startdate>2024-09-09 23:10:59</startdate>
+   <players>
+    <player chips="€54,06" name="BlackRiverDrift" win="€1,50" seat="1" bet="€2,50" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€52" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€50,57" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,86" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+    <player chips="€47,85" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D8 D10</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0,50" type="3" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€2,50" type="23" player="BlackRiverDrift" no="7"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+   <action sum="€0" type="0" player="AKissbyBliss" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3927494553">
+  <general>
+   <startdate>2024-09-09 23:11:18</startdate>
+   <players>
+    <player chips="€55,06" name="BlackRiverDrift" win="€0" seat="1" bet="€1,61" dealer="1"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,25" dealer="0"/>
+    <player chips="€52" name="13373678" win="€3,37" seat="5" bet="€4,06" dealer="0"/>
+    <player chips="€50,57" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€82,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€47,85" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1" type="23" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+   <cards type="Pocket" player="13373678">S9 HQ</cards>
+   <action sum="€0,50" type="3" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 S10 S7</cards>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+   <action sum="€0,61" type="5" player="BlackRiverDrift" no="10"/>
+   <action sum="€3,06" type="23" player="13373678" no="11"/>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3927494617">
+  <general>
+   <startdate>2024-09-09 23:11:50</startdate>
+   <players>
+    <player chips="€53,45" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€10,12" dealer="1"/>
+    <player chips="€53,76" name="13373678" win="€20,12" seat="5" bet="€25,67" dealer="0"/>
+    <player chips="€50,57" name="Whiteboard18" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€82,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€47,85" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Whiteboard18" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€1,25" type="23" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">HK H8</cards>
+   <action sum="€6" type="23" player="13373678" no="7"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="8"/>
+   <action sum="€4,75" type="3" player="Myung" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 CK H6</cards>
+   <action sum="€4,12" type="5" player="13373678" no="10"/>
+   <action sum="€4,12" type="3" player="Myung" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€15,55" type="5" player="13373678" no="12"/>
+   <action sum="€0" type="0" player="Myung" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3927494758">
+  <general>
+   <startdate>2024-09-09 23:12:58</startdate>
+   <players>
+    <player chips="€53,45" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€63,76" name="13373678" win="€0" seat="5" bet="€0" dealer="1"/>
+    <player chips="€50,07" name="Whiteboard18" win="€10,67" seat="6" bet="€5,50" dealer="0"/>
+    <player chips="€82,36" name="AKissbyBliss" win="€0" seat="8" bet="€5,50" dealer="0"/>
+    <player chips="€47,85" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Whiteboard18" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="5"/>
+   <cards type="Pocket" player="13373678">H3 C4</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Whiteboard18">H9 DA</cards>
+   <action sum="€1,25" type="23" player="Whiteboard18" no="7"/>
+   <cards type="Pocket" player="AKissbyBliss">H4 CA</cards>
+   <action sum="€0,75" type="3" player="AKissbyBliss" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 SA DJ</cards>
+   <action sum="€0" type="4" player="Whiteboard18" no="9"/>
+   <action sum="€1,37" type="5" player="AKissbyBliss" no="10"/>
+   <action sum="€1,37" type="3" player="Whiteboard18" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€0" type="4" player="Whiteboard18" no="12"/>
+   <action sum="€2,88" type="5" player="AKissbyBliss" no="13"/>
+   <action sum="€2,88" type="3" player="Whiteboard18" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" type="4" player="Whiteboard18" no="15"/>
+   <action sum="€0" type="4" player="AKissbyBliss" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3927494834">
+  <general>
+   <startdate>2024-09-09 23:13:32</startdate>
+   <players>
+    <player chips="€53,45" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€63,76" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€55,24" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="1"/>
+    <player chips="€76,86" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€47,85" name="PresidentHiggins" win="€0,50" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">D3 DQ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3927494871">
+  <general>
+   <startdate>2024-09-09 23:13:50</startdate>
+   <players>
+    <player chips="€53,45" name="BlackRiverDrift" win="€0" seat="1" bet="€1,31" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€63,76" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€55,24" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€76,61" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€48,10" name="PresidentHiggins" win="€2,55" seat="10" bet="€1,31" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">C6 CJ</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">HQ C10</cards>
+   <action sum="€0,25" type="3" player="PresidentHiggins" no="7"/>
+   <cards type="Pocket" player="BlackRiverDrift">C7 S10</cards>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 SA C9</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="9"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="11"/>
+   <action sum="€0,81" type="5" player="BlackRiverDrift" no="12"/>
+   <action sum="€0,81" type="3" player="PresidentHiggins" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="14"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3927496010">
+  <general>
+   <startdate>2024-09-09 23:14:42</startdate>
+   <players>
+    <player chips="€52,14" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€63,76" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€55,24" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€76,61" name="AKissbyBliss" win="€1,25" seat="8" bet="€1,50" dealer="0"/>
+    <player chips="€49,34" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HA C6</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="7"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927496175">
+  <general>
+   <startdate>2024-09-09 23:15:01</startdate>
+   <players>
+    <player chips="€51,89" name="BlackRiverDrift" win="€0" seat="1" bet="€1,05" dealer="1"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€50" dealer="0"/>
+    <player chips="€63,76" name="13373678" win="€99,55" seat="5" bet="€63,76" dealer="0"/>
+    <player chips="€55,24" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€77,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€49,34" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€1,05" type="23" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">S10 S9</cards>
+   <action sum="€5,04" type="23" player="Myung" no="7"/>
+   <cards type="Pocket" player="13373678">CJ DJ</cards>
+   <action sum="€11,53" type="23" player="13373678" no="8"/>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="9"/>
+   <action sum="€6,49" type="3" player="Myung" no="10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C10 S4</cards>
+   <action sum="€0" type="4" player="Myung" no="11"/>
+   <action sum="€52,23" type="5" player="13373678" no="12"/>
+   <action sum="€38,47" type="7" player="Myung" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+ <game gamecode="3927496334">
+  <general>
+   <startdate>2024-09-09 23:16:06</startdate>
+   <players>
+    <player chips="€50,84" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€6,75" dealer="1"/>
+    <player chips="€113,31" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€55,24" name="Whiteboard18" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€77,36" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€49,34" name="PresidentHiggins" win="€13,82" seat="10" bet="€21" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Whiteboard18" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0,50" type="3" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">D6 D4</cards>
+   <action sum="€2" type="23" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">C8 S7</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="8"/>
+   <action sum="€1,50" type="3" player="PresidentHiggins" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 H3 D9</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="10"/>
+   <action sum="€0" type="4" player="Myung" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€4,75" type="5" player="PresidentHiggins" no="12"/>
+   <action sum="€4,75" type="3" player="Myung" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€14,25" type="5" player="PresidentHiggins" no="14"/>
+   <action sum="€0" type="0" player="Myung" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3927496479">
+  <general>
+   <startdate>2024-09-09 23:17:11</startdate>
+   <players>
+    <player chips="€50,84" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€113,06" name="13373678" win="€0" seat="5" bet="€1,25" dealer="1"/>
+    <player chips="€54,74" name="Whiteboard18" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€77,36" name="AKissbyBliss" win="€2,67" seat="8" bet="€3,75" dealer="0"/>
+    <player chips="€56,41" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Whiteboard18" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="3"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="4"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="5"/>
+   <cards type="Pocket" player="13373678">CA S2</cards>
+   <action sum="€1,25" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="7"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0,75" type="3" player="AKissbyBliss" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C4 S9</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€2,50" type="5" player="AKissbyBliss" no="11"/>
+   <action sum="€0" type="0" player="13373678" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3927496552">
+  <general>
+   <startdate>2024-09-09 23:17:43</startdate>
+   <players>
+    <player chips="€50,84" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€111,81" name="13373678" win="€0" seat="5" bet="€1,25" dealer="0"/>
+    <player chips="€54,49" name="Whiteboard18" win="€3,25" seat="6" bet="€3" dealer="1"/>
+    <player chips="€78,78" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+    <player chips="€56,41" name="PresidentHiggins" win="€0" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="PresidentHiggins" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">HQ H6</cards>
+   <action sum="€1,25" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€3" type="23" player="Whiteboard18" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="8"/>
+   <action sum="€0" type="0" player="13373678" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3927496592">
+  <general>
+   <startdate>2024-09-09 23:18:01</startdate>
+   <players>
+    <player chips="€50,84" name="BlackRiverDrift" win="€0" seat="1" bet="€0,50" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€110,56" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€56,49" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€78,53" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+    <player chips="€55,91" name="PresidentHiggins" win="€0,97" seat="10" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PresidentHiggins" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">H6 H9</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="PresidentHiggins">DJ SA</cards>
+   <action sum="€0,25" type="3" player="PresidentHiggins" no="7"/>
+   <cards type="Pocket" player="BlackRiverDrift">DQ S2</cards>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H3 D5</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="9"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="11"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="13"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3927496719">
+  <general>
+   <startdate>2024-09-09 23:18:54</startdate>
+   <players>
+    <player chips="€50,34" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€110,56" name="13373678" win="€1,25" seat="5" bet="€1,25" dealer="0"/>
+    <player chips="€56,49" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€78,53" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€56,38" name="PresidentHiggins" win="€0" seat="10" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 HK</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0" type="0" player="PresidentHiggins" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="7"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927496756">
+  <general>
+   <startdate>2024-09-09 23:19:18</startdate>
+   <players>
+    <player chips="€50,09" name="BlackRiverDrift" win="€0" seat="1" bet="€6,75" dealer="1"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,25" dealer="0"/>
+    <player chips="€111,31" name="13373678" win="€0" seat="5" bet="€0,50" dealer="0"/>
+    <player chips="€56,49" name="Whiteboard18" win="€0" seat="6" bet="€0" dealer="0"/>
+    <player chips="€78,53" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="0"/>
+    <player chips="€56,38" name="PresidentHiggins" win="€13,82" seat="10" bet="€24,56" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Myung" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="3"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="4"/>
+   <cards type="Pocket" player="PresidentHiggins">X X</cards>
+   <action sum="€0,50" type="3" player="PresidentHiggins" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€2" type="23" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+   <cards type="Pocket" player="13373678">S8 SJ</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+   <action sum="€1,50" type="3" player="PresidentHiggins" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ CA HJ</cards>
+   <action sum="€4,75" type="5" player="PresidentHiggins" no="10"/>
+   <action sum="€4,75" type="3" player="BlackRiverDrift" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€0" type="4" player="PresidentHiggins" no="12"/>
+   <action sum="€0" type="4" player="BlackRiverDrift" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€17,81" type="5" player="PresidentHiggins" no="14"/>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3927496855">
+  <general>
+   <startdate>2024-09-09 23:20:03</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="1"/>
+    <player chips="€110,81" name="13373678" win="€0" seat="5" bet="€0,25" dealer="0"/>
+    <player chips="€56,49" name="Whiteboard18" win="€0" seat="6" bet="€0,50" dealer="0"/>
+    <player chips="€78,53" name="AKissbyBliss" win="€126,15" seat="8" bet="€78,53" dealer="0"/>
+    <player chips="€63,45" name="PresidentHiggins" win="€0" seat="10" bet="€63,45" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Whiteboard18" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="AKissbyBliss">HK SK</cards>
+   <action sum="€1,50" type="23" player="AKissbyBliss" no="3"/>
+   <cards type="Pocket" player="PresidentHiggins">HA CA</cards>
+   <action sum="€2,50" type="23" player="PresidentHiggins" no="4"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="5"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="6"/>
+   <cards type="Pocket" player="13373678">C8 S10</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="8"/>
+   <action sum="€7,50" type="23" player="AKissbyBliss" no="9"/>
+   <action sum="€12,50" type="23" player="PresidentHiggins" no="10"/>
+   <action sum="€5" type="3" player="AKissbyBliss" no="11"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 H4 H8</cards>
+   <action sum="€0" type="4" player="AKissbyBliss" no="12"/>
+   <action sum="€25,75" type="5" player="PresidentHiggins" no="13"/>
+   <action sum="€66,03" type="23" player="AKissbyBliss" no="14"/>
+   <action sum="€25,20" type="7" player="PresidentHiggins" no="15"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+  </round>
+ </game>
+ <game gamecode="3927497412">
+  <general>
+   <startdate>2024-09-09 23:21:04</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€0" seat="1" bet="€0" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€1,15" dealer="0"/>
+    <player chips="€110,56" name="13373678" win="€3,05" seat="5" bet="€3,75" dealer="1"/>
+    <player chips="€55,99" name="Whiteboard18" win="€0" seat="6" bet="€0,25" dealer="0"/>
+    <player chips="€141,23" name="AKissbyBliss" win="€0" seat="8" bet="€0,50" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Whiteboard18" no="1"/>
+   <action sum="€0,50" type="2" player="AKissbyBliss" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="3"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€1,15" type="23" player="Myung" no="4"/>
+   <cards type="Pocket" player="13373678">C8 CK</cards>
+   <action sum="€3,75" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€0" type="0" player="Whiteboard18" no="6"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="7"/>
+   <action sum="€0" type="0" player="Myung" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3927497468">
+  <general>
+   <startdate>2024-09-09 23:21:34</startdate>
+   <players>
+    <player chips="€50" name="BlackRiverDrift" win="€11,88" seat="1" bet="€9,31" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0" dealer="0"/>
+    <player chips="€112,46" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€55,74" name="Whiteboard18" win="€0" seat="6" bet="€6" dealer="1"/>
+    <player chips="€140,73" name="AKissbyBliss" win="€0" seat="8" bet="€0,25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="AKissbyBliss" no="1"/>
+   <action sum="€0,50" type="2" player="BlackRiverDrift" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="3"/>
+   <cards type="Pocket" player="13373678">C4 HJ</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€1,25" type="23" player="Whiteboard18" no="5"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="6"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€6" type="23" player="BlackRiverDrift" no="7"/>
+   <action sum="€4,75" type="3" player="Whiteboard18" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ SA D4</cards>
+   <action sum="€3,31" type="5" player="BlackRiverDrift" no="9"/>
+   <action sum="€0" type="0" player="Whiteboard18" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3927497539">
+  <general>
+   <startdate>2024-09-09 23:22:01</startdate>
+   <players>
+    <player chips="€55,88" name="BlackRiverDrift" win="€0" seat="1" bet="€0,25" dealer="0"/>
+    <player chips="€50" name="Myung" win="€0" seat="3" bet="€0,50" dealer="0"/>
+    <player chips="€112,46" name="13373678" win="€0" seat="5" bet="€0" dealer="0"/>
+    <player chips="€49,74" name="Whiteboard18" win="€1,25" seat="6" bet="€1,25" dealer="0"/>
+    <player chips="€140,48" name="AKissbyBliss" win="€0" seat="8" bet="€0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BlackRiverDrift" no="1"/>
+   <action sum="€0,50" type="2" player="Myung" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ D4</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Whiteboard18">X X</cards>
+   <action sum="€1,25" type="23" player="Whiteboard18" no="4"/>
+   <cards type="Pocket" player="AKissbyBliss">X X</cards>
+   <action sum="€0" type="0" player="AKissbyBliss" no="5"/>
+   <cards type="Pocket" player="BlackRiverDrift">X X</cards>
+   <action sum="€0" type="0" player="BlackRiverDrift" no="6"/>
+   <cards type="Pocket" player="Myung">X X</cards>
+   <action sum="€0" type="0" player="Myung" no="7"/>
+  </round>
+ </game>
+</session>

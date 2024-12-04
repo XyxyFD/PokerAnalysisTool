@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4077452394">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 18, 488050912</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:04:25</duration>
+  <gamecount>7</gamecount>
+  <startdate>2022-06-24 00:29:19</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€2</bets>
+  <wins>€0</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3690343120">
+  <general>
+   <startdate>2022-06-24 00:29:19</startdate>
+   <players>
+    <player bet="€0,25" name="Player 3" dealer="0" chips="€89,69" win="€0" seat="3"/>
+    <player bet="€9,17" name="Player 5" dealer="0" chips="€64,25" win="€9,02" seat="5"/>
+    <player bet="€9,17" name="Player 6" dealer="0" chips="€50" win="€9,01" seat="6"/>
+    <player bet="€0" name="Player 10" dealer="1" chips="€51,91" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" sum="€0,25" type="1" no="1"/>
+   <action player="Player 5" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">S7 SA</cards>
+   <action player="Player 6" sum="€1,50" type="23" no="3"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€0" type="0" no="4"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€0" type="0" no="5"/>
+   <cards player="Player 5" type="Pocket">H7 C7</cards>
+   <action player="Player 5" sum="€1" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 D4 C5</cards>
+   <action player="Player 5" sum="€0" type="4" no="7"/>
+   <action player="Player 6" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="Player 5" sum="€1,95" type="5" no="9"/>
+   <action player="Player 6" sum="€1,95" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="Player 5" sum="€5,72" type="5" no="11"/>
+   <action player="Player 6" sum="€5,72" type="3" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3690343172">
+  <general>
+   <startdate>2022-06-24 00:29:54</startdate>
+   <players>
+    <player bet="€20" name="Player 1" dealer="0" chips="€20" win="€6,31" seat="1"/>
+    <player bet="€2" name="Player 3" dealer="1" chips="€89,44" win="€0" seat="3"/>
+    <player bet="€2" name="Player 5" dealer="0" chips="€64,10" win="€0" seat="5"/>
+    <player bet="€0,50" name="Player 6" dealer="0" chips="€50" win="€0" seat="6"/>
+    <player bet="€0" name="Player 10" dealer="0" chips="€51,91" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" sum="€0,25" type="1" no="1"/>
+   <action player="Player 6" sum="€0,50" type="2" no="2"/>
+   <action player="Player 1" sum="€0,25" type="1" no="3"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" sum="€0" type="0" no="4"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" sum="€0,25" type="3" no="5"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" sum="€2" type="23" no="6"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" sum="€1,75" type="3" no="7"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" sum="€0" type="0" no="8"/>
+   <action player="Player 1" sum="€1,50" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H10 HQ</cards>
+   <action player="Player 5" sum="€0" type="4" no="10"/>
+   <action player="Player 1" sum="€18" type="5" no="11"/>
+   <action player="Player 3" sum="€0" type="0" no="12"/>
+   <action player="Player 5" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3690343237">
+  <general>
+   <startdate>2022-06-24 00:30:37</startdate>
+   <players>
+    <player bet="€0" name="H3LL" dealer="0" chips="€24,31" win="€0" seat="1"/>
+    <player bet="€2,73" name="AllGlorytoJC" dealer="0" chips="€87,44" win="€3,64" seat="3"/>
+    <player bet="€1,50" name="IsuckUout" dealer="1" chips="€62,10" win="€0" seat="5"/>
+    <player bet="€0,25" name="llIIIlllIIIlll" dealer="0" chips="€50" win="€0" seat="6"/>
+    <player bet="€0,50" name="13373678" dealer="0" chips="€50" win="€0" seat="8"/>
+    <player bet="€0" name="Gimli" dealer="0" chips="€51,91" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="llIIIlllIIIlll" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Gimli" type="Pocket">X X</cards>
+   <action player="Gimli" sum="€0" type="0" no="3"/>
+   <cards player="H3LL" type="Pocket">X X</cards>
+   <action player="H3LL" sum="€0" type="0" no="4"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" sum="€1,50" type="23" no="5"/>
+   <cards player="IsuckUout" type="Pocket">X X</cards>
+   <action player="IsuckUout" sum="€1,50" type="3" no="6"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action player="llIIIlllIIIlll" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">DJ C9</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 DA C3</cards>
+   <action player="AllGlorytoJC" sum="€1,23" type="5" no="9"/>
+   <action player="IsuckUout" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3690343276">
+  <general>
+   <startdate>2022-06-24 00:31:03</startdate>
+   <players>
+    <player bet="€0,50" name="H3LL" dealer="0" chips="€24,31" win="€0" seat="1"/>
+    <player bet="€4,56" name="AllGlorytoJC" dealer="0" chips="€89,58" win="€0" seat="3"/>
+    <player bet="€11,06" name="IsuckUout" dealer="0" chips="€60,60" win="€10,06" seat="5"/>
+    <player bet="€0" name="llIIIlllIIIlll" dealer="1" chips="€50" win="€0" seat="6"/>
+    <player bet="€0,25" name="13373678" dealer="0" chips="€50" win="€0" seat="8"/>
+    <player bet="€0,50" name="Gimli" dealer="0" chips="€51,91" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Gimli" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="H3LL" type="Pocket">X X</cards>
+   <action player="H3LL" sum="€0,50" type="3" no="3"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" sum="€2,50" type="23" no="4"/>
+   <cards player="IsuckUout" type="Pocket">X X</cards>
+   <action player="IsuckUout" sum="€2,50" type="3" no="5"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action player="llIIIlllIIIlll" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">S10 HQ</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="Gimli" type="Pocket">X X</cards>
+   <action player="Gimli" sum="€0" type="0" no="8"/>
+   <action player="H3LL" sum="€0" type="0" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H4 CK</cards>
+   <action player="AllGlorytoJC" sum="€2,06" type="5" no="10"/>
+   <action player="IsuckUout" sum="€2,06" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="AllGlorytoJC" sum="€0" type="4" no="12"/>
+   <action player="IsuckUout" sum="€0" type="4" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action player="AllGlorytoJC" sum="€0" type="4" no="14"/>
+   <action player="IsuckUout" sum="€6,50" type="5" no="15"/>
+   <action player="AllGlorytoJC" sum="€0" type="0" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3690343365">
+  <general>
+   <startdate>2022-06-24 00:32:01</startdate>
+   <players>
+    <player bet="€1,25" name="H3LL" dealer="0" chips="€23,81" win="€2,67" seat="1"/>
+    <player bet="€0" name="AllGlorytoJC" dealer="0" chips="€85,02" win="€0" seat="3"/>
+    <player bet="€0" name="IsuckUout" dealer="0" chips="€66,10" win="€0" seat="5"/>
+    <player bet="€0" name="llIIIlllIIIlll" dealer="0" chips="€50" win="€0" seat="6"/>
+    <player bet="€1,25" name="13373678" dealer="1" chips="€50" win="€0" seat="8"/>
+    <player bet="€0,25" name="Gimli" dealer="0" chips="€51,41" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gimli" sum="€0,25" type="1" no="1"/>
+   <action player="H3LL" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" sum="€0" type="0" no="3"/>
+   <cards player="IsuckUout" type="Pocket">X X</cards>
+   <action player="IsuckUout" sum="€0" type="0" no="4"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action player="llIIIlllIIIlll" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H10 SK</cards>
+   <action player="13373678" sum="€1,25" type="23" no="6"/>
+   <cards player="Gimli" type="Pocket">X X</cards>
+   <action player="Gimli" sum="€0" type="0" no="7"/>
+   <cards player="H3LL" type="Pocket">DK D6</cards>
+   <action player="H3LL" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D3 H6</cards>
+   <action player="H3LL" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action player="H3LL" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="H3LL" sum="€0" type="4" no="13"/>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3690343440">
+  <general>
+   <startdate>2022-06-24 00:32:48</startdate>
+   <players>
+    <player bet="€0,25" name="H3LL" dealer="0" chips="€25,23" win="€0" seat="1"/>
+    <player bet="€2,75" name="AllGlorytoJC" dealer="0" chips="€85,02" win="€5,58" seat="3"/>
+    <player bet="€0" name="IsuckUout" dealer="0" chips="€66,10" win="€0" seat="5"/>
+    <player bet="€0" name="llIIIlllIIIlll" dealer="0" chips="€50" win="€0" seat="6"/>
+    <player bet="€0" name="13373678" dealer="0" chips="€50" win="€0" seat="8"/>
+    <player bet="€2,75" name="Gimli" dealer="1" chips="€51,16" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="H3LL" sum="€0,25" type="1" no="1"/>
+   <action player="AllGlorytoJC" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="IsuckUout" type="Pocket">X X</cards>
+   <action player="IsuckUout" sum="€0" type="0" no="3"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action player="llIIIlllIIIlll" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D4 H8</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Gimli" type="Pocket">C5 S5</cards>
+   <action player="Gimli" sum="€1,25" type="23" no="6"/>
+   <cards player="H3LL" type="Pocket">X X</cards>
+   <action player="H3LL" sum="€0" type="0" no="7"/>
+   <cards player="AllGlorytoJC" type="Pocket">DK D9</cards>
+   <action player="AllGlorytoJC" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 CK DA</cards>
+   <action player="AllGlorytoJC" sum="€0" type="4" no="9"/>
+   <action player="Gimli" sum="€1,50" type="5" no="10"/>
+   <action player="AllGlorytoJC" sum="€1,50" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="AllGlorytoJC" sum="€0" type="4" no="12"/>
+   <action player="Gimli" sum="€0" type="4" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action player="AllGlorytoJC" sum="€0" type="4" no="14"/>
+   <action player="Gimli" sum="€0" type="4" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3690343492">
+  <general>
+   <startdate>2022-06-24 00:33:25</startdate>
+   <players>
+    <player bet="€0" name="H3LL" dealer="1" chips="€24,98" win="€0" seat="1"/>
+    <player bet="€1,50" name="AllGlorytoJC" dealer="0" chips="€87,85" win="€1" seat="3"/>
+    <player bet="€0,50" name="IsuckUout" dealer="0" chips="€66,10" win="€0" seat="5"/>
+    <player bet="€0" name="llIIIlllIIIlll" dealer="0" chips="€50" win="€0" seat="6"/>
+    <player bet="€0" name="13373678" dealer="0" chips="€50" win="€0" seat="8"/>
+    <player bet="€0" name="Gimli" dealer="0" chips="€50" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AllGlorytoJC" sum="€0,25" type="1" no="1"/>
+   <action player="IsuckUout" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action player="llIIIlllIIIlll" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S3 SQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Gimli" type="Pocket">X X</cards>
+   <action player="Gimli" sum="€0" type="0" no="5"/>
+   <cards player="H3LL" type="Pocket">X X</cards>
+   <action player="H3LL" sum="€0" type="0" no="6"/>
+   <cards player="AllGlorytoJC" type="Pocket">X X</cards>
+   <action player="AllGlorytoJC" sum="€1,50" type="23" no="7"/>
+   <cards player="IsuckUout" type="Pocket">X X</cards>
+   <action player="IsuckUout" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+</session>

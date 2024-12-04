@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4073468506">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 12, 488044423</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:06:41</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-04-28 11:30:37</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€6,52</bets>
+  <wins>€10,48</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€54,46</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3676752051">
+  <general>
+   <startdate>2022-04-28 11:30:37</startdate>
+   <players>
+    <player dealer="0" win="€0,50" seat="1" bet="€0,50" chips="€50" name="13373678"/>
+    <player dealer="1" win="€0" seat="5" bet="€0,25" chips="€50" name="TooMuchHate"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="TooMuchHate" no="1" type="1" sum="€0,25"/>
+   <action player="13373678" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ HK</cards>
+   <cards player="TooMuchHate" type="Pocket">X X</cards>
+   <action player="TooMuchHate" no="3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676755565">
+  <general>
+   <startdate>2022-04-28 11:34:45</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0,50" chips="€50,25" name="13373678"/>
+    <player dealer="1" win="€1" seat="3" bet="€2" chips="€32,61" name="RIPMoneyonPoker"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RIPMoneyonPoker" no="1" type="1" sum="€0,25"/>
+   <action player="13373678" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RIPMoneyonPoker" type="Pocket">X X</cards>
+   <action player="RIPMoneyonPoker" no="3" type="23" sum="€2"/>
+   <cards player="13373678" type="Pocket">CK D7</cards>
+   <action player="13373678" no="4" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676755586">
+  <general>
+   <startdate>2022-04-28 11:35:11</startdate>
+   <players>
+    <player dealer="1" win="€9,98" seat="1" bet="€4,52" chips="€50" name="13373678"/>
+    <player dealer="0" win="€0" seat="3" bet="€1,25" chips="€33,11" name="RIPMoneyonPoker"/>
+    <player dealer="0" win="€0" seat="5" bet="€4,52" chips="€50" name="Lutrogale"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RIPMoneyonPoker" no="1" type="1" sum="€0,25"/>
+   <action player="Lutrogale" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA D10</cards>
+   <action player="13373678" no="3" type="23" sum="€1,25"/>
+   <cards player="RIPMoneyonPoker" type="Pocket">X X</cards>
+   <action player="RIPMoneyonPoker" no="4" type="3" sum="€1"/>
+   <cards player="Lutrogale" type="Pocket">H2 H10</cards>
+   <action player="Lutrogale" no="5" type="3" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C3 D5</cards>
+   <action player="RIPMoneyonPoker" no="6" type="4" sum="€0"/>
+   <action player="Lutrogale" no="7" type="4" sum="€0"/>
+   <action player="13373678" no="8" type="5" sum="€1,23"/>
+   <action player="RIPMoneyonPoker" no="9" type="0" sum="€0"/>
+   <action player="Lutrogale" no="10" type="3" sum="€1,23"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action player="Lutrogale" no="11" type="4" sum="€0"/>
+   <action player="13373678" no="12" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action player="Lutrogale" no="13" type="5" sum="€2,04"/>
+   <action player="13373678" no="14" type="3" sum="€2,04"/>
+  </round>
+ </game>
+ <game gamecode="3676755663">
+  <general>
+   <startdate>2022-04-28 11:36:37</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€0" chips="€55,46" name="13373678"/>
+    <player dealer="1" win="€1,25" seat="3" bet="€2" chips="€31,86" name="RIPMoneyonPoker"/>
+    <player dealer="0" win="€0" seat="5" bet="€0,25" chips="€50" name="Lutrogale"/>
+    <player dealer="0" win="€0" seat="6" bet="€0,50" chips="€50" name="Thx4nix"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lutrogale" no="1" type="1" sum="€0,25"/>
+   <action player="Thx4nix" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 H5</cards>
+   <action player="13373678" no="3" type="0" sum="€0"/>
+   <cards player="RIPMoneyonPoker" type="Pocket">X X</cards>
+   <action player="RIPMoneyonPoker" no="4" type="23" sum="€2"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="5" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action player="Thx4nix" no="6" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3676755674">
+  <general>
+   <startdate>2022-04-28 11:36:52</startdate>
+   <players>
+    <player dealer="0" win="€0" seat="1" bet="€1" chips="€55,46" name="13373678"/>
+    <player dealer="0" win="€0" seat="3" bet="€1" chips="€32,61" name="RIPMoneyonPoker"/>
+    <player dealer="1" win="€3,75" seat="5" bet="€5" chips="€50" name="Lutrogale"/>
+    <player dealer="0" win="€0" seat="6" bet="€0,25" chips="€50" name="Thx4nix"/>
+    <player dealer="0" win="€0" seat="8" bet="€0,50" chips="€50" name="OispaKaliaa"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Thx4nix" no="1" type="1" sum="€0,25"/>
+   <action player="OispaKaliaa" no="2" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SJ CQ</cards>
+   <action player="13373678" no="3" type="23" sum="€1"/>
+   <cards player="RIPMoneyonPoker" type="Pocket">X X</cards>
+   <action player="RIPMoneyonPoker" no="4" type="3" sum="€1"/>
+   <cards player="Lutrogale" type="Pocket">X X</cards>
+   <action player="Lutrogale" no="5" type="23" sum="€5"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action player="Thx4nix" no="6" type="0" sum="€0"/>
+   <cards player="OispaKaliaa" type="Pocket">X X</cards>
+   <action player="OispaKaliaa" no="7" type="0" sum="€0"/>
+   <action player="13373678" no="8" type="0" sum="€0"/>
+   <action player="RIPMoneyonPoker" no="9" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

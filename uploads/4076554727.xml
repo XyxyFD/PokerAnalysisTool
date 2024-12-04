@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076554727">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 12, 488046764</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:11:36</duration>
+  <gamecount>25</gamecount>
+  <startdate>2022-06-10 12:12:32</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€59,55</bets>
+  <wins>€79,28</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€138,07</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687152259">
+  <general>
+   <startdate>2022-06-10 12:12:32</startdate>
+   <players>
+    <player chips="€103" bet="€0" win="€0" seat="1" name="Player 1" dealer="1"/>
+    <player chips="€118,76" bet="€9,36" win="€0" seat="5" name="Player 5" dealer="0"/>
+    <player chips="€124,68" bet="€9,36" win="€18,16" seat="6" name="Player 6" dealer="0"/>
+    <player chips="€101,50" bet="€0" win="€0" seat="8" name="Player 8" dealer="0"/>
+    <player chips="€105,20" bet="€0" win="€0" seat="10" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 5" type="1" sum="€0,50"/>
+   <action no="2" player="Player 6" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action no="3" player="Player 8" type="0" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="4" player="Player 10" type="0" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="5" player="Player 1" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">S9 CQ</cards>
+   <action no="6" player="Player 5" type="23" sum="€2,60"/>
+   <cards player="Player 6" type="Pocket">DJ H3</cards>
+   <action no="7" player="Player 6" type="3" sum="€1,60"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA HJ SA</cards>
+   <action no="8" player="Player 5" type="5" sum="€1,76"/>
+   <action no="9" player="Player 6" type="3" sum="€1,76"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action no="10" player="Player 5" type="4" sum="€0"/>
+   <action no="11" player="Player 6" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action no="12" player="Player 5" type="5" sum="€5"/>
+   <action no="13" player="Player 6" type="3" sum="€5"/>
+  </round>
+ </game>
+ <game gamecode="3687152327">
+  <general>
+   <startdate>2022-06-10 12:13:30</startdate>
+   <players>
+    <player chips="€103" bet="€2,55" win="€2,50" seat="1" name="Player 1" dealer="0"/>
+    <player chips="€109,40" bet="€0" win="€0" seat="5" name="Player 5" dealer="1"/>
+    <player chips="€133,48" bet="€0,50" win="€0" seat="6" name="Player 6" dealer="0"/>
+    <player chips="€105,20" bet="€1" win="€0" seat="10" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 6" type="1" sum="€0,50"/>
+   <action no="2" player="Player 10" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="3" player="Player 1" type="23" sum="€2,55"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="4" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="5" player="Player 6" type="0" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="6" player="Player 10" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152349">
+  <general>
+   <startdate>2022-06-10 12:13:45</startdate>
+   <players>
+    <player chips="€104,50" bet="€1" win="€0" seat="1" name="Player 1" dealer="0"/>
+    <player chips="€109,40" bet="€2,60" win="€2,50" seat="5" name="Player 5" dealer="0"/>
+    <player chips="€132,98" bet="€0" win="€0" seat="6" name="Player 6" dealer="1"/>
+    <player chips="€104,20" bet="€0,50" win="€0" seat="10" name="Player 10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 10" type="1" sum="€0,50"/>
+   <action no="2" player="Player 1" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="3" player="Player 5" type="23" sum="€2,60"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="4" player="Player 6" type="0" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="5" player="Player 10" type="0" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="6" player="Player 1" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152381">
+  <general>
+   <startdate>2022-06-10 12:14:04</startdate>
+   <players>
+    <player chips="€103,50" bet="€0,50" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€100" bet="€1" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€110,90" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€132,98" bet="€2,50" win="€2,50" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,70" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="3" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="4" player="Jinxxx" type="23" sum="€2,50"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="5" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D6 CJ</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152399">
+  <general>
+   <startdate>2022-06-10 12:14:19</startdate>
+   <players>
+    <player chips="€103" bet="€0" win="€0" seat="1" name="Schorschi" dealer="1"/>
+    <player chips="€100" bet="€0,50" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€110,90" bet="€1" win="€1" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,70" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="Oganesson" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="3" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="4" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C7 SQ</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152423">
+  <general>
+   <startdate>2022-06-10 12:14:37</startdate>
+   <players>
+    <player chips="€103" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€100" bet="€0" win="€0" seat="3" name="13373678" dealer="1"/>
+    <player chips="€111,40" bet="€0,50" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€1" win="€1" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,70" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Oganesson" type="1" sum="€0,50"/>
+   <action no="2" player="Jinxxx" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="3" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C7 S4</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="6" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152445">
+  <general>
+   <startdate>2022-06-10 12:14:52</startdate>
+   <players>
+    <player chips="€103" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€100" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€110,90" bet="€2,60" win="€0" seat="5" name="Oganesson" dealer="1"/>
+    <player chips="€134,98" bet="€0,50" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,70" bet="€11,20" win="€5,70" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Jinxxx" type="1" sum="€0,50"/>
+   <action no="2" player="DarrowOfLykos" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D9 SQ</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="5" player="Oganesson" type="23" sum="€2,60"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="6" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="7" player="DarrowOfLykos" type="23" sum="€11,20"/>
+   <action no="8" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152475">
+  <general>
+   <startdate>2022-06-10 12:15:13</startdate>
+   <players>
+    <player chips="€103" bet="€1" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€100" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€108,30" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="1"/>
+    <player chips="€106,80" bet="€3" win="€2" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="DarrowOfLykos" type="1" sum="€0,50"/>
+   <action no="2" player="Schorschi" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 D2</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="4" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="5" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="6" player="DarrowOfLykos" type="23" sum="€3"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152509">
+  <general>
+   <startdate>2022-06-10 12:15:33</startdate>
+   <players>
+    <player chips="€102" bet="€0,50" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€100" bet="€1" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€108,30" bet="€4,60" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€107,80" bet="€19,60" win="€10,38" seat="10" name="DarrowOfLykos" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="3" player="Oganesson" type="23" sum="€2,60"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="4" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="5" player="DarrowOfLykos" type="3" sum="€2,60"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK D9</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 H2 HK</cards>
+   <action no="8" player="Oganesson" type="4" sum="€0"/>
+   <action no="9" player="DarrowOfLykos" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="10" player="Oganesson" type="5" sum="€2"/>
+   <action no="11" player="DarrowOfLykos" type="3" sum="€2"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action no="12" player="Oganesson" type="4" sum="€0"/>
+   <action no="13" player="DarrowOfLykos" type="5" sum="€15"/>
+   <action no="14" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152763">
+  <general>
+   <startdate>2022-06-10 12:16:47</startdate>
+   <players>
+    <player chips="€101,50" bet="€0" win="€0" seat="1" name="Schorschi" dealer="1"/>
+    <player chips="€100" bet="€3" win="€2" seat="3" name="13373678" dealer="0"/>
+    <player chips="€103,70" bet="€1" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€113,58" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="Oganesson" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="3" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="4" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H10 D10</cards>
+   <action no="6" player="13373678" type="23" sum="€3"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="7" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152781">
+  <general>
+   <startdate>2022-06-10 12:17:04</startdate>
+   <players>
+    <player chips="€101,50" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€101" bet="€6,46" win="€5,82" seat="3" name="13373678" dealer="1"/>
+    <player chips="€102,70" bet="€2,50" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€134,48" bet="€1" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€113,58" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Oganesson" type="1" sum="€0,50"/>
+   <action no="2" player="Jinxxx" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="3" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HQ DK</cards>
+   <action no="5" player="13373678" type="23" sum="€2,50"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="6" player="Oganesson" type="3" sum="€2"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="7" player="Jinxxx" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S4 SJ</cards>
+   <action no="8" player="Oganesson" type="4" sum="€0"/>
+   <action no="9" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action no="10" player="Oganesson" type="4" sum="€0"/>
+   <action no="11" player="13373678" type="5" sum="€3,96"/>
+   <action no="12" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687152873">
+  <general>
+   <startdate>2022-06-10 12:18:08</startdate>
+   <players>
+    <player chips="€101,50" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="1"/>
+    <player chips="€133,48" bet="€4,20" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€100" bet="€9,30" win="€8,15" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€113,58" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Jinxxx" type="1" sum="€0,50"/>
+   <action no="2" player="Thx4nix" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="3" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S9 S5</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="6" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="7" player="Jinxxx" type="23" sum="€2,10"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="8" player="Thx4nix" type="3" sum="€1,10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DK D9</cards>
+   <action no="9" player="Jinxxx" type="5" sum="€2,10"/>
+   <action no="10" player="Thx4nix" type="23" sum="€7,20"/>
+   <action no="11" player="Jinxxx" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153724">
+  <general>
+   <startdate>2022-06-10 12:18:35</startdate>
+   <players>
+    <player chips="€101,50" bet="€2,55" win="€2,50" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€129,28" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="1"/>
+    <player chips="€103,95" bet="€0,50" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€113,58" bet="€1" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Thx4nix" type="1" sum="€0,50"/>
+   <action no="2" player="DarrowOfLykos" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="23" sum="€2,55"/>
+   <cards player="13373678" type="Pocket">SK C7</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="5" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="6" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="7" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="8" player="DarrowOfLykos" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153758">
+  <general>
+   <startdate>2022-06-10 12:18:56</startdate>
+   <players>
+    <player chips="€103" bet="€1" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€2,50" win="€2,50" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€129,28" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,45" bet="€0" win="€0" seat="8" name="Thx4nix" dealer="1"/>
+    <player chips="€112,58" bet="€0,50" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="DarrowOfLykos" type="1" sum="€0,50"/>
+   <action no="2" player="Schorschi" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA C6</cards>
+   <action no="3" player="13373678" type="23" sum="€2,50"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="4" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="5" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="6" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="7" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153777">
+  <general>
+   <startdate>2022-06-10 12:19:12</startdate>
+   <players>
+    <player chips="€102" bet="€0,50" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€105,82" bet="€1" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€129,28" bet="€21,07" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€103,45" bet="€21,07" win="€42,32" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€112,08" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="3" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">D10 DA</cards>
+   <action no="4" player="Jinxxx" type="23" sum="€2,50"/>
+   <cards player="Thx4nix" type="Pocket">D6 H6</cards>
+   <action no="5" player="Thx4nix" type="3" sum="€2,50"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="6" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S6 H5</cards>
+   <action no="8" player="13373678" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 H8 C9</cards>
+   <action no="9" player="Jinxxx" type="4" sum="€0"/>
+   <action no="10" player="Thx4nix" type="5" sum="€3,57"/>
+   <action no="11" player="Jinxxx" type="3" sum="€3,57"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action no="12" player="Jinxxx" type="4" sum="€0"/>
+   <action no="13" player="Thx4nix" type="5" sum="€7,50"/>
+   <action no="14" player="Jinxxx" type="23" sum="€15"/>
+   <action no="15" player="Thx4nix" type="3" sum="€7,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action no="16" player="Jinxxx" type="4" sum="€0"/>
+   <action no="17" player="Thx4nix" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153903">
+  <general>
+   <startdate>2022-06-10 12:20:12</startdate>
+   <players>
+    <player chips="€101,50" bet="€0" win="€0" seat="1" name="Schorschi" dealer="1"/>
+    <player chips="€104,82" bet="€0,50" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€1" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€108,21" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€124,70" bet="€2,62" win="€2,50" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€112,08" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="Oganesson" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="3" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="4" player="Thx4nix" type="23" sum="€2,62"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="5" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ H3</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="8" player="Oganesson" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153939">
+  <general>
+   <startdate>2022-06-10 12:20:37</startdate>
+   <players>
+    <player chips="€101,50" bet="€5,63" win="€5,44" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€0" win="€0" seat="3" name="13373678" dealer="1"/>
+    <player chips="€99,20" bet="€0,50" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€108,21" bet="€2,55" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€126,20" bet="€0" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€112,08" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Oganesson" type="1" sum="€0,50"/>
+   <action no="2" player="Jinxxx" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="3" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="4" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="23" sum="€2,55"/>
+   <cards player="13373678" type="Pocket">D6 S3</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="7" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="8" player="Jinxxx" type="3" sum="€1,55"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 HA C8</cards>
+   <action no="9" player="Jinxxx" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="5" sum="€3,08"/>
+   <action no="11" player="Jinxxx" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153964">
+  <general>
+   <startdate>2022-06-10 12:20:56</startdate>
+   <players>
+    <player chips="€104,39" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€98,70" bet="€0" win="€0" seat="5" name="Oganesson" dealer="1"/>
+    <player chips="€105,66" bet="€0,50" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€126,20" bet="€1" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€112,08" bet="€2,25" win="€2,50" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Jinxxx" type="1" sum="€0,50"/>
+   <action no="2" player="Thx4nix" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="3" player="DarrowOfLykos" type="23" sum="€2,25"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">SK D2</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="6" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="7" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="8" player="Thx4nix" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687153994">
+  <general>
+   <startdate>2022-06-10 12:21:19</startdate>
+   <players>
+    <player chips="€104,39" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€104,32" bet="€31,59" win="€62,72" seat="3" name="13373678" dealer="0"/>
+    <player chips="€98,70" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€105,16" bet="€31,59" win="€0" seat="6" name="Jinxxx" dealer="1"/>
+    <player chips="€125,20" bet="€0,50" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€113,58" bet="€1" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Thx4nix" type="1" sum="€0,50"/>
+   <action no="2" player="DarrowOfLykos" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ DK</cards>
+   <action no="4" player="13373678" type="23" sum="€2,50"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="5" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Jinxxx" type="Pocket">SK DQ</cards>
+   <action no="6" player="Jinxxx" type="3" sum="€2,50"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="7" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="8" player="DarrowOfLykos" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ SA C10</cards>
+   <action no="9" player="13373678" type="5" sum="€2,14"/>
+   <action no="10" player="Jinxxx" type="3" sum="€2,14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="11" player="13373678" type="5" sum="€5,39"/>
+   <action no="12" player="Jinxxx" type="23" sum="€10,78"/>
+   <action no="13" player="13373678" type="3" sum="€5,39"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action no="14" player="13373678" type="4" sum="€0"/>
+   <action no="15" player="Jinxxx" type="5" sum="€16,17"/>
+   <action no="16" player="13373678" type="3" sum="€16,17"/>
+  </round>
+ </game>
+ <game gamecode="3687154067">
+  <general>
+   <startdate>2022-06-10 12:22:07</startdate>
+   <players>
+    <player chips="€104,39" bet="€1" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€135,45" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€98,70" bet="€2,60" win="€2,50" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€73,57" bet="€0" win="€0" seat="6" name="Jinxxx" dealer="0"/>
+    <player chips="€124,70" bet="€0" win="€0" seat="8" name="Thx4nix" dealer="1"/>
+    <player chips="€112,58" bet="€0,50" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="DarrowOfLykos" type="1" sum="€0,50"/>
+   <action no="2" player="Schorschi" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ H6</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="4" player="Oganesson" type="23" sum="€2,60"/>
+   <cards player="Jinxxx" type="Pocket">X X</cards>
+   <action no="5" player="Jinxxx" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="6" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="7" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687154106">
+  <general>
+   <startdate>2022-06-10 12:22:32</startdate>
+   <players>
+    <player chips="€103,39" bet="€14" win="€6" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€135,45" bet="€1" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€124,70" bet="€0" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€112,08" bet="€2,50" win="€0" seat="10" name="DarrowOfLykos" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,50"/>
+   <action no="2" player="13373678" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="3" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="4" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="5" player="DarrowOfLykos" type="23" sum="€2,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="23" sum="€14"/>
+   <cards player="13373678" type="Pocket">S2 CQ</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <action no="8" player="DarrowOfLykos" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687154279">
+  <general>
+   <startdate>2022-06-10 12:22:50</startdate>
+   <players>
+    <player chips="€106,89" bet="€0" win="€0" seat="1" name="Schorschi" dealer="1"/>
+    <player chips="€134,45" bet="€11" win="€6,24" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€1" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€124,70" bet="€2,62" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€109,58" bet="€0" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,50"/>
+   <action no="2" player="Oganesson" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="3" player="Thx4nix" type="23" sum="€2,62"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="4" player="DarrowOfLykos" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">SQ HA</cards>
+   <action no="6" player="13373678" type="23" sum="€11"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="7" player="Oganesson" type="0" sum="€0"/>
+   <action no="8" player="Thx4nix" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687154309">
+  <general>
+   <startdate>2022-06-10 12:23:07</startdate>
+   <players>
+    <player chips="€106,89" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€138,07" bet="€0" win="€0" seat="3" name="13373678" dealer="1"/>
+    <player chips="€99,20" bet="€0,50" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€122,08" bet="€1" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€109,58" bet="€2,25" win="€2,50" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Oganesson" type="1" sum="€0,50"/>
+   <action no="2" player="Thx4nix" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="3" player="DarrowOfLykos" type="23" sum="€2,25"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C9 C3</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="6" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="7" player="Thx4nix" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687154333">
+  <general>
+   <startdate>2022-06-10 12:23:18</startdate>
+   <players>
+    <player chips="€106,89" bet="€0" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€138,07" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€98,70" bet="€2,60" win="€2,50" seat="5" name="Oganesson" dealer="1"/>
+    <player chips="€121,08" bet="€0,50" win="€0" seat="8" name="Thx4nix" dealer="0"/>
+    <player chips="€111,08" bet="€1" win="€0" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Thx4nix" type="1" sum="€0,50"/>
+   <action no="2" player="DarrowOfLykos" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S4 D2</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="5" player="Oganesson" type="23" sum="€2,60"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="6" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="7" player="DarrowOfLykos" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687154378">
+  <general>
+   <startdate>2022-06-10 12:23:43</startdate>
+   <players>
+    <player chips="€106,89" bet="€1" win="€0" seat="1" name="Schorschi" dealer="0"/>
+    <player chips="€138,07" bet="€0" win="€0" seat="3" name="13373678" dealer="0"/>
+    <player chips="€100,20" bet="€0" win="€0" seat="5" name="Oganesson" dealer="0"/>
+    <player chips="€120,58" bet="€0" win="€0" seat="8" name="Thx4nix" dealer="1"/>
+    <player chips="€110,08" bet="€3" win="€2" seat="10" name="DarrowOfLykos" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="DarrowOfLykos" type="1" sum="€0,50"/>
+   <action no="2" player="Schorschi" type="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 H3</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="Oganesson" type="Pocket">X X</cards>
+   <action no="4" player="Oganesson" type="0" sum="€0"/>
+   <cards player="Thx4nix" type="Pocket">X X</cards>
+   <action no="5" player="Thx4nix" type="0" sum="€0"/>
+   <cards player="DarrowOfLykos" type="Pocket">X X</cards>
+   <action no="6" player="DarrowOfLykos" type="23" sum="€3"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

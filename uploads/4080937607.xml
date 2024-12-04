@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080937607">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 13, 488044425</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:51</duration>
+  <gamecount>3</gamecount>
+  <startdate>2022-08-11 19:49:13</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€6,67</bets>
+  <wins>€5,48</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€52,68</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701851270">
+  <general>
+   <startdate>2022-08-11 19:49:13</startdate>
+   <players>
+    <player dealer="0" name="13373678" seat="1" chips="€50" win="€0,50" bet="€0,50"/>
+    <player dealer="1" name="forhayley" seat="3" chips="€50" win="€0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" player="forhayley" no="1"/>
+   <action type="2" sum="€0,50" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA CJ</cards>
+   <cards type="Pocket" player="forhayley">X X</cards>
+   <action type="0" sum="€0" player="forhayley" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3701851279">
+  <general>
+   <startdate>2022-08-11 19:49:20</startdate>
+   <players>
+    <player dealer="1" name="13373678" seat="1" chips="€50,25" win="€1" bet="€1,25"/>
+    <player dealer="0" name="forhayley" seat="3" chips="€50" win="€0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" player="13373678" no="1"/>
+   <action type="2" sum="€0,50" player="forhayley" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 H8</cards>
+   <action type="23" sum="€1,25" player="13373678" no="3"/>
+   <cards type="Pocket" player="forhayley">X X</cards>
+   <action type="0" sum="€0" player="forhayley" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3701851297">
+  <general>
+   <startdate>2022-08-11 19:49:26</startdate>
+   <players>
+    <player dealer="0" name="13373678" seat="1" chips="€50,75" win="€3,98" bet="€4,92"/>
+    <player dealer="1" name="forhayley" seat="3" chips="€50" win="€0" bet="€2,05"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" player="forhayley" no="1"/>
+   <action type="2" sum="€0,50" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="forhayley">X X</cards>
+   <action type="23" sum="€1,25" player="forhayley" no="3"/>
+   <cards type="Pocket" player="13373678">HJ S8</cards>
+   <action type="3" sum="€0,75" player="13373678" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C8 D8</cards>
+   <action type="4" sum="€0" player="13373678" no="5"/>
+   <action type="5" sum="€0,80" player="forhayley" no="6"/>
+   <action type="23" sum="€3,67" player="13373678" no="7"/>
+   <action type="0" sum="€0" player="forhayley" no="8"/>
+  </round>
+ </game>
+</session>

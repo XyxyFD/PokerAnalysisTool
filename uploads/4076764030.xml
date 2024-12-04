@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076764030">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 12, 488044423</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:28:47</duration>
+  <gamecount>55</gamecount>
+  <startdate>2022-06-13 12:32:59</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€112,07</bets>
+  <wins>€38,78</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€55,27</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687886421">
+  <general>
+   <startdate>2022-06-13 12:32:59</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€105,34" dealer="0" name="Player 1"/>
+    <player win="€0" bet="€1,25" seat="3" chips="€51,43" dealer="1" name="Player 3"/>
+    <player win="€3" bet="€5,50" seat="5" chips="€61,22" dealer="0" name="Player 5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 5" type="1"/>
+   <action sum="€0,50" no="2" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Player 3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€5,50" no="4" player="Player 5" type="23"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 1" type="0"/>
+   <action sum="€0" no="6" player="Player 3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886443">
+  <general>
+   <startdate>2022-06-13 12:33:14</startdate>
+   <players>
+    <player win="€11,64" bet="€12" seat="1" chips="€104,84" dealer="0" name="Player 1"/>
+    <player win="€11,64" bet="€12" seat="3" chips="€50,18" dealer="0" name="Player 3"/>
+    <player win="€0" bet="€0" seat="5" chips="€62,97" dealer="1" name="Player 5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 1" type="1"/>
+   <action sum="€0,50" no="2" player="Player 3" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 5" type="0"/>
+   <cards player="Player 1" type="Pocket">CA HJ</cards>
+   <action sum="€1,25" no="4" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">DA SJ</cards>
+   <action sum="€0,75" no="5" player="Player 3" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK H5 SA</cards>
+   <action sum="€1,50" no="6" player="Player 1" type="5"/>
+   <action sum="€1,50" no="7" player="Player 3" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€2,75" no="8" player="Player 1" type="5"/>
+   <action sum="€2,75" no="9" player="Player 3" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€6,50" no="10" player="Player 1" type="5"/>
+   <action sum="€6,50" no="11" player="Player 3" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687886579">
+  <general>
+   <startdate>2022-06-13 12:34:34</startdate>
+   <players>
+    <player win="€0" bet="€4,99" seat="1" chips="€104,48" dealer="1" name="Player 1"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€50" dealer="0" name="Player 3"/>
+    <player win="€9,92" bet="€12,15" seat="5" chips="€62,97" dealer="0" name="Player 5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 3" type="1"/>
+   <action sum="€0,50" no="2" player="Player 5" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Player 1" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">S3 X</cards>
+   <action sum="€0,75" no="5" player="Player 5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S10 H10</cards>
+   <action sum="€0" no="6" player="Player 5" type="4"/>
+   <action sum="€1,37" no="7" player="Player 1" type="5"/>
+   <action sum="€3,74" no="8" player="Player 5" type="23"/>
+   <action sum="€2,37" no="9" player="Player 1" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€7,16" no="10" player="Player 5" type="5"/>
+   <action sum="€0" no="11" player="Player 1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886605">
+  <general>
+   <startdate>2022-06-13 12:35:02</startdate>
+   <players>
+    <player win="€0" bet="€4,50" seat="1" chips="€99,49" dealer="0" name="Renofix1408"/>
+    <player win="€9,46" bet="€8" seat="3" chips="€50" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€67,90" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€4,50" no="4" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">CQ H8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <action sum="€3,25" no="7" player="Renofix1408" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C6 C5</cards>
+   <action sum="€0" no="8" player="Renofix1408" type="4"/>
+   <action sum="€3,50" no="9" player="NettiomanIlme" type="5"/>
+   <action sum="€0" no="10" player="Renofix1408" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886843">
+  <general>
+   <startdate>2022-06-13 12:35:54</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="1" chips="€94,99" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,96" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€67,65" dealer="1" name="fsgdhfsjm"/>
+    <player win="€1" bet="€1,50" seat="6" chips="€50" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">SK CJ</cards>
+   <action sum="€1,50" no="5" player="13373678" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Renofix1408" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886861">
+  <general>
+   <startdate>2022-06-13 12:36:11</startdate>
+   <players>
+    <player win="€0" bet="€1,25" seat="1" chips="€94,49" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€54,96" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€67,65" dealer="0" name="fsgdhfsjm"/>
+    <player win="€2,91" bet="€2,75" seat="6" chips="€50,50" dealer="1" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">D9 DK</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1" no="5" player="Renofix1408" type="3"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 D8 D5</cards>
+   <action sum="€0" no="7" player="Renofix1408" type="4"/>
+   <action sum="€1,50" no="8" player="13373678" type="5"/>
+   <action sum="€0" no="9" player="Renofix1408" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886893">
+  <general>
+   <startdate>2022-06-13 12:36:50</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€93,24" dealer="1" name="Renofix1408"/>
+    <player win="€1" bet="€1,25" seat="3" chips="€54,46" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€67,65" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€52,16" dealer="0" name="13373678"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D4 C7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886914">
+  <general>
+   <startdate>2022-06-13 12:37:11</startdate>
+   <players>
+    <player win="€0" bet="€5,37" seat="1" chips="€93,24" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,96" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€67,15" dealer="0" name="fsgdhfsjm"/>
+    <player win="€11,15" bet="€5,37" seat="6" chips="€52,16" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€20" dealer="0" name="Katze248"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+   <action sum="€0,50" no="3" player="Katze248" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Katze248" type="4"/>
+   <cards player="Renofix1408" type="Pocket">SQ HA</cards>
+   <action sum="€2,50" no="5" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">SA S5</cards>
+   <action sum="€2" no="8" player="13373678" type="3"/>
+   <action sum="€0" no="9" player="Katze248" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D3 S2</cards>
+   <action sum="€0" no="10" player="13373678" type="4"/>
+   <action sum="€0" no="11" player="Renofix1408" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action sum="€2,87" no="12" player="13373678" type="5"/>
+   <action sum="€2,87" no="13" player="Renofix1408" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action sum="€0" no="14" player="13373678" type="4"/>
+   <action sum="€0" no="15" player="Renofix1408" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687887857">
+  <general>
+   <startdate>2022-06-13 12:38:21</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€87,87" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,96" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€66,90" dealer="1" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€57,94" dealer="0" name="13373678"/>
+    <player win="€0,50" bet="€0,50" seat="8" chips="€19,50" dealer="0" name="Katze248"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Katze248" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">CQ H8</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887876">
+  <general>
+   <startdate>2022-06-13 12:38:36</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€87,87" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€54,96" dealer="0" name="NettiomanIlme"/>
+    <player win="€1,25" bet="€1,10" seat="5" chips="€66,90" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€57,69" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€19,75" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Katze248" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">C4 D2</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887901">
+  <general>
+   <startdate>2022-06-13 12:39:03</startdate>
+   <players>
+    <player win="€0" bet="€12,50" seat="1" chips="€87,87" dealer="0" name="Renofix1408"/>
+    <player win="€24,49" bet="€21" seat="3" chips="€54,96" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€67,65" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€57,69" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€19,50" dealer="1" name="Katze248"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1,50" no="3" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">S4 S10</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€5" no="8" player="Renofix1408" type="23"/>
+   <action sum="€12,50" no="9" player="NettiomanIlme" type="23"/>
+   <action sum="€7,50" no="10" player="Renofix1408" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D5 CA</cards>
+   <action sum="€0" no="11" player="Renofix1408" type="4"/>
+   <action sum="€8,50" no="12" player="NettiomanIlme" type="5"/>
+   <action sum="€0" no="13" player="Renofix1408" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887936">
+  <general>
+   <startdate>2022-06-13 12:39:45</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€75,37" dealer="0" name="Renofix1408"/>
+    <player win="€1,22" bet="€1,37" seat="3" chips="€66,95" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€67,65" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€57,69" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€19,50" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">H8 H4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0,50" no="5" player="Katze248" type="3"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="NettiomanIlme" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 H10 C6</cards>
+   <action sum="€0,87" no="9" player="NettiomanIlme" type="5"/>
+   <action sum="€0" no="10" player="Katze248" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887965">
+  <general>
+   <startdate>2022-06-13 12:40:15</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€75,12" dealer="1" name="Renofix1408"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€67,67" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€67,65" dealer="0" name="fsgdhfsjm"/>
+    <player win="€1,25" bet="€1,25" seat="6" chips="€57,69" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€19" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK HK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687887992">
+  <general>
+   <startdate>2022-06-13 12:40:43</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€75,12" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,42" dealer="1" name="NettiomanIlme"/>
+    <player win="€4,37" bet="€4,25" seat="5" chips="€67,15" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€2" seat="6" chips="€58,44" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€19" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0,50" no="3" player="Katze248" type="3"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€2" no="7" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">C5 S5</cards>
+   <action sum="€1,50" no="8" player="13373678" type="3"/>
+   <action sum="€0" no="9" player="Katze248" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA S6 HA</cards>
+   <action sum="€2,25" no="10" player="fsgdhfsjm" type="5"/>
+   <action sum="€0" no="11" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888032">
+  <general>
+   <startdate>2022-06-13 12:41:19</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€75,12" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,42" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€69,52" dealer="1" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€56,44" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€18,50" dealer="0" name="Katze248"/>
+    <player win="€1,25" bet="€1,10" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Katze248" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">C4 H8</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Katze248" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888063">
+  <general>
+   <startdate>2022-06-13 12:41:45</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€75,12" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,42" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€1,10" seat="5" chips="€69,52" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€56,19" dealer="1" name="13373678"/>
+    <player win="€2,62" bet="€3,80" seat="8" chips="€18" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€50,75" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Katze248" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">S7 DA</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0,85" no="7" player="Katze248" type="3"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KrismesLars" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H2 C5</cards>
+   <action sum="€2,70" no="9" player="Katze248" type="5"/>
+   <action sum="€0" no="10" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888095">
+  <general>
+   <startdate>2022-06-13 12:42:15</startdate>
+   <players>
+    <player win="€2,67" bet="€2,25" seat="1" chips="€75,12" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€67,42" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€68,42" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€56,19" dealer="0" name="13373678"/>
+    <player win="€0" bet="€1,25" seat="8" chips="€19,52" dealer="1" name="Katze248"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€50,25" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">H6 DJ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0,50" no="6" player="Katze248" type="3"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="8" player="Renofix1408" type="23"/>
+   <action sum="€0,75" no="9" player="Katze248" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ C9 D4</cards>
+   <action sum="€0" no="10" player="Renofix1408" type="4"/>
+   <action sum="€0" no="11" player="Katze248" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€1" no="12" player="Renofix1408" type="5"/>
+   <action sum="€0" no="13" player="Katze248" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888117">
+  <general>
+   <startdate>2022-06-13 12:42:40</startdate>
+   <players>
+    <player win="€0" bet="€9,62" seat="1" chips="€76,54" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€67,42" dealer="0" name="NettiomanIlme"/>
+    <player win="€108,62" bet="€50" seat="5" chips="€68,42" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€56,19" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€18,27" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€50" seat="10" chips="€50" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">H7 H6</cards>
+   <action sum="€1,10" no="3" player="fsgdhfsjm" type="23"/>
+   <cards player="13373678" type="Pocket">S10 HK</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">CK C10</cards>
+   <action sum="€3,75" no="6" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€3,50" no="7" player="Renofix1408" type="3"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="NettiomanIlme" type="0"/>
+   <action sum="€2,65" no="9" player="fsgdhfsjm" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C9 H10</cards>
+   <action sum="€0" no="10" player="Renofix1408" type="4"/>
+   <action sum="€0" no="11" player="fsgdhfsjm" type="4"/>
+   <action sum="€5,87" no="12" player="KrismesLars" type="5"/>
+   <action sum="€5,87" no="13" player="Renofix1408" type="3"/>
+   <action sum="€26,74" no="14" player="fsgdhfsjm" type="23"/>
+   <action sum="€40,38" no="15" player="KrismesLars" type="7"/>
+   <action sum="€0" no="16" player="Renofix1408" type="0"/>
+   <action sum="€19,51" no="17" player="fsgdhfsjm" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+  </round>
+ </game>
+ <game gamecode="3687888200">
+  <general>
+   <startdate>2022-06-13 12:44:03</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€66,92" dealer="1" name="Renofix1408"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€66,92" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€127,04" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€56,19" seat="6" chips="€56,19" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€18,27" dealer="0" name="Katze248"/>
+    <player win="€99,25" bet="€50" seat="10" chips="€50" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA DK</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">DJ CJ</cards>
+   <action sum="€3,75" no="5" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="fsgdhfsjm" type="0"/>
+   <action sum="€11,25" no="9" player="13373678" type="23"/>
+   <action sum="€7,50" no="10" player="KrismesLars" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C5 D5</cards>
+   <action sum="€5,50" no="11" player="13373678" type="5"/>
+   <action sum="€5,50" no="12" player="KrismesLars" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€11,30" no="13" player="13373678" type="5"/>
+   <action sum="€11,30" no="14" player="KrismesLars" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€28,14" no="15" player="13373678" type="5"/>
+   <action sum="€21,95" no="16" player="KrismesLars" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3687888478">
+  <general>
+   <startdate>2022-06-13 12:45:32</startdate>
+   <players>
+    <player win="€1,25" bet="€1,25" seat="1" chips="€66,92" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€66,67" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€126,54" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€18,27" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€99,25" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="5" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">DQ H4</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888493">
+  <general>
+   <startdate>2022-06-13 12:45:48</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€67,67" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€66,67" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€1,10" seat="5" chips="€126,29" dealer="1" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€37,50" dealer="0" name="Katze248"/>
+    <player win="€2,87" bet="€3,31" seat="10" chips="€99,25" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Katze248" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="fsgdhfsjm" type="3"/>
+   <cards player="13373678" type="Pocket">S8 HJ</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Katze248" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S6 SQ</cards>
+   <action sum="€0" no="9" player="KrismesLars" type="4"/>
+   <action sum="€0" no="10" player="fsgdhfsjm" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€2,21" no="11" player="KrismesLars" type="5"/>
+   <action sum="€0" no="12" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888550">
+  <general>
+   <startdate>2022-06-13 12:46:40</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€67,67" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€66,67" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€125,19" dealer="0" name="fsgdhfsjm"/>
+    <player win="€1,25" bet="€1,25" seat="6" chips="€50" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€37" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€101,02" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Katze248" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">DQ H9</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888572">
+  <general>
+   <startdate>2022-06-13 12:46:54</startdate>
+   <players>
+    <player win="€8,97" bet="€7,50" seat="1" chips="€67,67" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€66,67" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€125,19" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€4,50" seat="6" chips="€50,75" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€36,75" dealer="1" name="Katze248"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€100,52" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">S10 S9</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€4,50" no="8" player="Renofix1408" type="23"/>
+   <action sum="€3,25" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 H4 HJ</cards>
+   <action sum="€3" no="10" player="Renofix1408" type="5"/>
+   <action sum="€0" no="11" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888642">
+  <general>
+   <startdate>2022-06-13 12:47:39</startdate>
+   <players>
+    <player win="€0" bet="€13,30" seat="1" chips="€72,14" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0,50" seat="3" chips="€66,67" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€125,19" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€36,75" dealer="0" name="Katze248"/>
+    <player win="€26,28" bet="€13,30" seat="10" chips="€100,27" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">SJ C9</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">DQ D5</cards>
+   <action sum="€1,25" no="6" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">H4 HA</cards>
+   <action sum="€4" no="7" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="NettiomanIlme" type="0"/>
+   <action sum="€2,75" no="9" player="KrismesLars" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D10 D7</cards>
+   <action sum="€0" no="10" player="Renofix1408" type="4"/>
+   <action sum="€0" no="11" player="KrismesLars" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action sum="€0" no="12" player="Renofix1408" type="4"/>
+   <action sum="€2,80" no="13" player="KrismesLars" type="5"/>
+   <action sum="€2,80" no="14" player="Renofix1408" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€6,50" no="15" player="Renofix1408" type="5"/>
+   <action sum="€6,50" no="16" player="KrismesLars" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3687888715">
+  <general>
+   <startdate>2022-06-13 12:48:32</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€58,84" dealer="1" name="Renofix1408"/>
+    <player win="€3" bet="€5,50" seat="3" chips="€66,17" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€125,19" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€1,25" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€36,75" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€113,25" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK D8</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€5,50" no="7" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="fsgdhfsjm" type="0"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888762">
+  <general>
+   <startdate>2022-06-13 12:49:16</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€58,84" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€36,40" seat="3" chips="€67,92" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€124,69" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€36,75" dealer="0" name="Katze248"/>
+    <player win="€72,05" bet="€113,25" seat="10" chips="€113,25" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="NettiomanIlme" type="3"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">S3 H2</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S4 HK</cards>
+   <action sum="€1,07" no="9" player="KrismesLars" type="5"/>
+   <action sum="€1,07" no="10" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€4,04" no="11" player="KrismesLars" type="5"/>
+   <action sum="€11,58" no="12" player="NettiomanIlme" type="23"/>
+   <action sum="€7,54" no="13" player="KrismesLars" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action sum="€0" no="14" player="KrismesLars" type="4"/>
+   <action sum="€22,50" no="15" player="NettiomanIlme" type="5"/>
+   <action sum="€99,35" no="16" player="KrismesLars" type="23"/>
+   <action sum="€0" no="17" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888871">
+  <general>
+   <startdate>2022-06-13 12:50:45</startdate>
+   <players>
+    <player win="€1,25" bet="€1,25" seat="1" chips="€58,84" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="1" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€36,75" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0" seat="10" chips="€148,90" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Katze248" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">H4 H9</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Katze248" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687888885">
+  <general>
+   <startdate>2022-06-13 12:50:56</startdate>
+   <players>
+    <player win="€1,25" bet="€1,25" seat="1" chips="€59,59" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€50" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€36,25" dealer="0" name="Katze248"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€148,90" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Katze248" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">H7 CK</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687889699">
+  <general>
+   <startdate>2022-06-13 12:51:28</startdate>
+   <players>
+    <player win="€11,16" bet="€8" seat="1" chips="€60,34" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€1,25" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€5" seat="8" chips="€36" dealer="1" name="Katze248"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€148,40" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">SK D10</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€1,25" no="6" player="Katze248" type="3"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€5" no="8" player="Renofix1408" type="23"/>
+   <action sum="€0" no="9" player="13373678" type="0"/>
+   <action sum="€3,75" no="10" player="Katze248" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C5 C2</cards>
+   <action sum="€3" no="11" player="Renofix1408" type="5"/>
+   <action sum="€0" no="12" player="Katze248" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687889754">
+  <general>
+   <startdate>2022-06-13 12:52:13</startdate>
+   <players>
+    <player win="€1,94" bet="€4" seat="1" chips="€66,50" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€1" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="10" chips="€148,15" dealer="1" name="KrismesLars"/>
+    <player win="€0" bet="€0" seat="8" chips="€31" dealer="0" name="Katze248"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">C6 C4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="Katze248" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Katze248" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1" no="7" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0,50" no="8" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ HA SK</cards>
+   <action sum="€3" no="9" player="Renofix1408" type="5"/>
+   <action sum="€0" no="10" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687889787">
+  <general>
+   <startdate>2022-06-13 12:52:36</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€67,44" dealer="1" name="Renofix1408"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0,50" bet="€0,50" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="10" chips="€148,15" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">HJ C8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687889977">
+  <general>
+   <startdate>2022-06-13 12:52:54</startdate>
+   <players>
+    <player win="€1,25" bet="€1,25" seat="1" chips="€67,44" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€124,69" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="10" chips="€148,15" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="Renofix1408" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">D6 S3</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687889988">
+  <general>
+   <startdate>2022-06-13 12:53:05</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€68,19" dealer="0" name="Renofix1408"/>
+    <player win="€1,25" bet="€1,25" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="1" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€148,15" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">CJ D7</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890007">
+  <general>
+   <startdate>2022-06-13 12:53:21</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="1" chips="€68,19" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€0" seat="3" chips="€50,75" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€50" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€147,65" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="Renofix1408" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">S6 D4</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890027">
+  <general>
+   <startdate>2022-06-13 12:53:32</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="1" chips="€68,44" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€4,20" seat="3" chips="€50,75" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€8,39" bet="€9,90" seat="6" chips="€50" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="10" chips="€147,40" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Renofix1408" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">SA C10</cards>
+   <action sum="€1" no="4" player="13373678" type="23"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KrismesLars" type="0"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0,50" no="7" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D3 C4</cards>
+   <action sum="€0" no="8" player="NettiomanIlme" type="4"/>
+   <action sum="€0,74" no="9" player="13373678" type="5"/>
+   <action sum="€0,74" no="10" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" no="11" player="NettiomanIlme" type="4"/>
+   <action sum="€2,46" no="12" player="13373678" type="5"/>
+   <action sum="€2,46" no="13" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€0" no="14" player="NettiomanIlme" type="4"/>
+   <action sum="€5,70" no="15" player="13373678" type="5"/>
+   <action sum="€0" no="16" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890122">
+  <general>
+   <startdate>2022-06-13 12:54:39</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="1" chips="€68,19" dealer="1" name="Renofix1408"/>
+    <player win="€0" bet="€0,25" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="5" chips="€124,44" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0" seat="6" chips="€54,19" dealer="0" name="13373678"/>
+    <player win="€1,25" bet="€1,25" seat="10" chips="€147,40" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="fsgdhfsjm" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ H8</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Renofix1408" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="fsgdhfsjm" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890149">
+  <general>
+   <startdate>2022-06-13 12:54:58</startdate>
+   <players>
+    <player win="€20,61" bet="€68,19" seat="1" chips="€68,19" dealer="0" name="Renofix1408"/>
+    <player win="€0" bet="€9,70" seat="3" chips="€50" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="5" chips="€123,94" dealer="0" name="fsgdhfsjm"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€54,19" dealer="0" name="13373678"/>
+    <player win="€0" bet="€1,10" seat="10" chips="€148,15" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="fsgdhfsjm" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="KrismesLars" type="23"/>
+   <cards player="Renofix1408" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="Renofix1408" type="3"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€5,20" no="5" player="NettiomanIlme" type="23"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">HQ DA</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€0" no="8" player="KrismesLars" type="0"/>
+   <action sum="€4,10" no="9" player="Renofix1408" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H7 D6</cards>
+   <action sum="€0" no="10" player="Renofix1408" type="4"/>
+   <action sum="€4,50" no="11" player="NettiomanIlme" type="5"/>
+   <action sum="€62,99" no="12" player="Renofix1408" type="23"/>
+   <action sum="€0" no="13" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890229">
+  <general>
+   <startdate>2022-06-13 12:55:54</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="5" chips="€123,69" dealer="1" name="fsgdhfsjm"/>
+    <player win="€1" bet="€1,50" seat="6" chips="€53,69" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€147,05" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KrismesLars" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">C10 H10</cards>
+   <action sum="€1,50" no="6" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890269">
+  <general>
+   <startdate>2022-06-13 12:56:21</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€2,67" bet="€2,62" seat="6" chips="€54,19" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€1,25" seat="10" chips="€147,05" dealer="0" name="KrismesLars"/>
+    <player win="€0" bet="€0" seat="5" chips="€123,69" dealer="0" name="fsgdhfsjm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="fsgdhfsjm" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="fsgdhfsjm" type="0"/>
+   <cards player="13373678" type="Pocket">DJ D10</cards>
+   <action sum="€1,25" no="5" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0,75" no="7" player="KrismesLars" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 CJ S4</cards>
+   <action sum="€0" no="8" player="KrismesLars" type="4"/>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€0" no="10" player="KrismesLars" type="4"/>
+   <action sum="€1,37" no="11" player="13373678" type="5"/>
+   <action sum="€0" no="12" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890304">
+  <general>
+   <startdate>2022-06-13 12:56:49</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="6" chips="€55,61" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+    <player win="€0" bet="€0,25" seat="10" chips="€145,80" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="KrismesLars" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S9 DJ</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890315">
+  <general>
+   <startdate>2022-06-13 12:56:57</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€50,25" dealer="0" name="NettiomanIlme"/>
+    <player win="€0,50" bet="€0,50" seat="6" chips="€55,61" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€145,55" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H4 S9</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="KrismesLars" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890335">
+  <general>
+   <startdate>2022-06-13 12:57:09</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€50" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€55,86" dealer="0" name="13373678"/>
+    <player win="€0,50" bet="€0,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+    <player win="€0" bet="€0" seat="10" chips="€145,55" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KrismesLars" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">H9 S4</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890343">
+  <general>
+   <startdate>2022-06-13 12:57:15</startdate>
+   <players>
+    <player win="€6,99" bet="€9,60" seat="3" chips="€50" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="6" chips="€55,61" dealer="1" name="13373678"/>
+    <player win="€0" bet="€3,60" seat="8" chips="€50,25" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ D6</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,50" no="4" player="Kurkkumies" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1" no="5" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D7 D8</cards>
+   <action sum="€0" no="6" player="Kurkkumies" type="4"/>
+   <action sum="€0" no="7" player="NettiomanIlme" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" no="8" player="Kurkkumies" type="4"/>
+   <action sum="€2,10" no="9" player="NettiomanIlme" type="5"/>
+   <action sum="€2,10" no="10" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="11" player="Kurkkumies" type="4"/>
+   <action sum="€6" no="12" player="NettiomanIlme" type="5"/>
+   <action sum="€0" no="13" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890435">
+  <general>
+   <startdate>2022-06-13 12:58:29</startdate>
+   <players>
+    <player win="€3" bet="€5,50" seat="3" chips="€53,39" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€55,61" dealer="0" name="13373678"/>
+    <player win="€0" bet="€1,25" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Kurkkumies" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€5,50" no="4" player="NettiomanIlme" type="23"/>
+   <cards player="13373678" type="Pocket">H4 SJ</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <action sum="€0" no="6" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890452">
+  <general>
+   <startdate>2022-06-13 12:58:45</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€55,14" dealer="1" name="NettiomanIlme"/>
+    <player win="€2,91" bet="€2,49" seat="6" chips="€55,11" dealer="0" name="13373678"/>
+    <player win="€0" bet="€1,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">D2 H2</cards>
+   <action sum="€1,50" no="4" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1" no="5" player="Kurkkumies" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 D4 SJ</cards>
+   <action sum="€0,99" no="6" player="13373678" type="5"/>
+   <action sum="€0" no="7" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890489">
+  <general>
+   <startdate>2022-06-13 12:59:08</startdate>
+   <players>
+    <player win="€6,55" bet="€3,25" seat="3" chips="€55,14" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€3,25" seat="6" chips="€56,52" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S3 SQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">S7 CJ</cards>
+   <action sum="€0,75" no="5" player="NettiomanIlme" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C5 HQ</cards>
+   <action sum="€0" no="6" player="NettiomanIlme" type="4"/>
+   <action sum="€0" no="7" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€2" no="8" player="NettiomanIlme" type="5"/>
+   <action sum="€2" no="9" player="13373678" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€0" no="10" player="NettiomanIlme" type="4"/>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3687890534">
+  <general>
+   <startdate>2022-06-13 12:59:50</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€58,44" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€53,27" dealer="0" name="13373678"/>
+    <player win="€1,25" bet="€1,25" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Kurkkumies" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">SK D5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890545">
+  <general>
+   <startdate>2022-06-13 12:59:59</startdate>
+   <players>
+    <player win="€0" bet="€1,25" seat="3" chips="€58,19" dealer="1" name="NettiomanIlme"/>
+    <player win="€3" bet="€5,50" seat="6" chips="€52,77" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50,75" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="NettiomanIlme" type="23"/>
+   <cards player="13373678" type="Pocket">C9 D9</cards>
+   <action sum="€5,50" no="4" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+   <action sum="€0" no="6" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890600">
+  <general>
+   <startdate>2022-06-13 13:00:41</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="3" chips="€56,94" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="6" chips="€54,52" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50,25" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D4 C7</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890605">
+  <general>
+   <startdate>2022-06-13 13:00:47</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€57,19" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,50" seat="6" chips="€54,52" dealer="0" name="13373678"/>
+    <player win="€1,25" bet="€1,25" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€1,25" no="3" player="Kurkkumies" type="23"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">D3 S5</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890621">
+  <general>
+   <startdate>2022-06-13 13:00:55</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€56,94" dealer="1" name="NettiomanIlme"/>
+    <player win="€1" bet="€1,50" seat="6" chips="€54,02" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="8" chips="€50,75" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">H7 C7</cards>
+   <action sum="€1,50" no="4" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890630">
+  <general>
+   <startdate>2022-06-13 13:01:04</startdate>
+   <players>
+    <player win="€0" bet="€0,50" seat="3" chips="€56,94" dealer="0" name="NettiomanIlme"/>
+    <player win="€1,25" bet="€1,25" seat="6" chips="€54,52" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50,25" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 SQ</cards>
+   <action sum="€1,25" no="3" player="13373678" type="23"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890646">
+  <general>
+   <startdate>2022-06-13 13:01:16</startdate>
+   <players>
+    <player win="€0" bet="€0,25" seat="3" chips="€56,44" dealer="0" name="NettiomanIlme"/>
+    <player win="€0,50" bet="€0,50" seat="6" chips="€55,27" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0" seat="8" chips="€50" dealer="1" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="NettiomanIlme" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ D3</cards>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Kurkkumies" type="0"/>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="NettiomanIlme" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890656">
+  <general>
+   <startdate>2022-06-13 13:01:24</startdate>
+   <players>
+    <player win="€0" bet="€0" seat="3" chips="€56,19" dealer="1" name="NettiomanIlme"/>
+    <player win="€0" bet="€0,25" seat="6" chips="€55,52" dealer="0" name="13373678"/>
+    <player win="€0,50" bet="€0,50" seat="8" chips="€50" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="Kurkkumies" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="NettiomanIlme" type="0"/>
+   <cards player="13373678" type="Pocket">S9 D2</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687890666">
+  <general>
+   <startdate>2022-06-13 13:01:33</startdate>
+   <players>
+    <player win="€0,50" bet="€0,50" seat="3" chips="€56,19" dealer="0" name="NettiomanIlme"/>
+    <player win="€0" bet="€0" seat="6" chips="€55,27" dealer="1" name="13373678"/>
+    <player win="€0" bet="€0,25" seat="8" chips="€50,25" dealer="0" name="Kurkkumies"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Kurkkumies" type="1"/>
+   <action sum="€0,50" no="2" player="NettiomanIlme" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="NettiomanIlme" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S2 C3</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Kurkkumies" type="0"/>
+  </round>
+ </game>
+</session>

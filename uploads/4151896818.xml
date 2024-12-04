@@ -1,0 +1,2380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4151896818">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 14, 488050243</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:40:23</duration>
+  <gamecount>71</gamecount>
+  <startdate>2024-10-09 22:35:30</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€487,35</bets>
+  <wins>€135,08</wins>
+  <chipsin>€89,25</chipsin>
+  <chipsout>€101,50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3937151875">
+  <general>
+   <startdate>2024-10-09 22:35:30</startdate>
+   <players>
+    <player win="€21" chips="€65" name="14087718" seat="1" dealer="0" bet="€17"/>
+    <player win="€0" chips="€100" name="13373678" seat="5" dealer="1" bet="€10,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C4 C8</cards>
+   <action no="3" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="3" player="14087718" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D10 S7</cards>
+   <action no="5" type="4" player="14087718" sum="€0"/>
+   <action no="6" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action no="7" type="5" player="14087718" sum="€2"/>
+   <action no="8" type="23" player="13373678" sum="€8,25"/>
+   <action no="9" type="23" player="14087718" sum="€14,50"/>
+   <action no="10" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937156751">
+  <general>
+   <startdate>2024-10-09 22:36:25</startdate>
+   <players>
+    <player win="€0" chips="€75,25" name="14087718" seat="1" dealer="1" bet="€11"/>
+    <player win="€22,31" chips="€100" name="13373678" seat="5" dealer="0" bet="€23"/>
+    <player win="€0" chips="€100" name="NGMl" seat="6" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="13373678">CQ HA</cards>
+   <action no="4" type="23" player="13373678" sum="€11"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="0" player="NGMl" sum="€0"/>
+   <action no="6" type="3" player="14087718" sum="€9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 S6 C5</cards>
+   <action no="7" type="5" player="13373678" sum="€12"/>
+   <action no="8" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937156889">
+  <general>
+   <startdate>2024-10-09 22:37:14</startdate>
+   <players>
+    <player win="€12,61" chips="€64,25" name="14087718" seat="1" dealer="0" bet="€11"/>
+    <player win="€0" chips="€111,31" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="NGMl" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€6"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="13373678">D3 C2</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="3" player="NGMl" sum="€0,50"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="23" player="Imaclown" sum="€6"/>
+   <action no="7" type="3" player="14087718" sum="€5"/>
+   <action no="8" type="0" player="NGMl" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S7 D9</cards>
+   <action no="9" type="4" player="Imaclown" sum="€0"/>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action no="11" type="4" player="Imaclown" sum="€0"/>
+   <action no="12" type="5" player="14087718" sum="€5"/>
+   <action no="13" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937157101">
+  <general>
+   <startdate>2024-10-09 22:38:27</startdate>
+   <players>
+    <player win="€0" chips="€70,86" name="14087718" seat="1" dealer="0" bet="€5,56"/>
+    <player win="€0" chips="€111,31" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€12,24" chips="€100" name="NGMl" seat="6" dealer="1" bet="€24,49"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="StandardSkill" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="13373678">SA C8</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="23" player="NGMl" sum="€3,56"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="7" type="0" player="StandardSkill" sum="€0"/>
+   <action no="8" type="3" player="14087718" sum="€2,56"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 SK H4</cards>
+   <action no="9" type="5" player="14087718" sum="€2"/>
+   <action no="10" type="3" player="NGMl" sum="€2"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action no="11" type="4" player="14087718" sum="€0"/>
+   <action no="12" type="4" player="NGMl" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action no="13" type="4" player="14087718" sum="€0"/>
+   <action no="14" type="5" player="NGMl" sum="€18,93"/>
+   <action no="15" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937158408">
+  <general>
+   <startdate>2024-10-09 22:39:41</startdate>
+   <players>
+    <player win="€9,66" chips="€65,30" name="14087718" seat="1" dealer="0" bet="€6,96"/>
+    <player win="€0" chips="€111,31" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€106,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€4,98"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="StandardSkill" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 H7</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="23" player="StandardSkill" sum="€3"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="7" type="3" player="14087718" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D3 H3</cards>
+   <action no="8" type="5" player="StandardSkill" sum="€1,98"/>
+   <action no="9" type="23" player="14087718" sum="€3,96"/>
+   <action no="10" type="0" player="StandardSkill" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937159201">
+  <general>
+   <startdate>2024-10-09 22:40:11</startdate>
+   <players>
+    <player win="€0" chips="€69,98" name="14087718" seat="1" dealer="0" bet="€4"/>
+    <player win="€7,76" chips="€106,43" name="TeslamiesV1" seat="3" dealer="0" bet="€6"/>
+    <player win="€0" chips="€111,31" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€106,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 C6</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="7" type="3" player="14087718" sum="€0,50"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="8" type="23" player="TeslamiesV1" sum="€4"/>
+   <action no="9" type="3" player="14087718" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 DA S5</cards>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+   <action no="11" type="5" player="TeslamiesV1" sum="€2"/>
+   <action no="12" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937159275">
+  <general>
+   <startdate>2024-10-09 22:40:37</startdate>
+   <players>
+    <player win="€0" chips="€65,98" name="14087718" seat="1" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€110,19" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€111,31" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€106,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€6,31" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€5,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="5" type="23" player="StandardSkill" sum="€2,50"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="6" type="3" player="14087718" sum="€2,50"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C6 S8</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C7 S9</cards>
+   <action no="9" type="4" player="StandardSkill" sum="€0"/>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action no="11" type="5" player="StandardSkill" sum="€3,25"/>
+   <action no="12" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937159369">
+  <general>
+   <startdate>2024-10-09 22:41:08</startdate>
+   <players>
+    <player win="€0" chips="€63,48" name="14087718" seat="1" dealer="0" bet="€17,56"/>
+    <player win="€35,52" chips="€109,69" name="TeslamiesV1" seat="3" dealer="1" bet="€26,56"/>
+    <player win="€0" chips="€110,31" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€106,68" name="NGMl" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€103,81" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="23" player="TeslamiesV1" sum="€4"/>
+   <cards type="Pocket" player="13373678">C2 SA</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="8" type="0" player="NGMl" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D2 S3</cards>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+   <action no="11" type="5" player="TeslamiesV1" sum="€2,56"/>
+   <action no="12" type="3" player="14087718" sum="€2,56"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action no="13" type="5" player="14087718" sum="€5"/>
+   <action no="14" type="3" player="TeslamiesV1" sum="€5"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action no="15" type="5" player="14087718" sum="€6"/>
+   <action no="16" type="23" player="TeslamiesV1" sum="€15"/>
+   <action no="17" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937159809">
+  <general>
+   <startdate>2024-10-09 22:42:55</startdate>
+   <players>
+    <player win="€0" chips="€45,92" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€0" chips="€127,65" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€109,81" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€3" chips="€105,68" name="NGMl" seat="6" dealer="0" bet="€5"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€103,81" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="3" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D5 S7</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="7" type="23" player="NGMl" sum="€5"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+   <action no="9" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937159874">
+  <general>
+   <startdate>2024-10-09 22:43:18</startdate>
+   <players>
+    <player win="€0" chips="€44,92" name="14087718" seat="1" dealer="0" bet="€0"/>
+    <player win="€0" chips="€127,65" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€5,34" chips="€109,81" name="13373678" seat="5" dealer="0" bet="€4,31"/>
+    <player win="€0" chips="€107,68" name="NGMl" seat="6" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€103,81" name="StandardSkill" seat="10" dealer="0" bet="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="StandardSkill" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">CJ C5</cards>
+   <action no="5" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="6" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="8" type="3" player="StandardSkill" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HQ S3</cards>
+   <action no="9" type="4" player="StandardSkill" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€1,81"/>
+   <action no="11" type="0" player="StandardSkill" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937160016">
+  <general>
+   <startdate>2024-10-09 22:44:04</startdate>
+   <players>
+    <player win="€0" chips="€44,92" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€0" chips="€127,65" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€112,65" name="13373678" seat="5" dealer="0" bet="€112,65"/>
+    <player win="€0" chips="€107,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€199,50" chips="€100" name="Imaclown" seat="8" dealer="1" bet="€100"/>
+    <player win="€0" chips="€101,31" name="StandardSkill" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="StandardSkill" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">DQ HQ</cards>
+   <action no="4" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">CA SA</cards>
+   <action no="6" type="23" player="Imaclown" sum="€9"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="7" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="8" type="0" player="14087718" sum="€0"/>
+   <action no="9" type="23" player="13373678" sum="€112,65"/>
+   <action no="10" type="7" player="Imaclown" sum="€91"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C3 HJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+  </round>
+ </game>
+ <game gamecode="3937160292">
+  <general>
+   <startdate>2024-10-09 22:44:53</startdate>
+   <players>
+    <player win="€0" chips="€43,92" name="14087718" seat="1" dealer="0" bet="€4,50"/>
+    <player win="€0" chips="€127,65" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€14,07" chips="€100" name="13373678" seat="5" dealer="0" bet="€9,28"/>
+    <player win="€0" chips="€107,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€199,50" name="Imaclown" seat="8" dealer="0" bet="€4,50"/>
+    <player win="€0" chips="€100,81" name="StandardSkill" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HQ CQ</cards>
+   <action no="3" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="3" player="Imaclown" sum="€2,50"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="7" type="3" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="8" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S10 H7</cards>
+   <action no="9" type="4" player="14087718" sum="€0"/>
+   <action no="10" type="5" player="13373678" sum="€2"/>
+   <action no="11" type="3" player="Imaclown" sum="€2"/>
+   <action no="12" type="3" player="14087718" sum="€2"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action no="13" type="4" player="14087718" sum="€0"/>
+   <action no="14" type="5" player="13373678" sum="€4,78"/>
+   <action no="15" type="0" player="Imaclown" sum="€0"/>
+   <action no="16" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937160500">
+  <general>
+   <startdate>2024-10-09 22:46:07</startdate>
+   <players>
+    <player win="€2,43" chips="€39,42" name="14087718" seat="1" dealer="1" bet="€3"/>
+    <player win="€0" chips="€126,65" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€109,57" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€107,68" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€195" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100,81" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="5" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="6" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D6 C6</cards>
+   <action no="8" type="4" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 HA H4</cards>
+   <action no="9" type="4" player="13373678" sum="€0"/>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action no="11" type="4" player="13373678" sum="€0"/>
+   <action no="12" type="5" player="14087718" sum="€2"/>
+   <action no="13" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937160597">
+  <general>
+   <startdate>2024-10-09 22:46:42</startdate>
+   <players>
+    <player win="€29,85" chips="€40,85" name="14087718" seat="1" dealer="0" bet="€14,64"/>
+    <player win="€0" chips="€126,15" name="TeslamiesV1" seat="3" dealer="1" bet="€14,64"/>
+    <player win="€0" chips="€108,57" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€107,68" name="NGMl" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€195" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100,81" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">H4 S4</cards>
+   <action no="5" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">SJ DK</cards>
+   <action no="6" type="23" player="TeslamiesV1" sum="€6"/>
+   <cards type="Pocket" player="13373678">D9 C7</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="8" type="0" player="NGMl" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S10 CA</cards>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+   <action no="11" type="5" player="TeslamiesV1" sum="€3,64"/>
+   <action no="12" type="3" player="14087718" sum="€3,64"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action no="13" type="4" player="14087718" sum="€0"/>
+   <action no="14" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action no="15" type="5" player="14087718" sum="€5"/>
+   <action no="16" type="3" player="TeslamiesV1" sum="€5"/>
+  </round>
+ </game>
+ <game gamecode="3937160792">
+  <general>
+   <startdate>2024-10-09 22:47:48</startdate>
+   <players>
+    <player win="€0" chips="€56,06" name="14087718" seat="1" dealer="0" bet="€0"/>
+    <player win="€0" chips="€111,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€108,07" name="13373678" seat="5" dealer="1" bet="€2,50"/>
+    <player win="€6" chips="€106,68" name="NGMl" seat="6" dealer="0" bet="€12"/>
+    <player win="€0" chips="€195" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100,81" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="3" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D10 C9</cards>
+   <action no="6" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="7" type="23" player="NGMl" sum="€12"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+   <action no="9" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937161868">
+  <general>
+   <startdate>2024-10-09 22:48:17</startdate>
+   <players>
+    <player win="€0" chips="€56,06" name="14087718" seat="1" dealer="0" bet="€56,06"/>
+    <player win="€0" chips="€111,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€105,57" name="13373678" seat="5" dealer="0" bet="€5"/>
+    <player win="€116,62" chips="€110,18" name="NGMl" seat="6" dealer="1" bet="€56,06"/>
+    <player win="€0" chips="€194" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€100,81" name="StandardSkill" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="StandardSkill" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">HJ S10</cards>
+   <action no="3" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C4 CA</cards>
+   <action no="5" type="23" player="13373678" sum="€5"/>
+   <cards type="Pocket" player="NGMl">HK DQ</cards>
+   <action no="6" type="23" player="NGMl" sum="€15"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="8" type="0" player="StandardSkill" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€14"/>
+   <action no="10" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 HA DK</cards>
+   <action no="11" type="4" player="14087718" sum="€0"/>
+   <action no="12" type="5" player="NGMl" sum="€9,12"/>
+   <action no="13" type="3" player="14087718" sum="€9,12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="14" type="5" player="14087718" sum="€31,94"/>
+   <action no="15" type="3" player="NGMl" sum="€31,94"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+  </round>
+ </game>
+ <game gamecode="3937162184">
+  <general>
+   <startdate>2024-10-09 22:49:29</startdate>
+   <players>
+    <player win="€0" chips="€111,51" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€2,50" chips="€100,57" name="13373678" seat="5" dealer="0" bet="€2,50"/>
+    <player win="€0" chips="€170,74" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€193,50" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="StandardSkill" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SQ SK</cards>
+   <action no="3" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937162241">
+  <general>
+   <startdate>2024-10-09 22:49:47</startdate>
+   <players>
+    <player win="€0" chips="€110,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€102,07" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€170,74" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€193,50" name="Imaclown" seat="8" dealer="0" bet="€3"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="23" player="Imaclown" sum="€3"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="5" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D7 D2</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937162277">
+  <general>
+   <startdate>2024-10-09 22:50:00</startdate>
+   <players>
+    <player win="€0" chips="€110,01" name="TeslamiesV1" seat="3" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€101,07" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€5,50" chips="€170,74" name="NGMl" seat="6" dealer="0" bet="€13"/>
+    <player win="€0" chips="€195" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="23" player="TeslamiesV1" sum="€2,50"/>
+   <cards type="Pocket" player="13373678">D3 HQ</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="7" type="23" player="NGMl" sum="€13"/>
+   <action no="8" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937162904">
+  <general>
+   <startdate>2024-10-09 22:50:16</startdate>
+   <players>
+    <player win="€0" chips="€70,85" name="14087718" seat="1" dealer="0" bet="€9,50"/>
+    <player win="€0" chips="€107,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100,57" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€173,74" name="NGMl" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€195" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€19,40" chips="€100" name="StandardSkill" seat="10" dealer="0" bet="€22,40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+   <action no="3" type="2" player="14087718" sum="€1,50"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="23" player="StandardSkill" sum="€4"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="3" player="14087718" sum="€3"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S4 CJ</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="8" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="9" type="0" player="Imaclown" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 D5 D2</cards>
+   <action no="10" type="5" player="StandardSkill" sum="€5"/>
+   <action no="11" type="3" player="14087718" sum="€5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action no="12" type="5" player="StandardSkill" sum="€13,40"/>
+   <action no="13" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937163033">
+  <general>
+   <startdate>2024-10-09 22:51:06</startdate>
+   <players>
+    <player win="€0" chips="€61,35" name="14087718" seat="1" dealer="0" bet="€19,50"/>
+    <player win="€0" chips="€107,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€39,28" chips="€100,57" name="13373678" seat="5" dealer="0" bet="€100,57"/>
+    <player win="€0" chips="€173,24" name="NGMl" seat="6" dealer="1" bet="€0"/>
+    <player win="€0" chips="€194" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€110,40" name="StandardSkill" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="StandardSkill" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D8 C8</cards>
+   <action no="5" type="23" player="13373678" sum="€6,50"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="6" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="8" type="0" player="StandardSkill" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S8 C2</cards>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+   <action no="11" type="5" player="13373678" sum="€3"/>
+   <action no="12" type="3" player="14087718" sum="€3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action no="13" type="5" player="14087718" sum="€10"/>
+   <action no="14" type="3" player="13373678" sum="€10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action no="15" type="4" player="14087718" sum="€0"/>
+   <action no="16" type="5" player="13373678" sum="€81,07"/>
+   <action no="17" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937163425">
+  <general>
+   <startdate>2024-10-09 22:52:29</startdate>
+   <players>
+    <player win="€0" chips="€41,85" name="14087718" seat="1" dealer="0" bet="€12,12"/>
+    <player win="€0" chips="€107,51" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€120,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€173,24" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€24" chips="€193,50" name="Imaclown" seat="8" dealer="1" bet="€12,12"/>
+    <player win="€0" chips="€109,40" name="StandardSkill" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="StandardSkill" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C2 S6</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">HK DA</cards>
+   <action no="6" type="23" player="Imaclown" sum="€2"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="7" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="14087718">C9 H9</cards>
+   <action no="8" type="3" player="14087718" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 DK S10</cards>
+   <action no="9" type="4" player="14087718" sum="€0"/>
+   <action no="10" type="5" player="Imaclown" sum="€2,25"/>
+   <action no="11" type="3" player="14087718" sum="€2,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="12" type="4" player="14087718" sum="€0"/>
+   <action no="13" type="5" player="Imaclown" sum="€7,87"/>
+   <action no="14" type="3" player="14087718" sum="€7,87"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="15" type="4" player="14087718" sum="€0"/>
+   <action no="16" type="4" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937163732">
+  <general>
+   <startdate>2024-10-09 22:53:33</startdate>
+   <players>
+    <player win="€0" chips="€29,73" name="14087718" seat="1" dealer="0" bet="€2,20"/>
+    <player win="€8,80" chips="€107,51" name="TeslamiesV1" seat="3" dealer="0" bet="€15,40"/>
+    <player win="€0" chips="€120,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€173,24" name="NGMl" seat="6" dealer="0" bet="€2,20"/>
+    <player win="€0" chips="€205,38" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€108,90" name="StandardSkill" seat="10" dealer="1" bet="€2,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S3 H5</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="23" player="NGMl" sum="€2,20"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="3" player="StandardSkill" sum="€2,20"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="7" type="3" player="14087718" sum="€1,70"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="8" type="23" player="TeslamiesV1" sum="€15,40"/>
+   <action no="9" type="0" player="NGMl" sum="€0"/>
+   <action no="10" type="0" player="StandardSkill" sum="€0"/>
+   <action no="11" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937163887">
+  <general>
+   <startdate>2024-10-09 22:54:25</startdate>
+   <players>
+    <player win="€15,52" chips="€27,53" name="14087718" seat="1" dealer="1" bet="€6,50"/>
+    <player win="€0" chips="€114,11" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€120,35" name="13373678" seat="5" dealer="0" bet="€2,50"/>
+    <player win="€0" chips="€171,04" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€205,38" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€106,70" name="StandardSkill" seat="10" dealer="0" bet="€6,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">D2 H2</cards>
+   <action no="5" type="23" player="StandardSkill" sum="€2,50"/>
+   <cards type="Pocket" player="14087718">SJ S3</cards>
+   <action no="6" type="3" player="14087718" sum="€2,50"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ D10</cards>
+   <action no="8" type="3" player="13373678" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S6 D3</cards>
+   <action no="9" type="4" player="13373678" sum="€0"/>
+   <action no="10" type="5" player="StandardSkill" sum="€4"/>
+   <action no="11" type="3" player="14087718" sum="€4"/>
+   <action no="12" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action no="13" type="4" player="StandardSkill" sum="€0"/>
+   <action no="14" type="4" player="14087718" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action no="15" type="4" player="StandardSkill" sum="€0"/>
+   <action no="16" type="4" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164106">
+  <general>
+   <startdate>2024-10-09 22:55:38</startdate>
+   <players>
+    <player win="€0" chips="€36,55" name="14087718" seat="1" dealer="0" bet="€0"/>
+    <player win="€0" chips="€113,61" name="TeslamiesV1" seat="3" dealer="1" bet="€8"/>
+    <player win="€0" chips="€117,85" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€171,04" name="NGMl" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€205,38" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€17,50" chips="€100,20" name="StandardSkill" seat="10" dealer="0" bet="€22"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="23" player="StandardSkill" sum="€2,50"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="23" player="TeslamiesV1" sum="€8"/>
+   <cards type="Pocket" player="13373678">DA H8</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="8" type="0" player="NGMl" sum="€0"/>
+   <action no="9" type="23" player="StandardSkill" sum="€22"/>
+   <action no="10" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164228">
+  <general>
+   <startdate>2024-10-09 22:56:18</startdate>
+   <players>
+    <player win="€0" chips="€105,61" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€2" chips="€170,04" name="NGMl" seat="6" dealer="0" bet="€3"/>
+    <player win="€0" chips="€205,38" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€109,70" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="3" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C2 H10</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="6" type="23" player="NGMl" sum="€3"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164282">
+  <general>
+   <startdate>2024-10-09 22:56:33</startdate>
+   <players>
+    <player win="€2,50" chips="€105,61" name="TeslamiesV1" seat="3" dealer="0" bet="€2"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€171,04" name="NGMl" seat="6" dealer="1" bet="€0"/>
+    <player win="€0" chips="€204,38" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€109,70" name="StandardSkill" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="StandardSkill" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="23" player="TeslamiesV1" sum="€2"/>
+   <cards type="Pocket" player="13373678">D5 H8</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="5" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="7" type="0" player="StandardSkill" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164321">
+  <general>
+   <startdate>2024-10-09 22:56:48</startdate>
+   <players>
+    <player win="€1" chips="€107,11" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€171,04" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€203,88" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€108,70" name="StandardSkill" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="StandardSkill" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <cards type="Pocket" player="13373678">C6 H3</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="6" type="0" player="StandardSkill" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164344">
+  <general>
+   <startdate>2024-10-09 22:56:58</startdate>
+   <players>
+    <player win="€0" chips="€107,61" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€117,35" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€171,04" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€203,88" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€108,20" name="StandardSkill" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 C7</cards>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="5" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937164412">
+  <general>
+   <startdate>2024-10-09 22:57:17</startdate>
+   <players>
+    <player win="€0" chips="€107,11" name="TeslamiesV1" seat="3" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€117,85" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€5,34" chips="€171,04" name="NGMl" seat="6" dealer="0" bet="€9,10"/>
+    <player win="€0" chips="€203,88" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€108,20" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="NGMl" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="4" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="23" player="TeslamiesV1" sum="€2,50"/>
+   <cards type="Pocket" player="13373678">S5 DA</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="7" type="3" player="NGMl" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H4 H5</cards>
+   <action no="8" type="4" player="NGMl" sum="€0"/>
+   <action no="9" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action no="10" type="4" player="NGMl" sum="€0"/>
+   <action no="11" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="12" type="5" player="NGMl" sum="€6,60"/>
+   <action no="13" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165579">
+  <general>
+   <startdate>2024-10-09 22:58:05</startdate>
+   <players>
+    <player win="€0" chips="€104,61" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€173,88" name="NGMl" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€203,88" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€108,20" name="StandardSkill" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="NGMl" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <cards type="Pocket" player="StandardSkill">X X</cards>
+   <action no="3" type="0" player="StandardSkill" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C10 S6</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="6" type="0" player="NGMl" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165619">
+  <general>
+   <startdate>2024-10-09 22:58:18</startdate>
+   <players>
+    <player win="€0" chips="€104,61" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€173,38" name="NGMl" seat="6" dealer="1" bet="€2,33"/>
+    <player win="€0" chips="€204,38" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C8 SQ</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="4" type="23" player="NGMl" sum="€2,33"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165652">
+  <general>
+   <startdate>2024-10-09 22:58:31</startdate>
+   <players>
+    <player win="€0" chips="€103,61" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€117,35" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€174,88" name="NGMl" seat="6" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€203,88" name="Imaclown" seat="8" dealer="1" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NGMl">X X</cards>
+   <action no="3" type="0" player="NGMl" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="23" player="Imaclown" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S4 H5</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165685">
+  <general>
+   <startdate>2024-10-09 22:58:39</startdate>
+   <players>
+    <player win="€0" chips="€103,11" name="TeslamiesV1" seat="3" dealer="1" bet="€0"/>
+    <player win="€0" chips="€116,35" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€205,38" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 C5</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165707">
+  <general>
+   <startdate>2024-10-09 22:58:46</startdate>
+   <players>
+    <player win="€0" chips="€103,11" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€115,85" name="13373678" seat="5" dealer="1" bet="€2,50"/>
+    <player win="€6" chips="€205,88" name="Imaclown" seat="8" dealer="0" bet="€12"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S9 DA</cards>
+   <action no="4" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="23" player="Imaclown" sum="€12"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="6" type="0" player="TrueGangstah" sum="€0"/>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165761">
+  <general>
+   <startdate>2024-10-09 22:59:06</startdate>
+   <players>
+    <player win="€1" chips="€36,55" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€0" chips="€103,11" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€113,35" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€209,38" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S3 S5</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="6" type="0" player="TrueGangstah" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165806">
+  <general>
+   <startdate>2024-10-09 22:59:17</startdate>
+   <players>
+    <player win="€0" chips="€37,05" name="14087718" seat="1" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€103,11" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€2,50" chips="€113,35" name="13373678" seat="5" dealer="0" bet="€2,50"/>
+    <player win="€0" chips="€209,38" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 CQ</cards>
+   <action no="3" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="6" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165837">
+  <general>
+   <startdate>2024-10-09 22:59:31</startdate>
+   <players>
+    <player win="€0" chips="€36,55" name="14087718" seat="1" dealer="1" bet="€0"/>
+    <player win="€0" chips="€102,11" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€114,85" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€16,97" chips="€209,38" name="Imaclown" seat="8" dealer="0" bet="€8"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">DJ HJ</cards>
+   <action no="3" type="23" player="Imaclown" sum="€3"/>
+   <cards type="Pocket" player="TrueGangstah">HA H4</cards>
+   <action no="4" type="3" player="TrueGangstah" sum="€3"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">H9 D3</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H8 C6</cards>
+   <action no="8" type="4" player="Imaclown" sum="€0"/>
+   <action no="9" type="5" player="TrueGangstah" sum="€5"/>
+   <action no="10" type="3" player="Imaclown" sum="€5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="11" type="4" player="Imaclown" sum="€0"/>
+   <action no="12" type="4" player="TrueGangstah" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action no="13" type="4" player="Imaclown" sum="€0"/>
+   <action no="14" type="4" player="TrueGangstah" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937165995">
+  <general>
+   <startdate>2024-10-09 23:00:25</startdate>
+   <players>
+    <player win="€0" chips="€36,55" name="14087718" seat="1" dealer="0" bet="€5"/>
+    <player win="€0" chips="€101,61" name="TeslamiesV1" seat="3" dealer="1" bet="€0"/>
+    <player win="€10,67" chips="€113,85" name="13373678" seat="5" dealer="0" bet="€8,63"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€218,35" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D7 SA</cards>
+   <action no="7" type="23" player="13373678" sum="€5"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="8" type="0" player="Valahiihto2024" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK HK DK</cards>
+   <action no="10" type="5" player="13373678" sum="€3,63"/>
+   <action no="11" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937166268">
+  <general>
+   <startdate>2024-10-09 23:01:08</startdate>
+   <players>
+    <player win="€0" chips="€31,55" name="14087718" seat="1" dealer="0" bet="€6"/>
+    <player win="€0" chips="€101,61" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€13,10" chips="€119,52" name="13373678" seat="5" dealer="1" bet="€119,52"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€218,35" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">HA HQ</cards>
+   <action no="6" type="23" player="13373678" sum="€6"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="7" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 DJ H2</cards>
+   <action no="10" type="4" player="14087718" sum="€0"/>
+   <action no="11" type="5" player="13373678" sum="€113,52"/>
+   <action no="12" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937166393">
+  <general>
+   <startdate>2024-10-09 23:01:55</startdate>
+   <players>
+    <player win="€18,91" chips="€25,55" name="14087718" seat="1" dealer="0" bet="€15"/>
+    <player win="€0" chips="€101,61" name="TeslamiesV1" seat="3" dealer="0" bet="€9"/>
+    <player win="€0" chips="€126,62" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="1" bet="€0"/>
+    <player win="€0" chips="€217,35" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="23" player="TeslamiesV1" sum="€6"/>
+   <cards type="Pocket" player="13373678">D8 C2</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="8" type="0" player="TrueGangstah" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 SQ S6</cards>
+   <action no="10" type="5" player="14087718" sum="€3"/>
+   <action no="11" type="3" player="TeslamiesV1" sum="€3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action no="12" type="5" player="14087718" sum="€6"/>
+   <action no="13" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937166576">
+  <general>
+   <startdate>2024-10-09 23:02:58</startdate>
+   <players>
+    <player win="€1" chips="€35,46" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€126,62" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ S4</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="5" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="7" type="0" player="TrueGangstah" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937166663">
+  <general>
+   <startdate>2024-10-09 23:03:13</startdate>
+   <players>
+    <player win="€0" chips="€35,96" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€1,94" chips="€100" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€0" chips="€126,62" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA H6</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="4" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="6" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">C2 S8</cards>
+   <action no="7" type="3" player="14087718" sum="€0,50"/>
+   <cards type="Pocket" player="TeslamiesV1">S3 S6</cards>
+   <action no="8" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ D9 D3</cards>
+   <action no="9" type="4" player="14087718" sum="€0"/>
+   <action no="10" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action no="11" type="4" player="14087718" sum="€0"/>
+   <action no="12" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action no="13" type="4" player="14087718" sum="€0"/>
+   <action no="14" type="4" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937167401">
+  <general>
+   <startdate>2024-10-09 23:03:58</startdate>
+   <players>
+    <player win="€0" chips="€34,96" name="14087718" seat="1" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100,94" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€126,62" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€3"/>
+    <player win="€0" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="23" player="Imaclown" sum="€3"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="6" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">HA D3</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937167453">
+  <general>
+   <startdate>2024-10-09 23:04:17</startdate>
+   <players>
+    <player win="€0" chips="€34,96" name="14087718" seat="1" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100,44" name="TeslamiesV1" seat="3" dealer="1" bet="€0"/>
+    <player win="€0" chips="€125,62" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€2,20"/>
+    <player win="€0" chips="€218,35" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€4,76" chips="€100" name="TrueGangstah" seat="10" dealer="0" bet="€4,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="23" player="TrueGangstah" sum="€2,20"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D9 HK</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="8" type="3" player="Valahiihto2024" sum="€1,20"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D4 D8</cards>
+   <action no="9" type="4" player="Valahiihto2024" sum="€0"/>
+   <action no="10" type="5" player="TrueGangstah" sum="€2"/>
+   <action no="11" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937167751">
+  <general>
+   <startdate>2024-10-09 23:05:10</startdate>
+   <players>
+    <player win="€0" chips="€34,96" name="14087718" seat="1" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100,44" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€3,50" chips="€125,12" name="13373678" seat="5" dealer="1" bet="€5"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€218,35" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">HJ CQ</cards>
+   <action no="6" type="23" player="13373678" sum="€5"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="7" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+   <action no="9" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937167826">
+  <general>
+   <startdate>2024-10-09 23:05:39</startdate>
+   <players>
+    <player win="€0" chips="€33,96" name="14087718" seat="1" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100,44" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€6,31" chips="€127,62" name="13373678" seat="5" dealer="0" bet="€4,64"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€217,35" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="3" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">DQ SJ</cards>
+   <action no="5" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="3" player="Valahiihto2024" sum="€2,50"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="8" type="0" player="TrueGangstah" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ HA CK</cards>
+   <action no="9" type="5" player="13373678" sum="€2,14"/>
+   <action no="10" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937167939">
+  <general>
+   <startdate>2024-10-09 23:06:21</startdate>
+   <players>
+    <player win="€0" chips="€33,96" name="14087718" seat="1" dealer="0" bet="€4,25"/>
+    <player win="€8,73" chips="€100,44" name="TeslamiesV1" seat="3" dealer="0" bet="€10,55"/>
+    <player win="€0" chips="€131,43" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€0" chips="€101,56" name="TrueGangstah" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="14087718" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="23" player="TeslamiesV1" sum="€2"/>
+   <cards type="Pocket" player="13373678">H10 S9</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="5" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="7" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="8" type="3" player="14087718" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C3 C5</cards>
+   <action no="9" type="5" player="14087718" sum="€2,25"/>
+   <action no="10" type="3" player="TeslamiesV1" sum="€2,25"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action no="11" type="4" player="14087718" sum="€0"/>
+   <action no="12" type="5" player="TeslamiesV1" sum="€6,30"/>
+   <action no="13" type="0" player="14087718" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937168089">
+  <general>
+   <startdate>2024-10-09 23:07:10</startdate>
+   <players>
+    <player win="€0" chips="€29,71" name="14087718" seat="1" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€104,92" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€0" chips="€131,43" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€101,06" name="TrueGangstah" seat="10" dealer="1" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="14087718" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 S10</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="4" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="6" type="23" player="TrueGangstah" sum="€2"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="7" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="8" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937168182">
+  <general>
+   <startdate>2024-10-09 23:07:47</startdate>
+   <players>
+    <player win="€0" chips="€29,21" name="14087718" seat="1" dealer="1" bet="€0"/>
+    <player win="€2" chips="€103,92" name="TeslamiesV1" seat="3" dealer="0" bet="€3"/>
+    <player win="€0" chips="€131,43" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="6" type="0" player="14087718" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="23" player="TeslamiesV1" sum="€3"/>
+   <cards type="Pocket" player="13373678">H3 H10</cards>
+   <action no="8" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937168239">
+  <general>
+   <startdate>2024-10-09 23:08:07</startdate>
+   <players>
+    <player win="€4,37" chips="€29,21" name="14087718" seat="1" dealer="0" bet="€6,50"/>
+    <player win="€0" chips="€104,92" name="TeslamiesV1" seat="3" dealer="1" bet="€0"/>
+    <player win="€0" chips="€130,43" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€2"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="5" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">S6 C6</cards>
+   <action no="7" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="8" type="3" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 DK D10</cards>
+   <action no="9" type="4" player="Valahiihto2024" sum="€0"/>
+   <action no="10" type="5" player="14087718" sum="€4,50"/>
+   <action no="11" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937168313">
+  <general>
+   <startdate>2024-10-09 23:08:36</startdate>
+   <players>
+    <player win="€2,50" chips="€31,58" name="14087718" seat="1" dealer="0" bet="€2"/>
+    <player win="€0" chips="€104,92" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€129,93" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="14087718">X X</cards>
+   <action no="4" type="23" player="14087718" sum="€2"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">D2 D6</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="7" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937168356">
+  <general>
+   <startdate>2024-10-09 23:08:53</startdate>
+   <players>
+    <player win="€0" chips="€33,08" name="14087718" seat="1" dealer="0" bet="€33,08"/>
+    <player win="€77,66" chips="€104,92" name="TeslamiesV1" seat="3" dealer="0" bet="€62,25"/>
+    <player win="€0" chips="€129,93" name="13373678" seat="5" dealer="0" bet="€12"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="1" bet="€0"/>
+    <player win="€0" chips="€215,85" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="14087718">CA S2</cards>
+   <action no="3" type="3" player="14087718" sum="€1"/>
+   <cards type="Pocket" player="TeslamiesV1">DA DQ</cards>
+   <action no="4" type="23" player="TeslamiesV1" sum="€4"/>
+   <cards type="Pocket" player="13373678">HQ HJ</cards>
+   <action no="5" type="23" player="13373678" sum="€12"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="7" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="8" type="0" player="TrueGangstah" sum="€0"/>
+   <action no="9" type="3" player="14087718" sum="€11"/>
+   <action no="10" type="3" player="TeslamiesV1" sum="€8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 SA H9</cards>
+   <action no="11" type="5" player="14087718" sum="€10"/>
+   <action no="12" type="3" player="TeslamiesV1" sum="€10"/>
+   <action no="13" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action no="14" type="4" player="14087718" sum="€0"/>
+   <action no="15" type="5" player="TeslamiesV1" sum="€40,25"/>
+   <action no="16" type="7" player="14087718" sum="€11,08"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+  </round>
+ </game>
+ <game gamecode="3937169508">
+  <general>
+   <startdate>2024-10-09 23:10:24</startdate>
+   <players>
+    <player win="€0" chips="€149,50" name="TeslamiesV1" seat="3" dealer="0" bet="€1"/>
+    <player win="€0" chips="€117,93" name="13373678" seat="5" dealer="0" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€215,35" name="Imaclown" seat="8" dealer="1" bet="€2"/>
+    <player win="€0" chips="€101,56" name="TrueGangstah" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="TeslamiesV1" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 C4</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="4" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="23" player="Imaclown" sum="€2"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="6" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="7" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169544">
+  <general>
+   <startdate>2024-10-09 23:10:37</startdate>
+   <players>
+    <player win="€0" chips="€148,50" name="TeslamiesV1" seat="3" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€117,93" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€101,06" name="TrueGangstah" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TeslamiesV1" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 H10</cards>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="6" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169579">
+  <general>
+   <startdate>2024-10-09 23:10:46</startdate>
+   <players>
+    <player win="€0" chips="€148" name="TeslamiesV1" seat="3" dealer="1" bet="€2,50"/>
+    <player win="€6" chips="€118,43" name="13373678" seat="5" dealer="0" bet="€12"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€101,06" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="5" type="23" player="TeslamiesV1" sum="€2,50"/>
+   <cards type="Pocket" player="13373678">H9 HJ</cards>
+   <action no="6" type="23" player="13373678" sum="€12"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="7" type="0" player="Valahiihto2024" sum="€0"/>
+   <action no="8" type="0" player="TeslamiesV1" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169622">
+  <general>
+   <startdate>2024-10-09 23:11:03</startdate>
+   <players>
+    <player win="€0" chips="€145,50" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€121,93" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€101,06" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="4" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">C5 H10</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169649">
+  <general>
+   <startdate>2024-10-09 23:11:13</startdate>
+   <players>
+    <player win="€0" chips="€145,50" name="TeslamiesV1" seat="3" dealer="0" bet="€0"/>
+    <player win="€0" chips="€121,93" name="13373678" seat="5" dealer="0" bet="€20,50"/>
+    <player win="€42,50" chips="€100" name="Valahiihto2024" seat="6" dealer="1" bet="€100"/>
+    <player win="€0" chips="€217,35" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€101,06" name="TrueGangstah" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TeslamiesV1">X X</cards>
+   <action no="3" type="0" player="TeslamiesV1" sum="€0"/>
+   <cards type="Pocket" player="13373678">DQ D9</cards>
+   <action no="4" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="5" type="23" player="Valahiihto2024" sum="€6"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="7" type="0" player="TrueGangstah" sum="€0"/>
+   <action no="8" type="23" player="13373678" sum="€20,50"/>
+   <action no="9" type="23" player="Valahiihto2024" sum="€100"/>
+   <action no="10" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169808">
+  <general>
+   <startdate>2024-10-09 23:12:09</startdate>
+   <players>
+    <player win="€0" chips="€101,43" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€122" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+    <player win="€2" chips="€100,06" name="TrueGangstah" seat="10" dealer="0" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="23" player="TrueGangstah" sum="€3"/>
+   <cards type="Pocket" player="13373678">C5 H8</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169861">
+  <general>
+   <startdate>2024-10-09 23:12:29</startdate>
+   <players>
+    <player win="€0" chips="€100,43" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€122" name="Valahiihto2024" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€2,50" chips="€101,06" name="TrueGangstah" seat="10" dealer="1" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="23" player="TrueGangstah" sum="€2"/>
+   <cards type="Pocket" player="13373678">H10 D8</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937169902">
+  <general>
+   <startdate>2024-10-09 23:12:45</startdate>
+   <players>
+    <player win="€2,50" chips="€100" name="13373678" seat="5" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€121" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€216,85" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€0" chips="€102,56" name="TrueGangstah" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="13373678">S10 H10</cards>
+   <action no="4" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="5" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170453">
+  <general>
+   <startdate>2024-10-09 23:13:05</startdate>
+   <players>
+    <player win="€0" chips="€101,50" name="13373678" seat="5" board1win="€0" board2win="€0" dealer="0" bet="€0"/>
+    <player win="€0" chips="€120,50" name="Valahiihto2024" seat="6" board1win="€0" board2win="€0" dealer="1" bet="€102,56"/>
+    <player win="€0" chips="€215,85" name="Imaclown" seat="8" board1win="€0" board2win="€0" dealer="0" bet="€2,08"/>
+    <player win="€205,20" chips="€102,56" name="TrueGangstah" seat="10" board1win="€102,60" board2win="€102,60" dealer="0" bet="€102,56"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="TrueGangstah" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 D4</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">D10 H10</cards>
+   <action no="4" type="23" player="Valahiihto2024" sum="€2,08"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="5" type="3" player="Imaclown" sum="€1,58"/>
+   <cards type="Pocket" player="TrueGangstah">HK DK</cards>
+   <action no="6" type="23" player="TrueGangstah" sum="€11,16"/>
+   <action no="7" type="23" player="Valahiihto2024" sum="€27,24"/>
+   <action no="8" type="0" player="Imaclown" sum="€0"/>
+   <action no="9" type="23" player="TrueGangstah" sum="€102,56"/>
+   <action no="10" type="3" player="Valahiihto2024" sum="€75,32"/>
+  </round>
+  <round no="2">
+   <cards board="board1" type="Flop">D7 D3 S9</cards>
+   <cards board="board2" type="Flop">H9 H4 H3</cards>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">DA</cards>
+   <cards board="board2" type="Turn">DJ</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">C8</cards>
+   <cards board="board2" type="River">C4</cards>
+  </round>
+ </game>
+ <game gamecode="3937170596">
+  <general>
+   <startdate>2024-10-09 23:14:04</startdate>
+   <players>
+    <player win="€0" chips="€101,50" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0"/>
+    <player win="€4,85" chips="€213,77" name="Imaclown" seat="8" dealer="1" bet="€4,50"/>
+    <player win="€0" chips="€205,20" name="TrueGangstah" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="TrueGangstah" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="23" player="Imaclown" sum="€2"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="5" type="3" player="TrueGangstah" sum="€1,50"/>
+   <cards type="Pocket" player="13373678">S7 C8</cards>
+   <action no="6" type="0" player="13373678" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 DJ C10</cards>
+   <action no="7" type="4" player="TrueGangstah" sum="€0"/>
+   <action no="8" type="5" player="Imaclown" sum="€2,50"/>
+   <action no="9" type="0" player="TrueGangstah" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170670">
+  <general>
+   <startdate>2024-10-09 23:14:27</startdate>
+   <players>
+    <player win="€2" chips="€100,50" name="13373678" seat="5" dealer="0" bet="€3"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€216,62" name="Imaclown" seat="8" dealer="0" bet="€0"/>
+    <player win="€0" chips="€203,20" name="TrueGangstah" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="4" type="0" player="TrueGangstah" sum="€0"/>
+   <cards type="Pocket" player="13373678">SA C9</cards>
+   <action no="5" type="23" player="13373678" sum="€3"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="6" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170695">
+  <general>
+   <startdate>2024-10-09 23:14:39</startdate>
+   <players>
+    <player win="€0" chips="€101,50" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€100" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€0" chips="€216,62" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+    <player win="€2,50" chips="€203,20" name="TrueGangstah" seat="10" dealer="0" bet="€2,20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="TrueGangstah">X X</cards>
+   <action no="3" type="23" player="TrueGangstah" sum="€2,20"/>
+   <cards type="Pocket" player="13373678">HK S7</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="5" type="0" player="Valahiihto2024" sum="€0"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="6" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170738">
+  <general>
+   <startdate>2024-10-09 23:14:56</startdate>
+   <players>
+    <player win="€0" chips="€101,50" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€2,50" chips="€100" name="Valahiihto2024" seat="6" dealer="1" bet="€2,08"/>
+    <player win="€0" chips="€215,62" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="23" player="Valahiihto2024" sum="€2,08"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="13373678">H7 C6</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170763">
+  <general>
+   <startdate>2024-10-09 23:15:05</startdate>
+   <players>
+    <player win="€0" chips="€100,50" name="13373678" seat="5" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€101,50" name="Valahiihto2024" seat="6" dealer="0" bet="€1"/>
+    <player win="€0" chips="€215,12" name="Imaclown" seat="8" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Valahiihto2024" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="13373678">SJ C3</cards>
+   <action no="4" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170772">
+  <general>
+   <startdate>2024-10-09 23:15:12</startdate>
+   <players>
+    <player win="€0" chips="€100" name="13373678" seat="5" dealer="1" bet="€0"/>
+    <player win="€0" chips="€102" name="Valahiihto2024" seat="6" dealer="0" bet="€0,50"/>
+    <player win="€1" chips="€215,12" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Valahiihto2024" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <cards type="Pocket" player="13373678">H3 DK</cards>
+   <action no="3" type="0" player="13373678" sum="€0"/>
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="4" type="0" player="Valahiihto2024" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170805">
+  <general>
+   <startdate>2024-10-09 23:15:24</startdate>
+   <players>
+    <player win="€0" chips="€100" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€2,50" chips="€101,50" name="Valahiihto2024" seat="6" dealer="1" bet="€2,08"/>
+    <player win="€0" chips="€215,62" name="Imaclown" seat="8" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Valahiihto2024">X X</cards>
+   <action no="3" type="23" player="Valahiihto2024" sum="€2,08"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+   <cards type="Pocket" player="13373678">C8 HJ</cards>
+   <action no="5" type="0" player="13373678" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170831">
+  <general>
+   <startdate>2024-10-09 23:15:35</startdate>
+   <players>
+    <player win="€2" chips="€100" name="13373678" seat="5" dealer="1" bet="€2,50"/>
+    <player win="€0" chips="€215,12" name="Imaclown" seat="8" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="13373678" sum="€0,50"/>
+   <action no="2" type="2" player="Imaclown" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S4 HJ</cards>
+   <action no="3" type="23" player="13373678" sum="€2,50"/>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="4" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3937170869">
+  <general>
+   <startdate>2024-10-09 23:15:48</startdate>
+   <players>
+    <player win="€1" chips="€101" name="13373678" seat="5" dealer="0" bet="€1"/>
+    <player win="€0" chips="€214,12" name="Imaclown" seat="8" dealer="1" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" type="1" player="Imaclown" sum="€0,50"/>
+   <action no="2" type="2" player="13373678" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA D4</cards>
+   <cards type="Pocket" player="Imaclown">X X</cards>
+   <action no="3" type="0" player="Imaclown" sum="€0"/>
+  </round>
+ </game>
+</session>

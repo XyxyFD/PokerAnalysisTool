@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4148328382">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:32:12</duration>
+  <gamecount>61</gamecount>
+  <startdate>2024-09-02 23:26:24</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€262,50</bets>
+  <wins>€107,80</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€69,10</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3925117782">
+  <general>
+   <startdate>2024-09-02 23:26:24</startdate>
+   <players>
+    <player seat="3" chips="€42,02" bet="€1" dealer="1" name="Player 3" win="€0"/>
+    <player seat="5" chips="€58,92" bet="€0,25" dealer="0" name="Player 5" win="€0"/>
+    <player seat="6" chips="€53,17" bet="€5" dealer="0" name="Player 6" win="€2,19"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="Player 8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" sum="€0,25" no="1"/>
+   <action player="Player 6" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" sum="€0" no="3"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" sum="€1" no="4"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" sum="€0" no="5"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="3" sum="€0,50" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S8 D9</cards>
+   <action player="Player 6" type="4" sum="€0" no="7"/>
+   <action player="Player 3" type="4" sum="€0" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action player="Player 6" type="5" sum="€4" no="9"/>
+   <action player="Player 3" type="0" sum="€0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3925117837">
+  <general>
+   <startdate>2024-09-02 23:26:52</startdate>
+   <players>
+    <player seat="3" chips="€41,02" bet="€0" dealer="0" name="Player 3" win="€0"/>
+    <player seat="5" chips="€58,67" bet="€0" dealer="1" name="Player 5" win="€0"/>
+    <player seat="6" chips="€54,36" bet="€1,50" dealer="0" name="Player 6" win="€1"/>
+    <player seat="8" chips="€50" bet="€0,50" dealer="0" name="Player 8" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 6" type="1" sum="€0,25" no="1"/>
+   <action player="Player 8" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" sum="€0" no="3"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" sum="€0" no="4"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="23" sum="€1,50" no="5"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925117856">
+  <general>
+   <startdate>2024-09-02 23:27:01</startdate>
+   <players>
+    <player seat="3" chips="€41,02" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€58,67" bet="€1,05" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€54,86" bet="€3,50" dealer="1" name="MuadsAGaude" win="€2,85"/>
+    <player seat="8" chips="€50" bet="€0,25" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50" bet="€0,50" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DaDestroyer" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,05" no="4"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="23" sum="€3,50" no="5"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="6"/>
+   <cards player="13373678" type="Pocket">DJ S7</cards>
+   <action player="13373678" type="0" sum="€0" no="7"/>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3925117893">
+  <general>
+   <startdate>2024-09-02 23:27:19</startdate>
+   <players>
+    <player seat="3" chips="€41,02" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€57,62" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,66" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="1" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50" bet="€1,50" dealer="0" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="3"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="4"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="5"/>
+   <cards player="13373678" type="Pocket">C10 C4</cards>
+   <action player="13373678" type="23" sum="€1,50" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925117927">
+  <general>
+   <startdate>2024-09-02 23:27:36</startdate>
+   <players>
+    <player seat="3" chips="€40,52" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€57,62" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,66" bet="€1,10" dealer="0" name="MuadsAGaude" win="€1,25"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50,50" bet="€0" dealer="1" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="23" sum="€1,10" no="3"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">S7 D4</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925117982">
+  <general>
+   <startdate>2024-09-02 23:28:00</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€57,12" bet="€9,29" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€57,41" bet="€0,50" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50,50" bet="€23,60" dealer="0" name="13373678" win="€18,51"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="MuadsAGaude" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">D6 D7</cards>
+   <action player="13373678" type="23" sum="€1,25" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€5,50" no="6"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="7"/>
+   <action player="13373678" type="3" sum="€4,25" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H2 C4</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="9"/>
+   <action player="13373678" type="5" sum="€3,79" no="10"/>
+   <action player="BlackRiverDrift" type="3" sum="€3,79" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="12"/>
+   <action player="13373678" type="5" sum="€14,31" no="13"/>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3925118095">
+  <general>
+   <startdate>2024-09-02 23:29:04</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,91" bet="€0,25" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,50" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€59,72" bet="€1,25" dealer="0" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MuadsAGaude" type="1" sum="€0,25" no="1"/>
+   <action player="DaDestroyer" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 S8</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="6"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925119077">
+  <general>
+   <startdate>2024-09-02 23:29:18</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,66" bet="€0" dealer="1" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,25" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€60,47" bet="€0,50" dealer="0" name="13373678" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DaDestroyer" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 S4</cards>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="5"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925119123">
+  <general>
+   <startdate>2024-09-02 23:29:40</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€1,05" dealer="0" name="BlackRiverDrift" win="€1,25"/>
+    <player seat="6" chips="€56,66" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="1" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€60,72" bet="€0,25" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,05" no="3"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="4"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="5"/>
+   <cards player="13373678" type="Pocket">S8 SQ</cards>
+   <action player="13373678" type="0" sum="€0" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925119168">
+  <general>
+   <startdate>2024-09-02 23:30:01</startdate>
+   <players>
+    <player seat="3" chips="€39,77" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50,75" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,66" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€1,25" dealer="0" name="DaDestroyer" win="€1,25"/>
+    <player seat="10" chips="€60,47" bet="€0" dealer="1" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="3"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="23" sum="€1,25" no="4"/>
+   <cards player="13373678" type="Pocket">D10 C7</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925119204">
+  <general>
+   <startdate>2024-09-02 23:30:20</startdate>
+   <players>
+    <player seat="3" chips="€39,52" bet="€0" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50,25" bet="€0,25" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,66" bet="€0,50" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50,75" bet="€1,10" dealer="0" name="DaDestroyer" win="€1,25"/>
+    <player seat="10" chips="€60,47" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="MuadsAGaude" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="23" sum="€1,10" no="3"/>
+   <cards player="13373678" type="Pocket">C2 H4</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925119278">
+  <general>
+   <startdate>2024-09-02 23:30:51</startdate>
+   <players>
+    <player seat="3" chips="€39,52" bet="€4,50" dealer="0" name="UltraKing" win="€3,25"/>
+    <player seat="5" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,16" bet="€0,25" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€51,50" bet="€0,50" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€60,47" bet="€1,25" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MuadsAGaude" type="1" sum="€0,25" no="1"/>
+   <action player="DaDestroyer" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 D5</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€4,50" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="6"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="7"/>
+   <action player="13373678" type="0" sum="€0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3925119441">
+  <general>
+   <startdate>2024-09-02 23:31:21</startdate>
+   <players>
+    <player seat="3" chips="€41,52" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0" dealer="1" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€51" bet="€1,50" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€59,22" bet="€5" dealer="0" name="13373678" win="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DaDestroyer" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="5"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="23" sum="€1,50" no="6"/>
+   <cards player="13373678" type="Pocket">SA D10</cards>
+   <action player="13373678" type="23" sum="€5" no="7"/>
+   <action player="DaDestroyer" type="0" sum="€0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3925119887">
+  <general>
+   <startdate>2024-09-02 23:31:58</startdate>
+   <players>
+    <player seat="1" chips="€32,35" bet="€1,50" dealer="0" name="SinCity00" win="€0"/>
+    <player seat="3" chips="€41,52" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="1" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€60,72" bet="€3" dealer="0" name="13373678" win="€2,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="SinCity00" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="5"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="6"/>
+   <cards player="13373678" type="Pocket">C5 H5</cards>
+   <action player="13373678" type="23" sum="€1,50" no="7"/>
+   <cards player="SinCity00" type="Pocket">X X</cards>
+   <action player="SinCity00" type="3" sum="€1" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H2 H6</cards>
+   <action player="13373678" type="4" sum="€0" no="9"/>
+   <action player="SinCity00" type="4" sum="€0" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="13373678" type="5" sum="€1,50" no="11"/>
+   <action player="SinCity00" type="0" sum="€0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3925120001">
+  <general>
+   <startdate>2024-09-02 23:32:52</startdate>
+   <players>
+    <player seat="1" chips="€30,85" bet="€0,25" dealer="0" name="SinCity00" win="€0"/>
+    <player seat="3" chips="€41,52" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€1,25" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€62,13" bet="€3,75" dealer="1" name="13373678" win="€3,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SinCity00" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="3"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="4"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="23" sum="€1,25" no="5"/>
+   <cards player="13373678" type="Pocket">CK HK</cards>
+   <action player="13373678" type="23" sum="€3,75" no="6"/>
+   <cards player="SinCity00" type="Pocket">X X</cards>
+   <action player="SinCity00" type="0" sum="€0" no="7"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="8"/>
+   <action player="DaDestroyer" type="0" sum="€0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3925120079">
+  <general>
+   <startdate>2024-09-02 23:33:30</startdate>
+   <players>
+    <player seat="1" chips="€30,60" board2win="€30,22" board1win="€30,23" bet="€30,60" dealer="1" name="SinCity00" win="€60,45"/>
+    <player seat="3" chips="€41,02" board2win="€0" board1win="€0" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" board2win="€0" board1win="€0" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€55,91" board2win="€0" board1win="€0" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" board2win="€0" board1win="€0" bet="€0" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€64,13" board2win="€0" board1win="€0" bet="€64,13" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="3"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">D10 H10</cards>
+   <action player="13373678" type="23" sum="€1,25" no="5"/>
+   <cards player="SinCity00" type="Pocket">DQ CK</cards>
+   <action player="SinCity00" type="23" sum="€4" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="7"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="8"/>
+   <action player="13373678" type="23" sum="€64,13" no="9"/>
+   <action player="SinCity00" type="7" sum="€26,60" no="10"/>
+  </round>
+  <round no="2">
+   <cards board="board1" type="Flop">HQ DA H4</cards>
+   <cards board="board2" type="Flop">CJ S6 SK</cards>
+  </round>
+  <round no="3">
+   <cards board="board1" type="Turn">S3</cards>
+   <cards board="board2" type="Turn">HK</cards>
+  </round>
+  <round no="4">
+   <cards board="board1" type="River">H2</cards>
+   <cards board="board2" type="River">S4</cards>
+  </round>
+ </game>
+ <game gamecode="3925120235">
+  <general>
+   <startdate>2024-09-02 23:34:42</startdate>
+   <players>
+    <player seat="1" chips="€60,45" bet="€0" dealer="0" name="SinCity00" win="€0"/>
+    <player seat="3" chips="€40,77" bet="€0" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0,25" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0,50" dealer="0" name="MuadsAGaude" win="€0,50"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="MuadsAGaude" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">SK C7</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+   <cards player="SinCity00" type="Pocket">X X</cards>
+   <action player="SinCity00" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925120281">
+  <general>
+   <startdate>2024-09-02 23:34:58</startdate>
+   <players>
+    <player seat="3" chips="€40,77" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="6" chips="€56,16" bet="€0,25" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€1,25" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€50" bet="€2,15" dealer="0" name="13373678" win="€2,67"/>
+    <player seat="1" chips="€60,45" bet="€0" dealer="0" name="SinCity00" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MuadsAGaude" type="1" sum="€0,25" no="1"/>
+   <action player="DaDestroyer" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 SJ</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="SinCity00" type="Pocket">X X</cards>
+   <action player="SinCity00" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="7"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="3" sum="€0,75" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK CK DA</cards>
+   <action player="DaDestroyer" type="4" sum="€0" no="9"/>
+   <action player="13373678" type="5" sum="€0,90" no="10"/>
+   <action player="DaDestroyer" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3925120349">
+  <general>
+   <startdate>2024-09-02 23:35:35</startdate>
+   <players>
+    <player seat="3" chips="€40,77" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0" dealer="1" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,25" dealer="0" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€51,42" bet="€0,50" dealer="0" name="13373678" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DaDestroyer" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 CQ</cards>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="4"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3925120397">
+  <general>
+   <startdate>2024-09-02 23:35:57</startdate>
+   <players>
+    <player seat="3" chips="€40,77" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="1" name="DaDestroyer" win="€0"/>
+    <player seat="10" chips="€51,67" bet="€1,50" dealer="0" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="3"/>
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">D2 DK</cards>
+   <action player="13373678" type="23" sum="€1,50" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925120420">
+  <general>
+   <startdate>2024-09-02 23:36:10</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€55,91" bet="€0,50" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="8" chips="€50" bet="€1,25" dealer="0" name="DaDestroyer" win="€1,25"/>
+    <player seat="10" chips="€52,17" bet="€0" dealer="1" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="MuadsAGaude" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DaDestroyer" type="Pocket">X X</cards>
+   <action player="DaDestroyer" type="23" sum="€1,25" no="3"/>
+   <cards player="13373678" type="Pocket">H3 S6</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925120449">
+  <general>
+   <startdate>2024-09-02 23:36:24</startdate>
+   <players>
+    <player seat="3" chips="€40,02" bet="€1" dealer="1" name="UltraKing" win="€1,25"/>
+    <player seat="6" chips="€55,41" bet="€0,25" dealer="0" name="MuadsAGaude" win="€0"/>
+    <player seat="10" chips="€52,17" bet="€0,50" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MuadsAGaude" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="3"/>
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">D5 CJ</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3925120480">
+  <general>
+   <startdate>2024-09-02 23:36:38</startdate>
+   <players>
+    <player seat="3" chips="€40,77" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€55,16" bet="€0" dealer="1" name="MuadsAGaude" win="€0"/>
+    <player seat="10" chips="€51,67" bet="€1,50" dealer="0" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MuadsAGaude" type="Pocket">X X</cards>
+   <action player="MuadsAGaude" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">S10 D7</cards>
+   <action player="13373678" type="23" sum="€1,50" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3925120513">
+  <general>
+   <startdate>2024-09-02 23:36:54</startdate>
+   <players>
+    <player seat="3" chips="€40,27" bet="€0,25" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€52,17" bet="€0,50" dealer="0" name="13373678" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 H5</cards>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3925120544">
+  <general>
+   <startdate>2024-09-02 23:37:12</startdate>
+   <players>
+    <player seat="3" chips="€40,02" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€52,42" bet="€1,25" dealer="1" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 H5</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3925120580">
+  <general>
+   <startdate>2024-09-02 23:37:31</startdate>
+   <players>
+    <player seat="3" chips="€39,52" bet="€0,50" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€52,92" bet="€0,50" dealer="0" name="13373678" win="€0,97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">S7 D9</cards>
+   <action player="UltraKing" type="3" sum="€0,25" no="3"/>
+   <cards player="13373678" type="Pocket">C3 H9</cards>
+   <action player="13373678" type="4" sum="€0" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C10 CK</cards>
+   <action player="13373678" type="4" sum="€0" no="5"/>
+   <action player="UltraKing" type="4" sum="€0" no="6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="13373678" type="4" sum="€0" no="7"/>
+   <action player="UltraKing" type="4" sum="€0" no="8"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action player="13373678" type="4" sum="€0" no="9"/>
+   <action player="UltraKing" type="4" sum="€0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3925120688">
+  <general>
+   <startdate>2024-09-02 23:38:22</startdate>
+   <players>
+    <player seat="3" chips="€39,02" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€53,39" bet="€1,25" dealer="1" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK H9</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3925120712">
+  <general>
+   <startdate>2024-09-02 23:38:34</startdate>
+   <players>
+    <player seat="3" chips="€38,52" bet="€2" dealer="1" name="UltraKing" win="€1,94"/>
+    <player seat="10" chips="€53,89" bet="€1" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="3"/>
+   <cards player="13373678" type="Pocket">C10 H8</cards>
+   <action player="13373678" type="3" sum="€0,50" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 SJ D4</cards>
+   <action player="13373678" type="4" sum="€0" no="5"/>
+   <action player="UltraKing" type="5" sum="€1" no="6"/>
+   <action player="13373678" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925120747">
+  <general>
+   <startdate>2024-09-02 23:38:54</startdate>
+   <players>
+    <player seat="3" chips="€39,46" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€52,89" bet="€1,25" dealer="1" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D10 H6</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3925120779">
+  <general>
+   <startdate>2024-09-02 23:39:11</startdate>
+   <players>
+    <player seat="3" chips="€38,96" bet="€0,25" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€53,39" bet="€0,50" dealer="0" name="13373678" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 S9</cards>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3925120795">
+  <general>
+   <startdate>2024-09-02 23:39:18</startdate>
+   <players>
+    <player seat="3" chips="€38,71" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="10" chips="€53,64" bet="€1,25" dealer="1" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 H3</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3925121186">
+  <general>
+   <startdate>2024-09-02 23:39:31</startdate>
+   <players>
+    <player seat="3" chips="€38,21" bet="€2" dealer="1" name="UltraKing" win="€1,94"/>
+    <player seat="10" chips="€54,14" bet="€1" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="3"/>
+   <cards player="13373678" type="Pocket">C7 S8</cards>
+   <action player="13373678" type="3" sum="€0,50" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 DJ D2</cards>
+   <action player="13373678" type="4" sum="€0" no="5"/>
+   <action player="UltraKing" type="5" sum="€1" no="6"/>
+   <action player="13373678" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925121235">
+  <general>
+   <startdate>2024-09-02 23:39:56</startdate>
+   <players>
+    <player seat="3" chips="€39,15" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€53,14" bet="€1,25" dealer="1" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA C4</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3925122242">
+  <general>
+   <startdate>2024-09-02 23:40:09</startdate>
+   <players>
+    <player seat="3" chips="€38,90" bet="€0" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€53,89" bet="€0,50" dealer="0" name="13373678" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 DA</cards>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3925122295">
+  <general>
+   <startdate>2024-09-02 23:40:32</startdate>
+   <players>
+    <player seat="3" chips="€38,90" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€54,14" bet="€1,50" dealer="0" name="13373678" win="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">S5 CA</cards>
+   <action player="13373678" type="23" sum="€1,50" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3925122331">
+  <general>
+   <startdate>2024-09-02 23:40:48</startdate>
+   <players>
+    <player seat="3" chips="€38,40" bet="€5" dealer="0" name="UltraKing" win="€10,19"/>
+    <player seat="6" chips="€50" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€54,64" bet="€5" dealer="1" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 HK</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="UltraKing" type="Pocket">DA D5</cards>
+   <action player="UltraKing" type="3" sum="€1" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 SQ C5</cards>
+   <action player="UltraKing" type="4" sum="€0" no="6"/>
+   <action player="13373678" type="4" sum="€0" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="UltraKing" type="4" sum="€0" no="8"/>
+   <action player="13373678" type="5" sum="€3,75" no="9"/>
+   <action player="UltraKing" type="3" sum="€3,75" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="UltraKing" type="4" sum="€0" no="11"/>
+   <action player="13373678" type="4" sum="€0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3925122539">
+  <general>
+   <startdate>2024-09-02 23:41:43</startdate>
+   <players>
+    <player seat="3" chips="€43,59" bet="€2" dealer="1" name="UltraKing" win="€2,19"/>
+    <player seat="6" chips="€50" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50" bet="€1" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">HJ H6</cards>
+   <action player="13373678" type="3" sum="€0,50" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S4 SQ</cards>
+   <action player="13373678" type="4" sum="€0" no="6"/>
+   <action player="UltraKing" type="5" sum="€1" no="7"/>
+   <action player="13373678" type="0" sum="€0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3925122587">
+  <general>
+   <startdate>2024-09-02 23:42:10</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€44,78" bet="€1" dealer="0" name="UltraKing" win="€1,25"/>
+    <player seat="6" chips="€50" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50" bet="€0,25" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">H4 HQ</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925122622">
+  <general>
+   <startdate>2024-09-02 23:42:22</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0,25" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€45,53" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50" bet="€1,25" dealer="1" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">HA D7</cards>
+   <action player="13373678" type="23" sum="€1,25" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925122649">
+  <general>
+   <startdate>2024-09-02 23:42:37</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€45,03" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50,75" bet="€1,25" dealer="0" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK S3</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925122706">
+  <general>
+   <startdate>2024-09-02 23:43:04</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€2,05" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€44,78" bet="€2,05" dealer="1" name="UltraKing" win="€4,71"/>
+    <player seat="6" chips="€50" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€51,50" bet="€0,50" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">D8 DJ</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,05" no="3"/>
+   <cards player="UltraKing" type="Pocket">C6 C7</cards>
+   <action player="UltraKing" type="3" sum="€1,05" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+   <cards player="13373678" type="Pocket">S8 C5</cards>
+   <action player="13373678" type="0" sum="€0" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H7 S9</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="7"/>
+   <action player="UltraKing" type="5" sum="€1" no="8"/>
+   <action player="BlackRiverDrift" type="3" sum="€1" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="10"/>
+   <action player="UltraKing" type="4" sum="€0" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="12"/>
+   <action player="UltraKing" type="4" sum="€0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3925122829">
+  <general>
+   <startdate>2024-09-02 23:43:59</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€2,73" dealer="0" name="BlackRiverDrift" win="€2,91"/>
+    <player seat="3" chips="€47,44" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€51" bet="€1,50" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">CQ SK</cards>
+   <action player="13373678" type="23" sum="€1,50" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="3" sum="€1" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D5 H9</cards>
+   <action player="13373678" type="4" sum="€0" no="7"/>
+   <action player="BlackRiverDrift" type="5" sum="€1,23" no="8"/>
+   <action player="13373678" type="0" sum="€0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3925122946">
+  <general>
+   <startdate>2024-09-02 23:44:52</startdate>
+   <players>
+    <player seat="1" chips="€51,41" bet="€5" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€47,44" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50" bet="€18,12" dealer="1" name="13373678" win="€10,19"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">D8 HK</cards>
+   <action player="13373678" type="23" sum="€1,25" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="3" sum="€1" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H7 HA</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="7"/>
+   <action player="13373678" type="5" sum="€3,75" no="8"/>
+   <action player="BlackRiverDrift" type="3" sum="€3,75" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="10"/>
+   <action player="13373678" type="5" sum="€13,12" no="11"/>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3925123048">
+  <general>
+   <startdate>2024-09-02 23:45:41</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€46,94" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€5,50" dealer="0" name="DivaaniJari" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€55,19" bet="€12,25" dealer="0" name="13373678" win="€11,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="DivaaniJari" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">H10 HK</cards>
+   <action player="13373678" type="23" sum="€1,25" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action player="DivaaniJari" type="23" sum="€5,50" no="7"/>
+   <action player="13373678" type="23" sum="€12,25" no="8"/>
+   <action player="DivaaniJari" type="0" sum="€0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3925123141">
+  <general>
+   <startdate>2024-09-02 23:46:26</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€46,69" bet="€1,25" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€50" dealer="0" name="DivaaniJari" win="€50,23"/>
+    <player seat="6" chips="€50" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€60,94" bet="€24,99" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DivaaniJari" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA C10</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="3" sum="€1,25" no="5"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action player="DivaaniJari" type="3" sum="€1" no="6"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C4 D10</cards>
+   <action player="DivaaniJari" type="4" sum="€0" no="8"/>
+   <action player="13373678" type="5" sum="€2,12" no="9"/>
+   <action player="UltraKing" type="0" sum="€0" no="10"/>
+   <action player="DivaaniJari" type="23" sum="€8,24" no="11"/>
+   <action player="13373678" type="3" sum="€6,12" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="DivaaniJari" type="5" sum="€15,50" no="13"/>
+   <action player="13373678" type="3" sum="€15,50" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action player="DivaaniJari" type="5" sum="€25,01" no="15"/>
+   <action player="13373678" type="0" sum="€0" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3925123322">
+  <general>
+   <startdate>2024-09-02 23:48:01</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€45,44" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€75,24" bet="€1,25" dealer="1" name="DivaaniJari" win="€0"/>
+    <player seat="6" chips="€50" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€50" bet="€4,68" dealer="0" name="13373678" win="€2,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action player="DivaaniJari" type="23" sum="€1,25" no="5"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="6"/>
+   <cards player="13373678" type="Pocket">CQ C10</cards>
+   <action player="13373678" type="3" sum="€0,75" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ C4 C8</cards>
+   <action player="13373678" type="4" sum="€0" no="8"/>
+   <action player="DivaaniJari" type="4" sum="€0" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action player="13373678" type="5" sum="€3,43" no="10"/>
+   <action player="DivaaniJari" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3925123437">
+  <general>
+   <startdate>2024-09-02 23:49:01</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€45,44" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€73,99" bet="€1,25" dealer="0" name="DivaaniJari" win="€1,25"/>
+    <player seat="6" chips="€50" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€51,42" bet="€0,25" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action player="DivaaniJari" type="23" sum="€1,25" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+   <cards player="13373678" type="Pocket">H8 S5</cards>
+   <action player="13373678" type="0" sum="€0" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925123784">
+  <general>
+   <startdate>2024-09-02 23:49:26</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0,25" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€45,44" bet="€1,17" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€3,13" dealer="0" name="KarjalanPaisti" win="€2,52"/>
+    <player seat="10" chips="€51,17" bet="€0" dealer="1" name="13373678" win="€0"/>
+    <player seat="5" chips="€74,74" bet="€0" dealer="0" name="DivaaniJari" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="DivaaniJari" type="Pocket">X X</cards>
+   <action player="DivaaniJari" type="0" sum="€0" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="23" sum="€1,17" no="4"/>
+   <cards player="13373678" type="Pocket">D9 C5</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="3" sum="€0,67" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H9 CA</cards>
+   <action player="UltraKing" type="4" sum="€0" no="8"/>
+   <action player="KarjalanPaisti" type="5" sum="€1,96" no="9"/>
+   <action player="UltraKing" type="0" sum="€0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3925123849">
+  <general>
+   <startdate>2024-09-02 23:49:59</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€44,27" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€51,35" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="10" chips="€51,17" bet="€1,25" dealer="0" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA D10</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3925123899">
+  <general>
+   <startdate>2024-09-02 23:50:26</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€2,22" dealer="0" name="BlackRiverDrift" win="€2,77"/>
+    <player seat="3" chips="€44,02" bet="€1,05" dealer="1" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50,85" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,50" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€51,92" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="SugarGlider" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 D9</cards>
+   <action player="13373678" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,05" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="3" sum="€1,05" no="5"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="6"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK H5 S6</cards>
+   <action player="BlackRiverDrift" type="5" sum="€1,17" no="8"/>
+   <action player="UltraKing" type="0" sum="€0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3925124930">
+  <general>
+   <startdate>2024-09-02 23:50:58</startdate>
+   <players>
+    <player seat="1" chips="€51,72" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€42,97" bet="€1" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50,60" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,25" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€51,92" bet="€3,81" dealer="0" name="13373678" win="€2,19"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SugarGlider" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="6"/>
+   <cards player="13373678" type="Pocket">D9 C10</cards>
+   <action player="13373678" type="3" sum="€0,50" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H3 DK</cards>
+   <action player="13373678" type="4" sum="€0" no="8"/>
+   <action player="UltraKing" type="4" sum="€0" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="13373678" type="5" sum="€2,81" no="10"/>
+   <action player="UltraKing" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3925125062">
+  <general>
+   <startdate>2024-09-02 23:52:05</startdate>
+   <players>
+    <player seat="1" chips="€51,72" bet="€1,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,97" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50,60" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="1" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€53,11" bet="€5,25" dealer="0" name="13373678" win="€2,91"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="5"/>
+   <cards player="13373678" type="Pocket">C10 C3</cards>
+   <action player="13373678" type="23" sum="€1,50" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="3" sum="€1" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D10 D3</cards>
+   <action player="13373678" type="4" sum="€0" no="8"/>
+   <action player="BlackRiverDrift" type="4" sum="€0" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="13373678" type="5" sum="€3,75" no="10"/>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3925125157">
+  <general>
+   <startdate>2024-09-02 23:52:56</startdate>
+   <players>
+    <player seat="1" chips="€50,22" bet="€0,25" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,97" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50,60" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€54,52" bet="€1,25" dealer="1" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">D4 SK</cards>
+   <action player="13373678" type="23" sum="€1,25" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125192">
+  <general>
+   <startdate>2024-09-02 23:53:11</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,47" bet="€0,25" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50,60" bet="€0,50" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€55,27" bet="€1,25" dealer="0" name="13373678" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">SK DA</cards>
+   <action player="13373678" type="23" sum="€1,25" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="6"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125218">
+  <general>
+   <startdate>2024-09-02 23:53:27</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,22" bet="€1" dealer="1" name="UltraKing" win="€1,25"/>
+    <player seat="6" chips="€50,10" bet="€0,25" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,50" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€56,02" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="SugarGlider" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C6 H5</cards>
+   <action player="13373678" type="0" sum="€0" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="5"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="6"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125257">
+  <general>
+   <startdate>2024-09-02 23:53:45</startdate>
+   <players>
+    <player seat="1" chips="€50" bet="€1,05" dealer="0" name="BlackRiverDrift" win="€1,25"/>
+    <player seat="3" chips="€41,97" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="1" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€0,25" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€56,02" bet="€0,50" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="SugarGlider" type="1" sum="€0,25" no="1"/>
+   <action player="13373678" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,05" no="3"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="4"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="5"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="6"/>
+   <cards player="13373678" type="Pocket">S2 DJ</cards>
+   <action player="13373678" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125279">
+  <general>
+   <startdate>2024-09-02 23:53:58</startdate>
+   <players>
+    <player seat="1" chips="€50,75" bet="€0,50" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,97" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50" bet="€1,25" dealer="1" name="SugarGlider" win="€1,25"/>
+    <player seat="10" chips="€55,52" bet="€0,25" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" sum="€0,25" no="1"/>
+   <action player="BlackRiverDrift" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="3"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="4"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="23" sum="€1,25" no="5"/>
+   <cards player="13373678" type="Pocket">S3 D2</cards>
+   <action player="13373678" type="0" sum="€0" no="6"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125388">
+  <general>
+   <startdate>2024-09-02 23:54:20</startdate>
+   <players>
+    <player seat="1" chips="€50,25" bet="€1,50" dealer="0" name="BlackRiverDrift" win="€1"/>
+    <player seat="3" chips="€41,97" bet="€0,50" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50,75" bet="€0" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€55,27" bet="€0" dealer="1" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BlackRiverDrift" type="1" sum="€0,25" no="1"/>
+   <action player="UltraKing" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">C3 SJ</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="23" sum="€1,50" no="6"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3925125437">
+  <general>
+   <startdate>2024-09-02 23:54:45</startdate>
+   <players>
+    <player seat="1" chips="€50,75" bet="€0" dealer="1" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€41,47" bet="€2" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€50" bet="€2" dealer="0" name="PIKAVIPPAILIJA" win="€3,88"/>
+    <player seat="6" chips="€50" bet="€0" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50,75" bet="€0" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€55,27" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="UltraKing" type="1" sum="€0,25" no="1"/>
+   <action player="PIKAVIPPAILIJA" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="3"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="4"/>
+   <cards player="13373678" type="Pocket">H5 SK</cards>
+   <action player="13373678" type="0" sum="€0" no="5"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="6"/>
+   <cards player="UltraKing" type="Pocket">S10 HJ</cards>
+   <action player="UltraKing" type="23" sum="€1" no="7"/>
+   <cards player="PIKAVIPPAILIJA" type="Pocket">H9 DA</cards>
+   <action player="PIKAVIPPAILIJA" type="3" sum="€0,50" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 S3 C3</cards>
+   <action player="UltraKing" type="4" sum="€0" no="9"/>
+   <action player="PIKAVIPPAILIJA" type="4" sum="€0" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="UltraKing" type="5" sum="€1" no="11"/>
+   <action player="PIKAVIPPAILIJA" type="3" sum="€1" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="UltraKing" type="4" sum="€0" no="13"/>
+   <action player="PIKAVIPPAILIJA" type="4" sum="€0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3925125583">
+  <general>
+   <startdate>2024-09-02 23:56:01</startdate>
+   <players>
+    <player seat="1" chips="€50,75" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€39,47" bet="€1,67" dealer="1" name="UltraKing" win="€2,19"/>
+    <player seat="5" chips="€51,88" bet="€0,25" dealer="0" name="PIKAVIPPAILIJA" win="€0"/>
+    <player seat="6" chips="€50" bet="€1" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50,75" bet="€0" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€55,27" bet="€0" dealer="0" name="13373678" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PIKAVIPPAILIJA" type="1" sum="€0,25" no="1"/>
+   <action player="KarjalanPaisti" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="3"/>
+   <cards player="13373678" type="Pocket">S8 C5</cards>
+   <action player="13373678" type="0" sum="€0" no="4"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="5"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="23" sum="€1" no="6"/>
+   <cards player="PIKAVIPPAILIJA" type="Pocket">X X</cards>
+   <action player="PIKAVIPPAILIJA" type="0" sum="€0" no="7"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="3" sum="€0,50" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D7 H7</cards>
+   <action player="KarjalanPaisti" type="4" sum="€0" no="9"/>
+   <action player="UltraKing" type="5" sum="€0,67" no="10"/>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3925125672">
+  <general>
+   <startdate>2024-09-02 23:56:48</startdate>
+   <players>
+    <player seat="1" chips="€50,75" bet="€0" dealer="0" name="BlackRiverDrift" win="€0"/>
+    <player seat="3" chips="€40,66" bet="€0" dealer="0" name="UltraKing" win="€0"/>
+    <player seat="5" chips="€51,63" bet="€0" dealer="1" name="PIKAVIPPAILIJA" win="€0"/>
+    <player seat="6" chips="€50" bet="€14,20" dealer="0" name="KarjalanPaisti" win="€0"/>
+    <player seat="8" chips="€50,75" bet="€0,50" dealer="0" name="SugarGlider" win="€0"/>
+    <player seat="10" chips="€55,27" bet="€55,27" dealer="0" name="13373678" win="€28,03"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KarjalanPaisti" type="1" sum="€0,25" no="1"/>
+   <action player="SugarGlider" type="2" sum="€0,50" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H9 H10</cards>
+   <action player="13373678" type="23" sum="€1,25" no="3"/>
+   <cards player="BlackRiverDrift" type="Pocket">X X</cards>
+   <action player="BlackRiverDrift" type="0" sum="€0" no="4"/>
+   <cards player="UltraKing" type="Pocket">X X</cards>
+   <action player="UltraKing" type="0" sum="€0" no="5"/>
+   <cards player="PIKAVIPPAILIJA" type="Pocket">X X</cards>
+   <action player="PIKAVIPPAILIJA" type="0" sum="€0" no="6"/>
+   <cards player="KarjalanPaisti" type="Pocket">X X</cards>
+   <action player="KarjalanPaisti" type="23" sum="€5" no="7"/>
+   <cards player="SugarGlider" type="Pocket">X X</cards>
+   <action player="SugarGlider" type="0" sum="€0" no="8"/>
+   <action player="13373678" type="3" sum="€3,75" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C10 D9</cards>
+   <action player="KarjalanPaisti" type="4" sum="€0" no="10"/>
+   <action player="13373678" type="5" sum="€3,46" no="11"/>
+   <action player="KarjalanPaisti" type="3" sum="€3,46" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="KarjalanPaisti" type="4" sum="€0" no="13"/>
+   <action player="13373678" type="5" sum="€5,74" no="14"/>
+   <action player="KarjalanPaisti" type="3" sum="€5,74" no="15"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action player="KarjalanPaisti" type="4" sum="€0" no="16"/>
+   <action player="13373678" type="5" sum="€41,07" no="17"/>
+   <action player="KarjalanPaisti" type="0" sum="€0" no="18"/>
+  </round>
+ </game>
+</session>

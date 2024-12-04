@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4072104643">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 17, 488050651</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:02:15</duration>
+  <gamecount>5</gamecount>
+  <startdate>2022-04-08 23:04:39</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€6</bets>
+  <wins>€6,08</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€51,83</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3672098877">
+  <general>
+   <startdate>2022-04-08 23:04:39</startdate>
+   <players>
+    <player name="mithrandir1" win="€0" chips="€79,60" seat="1" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0,50" chips="€50" seat="3" dealer="0" bet="€0,50"/>
+    <player name="CathieWood" win="€0" chips="€50,75" seat="6" dealer="0" bet="€0"/>
+    <player name="BadforKings39" win="€0" chips="€62,60" seat="8" dealer="0" bet="€0"/>
+    <player name="ReneDescartes" win="€0" chips="€50" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="mithrandir1"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 H2</cards>
+   <cards type="Pocket" player="CathieWood">X X</cards>
+   <action type="0" sum="€0" no="3" player="CathieWood"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action type="0" sum="€0" no="4" player="BadforKings39"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="5" player="ReneDescartes"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action type="0" sum="€0" no="6" player="mithrandir1"/>
+  </round>
+ </game>
+ <game gamecode="3672098899">
+  <general>
+   <startdate>2022-04-08 23:04:51</startdate>
+   <players>
+    <player name="mithrandir1" win="€0" chips="€79,35" seat="1" dealer="1" bet="€0"/>
+    <player name="13373678" win="€2,91" chips="€50,25" seat="3" dealer="0" bet="€3"/>
+    <player name="CathieWood" win="€0" chips="€50,75" seat="6" dealer="0" bet="€1,50"/>
+    <player name="BadforKings39" win="€0" chips="€62,60" seat="8" dealer="0" bet="€0"/>
+    <player name="ReneDescartes" win="€0" chips="€50" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="CathieWood"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action type="0" sum="€0" no="3" player="BadforKings39"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="4" player="ReneDescartes"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action type="0" sum="€0" no="5" player="mithrandir1"/>
+   <cards type="Pocket" player="13373678">S7 S5</cards>
+   <action type="23" sum="€1,50" no="6" player="13373678"/>
+   <cards type="Pocket" player="CathieWood">X X</cards>
+   <action type="3" sum="€1" no="7" player="CathieWood"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DQ D6</cards>
+   <action type="5" sum="€1,50" no="8" player="13373678"/>
+   <action type="0" sum="€0" no="9" player="CathieWood"/>
+  </round>
+ </game>
+ <game gamecode="3672098982">
+  <general>
+   <startdate>2022-04-08 23:05:21</startdate>
+   <players>
+    <player name="mithrandir1" win="€0" chips="€79,35" seat="1" dealer="0" bet="€0"/>
+    <player name="13373678" win="€2,67" chips="€51,66" seat="3" dealer="1" bet="€1,25"/>
+    <player name="CathieWood" win="€0" chips="€50" seat="6" dealer="0" bet="€0,25"/>
+    <player name="BadforKings39" win="€0" chips="€62,60" seat="8" dealer="0" bet="€1,25"/>
+    <player name="ReneDescartes" win="€0" chips="€50" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="CathieWood"/>
+   <action type="2" sum="€0,50" no="2" player="BadforKings39"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="3" player="ReneDescartes"/>
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action type="0" sum="€0" no="4" player="mithrandir1"/>
+   <cards type="Pocket" player="13373678">DJ HK</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="CathieWood">X X</cards>
+   <action type="0" sum="€0" no="6" player="CathieWood"/>
+   <cards type="Pocket" player="BadforKings39">C5 C3</cards>
+   <action type="3" sum="€0,75" no="7" player="BadforKings39"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S8 C9</cards>
+   <action type="4" sum="€0" no="8" player="BadforKings39"/>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="4" sum="€0" no="10" player="BadforKings39"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action type="4" sum="€0" no="12" player="BadforKings39"/>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672099342">
+  <general>
+   <startdate>2022-04-08 23:06:00</startdate>
+   <players>
+    <player name="mithrandir1" win="€0" chips="€79,35" seat="1" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€53,08" seat="3" dealer="0" bet="€1,25"/>
+    <player name="CathieWood" win="€0" chips="€50" seat="6" dealer="1" bet="€0"/>
+    <player name="BadforKings39" win="€0" chips="€61,35" seat="8" dealer="0" bet="€0,25"/>
+    <player name="ReneDescartes" win="€2,75" chips="€50" seat="10" dealer="0" bet="€5,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="BadforKings39"/>
+   <action type="2" sum="€0,50" no="2" player="ReneDescartes"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <action type="0" sum="€0" no="3" player="mithrandir1"/>
+   <cards type="Pocket" player="13373678">D10 HJ</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="CathieWood">X X</cards>
+   <action type="0" sum="€0" no="5" player="CathieWood"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action type="0" sum="€0" no="6" player="BadforKings39"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="23" sum="€5,55" no="7" player="ReneDescartes"/>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672099427">
+  <general>
+   <startdate>2022-04-08 23:06:35</startdate>
+   <players>
+    <player name="mithrandir1" win="€0,50" chips="€79,35" seat="1" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€51,83" seat="3" dealer="0" bet="€0"/>
+    <player name="CathieWood" win="€0" chips="€50" seat="6" dealer="0" bet="€0"/>
+    <player name="BadforKings39" win="€0" chips="€61,10" seat="8" dealer="1" bet="€0"/>
+    <player name="ReneDescartes" win="€0" chips="€51,50" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="ReneDescartes"/>
+   <action type="2" sum="€0,50" no="2" player="mithrandir1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mithrandir1">X X</cards>
+   <cards type="Pocket" player="13373678">D7 DQ</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="CathieWood">X X</cards>
+   <action type="0" sum="€0" no="4" player="CathieWood"/>
+   <cards type="Pocket" player="BadforKings39">X X</cards>
+   <action type="0" sum="€0" no="5" player="BadforKings39"/>
+   <cards type="Pocket" player="ReneDescartes">X X</cards>
+   <action type="0" sum="€0" no="6" player="ReneDescartes"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081455463">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 1, 488044327</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:01:00</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-08-19 00:43:56</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€15,73</bets>
+  <wins>€30,46</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€64,98</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3703644931">
+  <general>
+   <startdate>2022-08-19 00:43:56</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="1" seat="1" bet="€0,25" win="€0"/>
+    <player name="PopDonkey" chips="€50" dealer="0" seat="5" bet="€0,50" win="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="PopDonkey" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S3 HJ</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703644939">
+  <general>
+   <startdate>2022-08-19 00:44:03</startdate>
+   <players>
+    <player name="13373678" chips="€50" dealer="0" seat="1" bet="€15,48" win="€30,46"/>
+    <player name="PopDonkey" chips="€50,25" dealer="1" seat="5" bet="€15,48" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">D5 C5</cards>
+   <action player="PopDonkey" type="23" no="3" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">C9 H9</cards>
+   <action player="13373678" type="23" no="4" sum="€6"/>
+   <action player="PopDonkey" type="3" no="5" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 S3 C2</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+   <action player="PopDonkey" type="5" no="7" sum="€9,48"/>
+   <action player="13373678" type="3" no="8" sum="€9,48"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="PopDonkey" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="PopDonkey" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+</session>

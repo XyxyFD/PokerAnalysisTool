@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4153783641">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 20, 488065109</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>00:16:12</duration>
+  <gamecount>19</gamecount>
+  <startdate>2024-10-30 21:58:12</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€22,78</bets>
+  <wins>€5,42</wins>
+  <chipsin>€36,78</chipsin>
+  <chipsout>€50,42</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3943639784">
+  <general>
+   <startdate>2024-10-30 21:58:12</startdate>
+   <players>
+    <player dealer="0" bet="€44,09" win="€0" chips="€44,09" seat="1" name="Player 1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€64,53" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€2,25" win="€0" chips="€21,77" seat="5" name="Player 5"/>
+    <player dealer="1" bet="€50" win="€89,18" chips="€50" seat="6" name="Player 6"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€59,21" seat="10" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 10" type="1"/>
+   <action sum="€0,50" no="2" player="Player 1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0,50" no="4" player="Player 5" type="3"/>
+   <cards player="Player 6" type="Pocket">H10 DA</cards>
+   <action sum="€2,25" no="5" player="Player 6" type="23"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 10" type="0"/>
+   <cards player="Player 1" type="Pocket">S10 D10</cards>
+   <action sum="€1,75" no="7" player="Player 1" type="3"/>
+   <action sum="€1,75" no="8" player="Player 5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D7 DQ</cards>
+   <action sum="€0" no="9" player="Player 1" type="4"/>
+   <action sum="€0" no="10" player="Player 5" type="4"/>
+   <action sum="€4,50" no="11" player="Player 6" type="5"/>
+   <action sum="€4,50" no="12" player="Player 1" type="3"/>
+   <action sum="€0" no="13" player="Player 5" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" no="14" player="Player 1" type="4"/>
+   <action sum="€0" no="15" player="Player 6" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action sum="€0,50" no="16" player="Player 1" type="5"/>
+   <action sum="€43,25" no="17" player="Player 6" type="23"/>
+   <action sum="€36,84" no="18" player="Player 1" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3943639913">
+  <general>
+   <startdate>2024-10-30 21:59:15</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€64,53" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€3,75" win="€0" chips="€19,52" seat="5" name="Player 5"/>
+    <player dealer="0" bet="€3,75" win="€7,52" chips="€95,09" seat="6" name="Player 6"/>
+    <player dealer="1" bet="€0" win="€0" chips="€58,96" seat="10" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 3" type="1"/>
+   <action sum="€0,50" no="2" player="Player 5" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">D10 HJ</cards>
+   <action sum="€1,25" no="3" player="Player 6" type="23"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Player 10" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Player 3" type="0"/>
+   <cards player="Player 5" type="Pocket">CK H6</cards>
+   <action sum="€0,75" no="6" player="Player 5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C7 H5</cards>
+   <action sum="€0" no="7" player="Player 5" type="4"/>
+   <action sum="€0" no="8" player="Player 6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€2,50" no="9" player="Player 5" type="5"/>
+   <action sum="€2,50" no="10" player="Player 6" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action sum="€0" no="11" player="Player 5" type="4"/>
+   <action sum="€0" no="12" player="Player 6" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3943640048">
+  <general>
+   <startdate>2024-10-30 22:00:16</startdate>
+   <players>
+    <player dealer="1" bet="€1,10" win="€0" chips="€64,28" seat="3" name="Player 3"/>
+    <player dealer="0" bet="€4,10" win="€2,62" chips="€15,77" seat="5" name="Player 5"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€98,86" seat="6" name="Player 6"/>
+    <player dealer="0" bet="€0" win="€0" chips="€58,96" seat="10" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Player 5" type="1"/>
+   <action sum="€0,50" no="2" player="Player 6" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Player 10" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="Player 3" type="23"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action sum="€0,85" no="5" player="Player 5" type="3"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Player 6" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S2 H9</cards>
+   <action sum="€3" no="7" player="Player 5" type="5"/>
+   <action sum="€0" no="8" player="Player 3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943641265">
+  <general>
+   <startdate>2024-10-30 22:00:40</startdate>
+   <players>
+    <player dealer="0" bet="€1,10" win="€0" chips="€63,18" seat="3" name="Moonlight"/>
+    <player dealer="1" bet="€0" win="€0" chips="€17,29" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€98,36" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€13,22" win="€0" chips="€50" seat="8" name="13373678"/>
+    <player dealer="0" bet="€58,96" win="€26,95" chips="€58,96" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="4564386112151416" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€1,10" no="3" player="MarytHS" type="23"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€1,10" no="4" player="Moonlight" type="3"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Gaylord80" type="0"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">CK S10</cards>
+   <action sum="€7,70" no="7" player="13373678" type="23"/>
+   <action sum="€6,60" no="8" player="MarytHS" type="3"/>
+   <action sum="€0" no="9" player="Moonlight" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ DK D3</cards>
+   <action sum="€5,52" no="10" player="13373678" type="5"/>
+   <action sum="€5,52" no="11" player="MarytHS" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" no="12" player="13373678" type="4"/>
+   <action sum="€0" no="13" player="MarytHS" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€0" no="14" player="13373678" type="4"/>
+   <action sum="€45,74" no="15" player="MarytHS" type="5"/>
+   <action sum="€0" no="16" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943641567">
+  <general>
+   <startdate>2024-10-30 22:02:54</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€62,08" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€17,29" seat="5" name="Gaylord80"/>
+    <player dealer="1" bet="€0" win="€0" chips="€98,11" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€2,50" win="€1,50" chips="€50" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€72,69" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="MarytHS" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,50" no="4" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">D7 C7</cards>
+   <action sum="€2,50" no="6" player="13373678" type="23"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MarytHS" type="0"/>
+   <action sum="€0" no="8" player="Gaylord80" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943641642">
+  <general>
+   <startdate>2024-10-30 22:03:26</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€62,08" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0" win="€0" chips="€16,79" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€1,25" win="€1,25" chips="€98,11" seat="6" name="4564386112151416"/>
+    <player dealer="1" bet="€0" win="€0" chips="€51" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€72,19" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MarytHS" type="1"/>
+   <action sum="€0,50" no="2" player="Moonlight" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Gaylord80" type="0"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€1,25" no="4" player="4564386112151416" type="23"/>
+   <cards player="13373678" type="Pocket">D2 S3</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="MarytHS" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Moonlight" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943641695">
+  <general>
+   <startdate>2024-10-30 22:03:46</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€61,58" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€16,79" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0" win="€0" chips="€98,86" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€3,06" win="€2,67" chips="€51" seat="8" name="13373678"/>
+    <player dealer="1" bet="€0" win="€0" chips="€71,94" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Moonlight" type="1"/>
+   <action sum="€0,50" no="2" player="Gaylord80" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">S5 CA</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MarytHS" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,75" no="7" player="Gaylord80" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ HA D9</cards>
+   <action sum="€0" no="8" player="Gaylord80" type="4"/>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€0" no="10" player="Gaylord80" type="4"/>
+   <action sum="€1,81" no="11" player="13373678" type="5"/>
+   <action sum="€0" no="12" player="Gaylord80" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943641807">
+  <general>
+   <startdate>2024-10-30 22:04:39</startdate>
+   <players>
+    <player dealer="1" bet="€2,31" win="€2,62" chips="€61,33" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€1,10" win="€0" chips="€15,54" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€98,86" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0" win="€0" chips="€52,42" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€71,94" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Gaylord80" type="1"/>
+   <action sum="€0,50" no="2" player="4564386112151416" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H5 D9</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MarytHS" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€1,10" no="5" player="Moonlight" type="23"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,85" no="6" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="4564386112151416" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ SJ C8</cards>
+   <action sum="€0" no="8" player="Gaylord80" type="4"/>
+   <action sum="€0" no="9" player="Moonlight" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" no="10" player="Gaylord80" type="4"/>
+   <action sum="€1,21" no="11" player="Moonlight" type="5"/>
+   <action sum="€0" no="12" player="Gaylord80" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943642538">
+  <general>
+   <startdate>2024-10-30 22:05:25</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€50" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€62,85" seat="3" name="Moonlight"/>
+    <player dealer="1" bet="€3" win="€1,94" chips="€14,44" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€98,36" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€52,42" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€71,94" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="4564386112151416" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+   <action sum="€0,50" no="3" player="pono1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="pono1" type="4"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,50" no="7" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0,25" no="8" player="4564386112151416" type="3"/>
+   <cards player="13373678" type="Pocket">H8 H7</cards>
+   <action sum="€0" no="9" player="13373678" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S9 CQ</cards>
+   <action sum="€0" no="10" player="4564386112151416" type="4"/>
+   <action sum="€0" no="11" player="13373678" type="4"/>
+   <action sum="€0" no="12" player="pono1" type="4"/>
+   <action sum="€2,50" no="13" player="Gaylord80" type="5"/>
+   <action sum="€0" no="14" player="4564386112151416" type="0"/>
+   <action sum="€0" no="15" player="13373678" type="0"/>
+   <action sum="€0" no="16" player="pono1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943642730">
+  <general>
+   <startdate>2024-10-30 22:06:11</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€49,50" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€62,85" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€2,50" win="€4,13" chips="€15,88" seat="5" name="Gaylord80"/>
+    <player dealer="1" bet="€0,50" win="€0" chips="€97,86" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€51,92" seat="8" name="13373678"/>
+    <player dealer="0" bet="€1,50" win="€0" chips="€71,94" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="MarytHS" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0,50" no="3" player="pono1" type="3"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,50" no="5" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0,50" no="6" player="4564386112151416" type="3"/>
+   <cards player="13373678" type="Pocket">DJ D4</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="MarytHS" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 CK S7</cards>
+   <action sum="€1" no="9" player="MarytHS" type="5"/>
+   <action sum="€0" no="10" player="pono1" type="0"/>
+   <action sum="€2" no="11" player="Gaylord80" type="23"/>
+   <action sum="€0" no="12" player="4564386112151416" type="0"/>
+   <action sum="€0" no="13" player="MarytHS" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943642834">
+  <general>
+   <startdate>2024-10-30 22:06:55</startdate>
+   <players>
+    <player dealer="0" bet="€0,50" win="€0" chips="€49" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€62,85" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0" win="€0" chips="€18,51" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0" win="€0" chips="€97,36" seat="6" name="4564386112151416"/>
+    <player dealer="1" bet="€1,25" win="€1,25" chips="€51,67" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€70,44" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MarytHS" type="1"/>
+   <action sum="€0,50" no="2" player="pono1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="Gaylord80" type="0"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">D10 S10</cards>
+   <action sum="€1,25" no="6" player="13373678" type="23"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="pono1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943642905">
+  <general>
+   <startdate>2024-10-30 22:07:25</startdate>
+   <players>
+    <player dealer="0" bet="€0,25" win="€0" chips="€48,50" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€62,85" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0" win="€0" chips="€97,36" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€1,25" win="€0" chips="€52,42" seat="8" name="13373678"/>
+    <player dealer="1" bet="€3,50" win="€3,25" chips="€70,19" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="pono1" type="1"/>
+   <action sum="€0,50" no="2" player="Moonlight" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">HQ CJ</cards>
+   <action sum="€1,25" no="4" player="13373678" type="23"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€3,50" no="5" player="MarytHS" type="23"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="pono1" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Moonlight" type="0"/>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943642967">
+  <general>
+   <startdate>2024-10-30 22:07:51</startdate>
+   <players>
+    <player dealer="1" bet="€1,10" win="€0" chips="€48,25" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€62,35" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€18,51" win="€0" chips="€18,51" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0" win="€0" chips="€97,36" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0" win="€0" chips="€51,17" seat="8" name="13373678"/>
+    <player dealer="0" bet="€18,51" win="€37,21" chips="€72,19" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Moonlight" type="1"/>
+   <action sum="€0,50" no="2" player="Gaylord80" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">H6 DQ</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">H3 HK</cards>
+   <action sum="€1,10" no="5" player="MarytHS" type="23"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="pono1" type="3"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">S4 CQ</cards>
+   <action sum="€0,60" no="8" player="Gaylord80" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S8 H9</cards>
+   <action sum="€0" no="9" player="Gaylord80" type="4"/>
+   <action sum="€0" no="10" player="MarytHS" type="4"/>
+   <action sum="€0" no="11" player="pono1" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action sum="€3,50" no="12" player="Gaylord80" type="5"/>
+   <action sum="€3,50" no="13" player="MarytHS" type="3"/>
+   <action sum="€0" no="14" player="pono1" type="0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" no="15" player="Gaylord80" type="4"/>
+   <action sum="€6" no="16" player="MarytHS" type="5"/>
+   <action sum="€13,91" no="17" player="Gaylord80" type="23"/>
+   <action sum="€7,91" no="18" player="MarytHS" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943644301">
+  <general>
+   <startdate>2024-10-30 22:09:19</startdate>
+   <players>
+    <player dealer="0" bet="€11,33" win="€0" chips="€47,15" seat="1" name="pono1"/>
+    <player dealer="1" bet="€25,33" win="€22,71" chips="€62,10" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€97,36" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€51,17" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€90,89" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="4564386112151416" type="1"/>
+   <action sum="€0,50" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0,50" no="4" player="pono1" type="3"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€2" no="5" player="Moonlight" type="23"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D9</cards>
+   <action sum="€0" no="7" player="13373678" type="0"/>
+   <action sum="€1,50" no="8" player="pono1" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D8 C4</cards>
+   <action sum="€0" no="9" player="pono1" type="4"/>
+   <action sum="€2,13" no="10" player="Moonlight" type="5"/>
+   <action sum="€2,13" no="11" player="pono1" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action sum="€0" no="12" player="pono1" type="4"/>
+   <action sum="€7,20" no="13" player="Moonlight" type="5"/>
+   <action sum="€7,20" no="14" player="pono1" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" no="15" player="pono1" type="4"/>
+   <action sum="€14" no="16" player="Moonlight" type="5"/>
+   <action sum="€0" no="17" player="pono1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943644446">
+  <general>
+   <startdate>2024-10-30 22:10:25</startdate>
+   <players>
+    <player dealer="0" bet="€1,50" win="€3,64" chips="€35,82" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,48" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€1,50" win="€0" chips="€20" seat="5" name="Gaylord80"/>
+    <player dealer="1" bet="€0" win="€0" chips="€97,11" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€50,67" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€90,89" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="13373678" type="1"/>
+   <action sum="€0,50" no="2" player="MarytHS" type="2"/>
+   <action sum="€0,25" no="3" player="Gaylord80" type="1"/>
+  </round>
+  <round no="1">
+   <cards player="pono1" type="Pocket">H8 C7</cards>
+   <action sum="€0,50" no="4" player="pono1" type="3"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">C3 HQ</cards>
+   <action sum="€0,25" no="6" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">C6 H5</cards>
+   <action sum="€0" no="8" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="9" player="MarytHS" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 H3 D9</cards>
+   <action sum="€0" no="10" player="MarytHS" type="4"/>
+   <action sum="€0" no="11" player="pono1" type="4"/>
+   <action sum="€0" no="12" player="Gaylord80" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action sum="€0" no="13" player="MarytHS" type="4"/>
+   <action sum="€0" no="14" player="pono1" type="4"/>
+   <action sum="€0,50" no="15" player="Gaylord80" type="5"/>
+   <action sum="€0" no="16" player="MarytHS" type="0"/>
+   <action sum="€0,50" no="17" player="pono1" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action sum="€0" no="18" player="pono1" type="4"/>
+   <action sum="€0,50" no="19" player="Gaylord80" type="5"/>
+   <action sum="€0,50" no="20" player="pono1" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3943644799">
+  <general>
+   <startdate>2024-10-30 22:11:19</startdate>
+   <players>
+    <player dealer="0" bet="€11,42" win="€0" chips="€37,96" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0" win="€0" chips="€73,48" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€18,50" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€45,12" win="€22,88" chips="€97,11" seat="6" name="4564386112151416"/>
+    <player dealer="1" bet="€0" win="€0" chips="€50,42" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€90,39" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="MarytHS" type="1"/>
+   <action sum="€0,50" no="2" player="pono1" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="Moonlight" type="0"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,50" no="4" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€2,25" no="5" player="4564386112151416" type="23"/>
+   <cards player="13373678" type="Pocket">S3 S9</cards>
+   <action sum="€0" no="6" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€1,75" no="8" player="pono1" type="3"/>
+   <action sum="€0" no="9" player="Gaylord80" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 CJ S8</cards>
+   <action sum="€0" no="10" player="pono1" type="4"/>
+   <action sum="€3,67" no="11" player="4564386112151416" type="5"/>
+   <action sum="€3,67" no="12" player="pono1" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action sum="€0" no="13" player="pono1" type="4"/>
+   <action sum="€5,50" no="14" player="4564386112151416" type="5"/>
+   <action sum="€5,50" no="15" player="pono1" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S4</cards>
+   <action sum="€0" no="16" player="pono1" type="4"/>
+   <action sum="€33,70" no="17" player="4564386112151416" type="5"/>
+   <action sum="€0" no="18" player="pono1" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943644955">
+  <general>
+   <startdate>2024-10-30 22:12:36</startdate>
+   <players>
+    <player dealer="0" bet="€26,54" win="€0" chips="€26,54" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€73,48" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€18" win="€37,34" chips="€18" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0" win="€0" chips="€108,57" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,42" seat="8" name="13373678"/>
+    <player dealer="1" bet="€2" win="€0" chips="€90,14" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="pono1" type="1"/>
+   <action sum="€0,50" no="2" player="Moonlight" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Gaylord80" type="Pocket">SQ CQ</cards>
+   <action sum="€0,50" no="3" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">H5 SK</cards>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€2" no="6" player="MarytHS" type="23"/>
+   <cards player="pono1" type="Pocket">H6 H9</cards>
+   <action sum="€1,75" no="7" player="pono1" type="3"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="Moonlight" type="0"/>
+   <action sum="€1,50" no="9" player="Gaylord80" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D8 C10</cards>
+   <action sum="€0" no="10" player="pono1" type="4"/>
+   <action sum="€2,50" no="11" player="Gaylord80" type="5"/>
+   <action sum="€0" no="12" player="MarytHS" type="0"/>
+   <action sum="€2,50" no="13" player="pono1" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" no="14" player="pono1" type="4"/>
+   <action sum="€3" no="15" player="Gaylord80" type="5"/>
+   <action sum="€3" no="16" player="pono1" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€19,04" no="17" player="pono1" type="5"/>
+   <action sum="€10,50" no="18" player="Gaylord80" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3943645082">
+  <general>
+   <startdate>2024-10-30 22:13:34</startdate>
+   <players>
+    <player dealer="1" bet="€0" win="€0" chips="€8,54" seat="1" name="pono1"/>
+    <player dealer="0" bet="€0,25" win="€0" chips="€72,98" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€0,50" win="€0,50" chips="€37,34" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0" win="€0" chips="€108,57" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,42" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€88,14" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Moonlight" type="1"/>
+   <action sum="€0,50" no="2" player="Gaylord80" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="4564386112151416" type="0"/>
+   <cards player="13373678" type="Pocket">S6 D4</cards>
+   <action sum="€0" no="4" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0" no="6" player="pono1" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€0" no="7" player="Moonlight" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3943645123">
+  <general>
+   <startdate>2024-10-30 22:13:52</startdate>
+   <players>
+    <player dealer="0" bet="€0" win="€0" chips="€8,54" seat="1" name="pono1"/>
+    <player dealer="1" bet="€1,99" win="€2,62" chips="€72,73" seat="3" name="Moonlight"/>
+    <player dealer="0" bet="€1,10" win="€0" chips="€37,59" seat="5" name="Gaylord80"/>
+    <player dealer="0" bet="€0,50" win="€0" chips="€108,57" seat="6" name="4564386112151416"/>
+    <player dealer="0" bet="€0" win="€0" chips="€50,42" seat="8" name="13373678"/>
+    <player dealer="0" bet="€0" win="€0" chips="€88,14" seat="10" name="MarytHS"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" player="Gaylord80" type="1"/>
+   <action sum="€0,50" no="2" player="4564386112151416" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ D10</cards>
+   <action sum="€0" no="3" player="13373678" type="0"/>
+   <cards player="MarytHS" type="Pocket">X X</cards>
+   <action sum="€0" no="4" player="MarytHS" type="0"/>
+   <cards player="pono1" type="Pocket">X X</cards>
+   <action sum="€0" no="5" player="pono1" type="0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action sum="€1,10" no="6" player="Moonlight" type="23"/>
+   <cards player="Gaylord80" type="Pocket">X X</cards>
+   <action sum="€0,85" no="7" player="Gaylord80" type="3"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action sum="€0" no="8" player="4564386112151416" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C6 SJ</cards>
+   <action sum="€0" no="9" player="Gaylord80" type="4"/>
+   <action sum="€0,89" no="10" player="Moonlight" type="5"/>
+   <action sum="€0" no="11" player="Gaylord80" type="0"/>
+  </round>
+ </game>
+</session>

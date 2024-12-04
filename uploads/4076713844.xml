@@ -1,0 +1,2390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076713844">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:42:17</duration>
+  <gamecount>61</gamecount>
+  <startdate>2022-06-12 16:45:58</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€171,94</bets>
+  <wins>€32,31</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€39,81</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687702007">
+  <general>
+   <startdate>2022-06-12 16:45:58</startdate>
+   <players>
+    <player chips="€50,25" name="Player 1" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€41,45" name="Player 3" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€114,98" name="Player 5" dealer="0" bet="€10,66" win="€21,41" seat="5"/>
+    <player chips="€57,62" name="Player 6" dealer="0" bet="€10,66" win="€0" seat="6"/>
+    <player chips="€32,21" name="Player 10" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 1" type="1" sum="€0,25"/>
+   <action no="2" player="Player 3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">SJ S10</cards>
+   <action no="3" player="Player 5" type="23" sum="€1,27"/>
+   <cards player="Player 6" type="Pocket">SK DK</cards>
+   <action no="4" player="Player 6" type="23" sum="€4,04"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="5" player="Player 10" type="0" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action no="6" player="Player 1" type="0" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="7" player="Player 3" type="0" sum="€0"/>
+   <action no="8" player="Player 5" type="3" sum="€2,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 D7 S6</cards>
+   <action no="9" player="Player 5" type="4" sum="€0"/>
+   <action no="10" player="Player 6" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="11" player="Player 5" type="4" sum="€0"/>
+   <action no="12" player="Player 6" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action no="13" player="Player 5" type="5" sum="€6,62"/>
+   <action no="14" player="Player 6" type="3" sum="€6,62"/>
+  </round>
+ </game>
+ <game gamecode="3687702099">
+  <general>
+   <startdate>2022-06-12 16:47:04</startdate>
+   <players>
+    <player chips="€50" name="Player 1" dealer="1" bet="€1" win="€0" seat="1"/>
+    <player chips="€40,95" name="Player 3" dealer="0" bet="€1" win="€2,91" seat="3"/>
+    <player chips="€125,73" name="Player 5" dealer="0" bet="€1" win="€0" seat="5"/>
+    <player chips="€50" name="Player 6" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€32,21" name="Player 10" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 3" type="1" sum="€0,25"/>
+   <action no="2" player="Player 5" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="3" player="Player 6" type="0" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action no="4" player="Player 10" type="0" sum="€0"/>
+   <cards player="Player 1" type="Pocket">C5 CK</cards>
+   <action no="5" player="Player 1" type="23" sum="€1"/>
+   <cards player="Player 3" type="Pocket">DK D3</cards>
+   <action no="6" player="Player 3" type="3" sum="€0,75"/>
+   <cards player="Player 5" type="Pocket">S3 S5</cards>
+   <action no="7" player="Player 5" type="3" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 H7 C3</cards>
+   <action no="8" player="Player 3" type="4" sum="€0"/>
+   <action no="9" player="Player 5" type="4" sum="€0"/>
+   <action no="10" player="Player 1" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action no="11" player="Player 3" type="4" sum="€0"/>
+   <action no="12" player="Player 5" type="4" sum="€0"/>
+   <action no="13" player="Player 1" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action no="14" player="Player 3" type="4" sum="€0"/>
+   <action no="15" player="Player 5" type="4" sum="€0"/>
+   <action no="16" player="Player 1" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702165">
+  <general>
+   <startdate>2022-06-12 16:47:52</startdate>
+   <players>
+    <player chips="€50" name="Player 1" dealer="0" bet="€5,22" win="€10,86" seat="1"/>
+    <player chips="€42,86" name="Player 3" dealer="1" bet="€0" win="€0" seat="3"/>
+    <player chips="€124,73" name="Player 5" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€50" name="Player 6" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€32,21" name="Player 10" dealer="0" bet="€5,22" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Player 5" type="1" sum="€0,25"/>
+   <action no="2" player="Player 6" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">D4 DA</cards>
+   <action no="3" player="Player 10" type="23" sum="€1"/>
+   <cards player="Player 1" type="Pocket">DK D10</cards>
+   <action no="4" player="Player 1" type="23" sum="€3"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action no="5" player="Player 3" type="0" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action no="6" player="Player 5" type="0" sum="€0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action no="7" player="Player 6" type="0" sum="€0"/>
+   <action no="8" player="Player 10" type="3" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C4 C6</cards>
+   <action no="9" player="Player 10" type="4" sum="€0"/>
+   <action no="10" player="Player 1" type="5" sum="€2,22"/>
+   <action no="11" player="Player 10" type="3" sum="€2,22"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="12" player="Player 10" type="4" sum="€0"/>
+   <action no="13" player="Player 1" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action no="14" player="Player 10" type="4" sum="€0"/>
+   <action no="15" player="Player 1" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702251">
+  <general>
+   <startdate>2022-06-12 16:48:47</startdate>
+   <players>
+    <player chips="€55,64" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€42,86" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€124,48" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€50" name="HannuHitsaaja" dealer="0" bet="€1,22" win="€1" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€26,99" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">C2 S8</cards>
+   <action no="8" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702273">
+  <general>
+   <startdate>2022-06-12 16:49:05</startdate>
+   <players>
+    <player chips="€55,64" name="Kuukkelipyy" dealer="0" bet="€3,17" win="€0" seat="1"/>
+    <player chips="€42,86" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€124,48" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€50,50" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€26,99" name="roottori3" dealer="0" bet="€3,17" win="€6,40" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">CK HA</cards>
+   <action no="3" player="Kuukkelipyy" type="23" sum="€1,25"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S9 C10</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">H9 S7</cards>
+   <action no="8" player="roottori3" type="3" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 H2 D7</cards>
+   <action no="9" player="roottori3" type="4" sum="€0"/>
+   <action no="10" player="Kuukkelipyy" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="11" player="roottori3" type="5" sum="€1,92"/>
+   <action no="12" player="Kuukkelipyy" type="3" sum="€1,92"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action no="13" player="roottori3" type="4" sum="€0"/>
+   <action no="14" player="Kuukkelipyy" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702322">
+  <general>
+   <startdate>2022-06-12 16:49:35</startdate>
+   <players>
+    <player chips="€52,47" name="Kuukkelipyy" dealer="0" bet="€0,50" win="€0" seat="1"/>
+    <player chips="€42,86" name="Smilee" dealer="0" bet="€7" win="€4,61" seat="3"/>
+    <player chips="€124,48" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€50,50" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="1" bet="€2" win="€0" seat="8"/>
+    <player chips="€30,22" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CA HQ</cards>
+   <action no="6" player="13373678" type="23" sum="€2"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="8" player="Kuukkelipyy" type="0" sum="€0"/>
+   <action no="9" player="Smilee" type="3" sum="€1,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H9 S10</cards>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+   <action no="11" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action no="12" player="Smilee" type="5" sum="€5"/>
+   <action no="13" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702709">
+  <general>
+   <startdate>2022-06-12 16:50:22</startdate>
+   <players>
+    <player chips="€51,97" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€45,47" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€124,48" name="Schorschi" dealer="0" bet="€7,77" win="€0" seat="5"/>
+    <player chips="€50,50" name="HannuHitsaaja" dealer="0" bet="€7,77" win="€23,34" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€7,77" win="€0" seat="8"/>
+    <player chips="€29,97" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">S7 S8</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">HK SK</cards>
+   <action no="4" player="HannuHitsaaja" type="23" sum="€4,04"/>
+   <cards player="13373678" type="Pocket">S10 C10</cards>
+   <action no="5" player="13373678" type="3" sum="€4,04"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="8" player="Smilee" type="0" sum="€0"/>
+   <action no="9" player="Schorschi" type="3" sum="€2,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S6 HJ</cards>
+   <action no="10" player="Schorschi" type="4" sum="€0"/>
+   <action no="11" player="HannuHitsaaja" type="5" sum="€3,73"/>
+   <action no="12" player="13373678" type="3" sum="€3,73"/>
+   <action no="13" player="Schorschi" type="3" sum="€3,73"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action no="14" player="Schorschi" type="4" sum="€0"/>
+   <action no="15" player="HannuHitsaaja" type="4" sum="€0"/>
+   <action no="16" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action no="17" player="Schorschi" type="4" sum="€0"/>
+   <action no="18" player="HannuHitsaaja" type="4" sum="€0"/>
+   <action no="19" player="13373678" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702816">
+  <general>
+   <startdate>2022-06-12 16:51:35</startdate>
+   <players>
+    <player chips="€51,72" name="Kuukkelipyy" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,97" name="Smilee" dealer="0" bet="€0,25" win="€0" seat="3"/>
+    <player chips="€116,71" name="Schorschi" dealer="0" bet="€0,50" win="€0" seat="5"/>
+    <player chips="€66,07" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€1,25" win="€1,25" seat="8"/>
+    <player chips="€29,97" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">SK H10</cards>
+   <action no="4" player="13373678" type="23" sum="€1,25"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="7" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702854">
+  <general>
+   <startdate>2022-06-12 16:51:55</startdate>
+   <players>
+    <player chips="€51,72" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,72" name="Smilee" dealer="1" bet="€3,75" win="€3,16" seat="3"/>
+    <player chips="€116,21" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€66,07" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€50,75" name="13373678" dealer="0" bet="€1,25" win="€0" seat="8"/>
+    <player chips="€29,97" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ DQ</cards>
+   <action no="3" player="13373678" type="23" sum="€1,25"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="3" sum="€1,25"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 HA H6</cards>
+   <action no="9" player="13373678" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="5" sum="€2,50"/>
+   <action no="11" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702897">
+  <general>
+   <startdate>2022-06-12 16:52:25</startdate>
+   <players>
+    <player chips="€51,72" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€46,63" name="Smilee" dealer="0" bet="€46,63" win="€3,56" seat="3"/>
+    <player chips="€115,96" name="Schorschi" dealer="1" bet="€1,46" win="€0" seat="5"/>
+    <player chips="€65,57" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€29,97" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="3" sum="€0,50"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D8 D10</cards>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C2 DJ</cards>
+   <action no="9" player="13373678" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+   <action no="11" player="Schorschi" type="5" sum="€0,96"/>
+   <action no="12" player="13373678" type="0" sum="€0"/>
+   <action no="13" player="Smilee" type="3" sum="€0,96"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action no="14" player="Smilee" type="4" sum="€0"/>
+   <action no="15" player="Schorschi" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action no="16" player="Smilee" type="5" sum="€45,17"/>
+   <action no="17" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687702978">
+  <general>
+   <startdate>2022-06-12 16:53:23</startdate>
+   <players>
+    <player chips="€51,72" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€48,73" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€114,50" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€65,32" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€29,97" name="roottori3" dealer="0" bet="€1,50" win="€1,22" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">DK H4</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="8" player="roottori3" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C10 S2</cards>
+   <action no="9" player="roottori3" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action no="11" player="roottori3" type="5" sum="€1"/>
+   <action no="12" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687703031">
+  <general>
+   <startdate>2022-06-12 16:53:54</startdate>
+   <players>
+    <player chips="€51,72" name="Kuukkelipyy" dealer="0" bet="€5,23" win="€10,39" seat="1"/>
+    <player chips="€48,23" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€114,50" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€65,32" name="HannuHitsaaja" dealer="0" bet="€5,23" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€30,69" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">SK CA</cards>
+   <action no="5" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">H6 SA</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">SJ CQ</cards>
+   <action no="8" player="Kuukkelipyy" type="3" sum="€0,72"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S10 C10</cards>
+   <action no="9" player="Kuukkelipyy" type="4" sum="€0"/>
+   <action no="10" player="HannuHitsaaja" type="5" sum="€0,78"/>
+   <action no="11" player="Kuukkelipyy" type="3" sum="€0,78"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action no="12" player="Kuukkelipyy" type="4" sum="€0"/>
+   <action no="13" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action no="14" player="Kuukkelipyy" type="5" sum="€3,23"/>
+   <action no="15" player="HannuHitsaaja" type="3" sum="€3,23"/>
+  </round>
+ </game>
+ <game gamecode="3687703117">
+  <general>
+   <startdate>2022-06-12 16:54:56</startdate>
+   <players>
+    <player chips="€56,88" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€48,23" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€114,50" name="Schorschi" dealer="0" bet="€1,27" win="€1,25" seat="5"/>
+    <player chips="€60,09" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€30,44" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D10 H7</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="8" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687703171">
+  <general>
+   <startdate>2022-06-12 16:55:36</startdate>
+   <players>
+    <player chips="€56,63" name="Kuukkelipyy" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€47,73" name="Smilee" dealer="0" bet="€1" win="€0" seat="3"/>
+    <player chips="€115,25" name="Schorschi" dealer="0" bet="€3,50" win="€1,94" seat="5"/>
+    <player chips="€60,09" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€30,44" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C7 H10</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="7" player="Smilee" type="3" sum="€0,25"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 D7 D5</cards>
+   <action no="9" player="Smilee" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="5" sum="€0,50"/>
+   <action no="11" player="Smilee" type="3" sum="€0,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action no="12" player="Smilee" type="4" sum="€0"/>
+   <action no="13" player="Schorschi" type="5" sum="€2,50"/>
+   <action no="14" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704110">
+  <general>
+   <startdate>2022-06-12 16:56:13</startdate>
+   <players>
+    <player chips="€56,63" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€46,73" name="Smilee" dealer="1" bet="€0" win="€0" seat="3"/>
+    <player chips="€116,19" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€60,09" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0,50" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€30,44" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">S3 C9</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704139">
+  <general>
+   <startdate>2022-06-12 16:56:30</startdate>
+   <players>
+    <player chips="€56,63" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€46,73" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€115,94" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€60,34" name="HannuHitsaaja" dealer="0" bet="€1,22" win="€1" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€30,44" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">D3 C7</cards>
+   <action no="8" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704179">
+  <general>
+   <startdate>2022-06-12 16:56:54</startdate>
+   <players>
+    <player chips="€56,63" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€46,73" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€115,94" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€60,84" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€5,77" win="€11,20" seat="8"/>
+    <player chips="€30,44" name="roottori3" dealer="0" bet="€5,77" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HQ H8</cards>
+   <action no="7" player="13373678" type="23" sum="€1,50"/>
+   <cards player="roottori3" type="Pocket">S4 HA</cards>
+   <action no="8" player="roottori3" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA D6 S8</cards>
+   <action no="9" player="13373678" type="5" sum="€0,99"/>
+   <action no="10" player="roottori3" type="3" sum="€0,99"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action no="11" player="13373678" type="4" sum="€0"/>
+   <action no="12" player="roottori3" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action no="13" player="13373678" type="5" sum="€3,28"/>
+   <action no="14" player="roottori3" type="3" sum="€3,28"/>
+  </round>
+ </game>
+ <game gamecode="3687704237">
+  <general>
+   <startdate>2022-06-12 16:57:33</startdate>
+   <players>
+    <player chips="€56,63" name="Kuukkelipyy" dealer="0" bet="€1,22" win="€0" seat="1"/>
+    <player chips="€46,73" name="Smilee" dealer="0" bet="€1,22" win="€0" seat="3"/>
+    <player chips="€115,94" name="Schorschi" dealer="0" bet="€1,22" win="€0" seat="5"/>
+    <player chips="€60,84" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€55,43" name="13373678" dealer="1" bet="€2,91" win="€4,98" seat="8"/>
+    <player chips="€24,67" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="23" sum="€1,22"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="3" sum="€1,22"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HQ H10</cards>
+   <action no="6" player="13373678" type="3" sum="€1,22"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="8" player="Kuukkelipyy" type="3" sum="€0,72"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ DQ S6</cards>
+   <action no="9" player="Kuukkelipyy" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+   <action no="11" player="Schorschi" type="4" sum="€0"/>
+   <action no="12" player="13373678" type="5" sum="€1,69"/>
+   <action no="13" player="Kuukkelipyy" type="0" sum="€0"/>
+   <action no="14" player="Smilee" type="0" sum="€0"/>
+   <action no="15" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704322">
+  <general>
+   <startdate>2022-06-12 16:58:27</startdate>
+   <players>
+    <player chips="€55,41" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€45,51" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€114,72" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€60,84" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€59,19" name="13373678" dealer="0" bet="€1,25" win="€1,25" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 H5</cards>
+   <action no="5" player="13373678" type="23" sum="€1,25"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="8" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704360">
+  <general>
+   <startdate>2022-06-12 16:58:58</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€45,01" name="Smilee" dealer="0" bet="€0,25" win="€0" seat="3"/>
+    <player chips="€114,72" name="Schorschi" dealer="0" bet="€0,50" win="€0" seat="5"/>
+    <player chips="€60,84" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€59,94" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="0" bet="€1,75" win="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK D4</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="7" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704388">
+  <general>
+   <startdate>2022-06-12 16:59:17</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,76" name="Smilee" dealer="1" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€114,22" name="Schorschi" dealer="0" bet="€1" win="€0" seat="5"/>
+    <player chips="€60,84" name="HannuHitsaaja" dealer="0" bet="€1" win="€2,43" seat="6"/>
+    <player chips="€59,94" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€25,17" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 S5</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">S10 S8</cards>
+   <action no="7" player="Schorschi" type="3" sum="€0,25"/>
+   <cards player="HannuHitsaaja" type="Pocket">CQ S2</cards>
+   <action no="8" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C3 C7</cards>
+   <action no="9" player="Schorschi" type="4" sum="€0"/>
+   <action no="10" player="HannuHitsaaja" type="4" sum="€0"/>
+   <action no="11" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action no="12" player="Schorschi" type="4" sum="€0"/>
+   <action no="13" player="HannuHitsaaja" type="4" sum="€0"/>
+   <action no="14" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action no="15" player="Schorschi" type="4" sum="€0"/>
+   <action no="16" player="HannuHitsaaja" type="5" sum="€0,50"/>
+   <action no="17" player="Smilee" type="0" sum="€0"/>
+   <action no="18" player="Schorschi" type="3" sum="€0,50"/>
+  </round>
+ </game>
+ <game gamecode="3687704542">
+  <general>
+   <startdate>2022-06-12 17:00:55</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,26" name="Smilee" dealer="0" bet="€4,58" win="€0" seat="3"/>
+    <player chips="€113,22" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€62,27" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€59,94" name="13373678" dealer="0" bet="€10,79" win="€9,13" seat="8"/>
+    <player chips="€25,17" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="23" sum="€1,22"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S8 SJ</cards>
+   <action no="8" player="13373678" type="3" sum="€0,72"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D6 D9</cards>
+   <action no="9" player="13373678" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action no="11" player="13373678" type="5" sum="€3,36"/>
+   <action no="12" player="Smilee" type="3" sum="€3,36"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="13" player="13373678" type="5" sum="€6,21"/>
+   <action no="14" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704664">
+  <general>
+   <startdate>2022-06-12 17:02:10</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€39,68" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€113,22" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€62,02" name="HannuHitsaaja" dealer="1" bet="€1,22" win="€1,25" seat="6"/>
+    <player chips="€64,49" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€25,17" name="roottori3" dealer="0" bet="€0,50" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">H10 H4</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="8" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704726">
+  <general>
+   <startdate>2022-06-12 17:02:46</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="0" bet="€0,50" win="€0,50" seat="1"/>
+    <player chips="€39,68" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€113,22" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€62,77" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€64,24" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€24,67" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 SJ</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687704758">
+  <general>
+   <startdate>2022-06-12 17:03:06</startdate>
+   <players>
+    <player chips="€55,41" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€39,68" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€113,22" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€62,77" name="HannuHitsaaja" dealer="0" bet="€15,89" win="€20,88" seat="6"/>
+    <player chips="€64,24" name="13373678" dealer="0" bet="€10,39" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="23" sum="€1,11"/>
+   <cards player="13373678" type="Pocket">H9 H10</cards>
+   <action no="5" player="13373678" type="23" sum="€3,75"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="8" player="Smilee" type="0" sum="€0"/>
+   <action no="9" player="HannuHitsaaja" type="23" sum="€10,39"/>
+   <action no="10" player="13373678" type="3" sum="€6,64"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D8 CK</cards>
+   <action no="11" player="HannuHitsaaja" type="5" sum="€5,50"/>
+   <action no="12" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687705054">
+  <general>
+   <startdate>2022-06-12 17:04:06</startdate>
+   <players>
+    <player chips="€55,16" name="Kuukkelipyy" dealer="1" bet="€3,71" win="€0" seat="1"/>
+    <player chips="€39,18" name="Smilee" dealer="0" bet="€8,71" win="€8,41" seat="3"/>
+    <player chips="€113,22" name="Schorschi" dealer="0" bet="€1,25" win="€0" seat="5"/>
+    <player chips="€73,26" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€53,85" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">DJ C10</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="23" sum="€1,25"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="7" player="Smilee" type="3" sum="€1"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="3" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 HA C7</cards>
+   <action no="9" player="Smilee" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="4" sum="€0"/>
+   <action no="11" player="Kuukkelipyy" type="5" sum="€1,23"/>
+   <action no="12" player="Smilee" type="23" sum="€2,46"/>
+   <action no="13" player="Schorschi" type="0" sum="€0"/>
+   <action no="14" player="Kuukkelipyy" type="3" sum="€1,23"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action no="15" player="Smilee" type="5" sum="€5"/>
+   <action no="16" player="Kuukkelipyy" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687705394">
+  <general>
+   <startdate>2022-06-12 17:05:27</startdate>
+   <players>
+    <player chips="€51,45" name="Kuukkelipyy" dealer="0" bet="€1,25" win="€1,25" seat="1"/>
+    <player chips="€43,88" name="Smilee" dealer="1" bet="€0" win="€0" seat="3"/>
+    <player chips="€111,97" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€73,26" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€53,85" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D6</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="23" sum="€1,25"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687705435">
+  <general>
+   <startdate>2022-06-12 17:05:50</startdate>
+   <players>
+    <player chips="€52,20" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€43,88" name="Smilee" dealer="0" bet="€2" win="€1,46" seat="3"/>
+    <player chips="€111,72" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€72,76" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€53,85" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="3" sum="€0,25"/>
+   <cards player="13373678" type="Pocket">SJ H4</cards>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 D7 D8</cards>
+   <action no="9" player="HannuHitsaaja" type="4" sum="€0"/>
+   <action no="10" player="13373678" type="4" sum="€0"/>
+   <action no="11" player="Smilee" type="5" sum="€1,50"/>
+   <action no="12" player="HannuHitsaaja" type="0" sum="€0"/>
+   <action no="13" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687705508">
+  <general>
+   <startdate>2022-06-12 17:06:37</startdate>
+   <players>
+    <player chips="€52,20" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,84" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€111,72" name="Schorschi" dealer="0" bet="€1,27" win="€1,25" seat="5"/>
+    <player chips="€72,26" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€53,35" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€24,42" name="roottori3" dealer="0" bet="€0,50" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S3 CQ</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="8" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706447">
+  <general>
+   <startdate>2022-06-12 17:06:58</startdate>
+   <players>
+    <player chips="€52,20" name="Kuukkelipyy" dealer="0" bet="€0,50" win="€0" seat="1"/>
+    <player chips="€44,84" name="Smilee" dealer="0" bet="€0,50" win="€0" seat="3"/>
+    <player chips="€112,47" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€72,26" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€53,10" name="13373678" dealer="1" bet="€2" win="€1,75" seat="8"/>
+    <player chips="€23,92" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HJ CQ</cards>
+   <action no="6" player="13373678" type="23" sum="€2"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="8" player="Kuukkelipyy" type="0" sum="€0"/>
+   <action no="9" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706487">
+  <general>
+   <startdate>2022-06-12 17:07:22</startdate>
+   <players>
+    <player chips="€51,70" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€44,34" name="Smilee" dealer="0" bet="€0,50" win="€0,50" seat="3"/>
+    <player chips="€112,47" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€72,26" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€54,35" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€23,67" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S7 C8</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706501">
+  <general>
+   <startdate>2022-06-12 17:07:33</startdate>
+   <players>
+    <player chips="€51,45" name="Kuukkelipyy" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€44,59" name="Smilee" dealer="0" bet="€4,75" win="€15,52" seat="3"/>
+    <player chips="€112,47" name="Schorschi" dealer="0" bet="€4,75" win="€0" seat="5"/>
+    <player chips="€72,26" name="HannuHitsaaja" dealer="0" bet="€1,75" win="€0" seat="6"/>
+    <player chips="€54,35" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€23,67" name="roottori3" dealer="0" bet="€4,75" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="23" sum="€1,11"/>
+   <cards player="13373678" type="Pocket">DK S2</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">CJ C10</cards>
+   <action no="5" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">CQ C4</cards>
+   <action no="7" player="Smilee" type="3" sum="€1,50"/>
+   <cards player="Schorschi" type="Pocket">S9 SJ</cards>
+   <action no="8" player="Schorschi" type="3" sum="€1,25"/>
+   <action no="9" player="HannuHitsaaja" type="3" sum="€0,64"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 HQ D9</cards>
+   <action no="10" player="Smilee" type="5" sum="€1,50"/>
+   <action no="11" player="Schorschi" type="3" sum="€1,50"/>
+   <action no="12" player="HannuHitsaaja" type="0" sum="€0"/>
+   <action no="13" player="roottori3" type="3" sum="€1,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action no="14" player="Smilee" type="5" sum="€1,50"/>
+   <action no="15" player="Schorschi" type="3" sum="€1,50"/>
+   <action no="16" player="roottori3" type="3" sum="€1,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action no="17" player="Smilee" type="4" sum="€0"/>
+   <action no="18" player="Schorschi" type="4" sum="€0"/>
+   <action no="19" player="roottori3" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706589">
+  <general>
+   <startdate>2022-06-12 17:08:34</startdate>
+   <players>
+    <player chips="€51,45" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€55,36" name="Smilee" dealer="1" bet="€0" win="€0" seat="3"/>
+    <player chips="€107,72" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€70,51" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€54,35" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€18,92" name="roottori3" dealer="0" bet="€1,75" win="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 C4</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706620">
+  <general>
+   <startdate>2022-06-12 17:08:57</startdate>
+   <players>
+    <player chips="€51,45" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€55,36" name="Smilee" dealer="0" bet="€19,67" win="€0" seat="3"/>
+    <player chips="€107,47" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€70,01" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€54,35" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€19,67" name="roottori3" dealer="0" bet="€19,67" win="€38,88" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">SA SJ</cards>
+   <action no="3" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">C10 S9</cards>
+   <action no="5" player="Smilee" type="3" sum="€1,75"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D10 H8</cards>
+   <action no="8" player="13373678" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 S10 S5</cards>
+   <action no="9" player="roottori3" type="5" sum="€4,25"/>
+   <action no="10" player="Smilee" type="23" sum="€8,50"/>
+   <action no="11" player="roottori3" type="23" sum="€17,92"/>
+   <action no="12" player="Smilee" type="3" sum="€9,42"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+  </round>
+ </game>
+ <game gamecode="3687706662">
+  <general>
+   <startdate>2022-06-12 17:09:22</startdate>
+   <players>
+    <player chips="€51,45" name="Kuukkelipyy" dealer="0" bet="€5,50" win="€0" seat="1"/>
+    <player chips="€35,69" name="Smilee" dealer="0" bet="€1,25" win="€0" seat="3"/>
+    <player chips="€107,47" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€69,76" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€53,85" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€38,88" name="roottori3" dealer="0" bet="€18" win="€12,13" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="23" sum="€1,25"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="3" sum="€1,25"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 D10</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="8" player="roottori3" type="23" sum="€5,50"/>
+   <action no="9" player="Kuukkelipyy" type="3" sum="€4,25"/>
+   <action no="10" player="Smilee" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 H5 C3</cards>
+   <action no="11" player="roottori3" type="5" sum="€12,50"/>
+   <action no="12" player="Kuukkelipyy" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706717">
+  <general>
+   <startdate>2022-06-12 17:10:03</startdate>
+   <players>
+    <player chips="€50" name="Kuukkelipyy" dealer="0" bet="€0,50" win="€0" seat="1"/>
+    <player chips="€34,44" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€107,47" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€69,76" name="HannuHitsaaja" dealer="0" bet="€53,60" win="€106,45" seat="6"/>
+    <player chips="€53,60" name="13373678" dealer="1" bet="€53,60" win="€0" seat="8"/>
+    <player chips="€45,51" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Kuukkelipyy" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">CK DA</cards>
+   <action no="5" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">S9 H9</cards>
+   <action no="6" player="13373678" type="23" sum="€3,75"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="8" player="Kuukkelipyy" type="0" sum="€0"/>
+   <action no="9" player="HannuHitsaaja" type="23" sum="€10,28"/>
+   <action no="10" player="13373678" type="3" sum="€6,53"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ HQ DK</cards>
+   <action no="11" player="HannuHitsaaja" type="5" sum="€5,50"/>
+   <action no="12" player="13373678" type="3" sum="€5,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="13" player="HannuHitsaaja" type="5" sum="€8"/>
+   <action no="14" player="13373678" type="23" sum="€37,82"/>
+   <action no="15" player="HannuHitsaaja" type="3" sum="€29,82"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+  </round>
+ </game>
+ <game gamecode="3687706829">
+  <general>
+   <startdate>2022-06-12 17:11:23</startdate>
+   <players>
+    <player chips="€50" name="Kuukkelipyy" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€34,44" name="Smilee" dealer="0" bet="€14,77" win="€9,50" seat="3"/>
+    <player chips="€107,47" name="Schorschi" dealer="0" bet="€4,77" win="€0" seat="5"/>
+    <player chips="€122,61" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€45,26" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Kuukkelipyy" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HA S4</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="7" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="8" player="Smilee" type="3" sum="€0,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D7 S7</cards>
+   <action no="9" player="Smilee" type="5" sum="€1"/>
+   <action no="10" player="Schorschi" type="3" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action no="11" player="Smilee" type="5" sum="€2,50"/>
+   <action no="12" player="Schorschi" type="3" sum="€2,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action no="13" player="Smilee" type="5" sum="€10"/>
+   <action no="14" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706890">
+  <general>
+   <startdate>2022-06-12 17:12:02</startdate>
+   <players>
+    <player chips="€50" name="Kuukkelipyy" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€39,17" name="Smilee" dealer="0" bet="€1,11" win="€2,64" seat="3"/>
+    <player chips="€102,70" name="Schorschi" dealer="0" bet="€0,50" win="€0" seat="5"/>
+    <player chips="€122,61" name="HannuHitsaaja" dealer="0" bet="€1,11" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€45,26" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">DK D10</cards>
+   <action no="3" player="HannuHitsaaja" type="23" sum="€1,11"/>
+   <cards player="13373678" type="Pocket">CQ D3</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="6" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">H4 S6</cards>
+   <action no="7" player="Smilee" type="3" sum="€0,86"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 CJ SA</cards>
+   <action no="9" player="Smilee" type="4" sum="€0"/>
+   <action no="10" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action no="11" player="Smilee" type="4" sum="€0"/>
+   <action no="12" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="13" player="Smilee" type="4" sum="€0"/>
+   <action no="14" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687706970">
+  <general>
+   <startdate>2022-06-12 17:12:51</startdate>
+   <players>
+    <player chips="€50" name="Kuukkelipyy" dealer="0" bet="€1,75" win="€0" seat="1"/>
+    <player chips="€40,70" name="Smilee" dealer="1" bet="€0" win="€0" seat="3"/>
+    <player chips="€102,20" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€121,50" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€45,26" name="roottori3" dealer="0" bet="€4,72" win="€4,13" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H4 C10</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="5" player="Kuukkelipyy" type="3" sum="€1,75"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 H9 CJ</cards>
+   <action no="9" player="roottori3" type="5" sum="€2,97"/>
+   <action no="10" player="Kuukkelipyy" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707017">
+  <general>
+   <startdate>2022-06-12 17:13:22</startdate>
+   <players>
+    <player chips="€50" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€40,70" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€101,95" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€121" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,50" win="€0,50" seat="8"/>
+    <player chips="€47,64" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 H10</cards>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="4" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="5" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707276">
+  <general>
+   <startdate>2022-06-12 17:13:39</startdate>
+   <players>
+    <player chips="€40,70" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€101,95" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€120,75" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€50,25" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€47,64" name="roottori3" dealer="0" bet="€0,50" win="€0,50" seat="10"/>
+    <player chips="€50" name="Kuukkelipyy" dealer="0" bet="€0" win="€0" seat="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <cards player="Kuukkelipyy" type="Pocket">X X</cards>
+   <action no="3" player="Kuukkelipyy" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C2 D10</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707322">
+  <general>
+   <startdate>2022-06-12 17:14:05</startdate>
+   <players>
+    <player chips="€40,70" name="Smilee" dealer="0" bet="€2,22" win="€0" seat="3"/>
+    <player chips="€101,95" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€120,75" name="HannuHitsaaja" dealer="0" bet="€7,22" win="€6,46" seat="6"/>
+    <player chips="€50" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€47,89" name="roottori3" dealer="0" bet="€2,22" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">D9 H6</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="3" sum="€0,97"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="7" player="Smilee" type="3" sum="€0,72"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C8 H3</cards>
+   <action no="8" player="roottori3" type="4" sum="€0"/>
+   <action no="9" player="Smilee" type="5" sum="€1"/>
+   <action no="10" player="HannuHitsaaja" type="3" sum="€1"/>
+   <action no="11" player="roottori3" type="3" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action no="12" player="roottori3" type="4" sum="€0"/>
+   <action no="13" player="Smilee" type="4" sum="€0"/>
+   <action no="14" player="HannuHitsaaja" type="5" sum="€5"/>
+   <action no="15" player="roottori3" type="0" sum="€0"/>
+   <action no="16" player="Smilee" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707370">
+  <general>
+   <startdate>2022-06-12 17:14:42</startdate>
+   <players>
+    <player chips="€38,48" name="Smilee" dealer="0" bet="€0,25" win="€0" seat="3"/>
+    <player chips="€101,95" name="Schorschi" dealer="0" bet="€0,50" win="€0" seat="5"/>
+    <player chips="€124,99" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€45,67" name="roottori3" dealer="1" bet="€1,75" win="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Smilee" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H2 HJ</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="6" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707397">
+  <general>
+   <startdate>2022-06-12 17:14:57</startdate>
+   <players>
+    <player chips="€38,23" name="Smilee" dealer="1" bet="€2,37" win="€0" seat="3"/>
+    <player chips="€101,45" name="Schorschi" dealer="0" bet="€2,37" win="€5,09" seat="5"/>
+    <player chips="€124,99" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€46,42" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 D5</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">SK C4</cards>
+   <action no="5" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">HK DJ</cards>
+   <action no="6" player="Schorschi" type="23" sum="€2,37"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+   <action no="8" player="Smilee" type="3" sum="€1,87"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DQ C7</cards>
+   <action no="9" player="Schorschi" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action no="11" player="Schorschi" type="4" sum="€0"/>
+   <action no="12" player="Smilee" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action no="13" player="Schorschi" type="4" sum="€0"/>
+   <action no="14" player="Smilee" type="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707455">
+  <general>
+   <startdate>2022-06-12 17:15:37</startdate>
+   <players>
+    <player chips="€35,86" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€104,17" name="Schorschi" dealer="1" bet="€0" win="€0" seat="5"/>
+    <player chips="€124,49" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,50" win="€0" seat="8"/>
+    <player chips="€46,42" name="roottori3" dealer="0" bet="€1,75" win="€1,25" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="4" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 D10</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707655">
+  <general>
+   <startdate>2022-06-12 17:15:55</startdate>
+   <players>
+    <player chips="€35,86" name="Smilee" dealer="0" bet="€7,37" win="€7,14" seat="3"/>
+    <player chips="€104,17" name="Schorschi" dealer="0" bet="€2,37" win="€0" seat="5"/>
+    <player chips="€124,24" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€47,17" name="roottori3" dealer="0" bet="€2,37" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="3" sum="€0,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="23" sum="€2,37"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H7 SJ</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="3" sum="€1,87"/>
+   <action no="8" player="Smilee" type="3" sum="€1,87"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 SQ S4</cards>
+   <action no="9" player="roottori3" type="4" sum="€0"/>
+   <action no="10" player="Smilee" type="5" sum="€5"/>
+   <action no="11" player="Schorschi" type="0" sum="€0"/>
+   <action no="12" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707701">
+  <general>
+   <startdate>2022-06-12 17:16:25</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0,50" win="€0" seat="1"/>
+    <player chips="€40,63" name="Smilee" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€101,80" name="Schorschi" dealer="0" bet="€6,94" win="€6,19" seat="5"/>
+    <player chips="€124,24" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€44,80" name="roottori3" dealer="0" bet="€2,94" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Escobaah" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Smilee" type="Pocket">X X</cards>
+   <action no="3" player="Smilee" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">DQ S9</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="3" sum="€1,02"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="8" player="Escobaah" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C5 S6</cards>
+   <action no="9" player="roottori3" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="5" sum="€1,67"/>
+   <action no="11" player="roottori3" type="3" sum="€1,67"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action no="12" player="roottori3" type="4" sum="€0"/>
+   <action no="13" player="Schorschi" type="5" sum="€4"/>
+   <action no="14" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707757">
+  <general>
+   <startdate>2022-06-12 17:17:02</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€40,63" name="Smilee" dealer="0" bet="€40,63" win="€0" seat="3"/>
+    <player chips="€105,05" name="Schorschi" dealer="0" bet="€46,81" win="€81,28" seat="5"/>
+    <player chips="€124,24" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€41,86" name="roottori3" dealer="1" bet="€1,27" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Escobaah" type="1" sum="€0,25"/>
+   <action no="2" player="Smilee" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">SJ S10</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">C9 SK</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="3" sum="€1,27"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="7" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Smilee" type="Pocket">D8 SA</cards>
+   <action no="8" player="Smilee" type="3" sum="€0,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H10 C8</cards>
+   <action no="9" player="Smilee" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="5" sum="€1,50"/>
+   <action no="11" player="roottori3" type="0" sum="€0"/>
+   <action no="12" player="Smilee" type="23" sum="€3"/>
+   <action no="13" player="Schorschi" type="3" sum="€1,50"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action no="14" player="Smilee" type="5" sum="€5"/>
+   <action no="15" player="Schorschi" type="3" sum="€5"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action no="16" player="Smilee" type="5" sum="€10"/>
+   <action no="17" player="Schorschi" type="23" sum="€37,54"/>
+   <action no="18" player="Smilee" type="7" sum="€21,36"/>
+  </round>
+ </game>
+ <game gamecode="3687707889">
+  <general>
+   <startdate>2022-06-12 17:18:26</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€145,70" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€124,24" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0,50" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€40,59" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 C10</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="5" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687707926">
+  <general>
+   <startdate>2022-06-12 17:18:52</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€145,45" name="Schorschi" dealer="1" bet="€3,36" win="€2,71" seat="5"/>
+    <player chips="€124,49" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€1,27" win="€0" seat="8"/>
+    <player chips="€40,59" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="4" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">DA H7</cards>
+   <action no="7" player="13373678" type="3" sum="€0,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 H6 D5</cards>
+   <action no="8" player="13373678" type="4" sum="€0"/>
+   <action no="9" player="Schorschi" type="5" sum="€2,09"/>
+   <action no="10" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687708883">
+  <general>
+   <startdate>2022-06-12 17:19:35</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€146,89" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€124,24" name="HannuHitsaaja" dealer="1" bet="€50" win="€99" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€50" win="€0" seat="8"/>
+    <player chips="€40,59" name="roottori3" dealer="0" bet="€0,50" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="3" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">DQ CQ</cards>
+   <action no="5" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">HJ DJ</cards>
+   <action no="6" player="13373678" type="23" sum="€5,50"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <action no="8" player="HannuHitsaaja" type="23" sum="€11,78"/>
+   <action no="9" player="13373678" type="23" sum="€50"/>
+   <action no="10" player="HannuHitsaaja" type="3" sum="€38,22"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C6 C2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+  </round>
+ </game>
+ <game gamecode="3687709291">
+  <general>
+   <startdate>2022-06-12 17:20:20</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0,50" win="€0,50" seat="1"/>
+    <player chips="€146,89" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€173,24" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€40,09" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Escobaah" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">DK H8</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709309">
+  <general>
+   <startdate>2022-06-12 17:20:31</startdate>
+   <players>
+    <player chips="€50,25" name="Escobaah" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€30,80" name="Mulle94" dealer="0" bet="€1,27" win="€0" seat="3"/>
+    <player chips="€146,89" name="Schorschi" dealer="0" bet="€2,80" win="€2,71" seat="5"/>
+    <player chips="€173,24" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€39,84" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Escobaah" type="1" sum="€0,25"/>
+   <action no="2" player="Mulle94" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">CJ C7</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="7" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="8" player="Mulle94" type="3" sum="€0,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA HA HJ</cards>
+   <action no="9" player="Mulle94" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="5" sum="€1,53"/>
+   <action no="11" player="Mulle94" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709348">
+  <general>
+   <startdate>2022-06-12 17:20:58</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€29,53" name="Mulle94" dealer="0" bet="€1,75" win="€0" seat="3"/>
+    <player chips="€148,33" name="Schorschi" dealer="0" bet="€0,50" win="€0" seat="5"/>
+    <player chips="€173,24" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€39,84" name="roottori3" dealer="0" bet="€4,55" win="€3,88" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Mulle94" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 H5</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="23" sum="€1,75"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="6" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="7" player="Mulle94" type="3" sum="€1,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C4 H10</cards>
+   <action no="9" player="Mulle94" type="4" sum="€0"/>
+   <action no="10" player="roottori3" type="5" sum="€2,80"/>
+   <action no="11" player="Mulle94" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709392">
+  <general>
+   <startdate>2022-06-12 17:21:25</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€27,78" name="Mulle94" dealer="1" bet="€2,75" win="€3,40" seat="3"/>
+    <player chips="€147,83" name="Schorschi" dealer="0" bet="€1,50" win="€0" seat="5"/>
+    <player chips="€173,24" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€41,97" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 S3</cards>
+   <action no="3" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="5" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="6" player="Mulle94" type="23" sum="€1,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="3" sum="€1,25"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H6 SJ</cards>
+   <action no="9" player="Schorschi" type="4" sum="€0"/>
+   <action no="10" player="Mulle94" type="5" sum="€1,25"/>
+   <action no="11" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709467">
+  <general>
+   <startdate>2022-06-12 17:22:13</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€29,68" name="Mulle94" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€146,33" name="Schorschi" dealer="1" bet="€1" win="€0" seat="5"/>
+    <player chips="€172,74" name="HannuHitsaaja" dealer="0" bet="€0,25" win="€0" seat="6"/>
+    <player chips="€50" name="13373678" dealer="0" bet="€5" win="€2,25" seat="8"/>
+    <player chips="€41,97" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="HannuHitsaaja" type="1" sum="€0,25"/>
+   <action no="2" player="13373678" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="3" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="4" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="5" player="Mulle94" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="6" player="Schorschi" type="23" sum="€1"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="7" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">HA CK</cards>
+   <action no="8" player="13373678" type="23" sum="€5"/>
+   <action no="9" player="Schorschi" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709508">
+  <general>
+   <startdate>2022-06-12 17:22:42</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€29,68" name="Mulle94" dealer="0" bet="€15,41" win="€12,68" seat="3"/>
+    <player chips="€145,33" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€172,49" name="HannuHitsaaja" dealer="1" bet="€0" win="€0" seat="6"/>
+    <player chips="€51,25" name="13373678" dealer="0" bet="€0,25" win="€0" seat="8"/>
+    <player chips="€41,97" name="roottori3" dealer="0" bet="€6,41" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="13373678" type="1" sum="€0,25"/>
+   <action no="2" player="roottori3" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="3" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="4" player="Mulle94" type="23" sum="€1,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="5" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="6" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 H2</cards>
+   <action no="7" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="8" player="roottori3" type="3" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 CA S7</cards>
+   <action no="9" player="roottori3" type="4" sum="€0"/>
+   <action no="10" player="Mulle94" type="5" sum="€1,10"/>
+   <action no="11" player="roottori3" type="3" sum="€1,10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action no="12" player="roottori3" type="4" sum="€0"/>
+   <action no="13" player="Mulle94" type="5" sum="€3,81"/>
+   <action no="14" player="roottori3" type="3" sum="€3,81"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action no="15" player="roottori3" type="4" sum="€0"/>
+   <action no="16" player="Mulle94" type="5" sum="€9"/>
+   <action no="17" player="roottori3" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709604">
+  <general>
+   <startdate>2022-06-12 17:23:47</startdate>
+   <players>
+    <player chips="€50" name="Escobaah" dealer="0" bet="€5,44" win="€2,69" seat="1"/>
+    <player chips="€35,95" name="Mulle94" dealer="0" bet="€0" win="€0" seat="3"/>
+    <player chips="€145,33" name="Schorschi" dealer="0" bet="€0" win="€0" seat="5"/>
+    <player chips="€172,49" name="HannuHitsaaja" dealer="0" bet="€1,22" win="€0" seat="6"/>
+    <player chips="€51" name="13373678" dealer="1" bet="€0" win="€0" seat="8"/>
+    <player chips="€35,56" name="roottori3" dealer="0" bet="€0,25" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="roottori3" type="1" sum="€0,25"/>
+   <action no="2" player="Escobaah" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="3" player="Mulle94" type="0" sum="€0"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="4" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="5" player="HannuHitsaaja" type="23" sum="€1,22"/>
+   <cards player="13373678" type="Pocket">HA S2</cards>
+   <action no="6" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="7" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="8" player="Escobaah" type="23" sum="€5,44"/>
+   <action no="9" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709671">
+  <general>
+   <startdate>2022-06-12 17:24:29</startdate>
+   <players>
+    <player chips="€51,47" name="Escobaah" dealer="0" bet="€0,25" win="€0" seat="1"/>
+    <player chips="€35,95" name="Mulle94" dealer="0" bet="€2,66" win="€0" seat="3"/>
+    <player chips="€145,33" name="Schorschi" dealer="0" bet="€12,40" win="€5,41" seat="5"/>
+    <player chips="€171,27" name="HannuHitsaaja" dealer="0" bet="€0" win="€0" seat="6"/>
+    <player chips="€51" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€35,31" name="roottori3" dealer="1" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Escobaah" type="1" sum="€0,25"/>
+   <action no="2" player="Mulle94" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="3" player="Schorschi" type="23" sum="€1,27"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="4" player="HannuHitsaaja" type="0" sum="€0"/>
+   <cards player="13373678" type="Pocket">H10 D6</cards>
+   <action no="5" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="6" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="7" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="8" player="Mulle94" type="3" sum="€0,77"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 D8 C2</cards>
+   <action no="9" player="Mulle94" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action no="11" player="Mulle94" type="5" sum="€1,39"/>
+   <action no="12" player="Schorschi" type="3" sum="€1,39"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action no="13" player="Mulle94" type="4" sum="€0"/>
+   <action no="14" player="Schorschi" type="5" sum="€9,74"/>
+   <action no="15" player="Mulle94" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709731">
+  <general>
+   <startdate>2022-06-12 17:25:16</startdate>
+   <players>
+    <player chips="€51,22" name="Escobaah" dealer="1" bet="€0" win="€0" seat="1"/>
+    <player chips="€33,29" name="Mulle94" dealer="0" bet="€6,11" win="€3,23" seat="3"/>
+    <player chips="€148,08" name="Schorschi" dealer="0" bet="€1,11" win="€0" seat="5"/>
+    <player chips="€171,27" name="HannuHitsaaja" dealer="0" bet="€1,11" win="€0" seat="6"/>
+    <player chips="€51" name="13373678" dealer="0" bet="€0" win="€0" seat="8"/>
+    <player chips="€35,31" name="roottori3" dealer="0" bet="€0" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Mulle94" type="1" sum="€0,25"/>
+   <action no="2" player="Schorschi" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="3" player="HannuHitsaaja" type="23" sum="€1,11"/>
+   <cards player="13373678" type="Pocket">DQ H5</cards>
+   <action no="4" player="13373678" type="0" sum="€0"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="5" player="roottori3" type="0" sum="€0"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="6" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="7" player="Mulle94" type="3" sum="€0,86"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="8" player="Schorschi" type="3" sum="€0,61"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C10 SJ</cards>
+   <action no="9" player="Mulle94" type="4" sum="€0"/>
+   <action no="10" player="Schorschi" type="4" sum="€0"/>
+   <action no="11" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action no="12" player="Mulle94" type="4" sum="€0"/>
+   <action no="13" player="Schorschi" type="4" sum="€0"/>
+   <action no="14" player="HannuHitsaaja" type="4" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action no="15" player="Mulle94" type="5" sum="€5"/>
+   <action no="16" player="Schorschi" type="0" sum="€0"/>
+   <action no="17" player="HannuHitsaaja" type="0" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3687709822">
+  <general>
+   <startdate>2022-06-12 17:26:18</startdate>
+   <players>
+    <player chips="€51,22" name="Escobaah" dealer="0" bet="€0" win="€0" seat="1"/>
+    <player chips="€35,41" name="Mulle94" dealer="1" bet="€35,41" win="€27,77" seat="3"/>
+    <player chips="€146,97" name="Schorschi" dealer="0" bet="€0,25" win="€0" seat="5"/>
+    <player chips="€170,16" name="HannuHitsaaja" dealer="0" bet="€0,50" win="€0" seat="6"/>
+    <player chips="€51" name="13373678" dealer="0" bet="€11,19" win="€0" seat="8"/>
+    <player chips="€35,31" name="roottori3" dealer="0" bet="€5,50" win="€0" seat="10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action no="1" player="Schorschi" type="1" sum="€0,25"/>
+   <action no="2" player="HannuHitsaaja" type="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA SJ</cards>
+   <action no="3" player="13373678" type="23" sum="€1,25"/>
+   <cards player="roottori3" type="Pocket">X X</cards>
+   <action no="4" player="roottori3" type="3" sum="€1,25"/>
+   <cards player="Escobaah" type="Pocket">X X</cards>
+   <action no="5" player="Escobaah" type="0" sum="€0"/>
+   <cards player="Mulle94" type="Pocket">X X</cards>
+   <action no="6" player="Mulle94" type="23" sum="€5,50"/>
+   <cards player="Schorschi" type="Pocket">X X</cards>
+   <action no="7" player="Schorschi" type="0" sum="€0"/>
+   <cards player="HannuHitsaaja" type="Pocket">X X</cards>
+   <action no="8" player="HannuHitsaaja" type="0" sum="€0"/>
+   <action no="9" player="13373678" type="3" sum="€4,25"/>
+   <action no="10" player="roottori3" type="3" sum="€4,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S4 CJ</cards>
+   <action no="11" player="13373678" type="4" sum="€0"/>
+   <action no="12" player="roottori3" type="4" sum="€0"/>
+   <action no="13" player="Mulle94" type="4" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action no="14" player="13373678" type="5" sum="€5,69"/>
+   <action no="15" player="roottori3" type="0" sum="€0"/>
+   <action no="16" player="Mulle94" type="3" sum="€5,69"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action no="17" player="13373678" type="4" sum="€0"/>
+   <action no="18" player="Mulle94" type="5" sum="€24,22"/>
+   <action no="19" player="13373678" type="0" sum="€0"/>
+  </round>
+ </game>
+</session>

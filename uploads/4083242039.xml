@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4083242039">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:10:10</duration>
+  <gamecount>27</gamecount>
+  <startdate>2022-09-12 00:55:24</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€69,77</bets>
+  <wins>€57,82</wins>
+  <chipsin>€48,38</chipsin>
+  <chipsout>€69,42</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3709714079">
+  <general>
+   <startdate>2022-09-12 00:55:24</startdate>
+   <players>
+    <player bet="€0,50" name="Player 1" win="€0,50" seat="1" dealer="0" chips="€52"/>
+    <player bet="€0" name="Player 3" win="€0" seat="3" dealer="1" chips="€82,96"/>
+    <player bet="€0,25" name="Player 10" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 10"/>
+   <action sum="€0,50" type="2" no="2" player="Player 1"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 3"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 10"/>
+  </round>
+ </game>
+ <game gamecode="3709714096">
+  <general>
+   <startdate>2022-09-12 00:55:42</startdate>
+   <players>
+    <player bet="€0,25" name="Player 1" win="€0" seat="1" dealer="0" chips="€52,25"/>
+    <player bet="€0,50" name="Player 3" win="€0,50" seat="3" dealer="0" chips="€82,96"/>
+    <player bet="€0" name="Player 10" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Player 1"/>
+   <action sum="€0,50" type="2" no="2" player="Player 3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" no="3" player="Player 10"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€0" type="0" no="4" player="Player 1"/>
+  </round>
+ </game>
+ <game gamecode="3709714102">
+  <general>
+   <startdate>2022-09-12 00:55:51</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="1" chips="€52"/>
+    <player bet="€4,05" name="Lilibet" win="€3,15" seat="3" dealer="0" chips="€83,21"/>
+    <player bet="€1,62" name="13373678" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€1,62" type="23" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">CQ S10</cards>
+   <action sum="€1,12" type="3" no="6" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D2 H6</cards>
+   <action sum="€0" type="4" no="7" player="Lilibet"/>
+   <action sum="€0" type="4" no="8" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€2,43" type="5" no="9" player="Lilibet"/>
+   <action sum="€0" type="0" no="10" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709714144">
+  <general>
+   <startdate>2022-09-12 00:56:38</startdate>
+   <players>
+    <player bet="€2,32" name="mofo6000" win="€2,67" seat="1" dealer="0" chips="€52"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="1" chips="€84,74"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€50"/>
+    <player bet="€1,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">S10 H4</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0,75" type="3" no="6" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S2 H2</cards>
+   <action sum="€0" type="4" no="7" player="BRUNZI"/>
+   <action sum="€1,07" type="5" no="8" player="mofo6000"/>
+   <action sum="€0" type="0" no="9" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709714169">
+  <general>
+   <startdate>2022-09-12 00:57:03</startdate>
+   <players>
+    <player bet="€0,50" name="mofo6000" win="€0" seat="1" dealer="0" chips="€53,42"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="0" chips="€84,74"/>
+    <player bet="€50" name="13373678" win="€46,07" seat="5" dealer="1" chips="€50"/>
+    <player bet="€23,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">S6 D6</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€5" type="23" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="6" player="mofo6000"/>
+   <action sum="€3,75" type="3" no="7" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C8 D3</cards>
+   <action sum="€6" type="5" no="8" player="BRUNZI"/>
+   <action sum="€6" type="3" no="9" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€12,50" type="5" no="10" player="BRUNZI"/>
+   <action sum="€12,50" type="3" no="11" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action sum="€0" type="4" no="12" player="BRUNZI"/>
+   <action sum="€26,50" type="5" no="13" player="13373678"/>
+   <action sum="€0" type="0" no="14" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709714220">
+  <general>
+   <startdate>2022-09-12 00:58:06</startdate>
+   <players>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="1" dealer="0" chips="€52,92"/>
+    <player bet="€0,50" name="Lilibet" win="€0,50" seat="3" dealer="0" chips="€84,74"/>
+    <player bet="€0" name="13373678" win="€0" seat="5" dealer="0" chips="€72,57"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <cards type="Pocket" player="13373678">H8 C9</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="5" player="mofo6000"/>
+  </round>
+ </game>
+ <game gamecode="3709714227">
+  <general>
+   <startdate>2022-09-12 00:58:14</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="1" chips="€52,67"/>
+    <player bet="€0,25" name="Lilibet" win="€0" seat="3" dealer="0" chips="€84,99"/>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="5" dealer="0" chips="€72,57"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 S4</cards>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709714240">
+  <general>
+   <startdate>2022-09-12 00:58:24</startdate>
+   <players>
+    <player bet="€3,52" name="mofo6000" win="€3,16" seat="1" dealer="0" chips="€52,67"/>
+    <player bet="€1,25" name="Lilibet" win="€0" seat="3" dealer="1" chips="€84,74"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€72,82"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€1,25" type="3" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">S6 S10</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H2 CJ</cards>
+   <action sum="€0" type="4" no="7" player="mofo6000"/>
+   <action sum="€0" type="4" no="8" player="Lilibet"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€2,27" type="5" no="9" player="mofo6000"/>
+   <action sum="€0" type="0" no="10" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709714948">
+  <general>
+   <startdate>2022-09-12 00:59:00</startdate>
+   <players>
+    <player bet="€0,50" name="mofo6000" win="€0" seat="1" dealer="0" chips="€54,58"/>
+    <player bet="€3,75" name="Lilibet" win="€0" seat="3" dealer="0" chips="€83,49"/>
+    <player bet="€3,75" name="13373678" win="€8" seat="5" dealer="1" chips="€72,57"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">S6 D6</cards>
+   <action sum="€1,27" type="23" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">SQ CQ</cards>
+   <action sum="€3,75" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="6" player="mofo6000"/>
+   <action sum="€2,48" type="3" no="7" player="Lilibet"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK DJ D10</cards>
+   <action sum="€0" type="4" no="8" player="Lilibet"/>
+   <action sum="€0" type="4" no="9" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" type="4" no="10" player="Lilibet"/>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action sum="€0" type="4" no="12" player="Lilibet"/>
+   <action sum="€0" type="4" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709714998">
+  <general>
+   <startdate>2022-09-12 01:00:05</startdate>
+   <players>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="1" dealer="0" chips="€54,08"/>
+    <player bet="€0,50" name="Lilibet" win="€0,50" seat="3" dealer="0" chips="€79,74"/>
+    <player bet="€0" name="13373678" win="€0" seat="5" dealer="0" chips="€76,82"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <cards type="Pocket" player="13373678">S6 S4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="5" player="mofo6000"/>
+  </round>
+ </game>
+ <game gamecode="3709715014">
+  <general>
+   <startdate>2022-09-12 01:00:19</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="1" chips="€53,83"/>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="3" dealer="0" chips="€79,99"/>
+    <player bet="€2" name="13373678" win="€1" seat="5" dealer="0" chips="€76,82"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0,25" type="3" no="5" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">DK SK</cards>
+   <action sum="€2" type="23" no="6" player="13373678"/>
+   <action sum="€0" type="0" no="7" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709715045">
+  <general>
+   <startdate>2022-09-12 01:00:51</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="0" chips="€53,83"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="1" chips="€79,49"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€77,32"/>
+    <player bet="€0,50" name="BRUNZI" win="€0,50" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">SK D3</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715051">
+  <general>
+   <startdate>2022-09-12 01:00:59</startdate>
+   <players>
+    <player bet="€5,15" name="mofo6000" win="€10,24" seat="1" dealer="0" chips="€53,83"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="0" chips="€79,49"/>
+    <player bet="€5,15" name="13373678" win="€0" seat="5" dealer="1" chips="€77,07"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">H3 DA</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">SJ SA</cards>
+   <action sum="€0,75" type="3" no="6" player="mofo6000"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C6 S3</cards>
+   <action sum="€0" type="4" no="7" player="mofo6000"/>
+   <action sum="€0,90" type="5" no="8" player="13373678"/>
+   <action sum="€0,90" type="3" no="9" player="mofo6000"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" type="4" no="10" player="mofo6000"/>
+   <action sum="€0" type="4" no="11" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action sum="€3" type="5" no="12" player="mofo6000"/>
+   <action sum="€3" type="3" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715093">
+  <general>
+   <startdate>2022-09-12 01:01:41</startdate>
+   <players>
+    <player bet="€0,25" name="mofo6000" win="€0" seat="1" dealer="0" chips="€58,92"/>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="3" dealer="0" chips="€79,49"/>
+    <player bet="€0" name="13373678" win="€0" seat="5" dealer="0" chips="€71,92"/>
+    <player bet="€1,25" name="BRUNZI" win="€1,25" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SJ D9</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,25" type="23" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="5" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="6" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709715117">
+  <general>
+   <startdate>2022-09-12 01:02:04</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="1" chips="€58,67"/>
+    <player bet="€0,25" name="Lilibet" win="€0" seat="3" dealer="0" chips="€78,99"/>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="5" dealer="0" chips="€71,92"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK C2</cards>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709715129">
+  <general>
+   <startdate>2022-09-12 01:02:15</startdate>
+   <players>
+    <player bet="€1,25" name="mofo6000" win="€1,25" seat="1" dealer="0" chips="€58,67"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="1" chips="€78,74"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€72,17"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">H4 SJ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715136">
+  <general>
+   <startdate>2022-09-12 01:02:27</startdate>
+   <players>
+    <player bet="€0,50" name="mofo6000" win="€0" seat="1" dealer="0" chips="€59,42"/>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="0" chips="€78,74"/>
+    <player bet="€1,25" name="13373678" win="€1,25" seat="5" dealer="1" chips="€71,92"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="mofo6000"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">HQ DA</cards>
+   <action sum="€1,25" type="23" no="4" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="5" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="6" player="mofo6000"/>
+  </round>
+ </game>
+ <game gamecode="3709715148">
+  <general>
+   <startdate>2022-09-12 01:02:37</startdate>
+   <players>
+    <player bet="€8,15" name="mofo6000" win="€15,81" seat="1" dealer="0" chips="€58,92"/>
+    <player bet="€8,15" name="Lilibet" win="€0" seat="3" dealer="0" chips="€78,74"/>
+    <player bet="€0" name="13373678" win="€0" seat="5" dealer="0" chips="€72,67"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="mofo6000"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 SQ</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">D9 DJ</cards>
+   <action sum="€1,50" type="23" no="5" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">HA H6</cards>
+   <action sum="€1" type="3" no="6" player="Lilibet"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H3 C9</cards>
+   <action sum="€0" type="4" no="7" player="mofo6000"/>
+   <action sum="€1,65" type="5" no="8" player="Lilibet"/>
+   <action sum="€1,65" type="3" no="9" player="mofo6000"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" type="4" no="10" player="mofo6000"/>
+   <action sum="€5" type="5" no="11" player="Lilibet"/>
+   <action sum="€5" type="3" no="12" player="mofo6000"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" type="4" no="13" player="mofo6000"/>
+   <action sum="€0" type="4" no="14" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709715196">
+  <general>
+   <startdate>2022-09-12 01:03:29</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="1" chips="€66,58"/>
+    <player bet="€0,25" name="Lilibet" win="€0" seat="3" dealer="0" chips="€70,59"/>
+    <player bet="€0,50" name="13373678" win="€0,50" seat="5" dealer="0" chips="€72,67"/>
+    <player bet="€0" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CA CJ</cards>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="4" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+  </round>
+ </game>
+ <game gamecode="3709715209">
+  <general>
+   <startdate>2022-09-12 01:03:40</startdate>
+   <players>
+    <player bet="€0" name="mofo6000" win="€0" seat="1" dealer="0" chips="€66,58"/>
+    <player bet="€1,27" name="Lilibet" win="€1,25" seat="3" dealer="1" chips="€70,34"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€72,92"/>
+    <player bet="€0,50" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="mofo6000">X X</cards>
+   <action sum="€0" type="0" no="3" player="mofo6000"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€1,27" type="23" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">H7 CQ</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715286">
+  <general>
+   <startdate>2022-09-12 01:03:56</startdate>
+   <players>
+    <player bet="€0,50" name="Lilibet" win="€0,50" seat="3" dealer="0" chips="€71,09"/>
+    <player bet="€0" name="13373678" win="€0" seat="5" dealer="1" chips="€72,67"/>
+    <player bet="€0,25" name="BRUNZI" win="€0" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <cards type="Pocket" player="13373678">C2 S4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€0" type="0" no="4" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715301">
+  <general>
+   <startdate>2022-09-12 01:04:12</startdate>
+   <players>
+    <player bet="€5" name="Lilibet" win="€3" seat="3" dealer="0" chips="€71,34"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="5" dealer="0" chips="€72,67"/>
+    <player bet="€1,25" name="BRUNZI" win="€0" seat="10" dealer="1" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€5" type="23" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">H2 C6</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+   <action sum="€0" type="0" no="6" player="BRUNZI"/>
+  </round>
+ </game>
+ <game gamecode="3709715323">
+  <general>
+   <startdate>2022-09-12 01:04:33</startdate>
+   <players>
+    <player bet="€0" name="Lilibet" win="€0" seat="3" dealer="1" chips="€73,09"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="0" chips="€72,17"/>
+    <player bet="€0,50" name="BRUNZI" win="€0,50" seat="10" dealer="0" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="BRUNZI"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">HJ S4</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715331">
+  <general>
+   <startdate>2022-09-12 01:04:44</startdate>
+   <players>
+    <player bet="€0,50" name="Lilibet" win="€0" seat="3" dealer="0" chips="€73,09"/>
+    <player bet="€1,25" name="13373678" win="€0" seat="5" dealer="1" chips="€71,92"/>
+    <player bet="€5,50" name="BRUNZI" win="€3" seat="10" dealer="0" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="BRUNZI"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK H3</cards>
+   <action sum="€1,25" type="23" no="3" player="13373678"/>
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€5,50" type="23" no="4" player="BRUNZI"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="5" player="Lilibet"/>
+   <action sum="€0" type="0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715349">
+  <general>
+   <startdate>2022-09-12 01:05:00</startdate>
+   <players>
+    <player bet="€0,25" name="Lilibet" win="€0" seat="3" dealer="0" chips="€72,59"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="5" dealer="0" chips="€70,67"/>
+    <player bet="€1,25" name="BRUNZI" win="€1,25" seat="10" dealer="1" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BRUNZI">X X</cards>
+   <action sum="€1,25" type="23" no="3" player="BRUNZI"/>
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€0" type="0" no="4" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">CJ D7</cards>
+   <action sum="€0" type="0" no="5" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715357">
+  <general>
+   <startdate>2022-09-12 01:05:08</startdate>
+   <players>
+    <player bet="€0,50" name="Lilibet" win="€0,50" seat="3" dealer="0" chips="€72,34"/>
+    <player bet="€0,25" name="13373678" win="€0" seat="5" dealer="1" chips="€70,17"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="13373678"/>
+   <action sum="€0,50" type="2" no="2" player="Lilibet"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <cards type="Pocket" player="13373678">CJ H4</cards>
+   <action sum="€0" type="0" no="3" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3709715361">
+  <general>
+   <startdate>2022-09-12 01:05:13</startdate>
+   <players>
+    <player bet="€1,47" name="Lilibet" win="€1" seat="3" dealer="1" chips="€72,59"/>
+    <player bet="€0,50" name="13373678" win="€0" seat="5" dealer="0" chips="€69,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" no="1" player="Lilibet"/>
+   <action sum="€0,50" type="2" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Lilibet">X X</cards>
+   <action sum="€1,47" type="23" no="3" player="Lilibet"/>
+   <cards type="Pocket" player="13373678">C4 S8</cards>
+   <action sum="€0" type="0" no="4" player="13373678"/>
+  </round>
+ </game>
+</session>

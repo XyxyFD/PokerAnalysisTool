@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4154104043">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,50</smallblind>
+  <bigblind>€1</bigblind>
+  <duration>00:03:15</duration>
+  <gamecount>4</gamecount>
+  <startdate>2024-11-02 23:18:01</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€31,79</bets>
+  <wins>€37,75</wins>
+  <chipsin>€116,42</chipsin>
+  <chipsout>€111,58</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3944788108">
+  <general>
+   <startdate>2024-11-02 23:18:01</startdate>
+   <players>
+    <player seat="3" bet="€10" dealer="1" chips="€164,88" win="€7,76" name="Player 3"/>
+    <player seat="8" bet="€4" dealer="0" chips="€100" win="€0" name="Player 8"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" type="1" no="1" sum="€0,50"/>
+   <action player="Player 8" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" no="3" sum="€2"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="3" no="4" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 DA SJ</cards>
+   <action player="Player 8" type="4" no="5" sum="€0"/>
+   <action player="Player 3" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="Player 8" type="4" no="7" sum="€0"/>
+   <action player="Player 3" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action player="Player 8" type="5" no="9" sum="€2"/>
+   <action player="Player 3" type="23" no="10" sum="€8"/>
+   <action player="Player 8" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944788277">
+  <general>
+   <startdate>2024-11-02 23:18:55</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€168,64" win="€0" name="AWaAwaAwa"/>
+    <player seat="5" bet="€16,96" dealer="0" chips="€100" win="€33,38" name="13373678"/>
+    <player seat="8" bet="€16,96" dealer="1" chips="€100" win="€0" name="DailyCaipi"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AWaAwaAwa" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DailyCaipi" type="Pocket">D6 S7</cards>
+   <action player="DailyCaipi" type="23" no="3" sum="€2,25"/>
+   <cards player="AWaAwaAwa" type="Pocket">X X</cards>
+   <action player="AWaAwaAwa" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">CA H8</cards>
+   <action player="13373678" type="3" no="5" sum="€1,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 HA H5</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+   <action player="DailyCaipi" type="5" no="7" sum="€1,65"/>
+   <action player="13373678" type="3" no="8" sum="€1,65"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="DailyCaipi" type="5" no="10" sum="€6,22"/>
+   <action player="13373678" type="3" no="11" sum="€6,22"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+   <action player="DailyCaipi" type="5" no="13" sum="€6,84"/>
+   <action player="13373678" type="3" no="14" sum="€6,84"/>
+  </round>
+ </game>
+ <game gamecode="3944789850">
+  <general>
+   <startdate>2024-11-02 23:19:58</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="1" chips="€168,14" win="€0" name="AWaAwaAwa"/>
+    <player seat="5" bet="€6,96" dealer="0" chips="€116,42" win="€0" name="13373678"/>
+    <player seat="8" bet="€16,41" dealer="0" chips="€100" win="€13,50" name="DailyCaipi"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,50"/>
+   <action player="DailyCaipi" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="AWaAwaAwa" type="Pocket">X X</cards>
+   <action player="AWaAwaAwa" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C10 HK</cards>
+   <action player="13373678" type="23" no="4" sum="€3"/>
+   <cards player="DailyCaipi" type="Pocket">X X</cards>
+   <action player="DailyCaipi" type="3" no="5" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 S9 C2</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+   <action player="DailyCaipi" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action player="13373678" type="5" no="8" sum="€3,96"/>
+   <action player="DailyCaipi" type="23" no="9" sum="€13,41"/>
+   <action player="13373678" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944790034">
+  <general>
+   <startdate>2024-11-02 23:20:55</startdate>
+   <players>
+    <player seat="5" bet="€7,87" dealer="0" chips="€109,46" win="€4,37" name="13373678"/>
+    <player seat="8" bet="€2,25" dealer="1" chips="€106,54" win="€0" name="DailyCaipi"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="DailyCaipi" type="1" no="1" sum="€0,50"/>
+   <action player="13373678" type="2" no="2" sum="€1"/>
+  </round>
+  <round no="1">
+   <cards player="DailyCaipi" type="Pocket">X X</cards>
+   <action player="DailyCaipi" type="23" no="3" sum="€2,25"/>
+   <cards player="13373678" type="Pocket">CQ S3</cards>
+   <action player="13373678" type="3" no="4" sum="€1,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C10 H10</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="DailyCaipi" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="13373678" type="5" no="7" sum="€5,62"/>
+   <action player="DailyCaipi" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+</session>

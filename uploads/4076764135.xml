@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4076764135">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:19</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-06-13 12:35:11</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€3,50</bets>
+  <wins>€1</wins>
+  <chipsin>€100,50</chipsin>
+  <chipsout>€98</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3687882871">
+  <general>
+   <startdate>2022-06-13 12:35:11</startdate>
+   <players>
+    <player win="€1" bet="€1" seat="1" chips="€100" dealer="0" name="13373678"/>
+    <player win="€0" bet="€0,50" seat="10" chips="€100" dealer="1" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="KrismesLars" type="1"/>
+   <action sum="€1" no="2" player="13373678" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 CJ</cards>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€0" no="3" player="KrismesLars" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3687886618">
+  <general>
+   <startdate>2022-06-13 12:35:17</startdate>
+   <players>
+    <player win="€0" bet="€2,50" seat="1" chips="€100,50" dealer="1" name="13373678"/>
+    <player win="€5" bet="€11" seat="10" chips="€100" dealer="0" name="KrismesLars"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" player="13373678" type="1"/>
+   <action sum="€1" no="2" player="KrismesLars" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 HQ</cards>
+   <action sum="€2,50" no="3" player="13373678" type="23"/>
+   <cards player="KrismesLars" type="Pocket">X X</cards>
+   <action sum="€11" no="4" player="KrismesLars" type="23"/>
+   <action sum="€0" no="5" player="13373678" type="0"/>
+  </round>
+ </game>
+</session>

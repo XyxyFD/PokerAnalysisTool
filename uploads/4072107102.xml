@@ -1,0 +1,3983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4072107102">
+ <general>
+  <client_version>21.9.2.18</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 10, 488044349</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>01:08:15</duration>
+  <gamecount>97</gamecount>
+  <startdate>2022-04-08 23:34:33</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€225,63</bets>
+  <wins>€137,97</wins>
+  <chipsin>€50,72</chipsin>
+  <chipsout>€83,96</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+ </general>
+ <game gamecode="3672108514">
+  <general>
+   <startdate>2022-04-08 23:34:33</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,56" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,89" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€1,22" chips="€50" seat="5" dealer="0" bet="€1,32"/>
+    <player name="Stiimin" win="€0" chips="€115,49" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€74,59" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€48,72" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DK C3</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 D9 C6</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action type="5" sum="€0,82" no="11" player="13373678"/>
+   <action type="0" sum="€0" no="12" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672108570">
+  <general>
+   <startdate>2022-04-08 23:35:00</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,56" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,64" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50,72" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€3,16" chips="€115,49" seat="6" dealer="0" bet="€3,27"/>
+    <player name="977583" win="€0" chips="€74,09" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€0" chips="€48,72" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C6 SK</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H6 H5</cards>
+   <action type="4" sum="€0" no="9" player="Stiimin"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action type="4" sum="€0" no="12" player="Stiimin"/>
+   <action type="4" sum="€0" no="13" player="977583"/>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action type="5" sum="€2,27" no="15" player="Stiimin"/>
+   <action type="0" sum="€0" no="16" player="977583"/>
+   <action type="0" sum="€0" no="17" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672108721">
+  <general>
+   <startdate>2022-04-08 23:36:09</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,56" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,64" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50,47" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€117,65" seat="6" dealer="0" bet="€1,55"/>
+    <player name="977583" win="€3,50" chips="€73,09" seat="8" dealer="0" bet="€3,05"/>
+    <player name="Haalleluja" win="€0" chips="€47,72" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S2 CA</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="4" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 DJ CK</cards>
+   <action type="5" sum="€1,05" no="9" player="Stiimin"/>
+   <action type="3" sum="€1,05" no="10" player="977583"/>
+   <action type="0" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action type="4" sum="€0" no="12" player="Stiimin"/>
+   <action type="5" sum="€1,50" no="13" player="977583"/>
+   <action type="0" sum="€0" no="14" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672108834">
+  <general>
+   <startdate>2022-04-08 23:36:57</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,56" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,64" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€15,66" chips="€50,47" seat="5" dealer="0" bet="€18,47"/>
+    <player name="Stiimin" win="€0" chips="€116,10" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€75,04" seat="8" dealer="0" bet="€7,82"/>
+    <player name="Haalleluja" win="€0" chips="€47,22" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SQ HA</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA D3 S9</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="5" sum="€1,98" no="10" player="13373678"/>
+   <action type="3" sum="€1,98" no="11" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action type="4" sum="€0" no="12" player="977583"/>
+   <action type="5" sum="€4,59" no="13" player="13373678"/>
+   <action type="3" sum="€4,59" no="14" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+   <action type="4" sum="€0" no="15" player="977583"/>
+   <action type="5" sum="€10,65" no="16" player="13373678"/>
+   <action type="0" sum="€0" no="17" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672108958">
+  <general>
+   <startdate>2022-04-08 23:37:50</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,56" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€51,64" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€58,31" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€116,10" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€4,37" chips="€67,22" seat="8" dealer="1" bet="€7"/>
+    <player name="Haalleluja" win="€0" chips="€46,72" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S8 CA</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="4" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 SA D6</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="4" sum="€0" no="10" player="HerraVallaton"/>
+   <action type="5" sum="€1,50" no="11" player="977583"/>
+   <action type="3" sum="€1,50" no="12" player="Haalleluja"/>
+   <action type="0" sum="€0" no="13" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="4" sum="€0" no="15" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action type="4" sum="€0" no="16" player="Haalleluja"/>
+   <action type="5" sum="€5" no="17" player="977583"/>
+   <action type="0" sum="€0" no="18" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672109062">
+  <general>
+   <startdate>2022-04-08 23:38:32</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,06" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€51,64" seat="3" dealer="0" bet="€1,25"/>
+    <player name="13373678" win="€0" chips="€58,31" seat="5" dealer="0" bet="€19,25"/>
+    <player name="Stiimin" win="€0" chips="€116,10" seat="6" dealer="0" bet="€1,25"/>
+    <player name="977583" win="€41,22" chips="€69,59" seat="8" dealer="0" bet="€19,25"/>
+    <player name="Haalleluja" win="€0" chips="€44,72" seat="10" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 SA</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€1,25" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">CA HQ</cards>
+   <action type="3" sum="€1,25" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1,25" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 C6 HA</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="4" sum="€0" no="11" player="Stiimin"/>
+   <action type="5" sum="€6" no="12" player="977583"/>
+   <action type="0" sum="€0" no="13" player="Haalleluja"/>
+   <action type="0" sum="€0" no="14" player="KDJSon"/>
+   <action type="3" sum="€6" no="15" player="13373678"/>
+   <action type="0" sum="€0" no="16" player="Stiimin"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action type="4" sum="€0" no="17" player="13373678"/>
+   <action type="4" sum="€0" no="18" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action type="4" sum="€0" no="19" player="13373678"/>
+   <action type="5" sum="€12" no="20" player="977583"/>
+   <action type="3" sum="€12" no="21" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672109713">
+  <general>
+   <startdate>2022-04-08 23:39:42</startdate>
+   <players>
+    <player name="HerraVallaton" win="€2,81" chips="€86,81" seat="1" dealer="1" bet="€4,24"/>
+    <player name="KDJSon" win="€0" chips="€50,39" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€114,85" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€91,56" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€43,47" seat="10" dealer="0" bet="€1,07"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S2 D4</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 CK H7</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+   <action type="5" sum="€0,57" no="11" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="12" player="13373678"/>
+   <action type="3" sum="€0,57" no="13" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="5" sum="€3,17" no="15" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="16" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672109834">
+  <general>
+   <startdate>2022-04-08 23:40:38</startdate>
+   <players>
+    <player name="HerraVallaton" win="€38,54" chips="€88,55" seat="1" dealer="0" bet="€46,02"/>
+    <player name="KDJSon" win="€0" chips="€50,14" seat="3" dealer="1" bet="€1"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€1"/>
+    <player name="Stiimin" win="€0" chips="€114,85" seat="6" dealer="0" bet="€4,30"/>
+    <player name="977583" win="€0" chips="€91,56" seat="8" dealer="0" bet="€16,22"/>
+    <player name="Haalleluja" win="€0" chips="€42,40" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="3" sum="€1" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€1" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D4 D3</cards>
+   <action type="3" sum="€0,75" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S9 HJ</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="5" sum="€3,30" no="13" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="14" player="KDJSon"/>
+   <action type="0" sum="€0" no="15" player="13373678"/>
+   <action type="3" sum="€3,30" no="16" player="Stiimin"/>
+   <action type="3" sum="€3,30" no="17" player="977583"/>
+   <action type="0" sum="€0" no="18" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="4" sum="€0" no="19" player="Stiimin"/>
+   <action type="4" sum="€0" no="20" player="977583"/>
+   <action type="5" sum="€11,92" no="21" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="22" player="Stiimin"/>
+   <action type="3" sum="€11,92" no="23" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" sum="€0" no="24" player="977583"/>
+   <action type="5" sum="€29,80" no="25" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="26" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672111051">
+  <general>
+   <startdate>2022-04-08 23:42:19</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€110,87" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,55" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€5,10" chips="€75,34" seat="8" dealer="0" bet="€7,75"/>
+    <player name="Haalleluja" win="€0" chips="€41,40" seat="10" dealer="0" bet="€2,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S8 C7</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="4" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C10 CQ</cards>
+   <action type="5" sum="€2" no="9" player="977583"/>
+   <action type="3" sum="€2" no="10" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="5" sum="€5,25" no="11" player="977583"/>
+   <action type="0" sum="€0" no="12" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672111173">
+  <general>
+   <startdate>2022-04-08 23:43:12</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€110,87" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€2,91" chips="€50" seat="5" dealer="0" bet="€3,23"/>
+    <player name="Stiimin" win="€0" chips="€110,30" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€77,94" seat="8" dealer="0" bet="€1,25"/>
+    <player name="Haalleluja" win="€0" chips="€38,90" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HA C5</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C7 C6</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="4" sum="€0" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action type="4" sum="€0" no="13" player="977583"/>
+   <action type="5" sum="€1,98" no="14" player="13373678"/>
+   <action type="0" sum="€0" no="15" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672111266">
+  <general>
+   <startdate>2022-04-08 23:43:55</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€110,87" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€51,66" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,30" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,25" chips="€76,69" seat="8" dealer="1" bet="€1,50"/>
+    <player name="Haalleluja" win="€0" chips="€38,40" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S5 D2</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672111313">
+  <general>
+   <startdate>2022-04-08 23:44:17</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€110,37" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€51,66" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,30" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,25" chips="€77,44" seat="8" dealer="0" bet="€2"/>
+    <player name="Haalleluja" win="€0" chips="€38,15" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK D3</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€2" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672111361">
+  <general>
+   <startdate>2022-04-08 23:44:41</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€110,12" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€51,66" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€110,30" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€1,70" chips="€78,19" seat="8" dealer="0" bet="€3"/>
+    <player name="Haalleluja" win="€0" chips="€38,15" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D3 C8</cards>
+   <action type="4" sum="€0" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 D4 H10</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="5" sum="€2,50" no="11" player="977583"/>
+   <action type="0" sum="€0" no="12" player="13373678"/>
+   <action type="0" sum="€0" no="13" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672111449">
+  <general>
+   <startdate>2022-04-08 23:45:17</startdate>
+   <players>
+    <player name="HerraVallaton" win="€1,25" chips="€110,12" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€51,16" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0" chips="€109,80" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€79,39" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€38,15" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C2 DA</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="8" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672111496">
+  <general>
+   <startdate>2022-04-08 23:45:37</startdate>
+   <players>
+    <player name="HerraVallaton" win="€1,25" chips="€110,87" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50,91" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€109,30" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€79,39" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€38,15" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">CJ H5</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672111523">
+  <general>
+   <startdate>2022-04-08 23:45:49</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€111,62" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50,91" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€109,05" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€1" chips="€78,89" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€0" chips="€38,15" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C9 D4</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672111547">
+  <general>
+   <startdate>2022-04-08 23:46:02</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€111,62" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50,91" seat="5" dealer="0" bet="€5,52"/>
+    <player name="Stiimin" win="€0" chips="€109,05" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€79,39" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€11,20" chips="€37,65" seat="10" dealer="0" bet="€17,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C9 D9</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 S6 H5</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="5" sum="€0,99" no="10" player="13373678"/>
+   <action type="3" sum="€0,99" no="11" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="5" sum="€3,28" no="13" player="13373678"/>
+   <action type="3" sum="€3,28" no="14" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+   <action type="5" sum="€12" no="15" player="Haalleluja"/>
+   <action type="0" sum="€0" no="16" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672111658">
+  <general>
+   <startdate>2022-04-08 23:46:56</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€111,12" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€11,43"/>
+    <player name="Stiimin" win="€0" chips="€109,05" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€79,39" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€22,90" chips="€43,33" seat="10" dealer="1" bet="€11,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SA CA</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">D8 DQ</cards>
+   <action type="3" sum="€1,25" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D7 D6</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action type="5" sum="€1,62" no="11" player="13373678"/>
+   <action type="3" sum="€1,62" no="12" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action type="5" sum="€4,28" no="13" player="13373678"/>
+   <action type="23" sum="€8,56" no="14" player="Haalleluja"/>
+   <action type="3" sum="€4,28" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672111777">
+  <general>
+   <startdate>2022-04-08 23:47:46</startdate>
+   <players>
+    <player name="HerraVallaton" win="€4,61" chips="€110,87" seat="1" dealer="1" bet="€4,61"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€109,05" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€79,39" seat="8" dealer="0" bet="€2"/>
+    <player name="Haalleluja" win="€0" chips="€54,80" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€2" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C8 HQ</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€1,50" no="9" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D9 C10</cards>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="5" sum="€2,61" no="11" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="12" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672111896">
+  <general>
+   <startdate>2022-04-08 23:48:32</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€113,48" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€3"/>
+    <player name="Stiimin" win="€0" chips="€109,05" seat="6" dealer="0" bet="€1"/>
+    <player name="977583" win="€9,70" chips="€77,39" seat="8" dealer="0" bet="€7"/>
+    <player name="Haalleluja" win="€0" chips="€54,80" seat="10" dealer="0" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S4 SA</cards>
+   <action type="3" sum="€0,75" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C4 C7</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="5" sum="€2" no="11" player="977583"/>
+   <action type="3" sum="€2" no="12" player="Haalleluja"/>
+   <action type="3" sum="€2" no="13" player="13373678"/>
+   <action type="0" sum="€0" no="14" player="Stiimin"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="4" sum="€0" no="15" player="13373678"/>
+   <action type="4" sum="€0" no="16" player="977583"/>
+   <action type="4" sum="€0" no="17" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action type="4" sum="€0" no="18" player="13373678"/>
+   <action type="5" sum="€4" no="19" player="977583"/>
+   <action type="0" sum="€0" no="20" player="Haalleluja"/>
+   <action type="0" sum="€0" no="21" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672112296">
+  <general>
+   <startdate>2022-04-08 23:49:24</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€113,48" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€0,97" chips="€108,05" seat="6" dealer="0" bet="€1,20"/>
+    <player name="977583" win="€0" chips="€84,09" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€51,80" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S10 D4</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="4" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S2 SA</cards>
+   <action type="4" sum="€0" no="9" player="Stiimin"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="5" sum="€0,70" no="11" player="Stiimin"/>
+   <action type="0" sum="€0" no="12" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672112374">
+  <general>
+   <startdate>2022-04-08 23:49:56</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€113,48" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€5,82" chips="€50" seat="5" dealer="0" bet="€4,73"/>
+    <player name="Stiimin" win="€0" chips="€108,52" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€83,59" seat="8" dealer="0" bet="€2,75"/>
+    <player name="Haalleluja" win="€0" chips="€51,80" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C6 C4</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ DJ D5</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="5" sum="€1,50" no="12" player="13373678"/>
+   <action type="3" sum="€1,50" no="13" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="5" sum="€1,98" no="15" player="13373678"/>
+   <action type="0" sum="€0" no="16" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672112447">
+  <general>
+   <startdate>2022-04-08 23:50:33</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€113,48" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€53,07" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€108,52" seat="6" dealer="0" bet="€1,90"/>
+    <player name="977583" win="€4,66" chips="€80,84" seat="8" dealer="1" bet="€1,90"/>
+    <player name="Haalleluja" win="€0" chips="€51,30" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C9 D2</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">S6 SK</cards>
+   <action type="3" sum="€0,50" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">H9 DK</cards>
+   <action type="3" sum="€0,50" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="4" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D10 S3</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="4" sum="€0" no="10" player="HerraVallaton"/>
+   <action type="5" sum="€1,40" no="11" player="Stiimin"/>
+   <action type="3" sum="€1,40" no="12" player="977583"/>
+   <action type="0" sum="€0" no="13" player="Haalleluja"/>
+   <action type="0" sum="€0" no="14" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action type="4" sum="€0" no="15" player="Stiimin"/>
+   <action type="4" sum="€0" no="16" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action type="4" sum="€0" no="17" player="Stiimin"/>
+   <action type="4" sum="€0" no="18" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672112581">
+  <general>
+   <startdate>2022-04-08 23:51:32</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,98" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€1,22" chips="€50" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€53,07" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€106,62" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€83,60" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€50,80" seat="10" dealer="1" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H8 DQ</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">S5 S7</cards>
+   <action type="3" sum="€0,50" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">S6 H7</cards>
+   <action type="4" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C10 S2</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action type="4" sum="€0" no="11" player="KDJSon"/>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action type="4" sum="€0" no="13" player="KDJSon"/>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672112711">
+  <general>
+   <startdate>2022-04-08 23:52:27</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,73" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50,72" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€53,07" seat="5" dealer="0" bet="€1"/>
+    <player name="Stiimin" win="€0" chips="€106,62" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€83,60" seat="8" dealer="0" bet="€5"/>
+    <player name="Haalleluja" win="€10,91" chips="€50,30" seat="10" dealer="0" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">D8 D2</cards>
+   <action type="3" sum="€0,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">C5 CK</cards>
+   <action type="23" sum="€1" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H7 HQ</cards>
+   <action type="3" sum="€0,50" no="8" player="13373678"/>
+   <action type="3" sum="€0,50" no="9" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C9 S7</cards>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="5" sum="€4" no="15" player="Haalleluja"/>
+   <action type="0" sum="€0" no="16" player="13373678"/>
+   <action type="3" sum="€4" no="17" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action type="4" sum="€0" no="18" player="977583"/>
+   <action type="4" sum="€0" no="19" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672114317">
+  <general>
+   <startdate>2022-04-08 23:53:30</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,73" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50,47" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€52,07" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0,50" chips="€106,62" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€78,60" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€56,21" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S8 HQ</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672114353">
+  <general>
+   <startdate>2022-04-08 23:53:44</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,73" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50,47" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€13,86" chips="€51,82" seat="5" dealer="1" bet="€24,88"/>
+    <player name="Stiimin" win="€0" chips="€106,87" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€78,60" seat="8" dealer="0" bet="€7,02"/>
+    <player name="Haalleluja" win="€0" chips="€56,21" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HK H9</cards>
+   <action type="23" sum="€1,25" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C4 S9</cards>
+   <action type="5" sum="€2" no="9" player="977583"/>
+   <action type="23" sum="€5,77" no="10" player="13373678"/>
+   <action type="3" sum="€3,77" no="11" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="4" sum="€0" no="12" player="977583"/>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="5" sum="€17,86" no="15" player="13373678"/>
+   <action type="0" sum="€0" no="16" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672114542">
+  <general>
+   <startdate>2022-04-08 23:55:17</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,73" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50,47" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€58,66" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€106,62" seat="6" dealer="1" bet="€1"/>
+    <player name="977583" win="€0" chips="€71,58" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€2,91" chips="€56,21" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D8 S9</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="Haalleluja"/>
+   <action type="3" sum="€0,50" no="9" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 D4 D10</cards>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="4" sum="€0" no="12" player="Stiimin"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action type="4" sum="€0" no="13" player="977583"/>
+   <action type="5" sum="€1" no="14" player="Haalleluja"/>
+   <action type="0" sum="€0" no="15" player="Stiimin"/>
+   <action type="0" sum="€0" no="16" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672114627">
+  <general>
+   <startdate>2022-04-08 23:55:54</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€112,73" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€50,47" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€58,66" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€105,62" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,22" chips="€70,58" seat="8" dealer="1" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€58,12" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S2 C8</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">H9 S9</cards>
+   <action type="3" sum="€0,50" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">D10 S3</cards>
+   <action type="4" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 C6 DA</cards>
+   <action type="4" sum="€0" no="9" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action type="4" sum="€0" no="11" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="12" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action type="4" sum="€0" no="13" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="14" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672114704">
+  <general>
+   <startdate>2022-04-08 23:56:31</startdate>
+   <players>
+    <player name="HerraVallaton" win="€30,12" chips="€112,23" seat="1" dealer="0" bet="€9,52"/>
+    <player name="KDJSon" win="€0" chips="€50,47" seat="3" dealer="0" bet="€1,25"/>
+    <player name="13373678" win="€0" chips="€58,66" seat="5" dealer="0" bet="€9,52"/>
+    <player name="Stiimin" win="€0" chips="€105,62" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€71,30" seat="8" dealer="0" bet="€1,25"/>
+    <player name="Haalleluja" win="€0" chips="€57,87" seat="10" dealer="1" bet="€9,52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA SK</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1,25" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">CA CK</cards>
+   <action type="3" sum="€1,25" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">S5 H5</cards>
+   <action type="3" sum="€1" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€0,75" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ DK C5</cards>
+   <action type="4" sum="€0" no="9" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="10" player="KDJSon"/>
+   <action type="5" sum="€2,06" no="11" player="13373678"/>
+   <action type="0" sum="€0" no="12" player="977583"/>
+   <action type="3" sum="€2,06" no="13" player="Haalleluja"/>
+   <action type="3" sum="€2,06" no="14" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="15" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action type="4" sum="€0" no="16" player="HerraVallaton"/>
+   <action type="5" sum="€6,21" no="17" player="13373678"/>
+   <action type="3" sum="€6,21" no="18" player="Haalleluja"/>
+   <action type="3" sum="€6,21" no="19" player="HerraVallaton"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action type="4" sum="€0" no="20" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="21" player="13373678"/>
+   <action type="4" sum="€0" no="22" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672114840">
+  <general>
+   <startdate>2022-04-08 23:57:36</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€132,83" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0,50" chips="€50" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€105,62" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€70,05" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€48,35" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C4 CA</cards>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672114893">
+  <general>
+   <startdate>2022-04-08 23:58:04</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€132,83" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="1" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€50,25" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€1,94" chips="€105,62" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€70,05" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€48,35" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">S8 C7</cards>
+   <action type="3" sum="€0,50" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">S4 H4</cards>
+   <action type="3" sum="€0,50" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C3 D3</cards>
+   <action type="3" sum="€0,25" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">CK C8</cards>
+   <action type="4" sum="€0" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S6 C5</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="4" sum="€0" no="12" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="Stiimin"/>
+   <action type="4" sum="€0" no="15" player="Haalleluja"/>
+   <action type="4" sum="€0" no="16" player="KDJSon"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action type="4" sum="€0" no="17" player="13373678"/>
+   <action type="4" sum="€0" no="18" player="Stiimin"/>
+   <action type="4" sum="€0" no="19" player="Haalleluja"/>
+   <action type="4" sum="€0" no="20" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672115029">
+  <general>
+   <startdate>2022-04-08 23:59:07</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€132,83" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="1" bet="€8"/>
+    <player name="Stiimin" win="€0" chips="€107,06" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€70,05" seat="8" dealer="0" bet="€2"/>
+    <player name="Haalleluja" win="€17,70" chips="€47,85" seat="10" dealer="0" bet="€26,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DQ SQ</cards>
+   <action type="23" sum="€2" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1,50" no="8" player="977583"/>
+   <action type="23" sum="€8" no="9" player="Haalleluja"/>
+   <action type="3" sum="€6" no="10" player="13373678"/>
+   <action type="0" sum="€0" no="11" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 CA S4</cards>
+   <action type="5" sum="€18,25" no="12" player="Haalleluja"/>
+   <action type="0" sum="€0" no="13" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672115134">
+  <general>
+   <startdate>2022-04-08 23:59:57</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€132,83" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€106,81" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€1,94" chips="€68,05" seat="8" dealer="0" bet="€3"/>
+    <player name="Haalleluja" win="€0" chips="€57,55" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H8 DQ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 S2 C7</cards>
+   <action type="5" sum="€2" no="9" player="977583"/>
+   <action type="0" sum="€0" no="10" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672115203">
+  <general>
+   <startdate>2022-04-09 00:00:28</startdate>
+   <players>
+    <player name="HerraVallaton" win="€2,90" chips="€132,83" seat="1" dealer="0" bet="€4,65"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€106,81" seat="6" dealer="0" bet="€1,37"/>
+    <player name="977583" win="€0" chips="€68,99" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€56,55" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C8 D6</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="4" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 H5 C5</cards>
+   <action type="4" sum="€0" no="9" player="HerraVallaton"/>
+   <action type="5" sum="€0,87" no="10" player="Stiimin"/>
+   <action type="3" sum="€0,87" no="11" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="4" sum="€0" no="12" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="13" player="Stiimin"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action type="5" sum="€3,28" no="14" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="15" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672115258">
+  <general>
+   <startdate>2022-04-09 00:00:58</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€134,36" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€2,75"/>
+    <player name="Stiimin" win="€0" chips="€105,44" seat="6" dealer="0" bet="€2,75"/>
+    <player name="977583" win="€0" chips="€68,99" seat="8" dealer="0" bet="€8,75"/>
+    <player name="Haalleluja" win="€23,04" chips="€56,30" seat="10" dealer="1" bet="€8,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HK CA</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€1,25" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">C8 HA</cards>
+   <action type="3" sum="€1,25" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">SQ HQ</cards>
+   <action type="3" sum="€1,25" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 C4 C2</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="5" sum="€1,50" no="12" player="Haalleluja"/>
+   <action type="3" sum="€1,50" no="13" player="13373678"/>
+   <action type="3" sum="€1,50" no="14" player="Stiimin"/>
+   <action type="3" sum="€1,50" no="15" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action type="4" sum="€0" no="16" player="13373678"/>
+   <action type="4" sum="€0" no="17" player="Stiimin"/>
+   <action type="4" sum="€0" no="18" player="977583"/>
+   <action type="4" sum="€0" no="19" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" sum="€0" no="20" player="13373678"/>
+   <action type="4" sum="€0" no="21" player="Stiimin"/>
+   <action type="5" sum="€6" no="22" player="977583"/>
+   <action type="3" sum="€6" no="23" player="Haalleluja"/>
+   <action type="0" sum="€0" no="24" player="13373678"/>
+   <action type="0" sum="€0" no="25" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672115444">
+  <general>
+   <startdate>2022-04-09 00:02:26</startdate>
+   <players>
+    <player name="HerraVallaton" win="€6,07" chips="€134,11" seat="1" dealer="1" bet="€5,43"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€2"/>
+    <player name="Stiimin" win="€0" chips="€102,69" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€60,24" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€70,59" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€2" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D8 D5</cards>
+   <action type="3" sum="€1,50" no="8" player="13373678"/>
+   <action type="3" sum="€1,50" no="9" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 HA C6</cards>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="4" sum="€0" no="12" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="5" sum="€3,43" no="15" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="16" player="13373678"/>
+   <action type="0" sum="€0" no="17" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672115584">
+  <general>
+   <startdate>2022-04-09 00:03:33</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€138,18" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="1" bet="€8"/>
+    <player name="13373678" win="€0" chips="€50" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0" chips="€102,69" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€60,24" seat="8" dealer="0" bet="€2"/>
+    <player name="Haalleluja" win="€18,19" chips="€68,59" seat="10" dealer="0" bet="€14"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€2" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€2" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€8" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D3 CQ</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="8" player="Stiimin"/>
+   <action type="0" sum="€0" no="9" player="977583"/>
+   <action type="3" sum="€6" no="10" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C10 SQ</cards>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="4" sum="€0" no="12" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action type="5" sum="€6" no="13" player="Haalleluja"/>
+   <action type="0" sum="€0" no="14" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672115865">
+  <general>
+   <startdate>2022-04-09 00:04:42</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€138,18" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€6,99" chips="€50" seat="5" dealer="1" bet="€5,72"/>
+    <player name="Stiimin" win="€0" chips="€102,19" seat="6" dealer="0" bet="€3,35"/>
+    <player name="977583" win="€0" chips="€58,24" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€78,78" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H9 D10</cards>
+   <action type="23" sum="€1,25" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€1" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 SA S9</cards>
+   <action type="4" sum="€0" no="9" player="Stiimin"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="5" sum="€2,10" no="11" player="Stiimin"/>
+   <action type="3" sum="€2,10" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action type="4" sum="€0" no="13" player="Stiimin"/>
+   <action type="5" sum="€2,37" no="14" player="13373678"/>
+   <action type="0" sum="€0" no="15" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672115930">
+  <general>
+   <startdate>2022-04-09 00:05:14</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€138,18" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€53,64" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€98,84" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€1" chips="€57,74" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€0" chips="€78,78" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H8 C4</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672115954">
+  <general>
+   <startdate>2022-04-09 00:05:26</startdate>
+   <players>
+    <player name="HerraVallaton" win="€33,08" chips="€138,18" seat="1" dealer="0" bet="€13,93"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€53,64" seat="5" dealer="0" bet="€1,25"/>
+    <player name="Stiimin" win="€0" chips="€98,84" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€58,24" seat="8" dealer="1" bet="€5"/>
+    <player name="Haalleluja" win="€0" chips="€78,28" seat="10" dealer="0" bet="€13,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S7 H7</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1,25" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">CA SQ</cards>
+   <action type="3" sum="€1" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">D4 D3</cards>
+   <action type="3" sum="€0,75" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H6 C8</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="4" sum="€0" no="10" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+   <action type="4" sum="€0" no="12" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action type="4" sum="€0" no="13" player="Haalleluja"/>
+   <action type="5" sum="€3,75" no="14" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="15" player="13373678"/>
+   <action type="3" sum="€3,75" no="16" player="977583"/>
+   <action type="3" sum="€3,75" no="17" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action type="4" sum="€0" no="18" player="Haalleluja"/>
+   <action type="5" sum="€8,93" no="19" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="20" player="977583"/>
+   <action type="3" sum="€8,93" no="21" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672116064">
+  <general>
+   <startdate>2022-04-09 00:06:19</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,33" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€2"/>
+    <player name="13373678" win="€0" chips="€52,39" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€14,54" chips="€98,84" seat="6" dealer="0" bet="€16,86"/>
+    <player name="977583" win="€0" chips="€53,24" seat="8" dealer="0" bet="€6,37"/>
+    <player name="Haalleluja" win="€0" chips="€64,35" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D4 S2</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€2" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€2" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€1,50" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 S10 C3</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="5" sum="€4,37" no="10" player="Stiimin"/>
+   <action type="3" sum="€4,37" no="11" player="977583"/>
+   <action type="0" sum="€0" no="12" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="4" sum="€0" no="13" player="Stiimin"/>
+   <action type="4" sum="€0" no="14" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action type="5" sum="€10,49" no="15" player="Stiimin"/>
+   <action type="0" sum="€0" no="16" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672116156">
+  <general>
+   <startdate>2022-04-09 00:07:01</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,08" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€52,39" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€107,01" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,25" chips="€46,87" seat="8" dealer="0" bet="€1,50"/>
+    <player name="Haalleluja" win="€0" chips="€64,35" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SQ C2</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672117110">
+  <general>
+   <startdate>2022-04-09 00:07:23</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,08" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€51,89" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0,50" chips="€107,01" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€47,62" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€64,35" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C2 S7</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672117138">
+  <general>
+   <startdate>2022-04-09 00:07:37</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,08" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€51,64" seat="5" dealer="1" bet="€1,50"/>
+    <player name="Stiimin" win="€0" chips="€107,26" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€47,62" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€3,64" chips="€64,35" seat="10" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">S6 S8</cards>
+   <action type="23" sum="€1,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">CK C8</cards>
+   <action type="3" sum="€1,50" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S10 SA</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="4" sum="€0" no="12" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action type="4" sum="€0" no="13" player="Haalleluja"/>
+   <action type="4" sum="€0" no="14" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672117243">
+  <general>
+   <startdate>2022-04-09 00:08:23</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,08" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€1,50"/>
+    <player name="13373678" win="€0" chips="€50,14" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€107,01" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€8,73" chips="€47,12" seat="8" dealer="0" bet="€14,75"/>
+    <player name="Haalleluja" win="€0" chips="€66,49" seat="10" dealer="0" bet="€3,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SQ HJ</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1" no="8" player="Haalleluja"/>
+   <action type="3" sum="€0,50" no="9" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H3 H7</cards>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="5" sum="€2,25" no="11" player="Haalleluja"/>
+   <action type="0" sum="€0" no="12" player="KDJSon"/>
+   <action type="3" sum="€2,25" no="13" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="4" sum="€0" no="15" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action type="5" sum="€11" no="16" player="977583"/>
+   <action type="0" sum="€0" no="17" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672117354">
+  <general>
+   <startdate>2022-04-09 00:09:17</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€157,08" seat="1" dealer="0" bet="€17,28"/>
+    <player name="KDJSon" win="€0" chips="€50" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€33,76" chips="€50,14" seat="5" dealer="0" bet="€17,28"/>
+    <player name="Stiimin" win="€0" chips="€107,01" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€52,10" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€62,74" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DA HQ</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">H7 D7</cards>
+   <action type="3" sum="€0,75" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK H4 S3</cards>
+   <action type="4" sum="€0" no="9" player="HerraVallaton"/>
+   <action type="5" sum="€1,81" no="10" player="13373678"/>
+   <action type="3" sum="€1,81" no="11" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action type="4" sum="€0" no="12" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action type="4" sum="€0" no="14" player="HerraVallaton"/>
+   <action type="5" sum="€4,20" no="15" player="13373678"/>
+   <action type="23" sum="€14,22" no="16" player="HerraVallaton"/>
+   <action type="3" sum="€10,02" no="17" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672117492">
+  <general>
+   <startdate>2022-04-09 00:10:22</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€139,80" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€4,61" chips="€50" seat="3" dealer="0" bet="€5,06"/>
+    <player name="13373678" win="€0" chips="€66,62" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€107,01" seat="6" dealer="0" bet="€1,50"/>
+    <player name="977583" win="€0" chips="€52,10" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€62,49" seat="10" dealer="1" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HQ D7</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1,50" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€1" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 HJ CK</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action type="5" sum="€3,56" no="12" player="KDJSon"/>
+   <action type="0" sum="€0" no="13" player="Stiimin"/>
+   <action type="0" sum="€0" no="14" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672117581">
+  <general>
+   <startdate>2022-04-09 00:11:02</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€139,55" seat="1" dealer="1" bet="€2"/>
+    <player name="KDJSon" win="€0" chips="€53,11" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€66,62" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€105,51" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€52,10" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€4,75" chips="€60,99" seat="10" dealer="0" bet="€7"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€2" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H7 CA</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="23" sum="€7" no="9" player="Haalleluja"/>
+   <action type="0" sum="€0" no="10" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672117673">
+  <general>
+   <startdate>2022-04-09 00:11:45</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€137,55" seat="1" dealer="0" bet="€21,50"/>
+    <player name="KDJSon" win="€0" chips="€52,86" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€66,12" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0" chips="€105,51" seat="6" dealer="0" bet="€3,50"/>
+    <player name="977583" win="€45,34" chips="€52,10" seat="8" dealer="0" bet="€52,10"/>
+    <player name="Haalleluja" win="€0" chips="€63,74" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€3,50" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D9 S5</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€3" no="8" player="Stiimin"/>
+   <action type="3" sum="€2,50" no="9" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 DJ H5</cards>
+   <action type="4" sum="€0" no="10" player="Stiimin"/>
+   <action type="5" sum="€8,50" no="11" player="977583"/>
+   <action type="3" sum="€8,50" no="12" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="13" player="Stiimin"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="5" sum="€9,50" no="15" player="HerraVallaton"/>
+   <action type="3" sum="€9,50" no="16" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action type="5" sum="€30,60" no="17" player="977583"/>
+   <action type="0" sum="€0" no="18" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672118054">
+  <general>
+   <startdate>2022-04-09 00:13:32</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€116,05" seat="1" dealer="0" bet="€8,75"/>
+    <player name="KDJSon" win="€0" chips="€52,86" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€65,87" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€17,46" chips="€102,01" seat="6" dealer="0" bet="€26,75"/>
+    <player name="977583" win="€0" chips="€75,94" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€63,74" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H6 C10</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€3,50" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+   <action type="3" sum="€2,25" no="9" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ S2 C5</cards>
+   <action type="5" sum="€5,25" no="10" player="Stiimin"/>
+   <action type="3" sum="€5,25" no="11" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action type="5" sum="€18" no="12" player="Stiimin"/>
+   <action type="0" sum="€0" no="13" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672118163">
+  <general>
+   <startdate>2022-04-09 00:14:24</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€107,30" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€52,86" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€65,87" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€75,44" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€1,94" chips="€63,74" seat="10" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SK H4</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">C4 C6</cards>
+   <action type="3" sum="€0,25" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">D3 CQ</cards>
+   <action type="4" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 SQ S9</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="5" sum="€0,50" no="12" player="Haalleluja"/>
+   <action type="3" sum="€0,50" no="13" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="4" sum="€0" no="15" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672118244">
+  <general>
+   <startdate>2022-04-09 00:15:00</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€107,30" seat="1" dealer="0" bet="€2"/>
+    <player name="KDJSon" win="€0" chips="€52,86" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€65,87" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€74,44" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€3,88" chips="€64,68" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HJ D2</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">H6 CA</cards>
+   <action type="3" sum="€0,25" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">S9 SQ</cards>
+   <action type="23" sum="€2" no="8" player="HerraVallaton"/>
+   <action type="3" sum="€1,50" no="9" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 D3 H7</cards>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+   <action type="4" sum="€0" no="11" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="4" sum="€0" no="13" player="HerraVallaton"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="4" sum="€0" no="15" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672118335">
+  <general>
+   <startdate>2022-04-09 00:15:49</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,30" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€52,86" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€65,87" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€1,25" chips="€110,72" seat="6" dealer="0" bet="€1,50"/>
+    <player name="977583" win="€0" chips="€74,44" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€66,56" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 H4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672118389">
+  <general>
+   <startdate>2022-04-09 00:16:15</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,05" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€52,36" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0,50" chips="€65,87" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€111,47" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€74,44" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€66,56" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S2 CJ</cards>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672118436">
+  <general>
+   <startdate>2022-04-09 00:16:38</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€4,61" chips="€52,11" seat="3" dealer="1" bet="€5,56"/>
+    <player name="13373678" win="€0" chips="€66,12" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€0" chips="€111,47" seat="6" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€74,44" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€66,56" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€2" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C10 C4</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="8" player="Stiimin"/>
+   <action type="3" sum="€1,50" no="9" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H4 H3</cards>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+   <action type="5" sum="€3,56" no="11" player="KDJSon"/>
+   <action type="0" sum="€0" no="12" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672118493">
+  <general>
+   <startdate>2022-04-09 00:17:10</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€54,72" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€4,61" chips="€65,87" seat="5" dealer="1" bet="€5,13"/>
+    <player name="Stiimin" win="€0" chips="€110,97" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€74,44" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€64,56" seat="10" dealer="0" bet="€2"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DA SQ</cards>
+   <action type="23" sum="€2" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+   <action type="3" sum="€1,50" no="9" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C4 S2</cards>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+   <action type="4" sum="€0" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="5" sum="€3,13" no="13" player="13373678"/>
+   <action type="0" sum="€0" no="14" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672118601">
+  <general>
+   <startdate>2022-04-09 00:18:03</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€54,72" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€5,33" chips="€68,48" seat="5" dealer="0" bet="€2,62"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€73,94" seat="8" dealer="0" bet="€0,25"/>
+    <player name="Haalleluja" win="€0" chips="€62,56" seat="10" dealer="0" bet="€2,62"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DK D3</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">C10 SQ</cards>
+   <action type="3" sum="€0,75" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK SJ H4</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+   <action type="5" sum="€1,37" no="12" player="13373678"/>
+   <action type="3" sum="€1,37" no="13" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="4" sum="€0" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672118663">
+  <general>
+   <startdate>2022-04-09 00:18:37</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€105,05" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€54,72" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€71,19" seat="5" dealer="0" bet="€3,37"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€73,69" seat="8" dealer="1" bet="€1,25"/>
+    <player name="Haalleluja" win="€8,24" chips="€59,94" seat="10" dealer="0" bet="€3,37"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SK HK</cards>
+   <action type="23" sum="€1,25" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1,25" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">HA D4</cards>
+   <action type="3" sum="€1" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 H5 CA</cards>
+   <action type="5" sum="€2,12" no="9" player="Haalleluja"/>
+   <action type="3" sum="€2,12" no="10" player="13373678"/>
+   <action type="0" sum="€0" no="11" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+   <action type="4" sum="€0" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672118776">
+  <general>
+   <startdate>2022-04-09 00:19:29</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,55" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€54,72" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€67,82" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,22" chips="€72,44" seat="8" dealer="0" bet="€1,75"/>
+    <player name="Haalleluja" win="€0" chips="€64,81" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 HA</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="4" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 S9 DQ</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="5" sum="€1,25" no="10" player="977583"/>
+   <action type="0" sum="€0" no="11" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672119037">
+  <general>
+   <startdate>2022-04-09 00:20:04</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,30" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€54,22" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0,50" chips="€67,82" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€73,16" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€64,81" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CK DA</cards>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672119073">
+  <general>
+   <startdate>2022-04-09 00:20:21</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,30" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€53,97" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€6,99" chips="€68,07" seat="5" dealer="0" bet="€8,35"/>
+    <player name="Stiimin" win="€0" chips="€110,72" seat="6" dealer="0" bet="€3,60"/>
+    <player name="977583" win="€0" chips="€73,16" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€64,81" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HQ H9</cards>
+   <action type="23" sum="€1,50" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€1" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ DK D8</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="5" sum="€2,10" no="10" player="Stiimin"/>
+   <action type="3" sum="€2,10" no="11" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" sum="€4,75" no="12" player="13373678"/>
+   <action type="0" sum="€0" no="13" player="Stiimin"/>
+  </round>
+ </game>
+ <game gamecode="3672119167">
+  <general>
+   <startdate>2022-04-09 00:21:00</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,30" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€53,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€71,46" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€6,31" chips="€107,12" seat="6" dealer="0" bet="€9,50"/>
+    <player name="977583" win="€0" chips="€73,16" seat="8" dealer="0" bet="€3"/>
+    <player name="Haalleluja" win="€0" chips="€64,81" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D5 S7</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,25" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="4" sum="€0" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 CK C9</cards>
+   <action type="4" sum="€0" no="9" player="Stiimin"/>
+   <action type="5" sum="€2,50" no="10" player="977583"/>
+   <action type="0" sum="€0" no="11" player="Haalleluja"/>
+   <action type="3" sum="€2,50" no="12" player="Stiimin"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" sum="€6,50" no="13" player="Stiimin"/>
+   <action type="0" sum="€0" no="14" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672119252">
+  <general>
+   <startdate>2022-04-09 00:21:45</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,30" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€53,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€5,82" chips="€71,46" seat="5" dealer="0" bet="€2,75"/>
+    <player name="Stiimin" win="€0" chips="€110,43" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€70,16" seat="8" dealer="0" bet="€2,75"/>
+    <player name="Haalleluja" win="€0" chips="€64,31" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D10 SQ</cards>
+   <action type="23" sum="€1,25" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">D9 D2</cards>
+   <action type="3" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="8" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ C10 H5</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="5" sum="€1,50" no="12" player="13373678"/>
+   <action type="3" sum="€1,50" no="13" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action type="4" sum="€0" no="14" player="977583"/>
+   <action type="4" sum="€0" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672119359">
+  <general>
+   <startdate>2022-04-09 00:22:40</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€104,30" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€53,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€74,53" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€3,40" chips="€110,43" seat="6" dealer="0" bet="€3,95"/>
+    <player name="977583" win="€0" chips="€67,41" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€63,81" seat="10" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">SK H5</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H2 CJ</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="5" sum="€2,45" no="10" player="Stiimin"/>
+   <action type="0" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672120267">
+  <general>
+   <startdate>2022-04-09 00:23:13</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€103,80" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€53,97" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€74,53" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€112,33" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,22" chips="€67,41" seat="8" dealer="0" bet="€2,50"/>
+    <player name="Haalleluja" win="€0" chips="€62,31" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DQ C7</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="4" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SK H9</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="5" sum="€2" no="10" player="977583"/>
+   <action type="0" sum="€0" no="11" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672120347">
+  <general>
+   <startdate>2022-04-09 00:23:48</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€103,55" seat="1" dealer="1" bet="€1,50"/>
+    <player name="KDJSon" win="€0" chips="€53,47" seat="3" dealer="0" bet="€1,50"/>
+    <player name="13373678" win="€0" chips="€74,53" seat="5" dealer="0" bet="€0,50"/>
+    <player name="Stiimin" win="€0" chips="€112,33" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€4,85" chips="€68,13" seat="8" dealer="0" bet="€4"/>
+    <player name="Haalleluja" win="€0" chips="€62,31" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H6 CK</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€1" no="9" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C7 C4</cards>
+   <action type="4" sum="€0" no="10" player="KDJSon"/>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="4" sum="€0" no="12" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action type="4" sum="€0" no="13" player="KDJSon"/>
+   <action type="5" sum="€2,50" no="14" player="977583"/>
+   <action type="0" sum="€0" no="15" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="16" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672120562">
+  <general>
+   <startdate>2022-04-09 00:24:32</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€102,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,97" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€74,03" seat="5" dealer="0" bet="€0,25"/>
+    <player name="Stiimin" win="€9,76" chips="€112,33" seat="6" dealer="0" bet="€3,27"/>
+    <player name="977583" win="€0" chips="€71,48" seat="8" dealer="0" bet="€3,27"/>
+    <player name="Haalleluja" win="€0" chips="€62,31" seat="10" dealer="0" bet="€3,27"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="Stiimin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">SQ S3</cards>
+   <action type="23" sum="€1" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">S6 S5</cards>
+   <action type="3" sum="€1" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S4 D10</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">HQ H9</cards>
+   <action type="3" sum="€0,50" no="8" player="Stiimin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H6 C5</cards>
+   <action type="4" sum="€0" no="9" player="Stiimin"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="4" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action type="4" sum="€0" no="12" player="Stiimin"/>
+   <action type="4" sum="€0" no="13" player="977583"/>
+   <action type="4" sum="€0" no="14" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action type="5" sum="€2,27" no="15" player="Stiimin"/>
+   <action type="3" sum="€2,27" no="16" player="977583"/>
+   <action type="3" sum="€2,27" no="17" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672120617">
+  <general>
+   <startdate>2022-04-09 00:25:08</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€102,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€73,78" seat="5" dealer="1" bet="€0"/>
+    <player name="Stiimin" win="€30,93" chips="€118,82" seat="6" dealer="0" bet="€31,18"/>
+    <player name="977583" win="€0" chips="€68,21" seat="8" dealer="0" bet="€1"/>
+    <player name="Haalleluja" win="€30,93" chips="€59,04" seat="10" dealer="0" bet="€31,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Stiimin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">CA DQ</cards>
+   <action type="3" sum="€0,50" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D7 SQ</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">H7 C7</cards>
+   <action type="3" sum="€0,25" no="7" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="8" player="977583"/>
+   <action type="23" sum="€5" no="9" player="Haalleluja"/>
+   <action type="3" sum="€4,50" no="10" player="Stiimin"/>
+   <action type="0" sum="€0" no="11" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S8 C2</cards>
+   <action type="4" sum="€0" no="12" player="Stiimin"/>
+   <action type="4" sum="€0" no="13" player="Haalleluja"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action type="5" sum="€7,70" no="14" player="Stiimin"/>
+   <action type="3" sum="€7,70" no="15" player="Haalleluja"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action type="5" sum="€18,48" no="16" player="Stiimin"/>
+   <action type="3" sum="€18,48" no="17" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672120736">
+  <general>
+   <startdate>2022-04-09 00:26:06</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€102,05" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€73,78" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€118,57" seat="6" dealer="1" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€67,21" seat="8" dealer="0" bet="€1,50"/>
+    <player name="Haalleluja" win="€3,50" chips="€58,79" seat="10" dealer="0" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D7 H2</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="3" sum="€0,50" no="6" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="23" sum="€5" no="8" player="Haalleluja"/>
+   <action type="0" sum="€0" no="9" player="Stiimin"/>
+   <action type="0" sum="€0" no="10" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672120801">
+  <general>
+   <startdate>2022-04-09 00:26:42</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€102,05" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€51,97" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€73,78" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€3,40" chips="€118,07" seat="6" dealer="0" bet="€3,95"/>
+    <player name="977583" win="€0" chips="€65,71" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€60,79" seat="10" dealer="0" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C10 D9</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€1,25" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 C9 DK</cards>
+   <action type="4" sum="€0" no="9" player="Haalleluja"/>
+   <action type="5" sum="€2,45" no="10" player="Stiimin"/>
+   <action type="0" sum="€0" no="11" player="Haalleluja"/>
+  </round>
+ </game>
+ <game gamecode="3672120873">
+  <general>
+   <startdate>2022-04-09 00:27:25</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€101,55" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€51,97" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€73,78" seat="5" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€1,25" chips="€119,97" seat="6" dealer="0" bet="€2"/>
+    <player name="977583" win="€0" chips="€65,71" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€59,29" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D10 C9</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="23" sum="€2" no="4" player="Stiimin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672120924">
+  <general>
+   <startdate>2022-04-09 00:27:49</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€101,30" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,47" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€7,31" chips="€73,78" seat="5" dealer="0" bet="€3,64"/>
+    <player name="977583" win="€0" chips="€65,71" seat="8" dealer="0" bet="€3,64"/>
+    <player name="Haalleluja" win="€0" chips="€59,29" seat="10" dealer="0" bet="€0"/>
+    <player name="Stiimin" win="€0" chips="€120,72" seat="6" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Stiimin">X X</cards>
+   <action type="0" sum="€0" no="3" player="Stiimin"/>
+   <cards type="Pocket" player="977583">CQ D10</cards>
+   <action type="23" sum="€1,50" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C2 S2</cards>
+   <action type="3" sum="€1" no="8" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C9 H4</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action type="5" sum="€2,14" no="11" player="13373678"/>
+   <action type="3" sum="€2,14" no="12" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="4" sum="€0" no="14" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672121005">
+  <general>
+   <startdate>2022-04-09 00:28:30</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€101,30" seat="1" dealer="0" bet="€1"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€77,45" seat="5" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€62,07" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€2,67" chips="€59,29" seat="10" dealer="0" bet="€3,75"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="23" sum="€1" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="3" sum="€1" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S7 CK</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="7" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK C9 C2</cards>
+   <action type="5" sum="€2,75" no="8" player="Haalleluja"/>
+   <action type="0" sum="€0" no="9" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672121049">
+  <general>
+   <startdate>2022-04-09 00:28:55</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€100,30" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€77,20" seat="5" dealer="1" bet="€0"/>
+    <player name="977583" win="€3,64" chips="€61,57" seat="8" dealer="0" bet="€5,75"/>
+    <player name="Haalleluja" win="€0" chips="€60,96" seat="10" dealer="0" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H9 H6</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="3" sum="€0,75" no="7" player="Haalleluja"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S5 SA</cards>
+   <action type="5" sum="€4,50" no="8" player="977583"/>
+   <action type="0" sum="€0" no="9" player="Haalleluja"/>
+   <action type="0" sum="€0" no="10" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672121138">
+  <general>
+   <startdate>2022-04-09 00:29:49</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0,97" chips="€99,05" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€77,20" seat="5" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€63,96" seat="8" dealer="1" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€59,71" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S3 CJ</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">H3 HK</cards>
+   <action type="3" sum="€0,25" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">S6 H8</cards>
+   <action type="4" sum="€0" no="7" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 HA S8</cards>
+   <action type="4" sum="€0" no="8" player="Haalleluja"/>
+   <action type="4" sum="€0" no="9" player="HerraVallaton"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action type="4" sum="€0" no="10" player="Haalleluja"/>
+   <action type="4" sum="€0" no="11" player="HerraVallaton"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action type="4" sum="€0" no="12" player="Haalleluja"/>
+   <action type="4" sum="€0" no="13" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672121214">
+  <general>
+   <startdate>2022-04-09 00:30:33</startdate>
+   <players>
+    <player name="HerraVallaton" win="€1" chips="€99,52" seat="1" dealer="0" bet="€1,50"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€77,20" seat="5" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€63,96" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€59,21" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C2 SJ</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="4" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="5" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672121253">
+  <general>
+   <startdate>2022-04-09 00:30:53</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€100,02" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€1" chips="€50,72" seat="3" dealer="0" bet="€1,50"/>
+    <player name="13373678" win="€0" chips="€77,20" seat="5" dealer="0" bet="€0,50"/>
+    <player name="977583" win="€0" chips="€63,96" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€59,21" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1,50" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C7 HK</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672121297">
+  <general>
+   <startdate>2022-04-09 00:31:18</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€100,02" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€8,25" chips="€76,70" seat="5" dealer="0" bet="€14,62"/>
+    <player name="KaukoRandelin" win="€0" chips="€50" seat="6" dealer="0" bet="€1,50"/>
+    <player name="977583" win="€0" chips="€63,96" seat="8" dealer="0" bet="€3,50"/>
+    <player name="Haalleluja" win="€0" chips="€59,21" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="KaukoRandelin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="3" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="4" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C5 H5</cards>
+   <action type="3" sum="€1,25" no="7" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="3" sum="€1" no="8" player="KaukoRandelin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S3 SK</cards>
+   <action type="4" sum="€0" no="9" player="13373678"/>
+   <action type="4" sum="€0" no="10" player="KaukoRandelin"/>
+   <action type="5" sum="€2" no="11" player="977583"/>
+   <action type="23" sum="€13,12" no="12" player="13373678"/>
+   <action type="0" sum="€0" no="13" player="KaukoRandelin"/>
+   <action type="0" sum="€0" no="14" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672121451">
+  <general>
+   <startdate>2022-04-09 00:32:43</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€100,02" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€51,22" seat="3" dealer="0" bet="€1,12"/>
+    <player name="13373678" win="€2,99" chips="€81,45" seat="5" dealer="1" bet="€3,74"/>
+    <player name="KaukoRandelin" win="€0" chips="€48,50" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€60,46" seat="8" dealer="0" bet="€0,50"/>
+    <player name="Haalleluja" win="€0" chips="€59,21" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KaukoRandelin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="3" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1,12" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H9 H8</cards>
+   <action type="23" sum="€3,74" no="6" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="7" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="8" player="977583"/>
+   <action type="0" sum="€0" no="9" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672121808">
+  <general>
+   <startdate>2022-04-09 00:33:18</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€100,02" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€50,10" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€83,32" seat="5" dealer="0" bet="€0"/>
+    <player name="KaukoRandelin" win="€0" chips="€48,25" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€59,96" seat="8" dealer="0" bet="€1,25"/>
+    <player name="Haalleluja" win="€3,75" chips="€59,21" seat="10" dealer="0" bet="€7"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="Haalleluja"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C5 DA</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="6" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="7" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="23" sum="€7" no="8" player="Haalleluja"/>
+   <action type="0" sum="€0" no="9" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="10" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672121879">
+  <general>
+   <startdate>2022-04-09 00:34:01</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€98,77" seat="1" dealer="0" bet="€12,62"/>
+    <player name="KDJSon" win="€25,69" chips="€50,10" seat="3" dealer="0" bet="€12,62"/>
+    <player name="13373678" win="€0" chips="€83,32" seat="5" dealer="0" bet="€0"/>
+    <player name="KaukoRandelin" win="€0" chips="€48,25" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€58,71" seat="8" dealer="1" bet="€1"/>
+    <player name="Haalleluja" win="€0" chips="€61,71" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="Haalleluja"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">HK HA</cards>
+   <action type="23" sum="€1" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D3 C4</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="5" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€1" no="6" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="7" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">CQ DQ</cards>
+   <action type="23" sum="€6" no="8" player="HerraVallaton"/>
+   <action type="3" sum="€5" no="9" player="KDJSon"/>
+   <action type="0" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 D10 H6</cards>
+   <action type="4" sum="€0" no="11" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="12" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action type="4" sum="€0" no="13" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="14" player="KDJSon"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action type="4" sum="€0" no="15" player="HerraVallaton"/>
+   <action type="5" sum="€6,62" no="16" player="KDJSon"/>
+   <action type="3" sum="€6,62" no="17" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672121995">
+  <general>
+   <startdate>2022-04-09 00:35:08</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€86,15" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€63,17" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€83,32" seat="5" dealer="0" bet="€7,06"/>
+    <player name="KaukoRandelin" win="€14,42" chips="€48,25" seat="6" dealer="0" bet="€12,26"/>
+    <player name="977583" win="€0" chips="€57,71" seat="8" dealer="0" bet="€0"/>
+    <player name="Haalleluja" win="€0" chips="€61,46" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H10 D10</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="23" sum="€4" no="4" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="Haalleluja">X X</cards>
+   <action type="0" sum="€0" no="6" player="Haalleluja"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="8" player="KDJSon"/>
+   <action type="3" sum="€2,75" no="9" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DK H2</cards>
+   <action type="4" sum="€0" no="10" player="13373678"/>
+   <action type="5" sum="€3,06" no="11" player="KaukoRandelin"/>
+   <action type="3" sum="€3,06" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action type="4" sum="€0" no="13" player="13373678"/>
+   <action type="5" sum="€5,20" no="14" player="KaukoRandelin"/>
+   <action type="0" sum="€0" no="15" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672122115">
+  <general>
+   <startdate>2022-04-09 00:36:15</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€85,90" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€62,67" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€76,26" seat="5" dealer="0" bet="€0,50"/>
+    <player name="KaukoRandelin" win="€0" chips="€55,61" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€1,25" chips="€57,71" seat="8" dealer="0" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="3" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1" no="4" player="977583"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="5" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="6" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S2 HJ</cards>
+   <action type="0" sum="€0" no="7" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672122150">
+  <general>
+   <startdate>2022-04-09 00:36:30</startdate>
+   <players>
+    <player name="HerraVallaton" win="€2,67" chips="€85,90" seat="1" dealer="0" bet="€2,76"/>
+    <player name="KDJSon" win="€0" chips="€62,42" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€75,76" seat="5" dealer="0" bet="€0,25"/>
+    <player name="KaukoRandelin" win="€0" chips="€55,61" seat="6" dealer="0" bet="€1,25"/>
+    <player name="977583" win="€0" chips="€58,46" seat="8" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="KaukoRandelin"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="3" player="977583"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C7 H10</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="3" sum="€0,75" no="7" player="KaukoRandelin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H5 D5</cards>
+   <action type="4" sum="€0" no="8" player="KaukoRandelin"/>
+   <action type="5" sum="€1,51" no="9" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="10" player="KaukoRandelin"/>
+  </round>
+ </game>
+ <game gamecode="3672122211">
+  <general>
+   <startdate>2022-04-09 00:37:06</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,32" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€62,42" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€3,25" chips="€75,51" seat="5" dealer="1" bet="€4"/>
+    <player name="KaukoRandelin" win="€0" chips="€54,36" seat="6" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0" chips="€58,46" seat="8" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KaukoRandelin"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HJ SK</cards>
+   <action type="23" sum="€4" no="5" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="6" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="7" player="977583"/>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+  </round>
+ </game>
+ <game gamecode="3672122249">
+  <general>
+   <startdate>2022-04-09 00:37:23</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€86,07" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€62,42" seat="3" dealer="0" bet="€1"/>
+    <player name="13373678" win="€9,70" chips="€77,51" seat="5" dealer="0" bet="€16"/>
+    <player name="KaukoRandelin" win="€0" chips="€54,11" seat="6" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€57,96" seat="8" dealer="0" bet="€3"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€50" seat="10" dealer="0" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="GERALTvonRIVA"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">D4 H4</cards>
+   <action type="3" sum="€1" no="5" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="6" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="3" sum="€0,75" no="7" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="3" sum="€0,50" no="8" player="GERALTvonRIVA"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DQ D6</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="GERALTvonRIVA"/>
+   <action type="4" sum="€0" no="11" player="KDJSon"/>
+   <action type="4" sum="€0" no="12" player="13373678"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action type="5" sum="€2" no="13" player="977583"/>
+   <action type="3" sum="€2" no="14" player="GERALTvonRIVA"/>
+   <action type="0" sum="€0" no="15" player="KDJSon"/>
+   <action type="23" sum="€15" no="16" player="13373678"/>
+   <action type="0" sum="€0" no="17" player="977583"/>
+   <action type="0" sum="€0" no="18" player="GERALTvonRIVA"/>
+  </round>
+ </game>
+ <game gamecode="3672123199">
+  <general>
+   <startdate>2022-04-09 00:38:16</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€86,07" seat="1" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€61,42" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€84,21" seat="5" dealer="0" bet="€0"/>
+    <player name="KaukoRandelin" win="€4,61" chips="€54,11" seat="6" dealer="0" bet="€5,56"/>
+    <player name="977583" win="€0" chips="€54,96" seat="8" dealer="1" bet="€2"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€50" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="GERALTvonRIVA"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S4 HK</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="23" sum="€1,25" no="5" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€2" no="6" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="7" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="8" player="HerraVallaton"/>
+   <action type="3" sum="€0,75" no="9" player="KaukoRandelin"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 CJ C4</cards>
+   <action type="4" sum="€0" no="10" player="KaukoRandelin"/>
+   <action type="4" sum="€0" no="11" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action type="5" sum="€3,56" no="12" player="KaukoRandelin"/>
+   <action type="0" sum="€0" no="13" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672123284">
+  <general>
+   <startdate>2022-04-09 00:39:03</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€85,57" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€3,04" chips="€61,42" seat="3" dealer="0" bet="€1,44"/>
+    <player name="13373678" win="€0" chips="€84,21" seat="5" dealer="0" bet="€0"/>
+    <player name="KaukoRandelin" win="€0" chips="€56,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€52,96" seat="8" dealer="0" bet="€1,44"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€50" seat="10" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D9 H4</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="4" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">HQ H10</cards>
+   <action type="3" sum="€0,50" no="5" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="6" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="7" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">HA H7</cards>
+   <action type="4" sum="€0" no="8" player="KDJSon"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA D4 C2</cards>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+   <action type="4" sum="€0" no="10" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action type="4" sum="€0" no="11" player="KDJSon"/>
+   <action type="4" sum="€0" no="12" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action type="5" sum="€0,94" no="13" player="KDJSon"/>
+   <action type="3" sum="€0,94" no="14" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672123341">
+  <general>
+   <startdate>2022-04-09 00:39:35</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€85,32" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€63,02" seat="3" dealer="0" bet="€0,25"/>
+    <player name="13373678" win="€0" chips="€84,21" seat="5" dealer="0" bet="€0,50"/>
+    <player name="KaukoRandelin" win="€0" chips="€56,72" seat="6" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€51,52" seat="8" dealer="0" bet="€6,97"/>
+    <player name="GERALTvonRIVA" win="€14,25" chips="€50" seat="10" dealer="0" bet="€11,96"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KaukoRandelin">X X</cards>
+   <action type="0" sum="€0" no="3" player="KaukoRandelin"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="23" sum="€1,50" no="4" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="23" sum="€4" no="5" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C5 H4</cards>
+   <action type="0" sum="€0" no="8" player="13373678"/>
+   <action type="3" sum="€2,50" no="9" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK CK D4</cards>
+   <action type="4" sum="€0" no="10" player="977583"/>
+   <action type="5" sum="€2,97" no="11" player="GERALTvonRIVA"/>
+   <action type="3" sum="€2,97" no="12" player="977583"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action type="4" sum="€0" no="13" player="977583"/>
+   <action type="4" sum="€0" no="14" player="GERALTvonRIVA"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action type="4" sum="€0" no="15" player="977583"/>
+   <action type="5" sum="€4,99" no="16" player="GERALTvonRIVA"/>
+   <action type="0" sum="€0" no="17" player="977583"/>
+  </round>
+ </game>
+ <game gamecode="3672123398">
+  <general>
+   <startdate>2022-04-09 00:40:10</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€85,32" seat="1" dealer="0" bet="€0"/>
+    <player name="KDJSon" win="€0" chips="€62,77" seat="3" dealer="1" bet="€0"/>
+    <player name="13373678" win="€0" chips="€83,71" seat="5" dealer="0" bet="€0,25"/>
+    <player name="977583" win="€0,50" chips="€44,55" seat="8" dealer="0" bet="€0,50"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€57,28" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="977583"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="977583">X X</cards>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="3" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">H6 C7</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672123423">
+  <general>
+   <startdate>2022-04-09 00:40:22</startdate>
+   <players>
+    <player name="HerraVallaton" win="€1,25" chips="€85,32" seat="1" dealer="0" bet="€1,25"/>
+    <player name="KDJSon" win="€0" chips="€62,77" seat="3" dealer="0" bet="€0"/>
+    <player name="13373678" win="€0" chips="€83,46" seat="5" dealer="1" bet="€0"/>
+    <player name="977583" win="€0" chips="€44,80" seat="8" dealer="0" bet="€0,25"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€57,28" seat="10" dealer="0" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="977583"/>
+   <action type="2" sum="€0,50" no="2" player="GERALTvonRIVA"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="23" sum="€1,25" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">HQ C10</cards>
+   <action type="0" sum="€0" no="5" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="6" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="7" player="GERALTvonRIVA"/>
+  </round>
+ </game>
+ <game gamecode="3672123462">
+  <general>
+   <startdate>2022-04-09 00:40:41</startdate>
+   <players>
+    <player name="HerraVallaton" win="€2,19" chips="€86,07" seat="1" dealer="0" bet="€2,68"/>
+    <player name="KDJSon" win="€0" chips="€62,77" seat="3" dealer="0" bet="€1"/>
+    <player name="13373678" win="€0" chips="€83,46" seat="5" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€44,55" seat="8" dealer="1" bet="€0"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€56,78" seat="10" dealer="0" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="GERALTvonRIVA"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1" no="3" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">C7 S3</cards>
+   <action type="0" sum="€0" no="4" player="13373678"/>
+   <cards type="Pocket" player="977583">X X</cards>
+   <action type="0" sum="€0" no="5" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="6" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="3" sum="€0,50" no="7" player="HerraVallaton"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D3 SA</cards>
+   <action type="4" sum="€0" no="8" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="9" player="KDJSon"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action type="4" sum="€0" no="10" player="HerraVallaton"/>
+   <action type="4" sum="€0" no="11" player="KDJSon"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action type="5" sum="€1,68" no="12" player="HerraVallaton"/>
+   <action type="0" sum="€0" no="13" player="KDJSon"/>
+  </round>
+ </game>
+ <game gamecode="3672123836">
+  <general>
+   <startdate>2022-04-09 00:41:26</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,26" seat="1" dealer="0" bet="€0,25"/>
+    <player name="KDJSon" win="€0" chips="€61,77" seat="3" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€0" chips="€83,46" seat="5" dealer="0" bet="€0"/>
+    <player name="977583" win="€0" chips="€44,55" seat="8" dealer="0" bet="€44,55"/>
+    <player name="GERALTvonRIVA" win="€88,35" chips="€56,53" seat="10" dealer="1" bet="€53,46"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="HerraVallaton"/>
+   <action type="2" sum="€0,50" no="2" player="KDJSon"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 C2</cards>
+   <action type="0" sum="€0" no="3" player="13373678"/>
+   <cards type="Pocket" player="977583">C6 CA</cards>
+   <action type="23" sum="€1" no="4" player="977583"/>
+   <cards type="Pocket" player="GERALTvonRIVA">DA SK</cards>
+   <action type="23" sum="€4" no="5" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="6" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="7" player="KDJSon"/>
+   <action type="3" sum="€3" no="8" player="977583"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ SA HQ</cards>
+   <action type="4" sum="€0" no="9" player="977583"/>
+   <action type="4" sum="€0" no="10" player="GERALTvonRIVA"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action type="4" sum="€0" no="11" player="977583"/>
+   <action type="5" sum="€6,82" no="12" player="GERALTvonRIVA"/>
+   <action type="23" sum="€28,14" no="13" player="977583"/>
+   <action type="23" sum="€49,46" no="14" player="GERALTvonRIVA"/>
+   <action type="7" sum="€12,41" no="15" player="977583"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+  </round>
+ </game>
+ <game gamecode="3672123921">
+  <general>
+   <startdate>2022-04-09 00:42:15</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,01" seat="1" dealer="1" bet="€0"/>
+    <player name="KDJSon" win="€1" chips="€61,27" seat="3" dealer="0" bet="€1,50"/>
+    <player name="13373678" win="€0" chips="€83,46" seat="5" dealer="0" bet="€0,50"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€100,33" seat="10" dealer="0" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="KDJSon"/>
+   <action type="2" sum="€0,50" no="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="3" player="GERALTvonRIVA"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="23" sum="€1,50" no="5" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">S10 H6</cards>
+   <action type="0" sum="€0" no="6" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3672123950">
+  <general>
+   <startdate>2022-04-09 00:42:28</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,01" seat="1" dealer="0" bet="€0"/>
+    <player name="13373678" win="€1" chips="€82,96" seat="5" dealer="0" bet="€1,50"/>
+    <player name="GERALTvonRIVA" win="€0" chips="€100,33" seat="10" dealer="0" bet="€0,50"/>
+    <player name="KDJSon" win="€0" chips="€61,77" seat="3" dealer="1" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="GERALTvonRIVA"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="3" player="HerraVallaton"/>
+   <cards type="Pocket" player="KDJSon">X X</cards>
+   <action type="0" sum="€0" no="4" player="KDJSon"/>
+   <cards type="Pocket" player="13373678">DK DQ</cards>
+   <action type="23" sum="€1,50" no="5" player="13373678"/>
+   <cards type="Pocket" player="GERALTvonRIVA">X X</cards>
+   <action type="0" sum="€0" no="6" player="GERALTvonRIVA"/>
+  </round>
+ </game>
+ <game gamecode="3672123972">
+  <general>
+   <startdate>2022-04-09 00:42:40</startdate>
+   <players>
+    <player name="HerraVallaton" win="€0" chips="€87,01" seat="1" dealer="0" bet="€0,50"/>
+    <player name="13373678" win="€1" chips="€83,46" seat="5" dealer="1" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" sum="€0,25" no="1" player="13373678"/>
+   <action type="2" sum="€0,50" no="2" player="HerraVallaton"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HA H3</cards>
+   <action type="23" sum="€1,25" no="3" player="13373678"/>
+   <cards type="Pocket" player="HerraVallaton">X X</cards>
+   <action type="0" sum="€0" no="4" player="HerraVallaton"/>
+  </round>
+ </game>
+</session>

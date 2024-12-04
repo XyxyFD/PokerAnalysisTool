@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081606192">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:16</duration>
+  <gamecount>2</gamecount>
+  <startdate>2022-08-21 01:13:34</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€1,50</bets>
+  <wins>€0</wins>
+  <chipsin>€99,50</chipsin>
+  <chipsout>€99</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3704147863">
+  <general>
+   <startdate>2022-08-21 01:13:34</startdate>
+   <players>
+    <player bet="€0,50" dealer="1" seat="1" win="€0" name="13373678" chips="€100"/>
+    <player bet="€1" dealer="0" seat="3" win="€1" name="ShibaInu0" chips="€40"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,50" player="13373678"/>
+   <action type="2" no="2" sum="€1" player="ShibaInu0"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ShibaInu0">X X</cards>
+   <cards type="Pocket" player="13373678">S3 DJ</cards>
+   <action type="0" no="3" sum="€0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3704155129">
+  <general>
+   <startdate>2022-08-21 01:13:40</startdate>
+   <players>
+    <player bet="€1" dealer="0" seat="1" win="€0" name="13373678" chips="€100"/>
+    <player bet="€2" dealer="1" seat="3" win="€2" name="ShibaInu0" chips="€40,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action type="1" no="1" sum="€0,50" player="ShibaInu0"/>
+   <action type="2" no="2" sum="€1" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="ShibaInu0">X X</cards>
+   <action type="23" no="3" sum="€2" player="ShibaInu0"/>
+   <cards type="Pocket" player="13373678">CK H7</cards>
+   <action type="0" no="4" sum="€0" player="13373678"/>
+  </round>
+ </game>
+</session>

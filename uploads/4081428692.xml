@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081428692">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:25:34</duration>
+  <gamecount>39</gamecount>
+  <startdate>2022-08-18 18:47:45</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€21,23</bets>
+  <wins>€12,14</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50,39</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3703544643">
+  <general>
+   <startdate>2022-08-18 18:47:45</startdate>
+   <players>
+    <player name="Player 1" chips="€148,12" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="Player 3" chips="€61,79" dealer="0" seat="3" bet="€61,79" win="€54,58"/>
+    <player name="Player 10" chips="€58,88" dealer="0" seat="10" bet="€28,04" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 3" type="1" no="1" sum="€0,25"/>
+   <action player="Player 10" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="3" sum="€0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" no="4" sum="€1,50"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="23" no="5" sum="€4,50"/>
+   <action player="Player 3" type="23" no="6" sum="€10,75"/>
+   <action player="Player 10" type="3" no="7" sum="€6,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK S6 H10</cards>
+   <action player="Player 3" type="5" no="8" sum="€6,45"/>
+   <action player="Player 10" type="3" no="9" sum="€6,45"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="Player 3" type="5" no="10" sum="€10,84"/>
+   <action player="Player 10" type="3" no="11" sum="€10,84"/>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+   <action player="Player 3" type="5" no="12" sum="€33,75"/>
+   <action player="Player 10" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703544748">
+  <general>
+   <startdate>2022-08-18 18:48:51</startdate>
+   <players>
+    <player name="Player 1" chips="€148,12" dealer="0" seat="1" bet="€0,50" win="€0"/>
+    <player name="Player 3" chips="€88,33" dealer="1" seat="3" bet="€1,25" win="€1,25"/>
+    <player name="Player 10" chips="€50" dealer="0" seat="10" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 10" type="1" no="1" sum="€0,25"/>
+   <action player="Player 1" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="23" no="3" sum="€1,25"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="4" sum="€0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action player="Player 1" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703545141">
+  <general>
+   <startdate>2022-08-18 18:49:01</startdate>
+   <players>
+    <player name="Player 1" chips="€147,62" dealer="0" seat="1" bet="€40,25" win="€0"/>
+    <player name="Player 3" chips="€89,08" dealer="0" seat="3" bet="€0,50" win="€0"/>
+    <player name="Player 6" chips="€50" dealer="0" seat="6" bet="€40,25" win="€79,50"/>
+    <player name="Player 10" chips="€50" dealer="1" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 1" type="1" no="1" sum="€0,25"/>
+   <action player="Player 3" type="2" no="2" sum="€0,50"/>
+   <action player="Player 6" type="2" no="3" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">C7 CA</cards>
+   <action player="Player 6" type="23" no="4" sum="€2"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="5" sum="€0"/>
+   <cards player="Player 1" type="Pocket">DK SA</cards>
+   <action player="Player 1" type="23" no="6" sum="€6,50"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action player="Player 3" type="0" no="7" sum="€0"/>
+   <action player="Player 6" type="3" no="8" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 D8 C4</cards>
+   <action player="Player 1" type="4" no="9" sum="€0"/>
+   <action player="Player 6" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action player="Player 1" type="4" no="11" sum="€0"/>
+   <action player="Player 6" type="5" no="12" sum="€13,50"/>
+   <action player="Player 1" type="3" no="13" sum="€13,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action player="Player 1" type="4" no="14" sum="€0"/>
+   <action player="Player 6" type="5" no="15" sum="€20,25"/>
+   <action player="Player 1" type="3" no="16" sum="€20,25"/>
+  </round>
+ </game>
+ <game gamecode="3703545189">
+  <general>
+   <startdate>2022-08-18 18:49:38</startdate>
+   <players>
+    <player name="1765969689" chips="€107,37" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€88,58" dealer="0" seat="3" bet="€0,25" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0,50" win="€0"/>
+    <player name="VallonDarby" chips="€89,25" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="sdfghreh" chips="€50" dealer="0" seat="10" bet="€1,25" win="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KekeVahvakasi" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="3" sum="€0"/>
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="23" no="4" sum="€1,25"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="5" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">H6 DA</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703545218">
+  <general>
+   <startdate>2022-08-18 18:49:56</startdate>
+   <players>
+    <player name="1765969689" chips="€107,37" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€88,33" dealer="1" seat="3" bet="€2,89" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="VallonDarby" chips="€89,25" dealer="0" seat="6" bet="€2,89" win="€5,85"/>
+    <player name="sdfghreh" chips="€50,75" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="VallonDarby" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="4" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">SJ SA</cards>
+   <action player="KekeVahvakasi" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">DQ S10</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">DA HK</cards>
+   <action player="VallonDarby" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S5 CK</cards>
+   <action player="VallonDarby" type="4" no="8" sum="€0"/>
+   <action player="KekeVahvakasi" type="5" no="9" sum="€0,82"/>
+   <action player="VallonDarby" type="23" no="10" sum="€1,64"/>
+   <action player="KekeVahvakasi" type="3" no="11" sum="€0,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="VallonDarby" type="4" no="12" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action player="VallonDarby" type="4" no="14" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703545317">
+  <general>
+   <startdate>2022-08-18 18:51:02</startdate>
+   <players>
+    <player name="1765969689" chips="€107,37" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€85,44" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€50" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€92,21" dealer="0" seat="6" bet="€0,50" win="€0,97"/>
+    <player name="FromNowOn" chips="€52" dealer="0" seat="8" bet="€0,50" win="€0"/>
+    <player name="sdfghreh" chips="€50,75" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VallonDarby" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="sdfghreh" type="Pocket">X X</cards>
+   <action player="sdfghreh" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="4" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 C3</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">S3 HA</cards>
+   <action player="VallonDarby" type="3" no="7" sum="€0,25"/>
+   <cards player="FromNowOn" type="Pocket">S4 HQ</cards>
+   <action player="FromNowOn" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 S8 H8</cards>
+   <action player="VallonDarby" type="4" no="9" sum="€0"/>
+   <action player="FromNowOn" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="VallonDarby" type="4" no="11" sum="€0"/>
+   <action player="FromNowOn" type="4" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action player="VallonDarby" type="4" no="13" sum="€0"/>
+   <action player="FromNowOn" type="4" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546384">
+  <general>
+   <startdate>2022-08-18 18:51:48</startdate>
+   <players>
+    <player name="1765969689" chips="€107,37" dealer="0" seat="1" bet="€6,85" win="€4,85"/>
+    <player name="KekeVahvakasi" chips="€85,44" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€1,25" win="€0"/>
+    <player name="VallonDarby" chips="€92,68" dealer="1" seat="6" bet="€1,25" win="€0"/>
+    <player name="FromNowOn" chips="€51,50" dealer="0" seat="8" bet="€1,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">HK H6</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="5" sum="€1,25"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="3" no="6" sum="€1"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D3 S6</cards>
+   <action player="FromNowOn" type="4" no="8" sum="€0"/>
+   <action player="1765969689" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="VallonDarby" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="FromNowOn" type="4" no="12" sum="€0"/>
+   <action player="1765969689" type="5" no="13" sum="€5,60"/>
+   <action player="13373678" type="0" no="14" sum="€0"/>
+   <action player="VallonDarby" type="0" no="15" sum="€0"/>
+   <action player="FromNowOn" type="0" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546563">
+  <general>
+   <startdate>2022-08-18 18:53:00</startdate>
+   <players>
+    <player name="1765969689" chips="€110,97" dealer="0" seat="1" bet="€0,25" win="€0"/>
+    <player name="KekeVahvakasi" chips="€85,44" dealer="0" seat="3" bet="€0,50" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€91,43" dealer="0" seat="6" bet="€1,75" win="€1,22"/>
+    <player name="FromNowOn" chips="€50,25" dealer="1" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="KekeVahvakasi" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 S6</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="4" sum="€0,50"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="5" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="6" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 HA SA</cards>
+   <action player="KekeVahvakasi" type="4" no="8" sum="€0"/>
+   <action player="VallonDarby" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="KekeVahvakasi" type="4" no="10" sum="€0"/>
+   <action player="VallonDarby" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="KekeVahvakasi" type="4" no="12" sum="€0"/>
+   <action player="VallonDarby" type="5" no="13" sum="€1,25"/>
+   <action player="KekeVahvakasi" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546610">
+  <general>
+   <startdate>2022-08-18 18:53:28</startdate>
+   <players>
+    <player name="1765969689" chips="€110,72" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€84,94" dealer="0" seat="3" bet="€0,25" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0,50" win="€0,50"/>
+    <player name="VallonDarby" chips="€92,15" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€50,25" dealer="0" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KekeVahvakasi" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 D7</cards>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="3" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="5" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546639">
+  <general>
+   <startdate>2022-08-18 18:53:47</startdate>
+   <players>
+    <player name="1765969689" chips="€110,72" dealer="0" seat="1" bet="€1,25" win="€0"/>
+    <player name="KekeVahvakasi" chips="€84,69" dealer="1" seat="3" bet="€4,50" win="€3,25"/>
+    <player name="13373678" chips="€50,25" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="VallonDarby" chips="€92,15" dealer="0" seat="6" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€50,25" dealer="0" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="VallonDarby" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="4" sum="€1,25"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="23" no="5" sum="€4,50"/>
+   <cards player="13373678" type="Pocket">H6 H10</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="7" sum="€0"/>
+   <action player="1765969689" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546690">
+  <general>
+   <startdate>2022-08-18 18:54:15</startdate>
+   <players>
+    <player name="1765969689" chips="€109,47" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€86,69" dealer="0" seat="3" bet="€2,85" win="€2,91"/>
+    <player name="13373678" chips="€50" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€91,65" dealer="0" seat="6" bet="€1,25" win="€0"/>
+    <player name="FromNowOn" chips="€50,25" dealer="0" seat="8" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VallonDarby" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="23" no="4" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D2 S7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="6" sum="€1"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D9 SK</cards>
+   <action player="VallonDarby" type="4" no="8" sum="€0"/>
+   <action player="KekeVahvakasi" type="5" no="9" sum="€1,60"/>
+   <action player="VallonDarby" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546734">
+  <general>
+   <startdate>2022-08-18 18:54:42</startdate>
+   <players>
+    <player name="1765969689" chips="€109,47" dealer="0" seat="1" bet="€2,62" win="€5,33"/>
+    <player name="KekeVahvakasi" chips="€88,35" dealer="0" seat="3" bet="€2,62" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€90,40" dealer="1" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">S8 H8</cards>
+   <action player="KekeVahvakasi" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D6 S5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="5" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="6" sum="€0"/>
+   <cards player="1765969689" type="Pocket">H9 CA</cards>
+   <action player="1765969689" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 SK HA</cards>
+   <action player="1765969689" type="4" no="8" sum="€0"/>
+   <action player="KekeVahvakasi" type="5" no="9" sum="€1,37"/>
+   <action player="1765969689" type="3" no="10" sum="€1,37"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action player="1765969689" type="4" no="11" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action player="1765969689" type="4" no="13" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546812">
+  <general>
+   <startdate>2022-08-18 18:55:30</startdate>
+   <players>
+    <player name="1765969689" chips="€112,18" dealer="0" seat="1" bet="€11,50" win="€0"/>
+    <player name="KekeVahvakasi" chips="€85,73" dealer="0" seat="3" bet="€27" win="€22,31"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€90,40" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="1" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="KekeVahvakasi" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 H8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="4" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="5" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="6" sum="€1,50"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="23" no="7" sum="€5"/>
+   <action player="1765969689" type="3" no="8" sum="€3,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ S3 DK</cards>
+   <action player="1765969689" type="4" no="9" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="1765969689" type="4" no="11" sum="€0"/>
+   <action player="KekeVahvakasi" type="5" no="12" sum="€6,50"/>
+   <action player="1765969689" type="3" no="13" sum="€6,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action player="1765969689" type="4" no="14" sum="€0"/>
+   <action player="KekeVahvakasi" type="5" no="15" sum="€15,50"/>
+   <action player="1765969689" type="0" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703546979">
+  <general>
+   <startdate>2022-08-18 18:57:10</startdate>
+   <players>
+    <player name="1765969689" chips="€100,68" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€96,54" dealer="0" seat="3" bet="€2,25" win="€0"/>
+    <player name="13373678" chips="€50" dealer="0" seat="5" bet="€6,50" win="€5"/>
+    <player name="VallonDarby" chips="€90,40" dealer="0" seat="6" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KekeVahvakasi" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="3" sum="€0,50"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="5" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="23" no="6" sum="€2,25"/>
+   <cards player="13373678" type="Pocket">SQ DA</cards>
+   <action player="13373678" type="23" no="7" sum="€6,50"/>
+   <action player="VallonDarby" type="0" no="8" sum="€0"/>
+   <action player="KekeVahvakasi" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547051">
+  <general>
+   <startdate>2022-08-18 18:57:55</startdate>
+   <players>
+    <player name="1765969689" chips="€100,68" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€94,29" dealer="1" seat="3" bet="€1,25" win="€0"/>
+    <player name="13373678" chips="€52,75" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="VallonDarby" chips="€89,90" dealer="0" seat="6" bet="€1,25" win="€2,67"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="VallonDarby" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="4" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">S7 D7</cards>
+   <action player="KekeVahvakasi" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D3 C5</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">S8 S9</cards>
+   <action player="VallonDarby" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D9 SJ</cards>
+   <action player="VallonDarby" type="4" no="8" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action player="VallonDarby" type="4" no="10" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action player="VallonDarby" type="4" no="12" sum="€0"/>
+   <action player="KekeVahvakasi" type="4" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547118">
+  <general>
+   <startdate>2022-08-18 18:58:35</startdate>
+   <players>
+    <player name="1765969689" chips="€100,68" dealer="0" seat="1" bet="€4,61" win="€2,91"/>
+    <player name="KekeVahvakasi" chips="€93,04" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€52,50" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="VallonDarby" chips="€91,32" dealer="0" seat="6" bet="€1,25" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VallonDarby" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="3" sum="€1,25"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C4 S6</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="3" no="6" sum="€1"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 HJ C7</cards>
+   <action player="VallonDarby" type="4" no="8" sum="€0"/>
+   <action player="1765969689" type="5" no="9" sum="€3,36"/>
+   <action player="VallonDarby" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547189">
+  <general>
+   <startdate>2022-08-18 18:59:18</startdate>
+   <players>
+    <player name="1765969689" chips="€102,34" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="KekeVahvakasi" chips="€93,04" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€52,50" dealer="0" seat="5" bet="€1,25" win="€1,25"/>
+    <player name="VallonDarby" chips="€90,07" dealer="1" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0,25" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="ihadtrips" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C10 S9</cards>
+   <action player="13373678" type="23" no="5" sum="€1,25"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="6" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="7" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547221">
+  <general>
+   <startdate>2022-08-18 18:59:37</startdate>
+   <players>
+    <player name="1765969689" chips="€102,34" dealer="0" seat="1" bet="€0,50" win="€0"/>
+    <player name="KekeVahvakasi" chips="€93,04" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€53,25" dealer="0" seat="5" bet="€1,25" win="€1,25"/>
+    <player name="FromNowOn" chips="€50" dealer="1" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,25" win="€0"/>
+    <player name="VallonDarby" chips="€90,07" dealer="0" seat="6" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ihadtrips" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="KekeVahvakasi" type="Pocket">X X</cards>
+   <action player="KekeVahvakasi" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">SK D10</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="VallonDarby" type="Pocket">X X</cards>
+   <action player="VallonDarby" type="0" no="5" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="6" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="7" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547280">
+  <general>
+   <startdate>2022-08-18 19:00:08</startdate>
+   <players>
+    <player name="1765969689" chips="€101,84" dealer="0" seat="1" bet="€4,74" win="€2,74"/>
+    <player name="13373678" chips="€54" dealer="0" seat="5" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€1,12" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="1" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="23" no="3" sum="€1,12"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="5" sum="€4,74"/>
+   <cards player="13373678" type="Pocket">D9 HK</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <action player="FromNowOn" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547319">
+  <general>
+   <startdate>2022-08-18 19:00:33</startdate>
+   <players>
+    <player name="1765969689" chips="€103,46" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="13373678" chips="€53,50" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="FromNowOn" chips="€50" dealer="0" seat="8" bet="€0,50" win="€0,50"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H2 D9</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703547351">
+  <general>
+   <startdate>2022-08-18 19:00:53</startdate>
+   <players>
+    <player name="1765969689" chips="€103,46" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="13373678" chips="€53,25" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€50,25" dealer="0" seat="8" bet="€27,97" win="€54,44"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€27,97" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="ihadtrips" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C5 S2</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">D9 SA</cards>
+   <action player="FromNowOn" type="23" no="5" sum="€1,49"/>
+   <cards player="ihadtrips" type="Pocket">CJ CA</cards>
+   <action player="ihadtrips" type="3" no="6" sum="€0,99"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H6 C2</cards>
+   <action player="FromNowOn" type="5" no="7" sum="€2,08"/>
+   <action player="ihadtrips" type="3" no="8" sum="€2,08"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="FromNowOn" type="5" no="9" sum="€6,42"/>
+   <action player="ihadtrips" type="3" no="10" sum="€6,42"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action player="FromNowOn" type="5" no="11" sum="€17,98"/>
+   <action player="ihadtrips" type="3" no="12" sum="€17,98"/>
+  </round>
+ </game>
+ <game gamecode="3703548488">
+  <general>
+   <startdate>2022-08-18 19:02:06</startdate>
+   <players>
+    <player name="1765969689" chips="€103,46" dealer="0" seat="1" bet="€0,50" win="€0,50"/>
+    <player name="13373678" chips="€53,25" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€76,72" dealer="1" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ihadtrips" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">SJ S3</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="4" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703548512">
+  <general>
+   <startdate>2022-08-18 19:02:18</startdate>
+   <players>
+    <player name="1765969689" chips="€103,71" dealer="0" seat="1" bet="€0,25" win="€0"/>
+    <player name="13373678" chips="€53,25" dealer="0" seat="5" bet="€0,50" win="€0,50"/>
+    <player name="FromNowOn" chips="€76,72" dealer="0" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="1" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 CA</cards>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="3" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703548532">
+  <general>
+   <startdate>2022-08-18 19:02:26</startdate>
+   <players>
+    <player name="1765969689" chips="€103,46" dealer="1" seat="1" bet="€3,17" win="€0"/>
+    <player name="13373678" chips="€53,50" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="FromNowOn" chips="€76,72" dealer="0" seat="8" bet="€12,17" win="€6,40"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="4" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">HQ H3</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 CA DJ</cards>
+   <action player="FromNowOn" type="4" no="7" sum="€0"/>
+   <action player="1765969689" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="FromNowOn" type="5" no="9" sum="€1,92"/>
+   <action player="1765969689" type="3" no="10" sum="€1,92"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="FromNowOn" type="5" no="11" sum="€9"/>
+   <action player="1765969689" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549039">
+  <general>
+   <startdate>2022-08-18 19:03:26</startdate>
+   <players>
+    <player name="1765969689" chips="€100,29" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="13373678" chips="€53,25" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€79,95" dealer="0" seat="8" bet="€1,49" win="€1"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="ihadtrips" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C7 HK</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="23" no="5" sum="€1,49"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549061">
+  <general>
+   <startdate>2022-08-18 19:03:43</startdate>
+   <players>
+    <player name="1765969689" chips="€100,29" dealer="0" seat="1" bet="€1,25" win="€0"/>
+    <player name="13373678" chips="€53,25" dealer="0" seat="5" bet="€1,25" win="€0"/>
+    <player name="FromNowOn" chips="€80,45" dealer="1" seat="8" bet="€2,45" win="€3,88"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ihadtrips" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D4 H4</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="3" no="4" sum="€1,25"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="5" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S7 DJ</cards>
+   <action player="1765969689" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="FromNowOn" type="5" no="9" sum="€1,20"/>
+   <action player="1765969689" type="0" no="10" sum="€0"/>
+   <action player="13373678" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549149">
+  <general>
+   <startdate>2022-08-18 19:04:28</startdate>
+   <players>
+    <player name="1765969689" chips="€99,04" dealer="0" seat="1" bet="€0,25" win="€0"/>
+    <player name="Kurkkumies" chips="€50" dealer="0" seat="3" bet="€0,50" win="€0"/>
+    <player name="13373678" chips="€52" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€83,08" dealer="0" seat="8" bet="€1,12" win="€1,25"/>
+    <player name="ihadtrips" chips="€50" dealer="1" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 HQ</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="23" no="4" sum="€1,12"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="5" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="6" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549212">
+  <general>
+   <startdate>2022-08-18 19:04:56</startdate>
+   <players>
+    <player name="1765969689" chips="€98,79" dealer="1" seat="1" bet="€0" win="€0"/>
+    <player name="Kurkkumies" chips="€50" dealer="0" seat="3" bet="€0,25" win="€0"/>
+    <player name="13373678" chips="€52" dealer="0" seat="5" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€83,83" dealer="0" seat="8" bet="€50" win="€99,25"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">SA HA</cards>
+   <action player="FromNowOn" type="23" no="3" sum="€1,12"/>
+   <cards player="ihadtrips" type="Pocket">CA HK</cards>
+   <action player="ihadtrips" type="23" no="4" sum="€4"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="5" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S5 HQ</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <action player="FromNowOn" type="23" no="8" sum="€11,88"/>
+   <action player="ihadtrips" type="23" no="9" sum="€50"/>
+   <action player="FromNowOn" type="3" no="10" sum="€38,12"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 C2 S10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+  </round>
+ </game>
+ <game gamecode="3703549309">
+  <general>
+   <startdate>2022-08-18 19:05:45</startdate>
+   <players>
+    <player name="1765969689" chips="€98,79" dealer="0" seat="1" bet="€1,25" win="€1,25"/>
+    <player name="Kurkkumies" chips="€50" dealer="1" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€51,50" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€133,08" dealer="0" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="LazyKoala" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="3" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="23" no="5" sum="€1,25"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S4 D2</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549339">
+  <general>
+   <startdate>2022-08-18 19:05:59</startdate>
+   <players>
+    <player name="1765969689" chips="€99,54" dealer="0" seat="1" bet="€2,20" win="€0"/>
+    <player name="Kurkkumies" chips="€50" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€51,25" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0,25" win="€0"/>
+    <player name="FromNowOn" chips="€133,08" dealer="0" seat="8" bet="€2,20" win="€4,51"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LazyKoala" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">DK D9</cards>
+   <action player="1765969689" type="23" no="4" sum="€1,25"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">DJ CQ</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="7" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">C8 CA</cards>
+   <action player="FromNowOn" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 HA D4</cards>
+   <action player="FromNowOn" type="4" no="9" sum="€0"/>
+   <action player="1765969689" type="5" no="10" sum="€0,95"/>
+   <action player="FromNowOn" type="3" no="11" sum="€0,95"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="FromNowOn" type="4" no="12" sum="€0"/>
+   <action player="1765969689" type="4" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action player="FromNowOn" type="4" no="14" sum="€0"/>
+   <action player="1765969689" type="4" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549440">
+  <general>
+   <startdate>2022-08-18 19:06:53</startdate>
+   <players>
+    <player name="1765969689" chips="€97,34" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="Kurkkumies" chips="€50" dealer="0" seat="3" bet="€1" win="€1,25"/>
+    <player name="13373678" chips="€51,25" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="1" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€135,39" dealer="0" seat="8" bet="€0,25" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="ihadtrips" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="4" sum="€1"/>
+   <cards player="13373678" type="Pocket">S8 SQ</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="6" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="7" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703549462">
+  <general>
+   <startdate>2022-08-18 19:07:07</startdate>
+   <players>
+    <player name="1765969689" chips="€97,34" dealer="0" seat="1" bet="€8,32" win="€0"/>
+    <player name="Kurkkumies" chips="€50,75" dealer="0" seat="3" bet="€8,32" win="€17,35"/>
+    <player name="13373678" chips="€51,25" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€135,14" dealer="1" seat="8" bet="€1" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ihadtrips" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">DA HQ</cards>
+   <action player="Kurkkumies" type="23" no="3" sum="€1"/>
+   <cards player="13373678" type="Pocket">DK C7</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="5" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="3" no="6" sum="€1"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="7" sum="€0"/>
+   <cards player="1765969689" type="Pocket">S10 H5</cards>
+   <action player="1765969689" type="3" no="8" sum="€0,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D4 DJ</cards>
+   <action player="1765969689" type="4" no="9" sum="€0"/>
+   <action player="Kurkkumies" type="4" no="10" sum="€0"/>
+   <action player="FromNowOn" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="1765969689" type="4" no="12" sum="€0"/>
+   <action player="Kurkkumies" type="5" no="13" sum="€2,17"/>
+   <action player="FromNowOn" type="0" no="14" sum="€0"/>
+   <action player="1765969689" type="23" no="15" sum="€7,32"/>
+   <action player="Kurkkumies" type="3" no="16" sum="€5,15"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action player="1765969689" type="4" no="17" sum="€0"/>
+   <action player="Kurkkumies" type="4" no="18" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550314">
+  <general>
+   <startdate>2022-08-18 19:08:51</startdate>
+   <players>
+    <player name="1765969689" chips="€89,02" dealer="0" seat="1" bet="€0,25" win="€0"/>
+    <player name="Kurkkumies" chips="€59,78" dealer="0" seat="3" bet="€13,03" win="€10,91"/>
+    <player name="13373678" chips="€51,25" dealer="0" seat="5" bet="€0" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€134,14" dealer="0" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="1" seat="10" bet="€5,50" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 SK</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="4" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="5" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="23" no="6" sum="€1,12"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="7" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="23" no="8" sum="€5,50"/>
+   <action player="ihadtrips" type="3" no="9" sum="€4,38"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D4 S10</cards>
+   <action player="Kurkkumies" type="5" no="10" sum="€7,53"/>
+   <action player="ihadtrips" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550437">
+  <general>
+   <startdate>2022-08-18 19:09:54</startdate>
+   <players>
+    <player name="1765969689" chips="€88,77" dealer="1" seat="1" bet="€1,12" win="€0"/>
+    <player name="Kurkkumies" chips="€65,19" dealer="0" seat="3" bet="€0,25" win="€0"/>
+    <player name="13373678" chips="€51,25" dealer="0" seat="5" bet="€0,50" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€134,14" dealer="0" seat="8" bet="€3,21" win="€2,90"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Kurkkumies" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="3" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="23" no="4" sum="€1,12"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="5" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="3" no="6" sum="€1,12"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">CA S5</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D2 HJ</cards>
+   <action player="FromNowOn" type="5" no="9" sum="€2,09"/>
+   <action player="1765969689" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550515">
+  <general>
+   <startdate>2022-08-18 19:10:36</startdate>
+   <players>
+    <player name="1765969689" chips="€87,65" dealer="0" seat="1" bet="€3,36" win="€2,90"/>
+    <player name="Kurkkumies" chips="€64,94" dealer="1" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€50,75" dealer="0" seat="5" bet="€0,25" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€0,50" win="€0"/>
+    <player name="FromNowOn" chips="€135,92" dealer="0" seat="8" bet="€1,12" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="LazyKoala" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="23" no="3" sum="€1,12"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="4" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="3" no="5" sum="€1,12"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">D7 DJ</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ H6 D6</cards>
+   <action player="FromNowOn" type="4" no="9" sum="€0"/>
+   <action player="1765969689" type="5" no="10" sum="€2,24"/>
+   <action player="FromNowOn" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550589">
+  <general>
+   <startdate>2022-08-18 19:11:19</startdate>
+   <players>
+    <player name="1765969689" chips="€89,43" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="Kurkkumies" chips="€64,94" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€50,50" dealer="1" seat="5" bet="€0" win="€0"/>
+    <player name="LazyKoala" chips="€50" dealer="0" seat="6" bet="€1,50" win="€1"/>
+    <player name="FromNowOn" chips="€134,80" dealer="0" seat="8" bet="€0,50" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="LazyKoala" type="1" no="1" sum="€0,25"/>
+   <action player="FromNowOn" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="3" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="4" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D5 H8</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="23" no="7" sum="€1,50"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550612">
+  <general>
+   <startdate>2022-08-18 19:11:38</startdate>
+   <players>
+    <player name="1765969689" chips="€89,43" dealer="0" seat="1" bet="€0" win="€0"/>
+    <player name="Kurkkumies" chips="€64,94" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€50,50" dealer="0" seat="5" bet="€2,48" win="€3,64"/>
+    <player name="LazyKoala" chips="€50,50" dealer="1" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€134,30" dealer="0" seat="8" bet="€1,25" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€1,25" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="FromNowOn" type="1" no="1" sum="€0,25"/>
+   <action player="ihadtrips" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="3" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 CK</cards>
+   <action player="13373678" type="23" no="5" sum="€1,25"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="6" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="3" no="7" sum="€1"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK H7 C5</cards>
+   <action player="FromNowOn" type="4" no="9" sum="€0"/>
+   <action player="ihadtrips" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="5" no="11" sum="€1,23"/>
+   <action player="FromNowOn" type="0" no="12" sum="€0"/>
+   <action player="ihadtrips" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703550705">
+  <general>
+   <startdate>2022-08-18 19:12:25</startdate>
+   <players>
+    <player name="1765969689" chips="€89,43" dealer="0" seat="1" bet="€0,50" win="€0"/>
+    <player name="Kurkkumies" chips="€64,94" dealer="0" seat="3" bet="€0" win="€0"/>
+    <player name="13373678" chips="€52,89" dealer="0" seat="5" bet="€1,25" win="€0"/>
+    <player name="LazyKoala" chips="€50,50" dealer="0" seat="6" bet="€0" win="€0"/>
+    <player name="FromNowOn" chips="€133,05" dealer="1" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€50" dealer="0" seat="10" bet="€5" win="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ihadtrips" type="1" no="1" sum="€0,25"/>
+   <action player="1765969689" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S7 H7</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="0" no="5" sum="€0"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="6" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="23" no="7" sum="€5"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="8" sum="€0"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3703551708">
+  <general>
+   <startdate>2022-08-18 19:13:04</startdate>
+   <players>
+    <player name="1765969689" chips="€88,93" dealer="0" seat="1" bet="€0,25" win="€0"/>
+    <player name="Kurkkumies" chips="€64,94" dealer="0" seat="3" bet="€0,50" win="€0"/>
+    <player name="13373678" chips="€51,64" dealer="0" seat="5" bet="€1,25" win="€0"/>
+    <player name="LazyKoala" chips="€50,50" dealer="0" seat="6" bet="€3,75" win="€3,25"/>
+    <player name="FromNowOn" chips="€133,05" dealer="0" seat="8" bet="€0" win="€0"/>
+    <player name="ihadtrips" chips="€51,75" dealer="1" seat="10" bet="€0" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1765969689" type="1" no="1" sum="€0,25"/>
+   <action player="Kurkkumies" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H6 C6</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="LazyKoala" type="Pocket">X X</cards>
+   <action player="LazyKoala" type="23" no="4" sum="€3,75"/>
+   <cards player="FromNowOn" type="Pocket">X X</cards>
+   <action player="FromNowOn" type="0" no="5" sum="€0"/>
+   <cards player="ihadtrips" type="Pocket">X X</cards>
+   <action player="ihadtrips" type="0" no="6" sum="€0"/>
+   <cards player="1765969689" type="Pocket">X X</cards>
+   <action player="1765969689" type="0" no="7" sum="€0"/>
+   <cards player="Kurkkumies" type="Pocket">X X</cards>
+   <action player="Kurkkumies" type="0" no="8" sum="€0"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+</session>

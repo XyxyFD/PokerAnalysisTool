@@ -1,0 +1,3628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080853310">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 16, 488047982</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:59:06</duration>
+  <gamecount>106</gamecount>
+  <startdate>2022-08-10 15:58:34</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€123,26</bets>
+  <wins>€39,83</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€50</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701564077">
+  <general>
+   <startdate>2022-08-10 15:58:34</startdate>
+   <players>
+    <player bet="€3,61" dealer="0" seat="1" win="€0" name="Player 1" chips="€50"/>
+    <player bet="€3,61" dealer="0" seat="5" win="€7,25" name="Player 5" chips="€15,93"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Player 6" chips="€79,41"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Player 10" chips="€84,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 10" no="1"/>
+   <action sum="€0,50" type="2" player="Player 1" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">H2 D2</cards>
+   <action sum="€0,50" type="3" player="Player 5" no="3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" player="Player 6" no="4"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" player="Player 10" no="5"/>
+   <cards type="Pocket" player="Player 1">H8 HJ</cards>
+   <action sum="€0" type="4" player="Player 1" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 HA S6</cards>
+   <action sum="€0" type="4" player="Player 1" no="7"/>
+   <action sum="€0" type="4" player="Player 5" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action sum="€0" type="4" player="Player 1" no="9"/>
+   <action sum="€0,62" type="5" player="Player 5" no="10"/>
+   <action sum="€0,62" type="3" player="Player 1" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€0" type="4" player="Player 1" no="12"/>
+   <action sum="€2,49" type="5" player="Player 5" no="13"/>
+   <action sum="€2,49" type="3" player="Player 1" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701564175">
+  <general>
+   <startdate>2022-08-10 15:59:36</startdate>
+   <players>
+    <player bet="€1,25" dealer="0" seat="1" win="€0" name="Player 1" chips="€50"/>
+    <player bet="€5" dealer="0" seat="3" win="€0" name="Player 3" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="Player 5" chips="€19,57"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Player 6" chips="€79,41"/>
+    <player bet="€14,75" dealer="1" seat="10" win="€11,25" name="Player 10" chips="€84,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 1" no="1"/>
+   <action sum="€0,50" type="2" player="Player 3" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" player="Player 5" no="3"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" player="Player 6" no="4"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€1,25" type="23" player="Player 10" no="5"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€1" type="3" player="Player 1" no="6"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€5" type="23" player="Player 3" no="7"/>
+   <action sum="€14,75" type="23" player="Player 10" no="8"/>
+   <action sum="€0" type="0" player="Player 1" no="9"/>
+   <action sum="€0" type="0" player="Player 3" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3701564229">
+  <general>
+   <startdate>2022-08-10 16:00:15</startdate>
+   <players>
+    <player bet="€3,06" dealer="1" seat="1" win="€2,48" name="Player 1" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="Player 3" chips="€45"/>
+    <player bet="€1,15" dealer="0" seat="5" win="€0" name="Player 5" chips="€19,57"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Player 6" chips="€79,41"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Player 10" chips="€90,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 3" no="1"/>
+   <action sum="€0,50" type="2" player="Player 5" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€0" type="0" player="Player 6" no="3"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" player="Player 10" no="4"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€1,15" type="23" player="Player 1" no="5"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" player="Player 3" no="6"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0,65" type="3" player="Player 5" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 H4 C9</cards>
+   <action sum="€0" type="4" player="Player 5" no="8"/>
+   <action sum="€1,91" type="5" player="Player 1" no="9"/>
+   <action sum="€0" type="0" player="Player 5" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3701564275">
+  <general>
+   <startdate>2022-08-10 16:00:47</startdate>
+   <players>
+    <player bet="€1,20" dealer="0" seat="1" win="€0" name="Player 1" chips="€51,33"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="Player 3" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="Player 5" chips="€18,42"/>
+    <player bet="€5" dealer="0" seat="6" win="€2,65" name="Player 6" chips="€79,41"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Player 10" chips="€90,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Player 5" no="1"/>
+   <action sum="€0,50" type="2" player="Player 6" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" type="0" player="Player 10" no="3"/>
+   <cards type="Pocket" player="Player 1">X X</cards>
+   <action sum="€1,20" type="23" player="Player 1" no="4"/>
+   <cards type="Pocket" player="Player 3">X X</cards>
+   <action sum="€0" type="0" player="Player 3" no="5"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" type="0" player="Player 5" no="6"/>
+   <cards type="Pocket" player="Player 6">X X</cards>
+   <action sum="€5" type="23" player="Player 6" no="7"/>
+   <action sum="€0" type="0" player="Player 1" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701564317">
+  <general>
+   <startdate>2022-08-10 16:01:16</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,13"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€3" dealer="1" seat="5" win="€3,25" name="zivo" chips="€18,17"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€80,86"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€1,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€90,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="JenniXXX" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€1,25" type="23" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€3" type="23" player="zivo" no="6"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="7"/>
+   <cards type="Pocket" player="13373678">D6 C2</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+   <action sum="€0" type="0" player="Sviridinho" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701564609">
+  <general>
+   <startdate>2022-08-10 16:01:47</startdate>
+   <players>
+    <player bet="€1,30" dealer="0" seat="1" win="€1,25" name="DenDenDenGi" chips="€50,13"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€20,17"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="JenniXXX" chips="€80,61"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€89,67"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,30" type="23" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="5"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="6"/>
+   <cards type="Pocket" player="13373678">SK H2</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701564652">
+  <general>
+   <startdate>2022-08-10 16:02:14</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0,50" name="DenDenDenGi" chips="€50,88"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€20,17"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€80,61"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€89,17"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="4"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="5"/>
+   <cards type="Pocket" player="13373678">S3 CK</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701564670">
+  <general>
+   <startdate>2022-08-10 16:02:26</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€51,13"/>
+    <player bet="€14,76" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€2" dealer="0" seat="5" win="€0" name="zivo" chips="€20,17"/>
+    <player bet="€14,76" dealer="0" seat="6" win="€30,81" name="JenniXXX" chips="€80,61"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€88,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0,50" type="3" player="zivo" no="3"/>
+   <cards type="Pocket" player="JenniXXX">CQ DQ</cards>
+   <action sum="€2" type="23" player="JenniXXX" no="4"/>
+   <cards type="Pocket" player="13373678">C9 DK</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">H6 D6</cards>
+   <action sum="€1,50" type="3" player="BadScam" no="8"/>
+   <action sum="€1,50" type="3" player="zivo" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D8 C5</cards>
+   <action sum="€0" type="4" player="BadScam" no="10"/>
+   <action sum="€0" type="4" player="zivo" no="11"/>
+   <action sum="€3" type="5" player="JenniXXX" no="12"/>
+   <action sum="€3" type="3" player="BadScam" no="13"/>
+   <action sum="€0" type="0" player="zivo" no="14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" type="4" player="BadScam" no="15"/>
+   <action sum="€0" type="4" player="JenniXXX" no="16"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action sum="€0" type="4" player="BadScam" no="17"/>
+   <action sum="€9,76" type="5" player="JenniXXX" no="18"/>
+   <action sum="€9,76" type="3" player="BadScam" no="19"/>
+  </round>
+ </game>
+ <game gamecode="3701565715">
+  <general>
+   <startdate>2022-08-10 16:03:53</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€50,88"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€35,24"/>
+    <player bet="€2,62" dealer="0" seat="5" win="€2,67" name="zivo" chips="€18,17"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€96,66"/>
+    <player bet="€1,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="3"/>
+   <cards type="Pocket" player="13373678">H6 S6</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0,75" type="3" player="zivo" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 HA D2</cards>
+   <action sum="€0" type="4" player="zivo" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action sum="€1,37" type="5" player="zivo" no="11"/>
+   <action sum="€0" type="0" player="13373678" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701565775">
+  <general>
+   <startdate>2022-08-10 16:04:33</startdate>
+   <players>
+    <player bet="€2,40" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,88"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€5,05" dealer="0" seat="5" win="€5,14" name="zivo" chips="€19,59"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€96,66"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="JenniXXX" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 HJ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€2,40" type="23" player="zivo" no="7"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="8"/>
+   <action sum="€1,20" type="3" player="DenDenDenGi" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D5 DQ</cards>
+   <action sum="€2,65" type="5" player="zivo" no="10"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701565852">
+  <general>
+   <startdate>2022-08-10 16:05:15</startdate>
+   <players>
+    <player bet="€1,25" dealer="0" seat="1" win="€1,25" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="zivo" chips="€22,33"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€96,16"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="JenniXXX" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,25" type="23" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="6"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="7"/>
+   <cards type="Pocket" player="13373678">S10 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701566015">
+  <general>
+   <startdate>2022-08-10 16:05:28</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,75"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€22,33"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="JenniXXX" chips="€95,91"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€88,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="5"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="6"/>
+   <cards type="Pocket" player="13373678">H8 C7</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701566029">
+  <general>
+   <startdate>2022-08-10 16:05:38</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,75"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€22,33"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€95,91"/>
+    <player bet="€1,25" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€3,75" dealer="0" seat="10" win="€2,91" name="Sviridinho" chips="€89,17"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="4"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="5"/>
+   <cards type="Pocket" player="13373678">SJ CK</cards>
+   <action sum="€1,25" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€1" type="3" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 DA S7</cards>
+   <action sum="€0" type="4" player="Sviridinho" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€2,50" type="5" player="Sviridinho" no="11"/>
+   <action sum="€0" type="0" player="13373678" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701566111">
+  <general>
+   <startdate>2022-08-10 16:06:20</startdate>
+   <players>
+    <player bet="€7,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,25"/>
+    <player bet="€7,50" dealer="0" seat="3" win="€14,55" name="BadScam" chips="€50"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€22,33"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€95,91"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="3"/>
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="4"/>
+   <cards type="Pocket" player="13373678">S9 S3</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">H9 C9</cards>
+   <action sum="€1,50" type="23" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">CA SA</cards>
+   <action sum="€4,50" type="23" player="BadScam" no="8"/>
+   <action sum="€3" type="3" player="DenDenDenGi" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 CK S2</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="10"/>
+   <action sum="€3" type="5" player="BadScam" no="11"/>
+   <action sum="€3" type="3" player="DenDenDenGi" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="13"/>
+   <action sum="€0" type="4" player="BadScam" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="15"/>
+   <action sum="€0" type="4" player="BadScam" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3701566221">
+  <general>
+   <startdate>2022-08-10 16:07:23</startdate>
+   <players>
+    <player bet="€10,21" dealer="1" seat="1" win="€8,02" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€57,05"/>
+    <player bet="€4,01" dealer="0" seat="5" win="€0" name="zivo" chips="€22,33"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="JenniXXX" chips="€95,91"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="JenniXXX">X X</cards>
+   <action sum="€0" type="0" player="JenniXXX" no="3"/>
+   <cards type="Pocket" player="13373678">SQ D9</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,15" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0,65" type="3" player="zivo" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H3 C6</cards>
+   <action sum="€0" type="4" player="zivo" no="9"/>
+   <action sum="€2,86" type="5" player="DenDenDenGi" no="10"/>
+   <action sum="€2,86" type="3" player="zivo" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" type="4" player="zivo" no="12"/>
+   <action sum="€6,20" type="5" player="DenDenDenGi" no="13"/>
+   <action sum="€0" type="0" player="zivo" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701566289">
+  <general>
+   <startdate>2022-08-10 16:08:05</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€54,01"/>
+    <player bet="€10,04" dealer="1" seat="3" win="€0" name="BadScam" chips="€56,80"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="zivo" chips="€18,32"/>
+    <player bet="€20,20" dealer="0" seat="8" win="€19,72" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="6"/>
+   <cards type="Pocket" player="13373678">HA SK</cards>
+   <action sum="€6" type="23" player="13373678" no="7"/>
+   <action sum="€4,75" type="3" player="BadScam" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 DA H3</cards>
+   <action sum="€4,04" type="5" player="13373678" no="9"/>
+   <action sum="€4,04" type="3" player="BadScam" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€10,16" type="5" player="13373678" no="11"/>
+   <action sum="€0" type="0" player="BadScam" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701566387">
+  <general>
+   <startdate>2022-08-10 16:09:07</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€54,01"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€46,76"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="zivo" chips="€18,07"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€59,68"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="5"/>
+   <cards type="Pocket" player="13373678">S9 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701566426">
+  <general>
+   <startdate>2022-08-10 16:09:29</startdate>
+   <players>
+    <player bet="€2,57" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€54,01"/>
+    <player bet="€6,07" dealer="0" seat="3" win="€7,72" name="BadScam" chips="€50"/>
+    <player bet="€2,57" dealer="0" seat="5" win="€0" name="zivo" chips="€18,07"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€59,43"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€91,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1,25" type="3" player="zivo" no="4"/>
+   <cards type="Pocket" player="13373678">SK S3</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0,75" type="3" player="DenDenDenGi" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DQ C9</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="8"/>
+   <action sum="€1,32" type="5" player="BadScam" no="9"/>
+   <action sum="€1,32" type="3" player="zivo" no="10"/>
+   <action sum="€1,32" type="3" player="DenDenDenGi" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="12"/>
+   <action sum="€0" type="4" player="BadScam" no="13"/>
+   <action sum="€0" type="4" player="zivo" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="15"/>
+   <action sum="€3,50" type="5" player="BadScam" no="16"/>
+   <action sum="€0" type="0" player="zivo" no="17"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="18"/>
+  </round>
+ </game>
+ <game gamecode="3701566761">
+  <general>
+   <startdate>2022-08-10 16:10:32</startdate>
+   <players>
+    <player bet="€1,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€51,44"/>
+    <player bet="€4,50" dealer="0" seat="3" win="€3" name="BadScam" chips="€55,15"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€15,50"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€59,43"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="3"/>
+   <cards type="Pocket" player="13373678">D5 CK</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,50" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€4,50" type="23" player="BadScam" no="7"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701566793">
+  <general>
+   <startdate>2022-08-10 16:10:54</startdate>
+   <players>
+    <player bet="€3,75" dealer="1" seat="1" win="€3,25" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€56,65"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="zivo" chips="€15,50"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€59,43"/>
+    <player bet="€1,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€90,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 HA</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€1,25" type="23" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€3,75" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="7"/>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701566821">
+  <general>
+   <startdate>2022-08-10 16:11:13</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€52"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€56,40"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="zivo" chips="€15"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€59,43"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€89,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D2 D3</cards>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701566842">
+  <general>
+   <startdate>2022-08-10 16:11:25</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€52"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€56,40"/>
+    <player bet="€1,50" dealer="1" seat="5" win="€1,25" name="zivo" chips="€14,75"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€59,68"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€89,58"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1,50" type="23" player="zivo" no="5"/>
+   <cards type="Pocket" player="13373678">CJ S8</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701566864">
+  <general>
+   <startdate>2022-08-10 16:11:40</startdate>
+   <players>
+    <player bet="€6" dealer="0" seat="1" win="€2,75" name="DenDenDenGi" chips="€52"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€56,40"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€15,50"/>
+    <player bet="€1,25" dealer="1" seat="8" win="€0" name="13373678" chips="€59,43"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€89,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="4"/>
+   <cards type="Pocket" player="13373678">CJ D9</cards>
+   <action sum="€1,25" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€6" type="23" player="DenDenDenGi" no="7"/>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701566916">
+  <general>
+   <startdate>2022-08-10 16:12:06</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€53,50"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€56,40"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€15,50"/>
+    <player bet="€1,25" dealer="0" seat="8" win="€1,25" name="13373678" chips="€58,18"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€88,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="3"/>
+   <cards type="Pocket" player="13373678">DK SA</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701567973">
+  <general>
+   <startdate>2022-08-10 16:12:42</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€53,25"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€55,90"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0,50" name="zivo" chips="€15,50"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€58,93"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <cards type="Pocket" player="13373678">DK S9</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701568008">
+  <general>
+   <startdate>2022-08-10 16:13:01</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€53,25"/>
+    <player bet="€27,14" dealer="1" seat="3" win="€53,03" name="BadScam" chips="€55,65"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="zivo" chips="€15,75"/>
+    <player bet="€27,14" dealer="0" seat="8" win="€0" name="13373678" chips="€58,93"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">S4 D4</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="6"/>
+   <cards type="Pocket" player="13373678">HA H7</cards>
+   <action sum="€0,75" type="3" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA H4 C3</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+   <action sum="€0,90" type="5" player="BadScam" no="9"/>
+   <action sum="€4,08" type="23" player="13373678" no="10"/>
+   <action sum="€3,18" type="3" player="BadScam" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action sum="€8,18" type="5" player="13373678" no="12"/>
+   <action sum="€8,18" type="3" player="BadScam" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€13,63" type="5" player="13373678" no="14"/>
+   <action sum="€13,63" type="3" player="BadScam" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3701568100">
+  <general>
+   <startdate>2022-08-10 16:14:01</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€53,25"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€81,54"/>
+    <player bet="€1,50" dealer="1" seat="5" win="€1,25" name="zivo" chips="€15,50"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,83"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1,50" type="23" player="zivo" no="5"/>
+   <cards type="Pocket" player="13373678">H6 DJ</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701568133">
+  <general>
+   <startdate>2022-08-10 16:14:19</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€53,25"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€81,54"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="zivo" chips="€16,25"/>
+    <player bet="€2" dealer="1" seat="8" win="€1,75" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0,50" type="3" player="zivo" no="4"/>
+   <cards type="Pocket" player="13373678">DJ D10</cards>
+   <action sum="€2" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <action sum="€0" type="0" player="zivo" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701568177">
+  <general>
+   <startdate>2022-08-10 16:14:44</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€52,75"/>
+    <player bet="€19,55" dealer="0" seat="3" win="€14,89" name="BadScam" chips="€81,54"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€15,75"/>
+    <player bet="€7,55" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€88,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="3"/>
+   <cards type="Pocket" player="13373678">D9 D7</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€4,50" type="23" player="BadScam" no="7"/>
+   <action sum="€3,25" type="3" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 SK C2</cards>
+   <action sum="€3,05" type="5" player="BadScam" no="9"/>
+   <action sum="€3,05" type="3" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€12" type="5" player="BadScam" no="11"/>
+   <action sum="€0" type="0" player="13373678" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701568263">
+  <general>
+   <startdate>2022-08-10 16:15:35</startdate>
+   <players>
+    <player bet="€1,90" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€52,50"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€88,88"/>
+    <player bet="€4,30" dealer="0" seat="5" win="€4,55" name="zivo" chips="€15,75"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€50"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+   <action sum="€0,50" type="2" player="Bailly" no="3"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="4" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C5 D4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,90" type="23" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="8"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€4,30" type="23" player="zivo" no="9"/>
+   <action sum="€0" type="0" player="Bailly" no="10"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701568325">
+  <general>
+   <startdate>2022-08-10 16:16:13</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,60"/>
+    <player bet="€1,25" dealer="1" seat="3" win="€0" name="BadScam" chips="€88,63"/>
+    <player bet="€3,12" dealer="0" seat="5" win="€3,64" name="zivo" chips="€18,40"/>
+    <player bet="€1,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€49,50"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 CQ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="6"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1" type="3" player="zivo" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,75" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ SQ SK</cards>
+   <action sum="€0" type="4" player="zivo" no="9"/>
+   <action sum="€0" type="4" player="Bailly" no="10"/>
+   <action sum="€0" type="4" player="BadScam" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€1,87" type="5" player="zivo" no="12"/>
+   <action sum="€0" type="0" player="Bailly" no="13"/>
+   <action sum="€0" type="0" player="BadScam" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701568504">
+  <general>
+   <startdate>2022-08-10 16:16:44</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,60"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€87,38"/>
+    <player bet="€1" dealer="1" seat="5" win="€1,25" name="zivo" chips="€20,79"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€48,25"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1" type="23" player="zivo" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">CA H6</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701568532">
+  <general>
+   <startdate>2022-08-10 16:17:02</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,60"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€87,38"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€1,25" name="zivo" chips="€21,54"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€48"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,08"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€1,50" type="23" player="zivo" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">D5 H10</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701568860">
+  <general>
+   <startdate>2022-08-10 16:18:07</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,10"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€87,38"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€17,79"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€57,75"/>
+    <player bet="€2" dealer="0" seat="8" win="€1,75" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€87,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">CQ S10</cards>
+   <action sum="€2" type="23" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="8"/>
+   <action sum="€0" type="0" player="Bailly" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701568900">
+  <general>
+   <startdate>2022-08-10 16:18:31</startdate>
+   <players>
+    <player bet="€10,37" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€86,88"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="zivo" chips="€17,79"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€57,25"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€19,61" dealer="0" seat="10" win="€21,33" name="Sviridinho" chips="€87,33"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="zivo" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">S7 S10</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€2" type="23" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€6" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="8"/>
+   <action sum="€0" type="0" player="Bailly" no="9"/>
+   <action sum="€4" type="3" player="Sviridinho" no="10"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 D9 S5</cards>
+   <action sum="€0" type="4" player="Sviridinho" no="11"/>
+   <action sum="€4,37" type="5" player="DenDenDenGi" no="12"/>
+   <action sum="€13,61" type="23" player="Sviridinho" no="13"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701569010">
+  <general>
+   <startdate>2022-08-10 16:19:44</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€86,63"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="zivo" chips="€17,29"/>
+    <player bet="€11,20" dealer="0" seat="6" win="€7,33" name="Bailly" chips="€56,75"/>
+    <player bet="€3,65" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€98,29"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="zivo" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S9 H9</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,75" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 CK D5</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0,90" type="5" player="13373678" no="10"/>
+   <action sum="€0,90" type="3" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" type="4" player="Bailly" no="12"/>
+   <action sum="€1,50" type="5" player="13373678" no="13"/>
+   <action sum="€1,50" type="3" player="Bailly" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action sum="€7,55" type="5" player="Bailly" no="15"/>
+   <action sum="€0" type="0" player="13373678" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3701569089">
+  <general>
+   <startdate>2022-08-10 16:20:34</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€86,63"/>
+    <player bet="€1,25" dealer="1" seat="5" win="€0" name="zivo" chips="€17,04"/>
+    <player bet="€4,25" dealer="0" seat="6" win="€2,91" name="Bailly" chips="€60,43"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€47,60"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€98,29"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0,50" type="3" player="zivo" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,25" type="3" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">SA D8</cards>
+   <action sum="€0" type="4" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S9 C5</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+   <action sum="€0,75" type="5" player="zivo" no="11"/>
+   <action sum="€0,75" type="3" player="Bailly" no="12"/>
+   <action sum="€0" type="0" player="13373678" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€3" type="5" player="Bailly" no="14"/>
+   <action sum="€0" type="0" player="zivo" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3701569171">
+  <general>
+   <startdate>2022-08-10 16:21:26</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€86,63"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="zivo" chips="€15,79"/>
+    <player bet="€0,50" dealer="1" seat="6" win="€0" name="Bailly" chips="€62,09"/>
+    <player bet="€2,50" dealer="0" seat="8" win="€1,50" name="13373678" chips="€47,10"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€98,29"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="zivo">X X</cards>
+   <action sum="€0" type="0" player="zivo" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">D9 DK</cards>
+   <action sum="€2,50" type="23" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+   <action sum="€0" type="0" player="Bailly" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701569211">
+  <general>
+   <startdate>2022-08-10 16:21:52</startdate>
+   <players>
+    <player bet="€50" dealer="0" seat="1" win="€30,87" name="DenDenDenGi" chips="€50"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€86,63"/>
+    <player bet="€15,79" dealer="0" seat="5" win="€0" name="zivo" chips="€15,79"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€61,59"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€48,10"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€97,79"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="zivo">HA SJ</cards>
+   <action sum="€1" type="23" player="zivo" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">D4 D9</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">CA CQ</cards>
+   <action sum="€50" type="23" player="DenDenDenGi" no="8"/>
+   <action sum="€14,79" type="7" player="zivo" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S8 S7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+  </round>
+ </game>
+ <game gamecode="3701569261">
+  <general>
+   <startdate>2022-08-10 16:22:26</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€65,08"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0,50" name="BadScam" chips="€86,63"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€61,59"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€48,10"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€97,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">H10 C3</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701569277">
+  <general>
+   <startdate>2022-08-10 16:22:34</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€64,83"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€86,88"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0,50" name="Bailly" chips="€61,59"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€48,10"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€97,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <cards type="Pocket" player="13373678">C10 HQ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701569314">
+  <general>
+   <startdate>2022-08-10 16:22:59</startdate>
+   <players>
+    <player bet="€44,93" dealer="0" seat="1" win="€30" name="DenDenDenGi" chips="€64,83"/>
+    <player bet="€14" dealer="1" seat="3" win="€0" name="BadScam" chips="€86,63"/>
+    <player bet="€2,43" dealer="0" seat="6" win="€0" name="Bailly" chips="€61,84"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€48,10"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€97,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,20" type="3" player="BadScam" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,95" type="3" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">C7 SK</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C5 CQ</cards>
+   <action sum="€0" type="4" player="Bailly" no="8"/>
+   <action sum="€1,23" type="5" player="DenDenDenGi" no="9"/>
+   <action sum="€1,23" type="3" player="BadScam" no="10"/>
+   <action sum="€1,23" type="3" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" type="4" player="Bailly" no="12"/>
+   <action sum="€2,57" type="5" player="DenDenDenGi" no="13"/>
+   <action sum="€2,57" type="3" player="BadScam" no="14"/>
+   <action sum="€0" type="0" player="Bailly" no="15"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="16"/>
+   <action sum="€9" type="5" player="BadScam" no="17"/>
+   <action sum="€39,93" type="23" player="DenDenDenGi" no="18"/>
+   <action sum="€0" type="0" player="BadScam" no="19"/>
+  </round>
+ </game>
+ <game gamecode="3701570373">
+  <general>
+   <startdate>2022-08-10 16:24:22</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€72,63"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€59,41"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€47,60"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€97,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">C7 SQ</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701570388">
+  <general>
+   <startdate>2022-08-10 16:24:33</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€72,63"/>
+    <player bet="€2,50" dealer="0" seat="6" win="€1,22" name="Bailly" chips="€59,41"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€47,35"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€97,79"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">S4 CQ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK DQ C5</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="8"/>
+   <action sum="€2" type="5" player="Bailly" no="9"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3701570814">
+  <general>
+   <startdate>2022-08-10 16:25:04</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,33"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€72,63"/>
+    <player bet="€13,08" dealer="0" seat="6" win="€8,70" name="Bailly" chips="€60,13"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€47,35"/>
+    <player bet="€4,11" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€97,54"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">C6 D4</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€2,50" type="23" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <action sum="€2" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 C10 H7</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€1,61" type="5" player="Sviridinho" no="10"/>
+   <action sum="€1,61" type="3" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" type="4" player="Bailly" no="12"/>
+   <action sum="€0" type="4" player="Sviridinho" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action sum="€8,97" type="5" player="Bailly" no="14"/>
+   <action sum="€0" type="0" player="Sviridinho" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3701570884">
+  <general>
+   <startdate>2022-08-10 16:25:59</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€80,08"/>
+    <player bet="€2,49" dealer="0" seat="3" win="€0" name="BadScam" chips="€72,13"/>
+    <player bet="€5,49" dealer="0" seat="6" win="€4,83" name="Bailly" chips="€64,72"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€47,35"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H9 DQ</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,50" type="23" player="BadScam" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1" type="3" player="Bailly" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D10 H7</cards>
+   <action sum="€0,99" type="5" player="BadScam" no="8"/>
+   <action sum="€0,99" type="3" player="Bailly" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action sum="€0" type="4" player="BadScam" no="10"/>
+   <action sum="€3" type="5" player="Bailly" no="11"/>
+   <action sum="€0" type="0" player="BadScam" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701570944">
+  <general>
+   <startdate>2022-08-10 16:26:37</startdate>
+   <players>
+    <player bet="€1,20" dealer="0" seat="1" win="€1,25" name="DenDenDenGi" chips="€80,08"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€69,64"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€67,06"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€47,35"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">HJ C4</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701570969">
+  <general>
+   <startdate>2022-08-10 16:26:51</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€69,64"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€66,81"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€46,85"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">H9 D4</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701570984">
+  <general>
+   <startdate>2022-08-10 16:27:01</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,83"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€69,64"/>
+    <player bet="€3,25" dealer="0" seat="6" win="€3,16" name="Bailly" chips="€66,81"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€46,60"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1,25" type="3" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">S10 D5</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 HA H7</cards>
+   <action sum="€0" type="4" player="BadScam" no="8"/>
+   <action sum="€2" type="5" player="Bailly" no="9"/>
+   <action sum="€0" type="0" player="BadScam" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3701571018">
+  <general>
+   <startdate>2022-08-10 16:27:24</startdate>
+   <players>
+    <player bet="€1,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€80,33"/>
+    <player bet="€5" dealer="0" seat="3" win="€3" name="BadScam" chips="€68,39"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€68,72"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€46,60"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">D2 S2</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,50" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€5" type="23" player="BadScam" no="7"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701571066">
+  <general>
+   <startdate>2022-08-10 16:27:57</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€78,83"/>
+    <player bet="€1,50" dealer="0" seat="3" win="€1" name="BadScam" chips="€69,89"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€68,72"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H6 C7</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,50" type="23" player="BadScam" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701571094">
+  <general>
+   <startdate>2022-08-10 16:28:16</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,83"/>
+    <player bet="€4,06" dealer="1" seat="3" win="€9,09" name="BadScam" chips="€70,39"/>
+    <player bet="€1,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€68,22"/>
+    <player bet="€4,06" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">SQ DK</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1" type="3" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">HK H2</cards>
+   <action sum="€0,75" type="3" player="13373678" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S5 C10</cards>
+   <action sum="€0" type="4" player="Bailly" no="8"/>
+   <action sum="€2,81" type="5" player="13373678" no="9"/>
+   <action sum="€2,81" type="3" player="BadScam" no="10"/>
+   <action sum="€0" type="0" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€0" type="4" player="13373678" no="12"/>
+   <action sum="€0" type="4" player="BadScam" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C7</cards>
+   <action sum="€0" type="4" player="13373678" no="14"/>
+   <action sum="€0" type="4" player="BadScam" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3701571194">
+  <general>
+   <startdate>2022-08-10 16:29:30</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,83"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€75,42"/>
+    <player bet="€4,50" dealer="1" seat="6" win="€3,16" name="Bailly" chips="€66,97"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€93,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1,25" type="3" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">DK S9</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H3 S5</cards>
+   <action sum="€0" type="4" player="BadScam" no="8"/>
+   <action sum="€3,25" type="5" player="Bailly" no="9"/>
+   <action sum="€0" type="0" player="BadScam" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3701571226">
+  <general>
+   <startdate>2022-08-10 16:29:55</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,17"/>
+    <player bet="€1,50" dealer="0" seat="6" win="€1,25" name="Bailly" chips="€68,88"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€92,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1,50" type="23" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C7 D4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701571255">
+  <general>
+   <startdate>2022-08-10 16:30:12</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,33"/>
+    <player bet="€2" dealer="0" seat="3" win="€1,25" name="BadScam" chips="€74,17"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€69,63"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">S6 HQ</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€2" type="23" player="BadScam" no="7"/>
+   <action sum="€0" type="0" player="Bailly" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701571279">
+  <general>
+   <startdate>2022-08-10 16:30:35</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€78,08"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,92"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€2,50" dealer="0" seat="6" win="€1,22" name="Bailly" chips="€69,13"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">C7 DA</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 CA HJ</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="9"/>
+   <action sum="€2" type="5" player="Bailly" no="10"/>
+   <action sum="€0" type="0" player="PartyTiger" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701571333">
+  <general>
+   <startdate>2022-08-10 16:31:06</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,08"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€74,67"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€4,50" dealer="0" seat="6" win="€2,91" name="Bailly" chips="€69,85"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S10 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 HA H7</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="9"/>
+   <action sum="€3" type="5" player="Bailly" no="10"/>
+   <action sum="€0" type="0" player="PartyTiger" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701571626">
+  <general>
+   <startdate>2022-08-10 16:32:03</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,08"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€1,25" name="BadScam" chips="€74,67"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€71,26"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">H4 H9</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701571658">
+  <general>
+   <startdate>2022-08-10 16:32:26</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,08"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€75,42"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€71,01"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">H6 SQ</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701571672">
+  <general>
+   <startdate>2022-08-10 16:32:38</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€78,08"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€1,25" name="BadScam" chips="€75,42"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€71,01"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€92,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">DQ C4</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701571714">
+  <general>
+   <startdate>2022-08-10 16:33:10</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€77,58"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,17"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€14,25" dealer="0" seat="6" win="€9,46" name="Bailly" chips="€71,01"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€4,50" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€92,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C7 D8</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€2" type="23" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="8"/>
+   <action sum="€1,50" type="3" player="Bailly" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C3 C6</cards>
+   <action sum="€0" type="4" player="Bailly" no="10"/>
+   <action sum="€2,50" type="5" player="Sviridinho" no="11"/>
+   <action sum="€2,50" type="3" player="Bailly" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" type="4" player="Bailly" no="13"/>
+   <action sum="€0" type="4" player="Sviridinho" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+   <action sum="€9,75" type="5" player="Bailly" no="15"/>
+   <action sum="€0" type="0" player="Sviridinho" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3701571788">
+  <general>
+   <startdate>2022-08-10 16:34:08</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€77,33"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€75,67"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0,50" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€75,97"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">C5 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701571809">
+  <general>
+   <startdate>2022-08-10 16:34:18</startdate>
+   <players>
+    <player bet="€5,05" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€77,33"/>
+    <player bet="€1,20" dealer="1" seat="3" win="€0" name="BadScam" chips="€75,42"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50,25"/>
+    <player bet="€10,82" dealer="0" seat="6" win="€11,20" name="Bailly" chips="€75,97"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DA C5</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,20" type="3" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,70" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D4 C6</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0" type="4" player="DenDenDenGi" no="10"/>
+   <action sum="€0" type="4" player="BadScam" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action sum="€3,85" type="5" player="Bailly" no="12"/>
+   <action sum="€3,85" type="3" player="DenDenDenGi" no="13"/>
+   <action sum="€0" type="0" player="BadScam" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action sum="€5,77" type="5" player="Bailly" no="15"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3701571874">
+  <general>
+   <startdate>2022-08-10 16:35:06</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€72,28"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,22"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€7" dealer="0" seat="6" win="€6,31" name="Bailly" chips="€82,12"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€3" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€88,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€1,25" type="23" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€3" type="23" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">S8 H9</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+   <action sum="€1,75" type="3" player="Sviridinho" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 S6 SQ</cards>
+   <action sum="€0" type="4" player="Bailly" no="10"/>
+   <action sum="€0" type="4" player="Sviridinho" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action sum="€4" type="5" player="Bailly" no="12"/>
+   <action sum="€0" type="0" player="Sviridinho" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3701572830">
+  <general>
+   <startdate>2022-08-10 16:35:48</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€72,28"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€1,25" name="BadScam" chips="€74,22"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€85,43"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€85,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">SJ S6</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701572870">
+  <general>
+   <startdate>2022-08-10 16:36:12</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€72,28"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,97"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€1,25" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€85,43"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€84,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">D8 S5</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701572897">
+  <general>
+   <startdate>2022-08-10 16:36:30</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€71,78"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0,50" name="BadScam" chips="€74,97"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50,75"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€85,43"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€84,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C10 D5</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701572915">
+  <general>
+   <startdate>2022-08-10 16:36:43</startdate>
+   <players>
+    <player bet="€1,15" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€71,53"/>
+    <player bet="€4,30" dealer="0" seat="3" win="€2,80" name="BadScam" chips="€75,22"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50,75"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€85,43"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€84,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">H4 D5</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,15" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€4,30" type="23" player="BadScam" no="7"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="8"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701572952">
+  <general>
+   <startdate>2022-08-10 16:37:04</startdate>
+   <players>
+    <player bet="€3,85" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€70,38"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€76,87"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50,25"/>
+    <player bet="€7,82" dealer="0" seat="6" win="€7,71" name="Bailly" chips="€85,43"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€84,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C9 SK</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,70" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C2 D2</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0" type="4" player="DenDenDenGi" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action sum="€2,65" type="5" player="Bailly" no="11"/>
+   <action sum="€2,65" type="3" player="DenDenDenGi" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action sum="€3,97" type="5" player="Bailly" no="13"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701573004">
+  <general>
+   <startdate>2022-08-10 16:37:48</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€66,53"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,87"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€15,35" dealer="0" seat="6" win="€15,13" name="Bailly" chips="€89,29"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€7,55" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€84,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€1,25" type="23" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1" type="3" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">C5 H3</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D8 D9</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0,90" type="5" player="Sviridinho" no="10"/>
+   <action sum="€0,90" type="3" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" type="4" player="Bailly" no="12"/>
+   <action sum="€2" type="5" player="Sviridinho" no="13"/>
+   <action sum="€5,40" type="23" player="Bailly" no="14"/>
+   <action sum="€3,40" type="3" player="Sviridinho" no="15"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€7,80" type="5" player="Bailly" no="16"/>
+   <action sum="€0" type="0" player="Sviridinho" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3701573229">
+  <general>
+   <startdate>2022-08-10 16:38:50</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€66,53"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,87"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€96,87"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0,50" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">C5 S7</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701573249">
+  <general>
+   <startdate>2022-08-10 16:39:04</startdate>
+   <players>
+    <player bet="€3,88" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€66,53"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,87"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€13,88" dealer="0" seat="6" win="€9,23" name="Bailly" chips="€96,87"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€77,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1,50" type="3" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">H8 H2</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1" type="3" player="DenDenDenGi" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D5 C6</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="9"/>
+   <action sum="€0" type="4" player="PartyTiger" no="10"/>
+   <action sum="€0" type="4" player="Bailly" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action sum="€2,38" type="5" player="DenDenDenGi" no="12"/>
+   <action sum="€0" type="0" player="PartyTiger" no="13"/>
+   <action sum="€2,38" type="3" player="Bailly" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="15"/>
+   <action sum="€10" type="5" player="Bailly" no="16"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3701573562">
+  <general>
+   <startdate>2022-08-10 16:40:25</startdate>
+   <players>
+    <player bet="€1,50" dealer="0" seat="1" win="€1" name="DenDenDenGi" chips="€62,65"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,87"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€102,22"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C10 H4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,50" type="23" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701573610">
+  <general>
+   <startdate>2022-08-10 16:40:58</startdate>
+   <players>
+    <player bet="€3,06" dealer="1" seat="1" win="€2,48" name="DenDenDenGi" chips="€63,15"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,37"/>
+    <player bet="€1,15" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€102,22"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">S4 DA</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,15" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0,65" type="3" player="PartyTiger" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H4 D8</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="9"/>
+   <action sum="€1,91" type="5" player="DenDenDenGi" no="10"/>
+   <action sum="€0" type="0" player="PartyTiger" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701573684">
+  <general>
+   <startdate>2022-08-10 16:41:50</startdate>
+   <players>
+    <player bet="€5,40" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€64,48"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€76,12"/>
+    <player bet="€5,40" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€102,22" dealer="0" seat="6" win="€15,71" name="Bailly" chips="€102,22"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 H6</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,20" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€5,40" type="23" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€4,90" type="3" player="Bailly" no="8"/>
+   <action sum="€4,20" type="3" player="DenDenDenGi" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C3 S7</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="10"/>
+   <action sum="€96,82" type="5" player="Bailly" no="11"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="12"/>
+   <action sum="€0" type="0" player="PartyTiger" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3701573768">
+  <general>
+   <startdate>2022-08-10 16:42:46</startdate>
+   <players>
+    <player bet="€1,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€59,08"/>
+    <player bet="€4" dealer="0" seat="3" win="€3,25" name="BadScam" chips="€76,12"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€112,53"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,25" type="23" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€4" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">D8 DK</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701573807">
+  <general>
+   <startdate>2022-08-10 16:43:12</startdate>
+   <players>
+    <player bet="€1,30" dealer="0" seat="1" win="€1,25" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€78,12"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€112,28"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,30" type="23" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">H6 S6</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701573849">
+  <general>
+   <startdate>2022-08-10 16:43:36</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€58,58"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€78,12"/>
+    <player bet="€19" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50"/>
+    <player bet="€19" dealer="0" seat="6" win="€37,58" name="Bailly" chips="€112,28"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">SA S7</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">H9 H10</cards>
+   <action sum="€1,50" type="3" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">C7 C2</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 D6 SJ</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="9"/>
+   <action sum="€2,50" type="5" player="Bailly" no="10"/>
+   <action sum="€2,50" type="3" player="PartyTiger" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="12"/>
+   <action sum="€5" type="5" player="Bailly" no="13"/>
+   <action sum="€5" type="3" player="PartyTiger" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action sum="€0" type="4" player="PartyTiger" no="15"/>
+   <action sum="€10" type="5" player="Bailly" no="16"/>
+   <action sum="€10" type="3" player="PartyTiger" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3701574937">
+  <general>
+   <startdate>2022-08-10 16:44:58</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€58,08"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€78,12"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€1,25" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€130,86"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€76,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">C8 H4</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701574980">
+  <general>
+   <startdate>2022-08-10 16:45:25</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€77,62"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€50,75"/>
+    <player bet="€2" dealer="0" seat="6" win="€0" name="Bailly" chips="€130,86"/>
+    <player bet="€5,56" dealer="0" seat="8" win="€4,61" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">SK DA</cards>
+   <action sum="€2" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="8"/>
+   <action sum="€1,50" type="3" player="Bailly" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 CJ SA</cards>
+   <action sum="€0" type="4" player="Bailly" no="10"/>
+   <action sum="€3,56" type="5" player="13373678" no="11"/>
+   <action sum="€0" type="0" player="Bailly" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3701575208">
+  <general>
+   <startdate>2022-08-10 16:46:07</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€77,37"/>
+    <player bet="€2,50" dealer="0" seat="5" win="€1,50" name="PartyTiger" chips="€50,25"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€128,86"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€52,61"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S5 C2</cards>
+   <action sum="€0,50" type="3" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€2,50" type="23" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="8"/>
+   <action sum="€0" type="0" player="13373678" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701575251">
+  <general>
+   <startdate>2022-08-10 16:46:32</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€77,37"/>
+    <player bet="€1,25" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€51,25"/>
+    <player bet="€3,75" dealer="0" seat="6" win="€4,13" name="Bailly" chips="€128,36"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€52,11"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,25" type="3" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€1" type="3" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">DJ C5</cards>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA S8 S7</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0" type="4" player="BadScam" no="10"/>
+   <action sum="€0" type="4" player="PartyTiger" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action sum="€2,50" type="5" player="Bailly" no="12"/>
+   <action sum="€0" type="0" player="BadScam" no="13"/>
+   <action sum="€0" type="0" player="PartyTiger" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701575321">
+  <general>
+   <startdate>2022-08-10 16:47:11</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€76,12"/>
+    <player bet="€2,75" dealer="0" seat="5" win="€3,16" name="PartyTiger" chips="€50"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€131,24"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€51,61"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€76,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,25" type="3" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">C10 S7</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H10 D6</cards>
+   <action sum="€0" type="4" player="BadScam" no="9"/>
+   <action sum="€1,50" type="5" player="PartyTiger" no="10"/>
+   <action sum="€0" type="0" player="BadScam" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701575369">
+  <general>
+   <startdate>2022-08-10 16:47:41</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,83"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,87"/>
+    <player bet="€1,50" dealer="0" seat="5" win="€1,25" name="PartyTiger" chips="€51,91"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€131,24"/>
+    <player bet="€0" dealer="1" seat="8" win="€0" name="13373678" chips="€51,36"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€75,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">C5 S6</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701575597">
+  <general>
+   <startdate>2022-08-10 16:48:09</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,33"/>
+    <player bet="€0,50" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,87"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€52,66"/>
+    <player bet="€3" dealer="0" seat="6" win="€1,22" name="Bailly" chips="€131,24"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€51,36"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€75,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="BadScam" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="4"/>
+   <cards type="Pocket" player="13373678">S6 CJ</cards>
+   <action sum="€0" type="0" player="13373678" no="5"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="6"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="7"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="4" player="BadScam" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 D6 DK</cards>
+   <action sum="€0" type="4" player="BadScam" no="9"/>
+   <action sum="€0" type="4" player="Bailly" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action sum="€0" type="4" player="BadScam" no="11"/>
+   <action sum="€2,50" type="5" player="Bailly" no="12"/>
+   <action sum="€0" type="0" player="BadScam" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3701575642">
+  <general>
+   <startdate>2022-08-10 16:48:37</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€57,08"/>
+    <player bet="€0,25" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,37"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€52,66"/>
+    <player bet="€0" dealer="0" seat="6" win="€0" name="Bailly" chips="€131,96"/>
+    <player bet="€1,25" dealer="0" seat="8" win="€1,25" name="13373678" chips="€51,36"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€75,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="BadScam" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">H7 C7</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="7"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701575706">
+  <general>
+   <startdate>2022-08-10 16:49:11</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,08"/>
+    <player bet="€0" dealer="1" seat="3" win="€0" name="BadScam" chips="€74,12"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€52,16"/>
+    <player bet="€9" dealer="0" seat="6" win="€8" name="Bailly" chips="€131,96"/>
+    <player bet="€4" dealer="0" seat="8" win="€0" name="13373678" chips="€52,11"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€75,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D6 DK</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="7"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,75" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S2 S5</cards>
+   <action sum="€0" type="4" player="Bailly" no="9"/>
+   <action sum="€0" type="4" player="13373678" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€2,75" type="5" player="Bailly" no="11"/>
+   <action sum="€2,75" type="3" player="13373678" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€5" type="5" player="Bailly" no="13"/>
+   <action sum="€0" type="0" player="13373678" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3701575811">
+  <general>
+   <startdate>2022-08-10 16:50:14</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,08"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,12"/>
+    <player bet="€14,53" dealer="1" seat="5" win="€28,43" name="PartyTiger" chips="€51,91"/>
+    <player bet="€0,25" dealer="0" seat="6" win="€0" name="Bailly" chips="€135,96"/>
+    <player bet="€14,53" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€75,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="5"/>
+   <cards type="Pocket" player="PartyTiger">SK S9</cards>
+   <action sum="€1,50" type="23" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="7"/>
+   <cards type="Pocket" player="13373678">C6 CA</cards>
+   <action sum="€1" type="3" player="13373678" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 D6 D2</cards>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+   <action sum="€0,97" type="5" player="PartyTiger" no="10"/>
+   <action sum="€0,97" type="3" player="13373678" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action sum="€0" type="4" player="13373678" no="12"/>
+   <action sum="€0" type="4" player="PartyTiger" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action sum="€0" type="4" player="13373678" no="14"/>
+   <action sum="€3,63" type="5" player="PartyTiger" no="15"/>
+   <action sum="€12,06" type="23" player="13373678" no="16"/>
+   <action sum="€8,43" type="3" player="PartyTiger" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3701576179">
+  <general>
+   <startdate>2022-08-10 16:51:40</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,08"/>
+    <player bet="€1,25" dealer="0" seat="3" win="€1,25" name="BadScam" chips="€74,12"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,81"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€135,71"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€75,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€1,25" type="23" player="BadScam" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">SQ D3</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701576208">
+  <general>
+   <startdate>2022-08-10 16:52:00</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€57,08"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,81"/>
+    <player bet="€0,50" dealer="0" seat="6" win="€0" name="Bailly" chips="€135,71"/>
+    <player bet="€2" dealer="1" seat="8" win="€1,75" name="13373678" chips="€50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€74,88"/>
+    <player bet="€0" dealer="0" seat="3" win="€0" name="BadScam" chips="€74,87"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="BadScam">X X</cards>
+   <action sum="€0" type="0" player="BadScam" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">S5 DA</cards>
+   <action sum="€2" type="23" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="8"/>
+   <action sum="€0" type="0" player="Bailly" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3701576241">
+  <general>
+   <startdate>2022-08-10 16:52:19</startdate>
+   <players>
+    <player bet="€2,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€56,58"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,81"/>
+    <player bet="€5,25" dealer="0" seat="6" win="€4,85" name="Bailly" chips="€135,21"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€74,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,50" type="3" player="Bailly" no="3"/>
+   <cards type="Pocket" player="13373678">C7 C2</cards>
+   <action sum="€0" type="0" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€2,25" type="23" player="DenDenDenGi" no="6"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="7"/>
+   <action sum="€1,75" type="3" player="Bailly" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ H2 S9</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="9"/>
+   <action sum="€3" type="5" player="Bailly" no="10"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701576298">
+  <general>
+   <startdate>2022-08-10 16:52:56</startdate>
+   <players>
+    <player bet="€3,69" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€54,33"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,31"/>
+    <player bet="€11,32" dealer="0" seat="6" win="€7,40" name="Bailly" chips="€137,81"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€74,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="Bailly" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S6 C2</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,15" type="23" player="DenDenDenGi" no="5"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="6"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0,65" type="3" player="Bailly" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D7 H9</cards>
+   <action sum="€0" type="4" player="Bailly" no="8"/>
+   <action sum="€0" type="4" player="DenDenDenGi" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action sum="€2,54" type="5" player="Bailly" no="10"/>
+   <action sum="€2,54" type="3" player="DenDenDenGi" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action sum="€7,63" type="5" player="Bailly" no="12"/>
+   <action sum="€0" type="0" player="DenDenDenGi" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3701576369">
+  <general>
+   <startdate>2022-08-10 16:53:37</startdate>
+   <players>
+    <player bet="€0" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,64"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€65,06"/>
+    <player bet="€2" dealer="0" seat="6" win="€1" name="Bailly" chips="€141,52"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€74,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Bailly" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€2" type="23" player="Bailly" no="6"/>
+   <cards type="Pocket" player="13373678">S8 S3</cards>
+   <action sum="€0" type="0" player="13373678" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701576406">
+  <general>
+   <startdate>2022-08-10 16:54:02</startdate>
+   <players>
+    <player bet="€1,25" dealer="0" seat="1" win="€1,25" name="DenDenDenGi" chips="€50,64"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,06"/>
+    <player bet="€0" dealer="1" seat="6" win="€0" name="Bailly" chips="€142,02"/>
+    <player bet="€0,25" dealer="0" seat="8" win="€0" name="13373678" chips="€50,75"/>
+    <player bet="€0,50" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€74,63"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="Sviridinho" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€1,25" type="23" player="DenDenDenGi" no="3"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="4"/>
+   <cards type="Pocket" player="Bailly">X X</cards>
+   <action sum="€0" type="0" player="Bailly" no="5"/>
+   <cards type="Pocket" player="13373678">C7 C9</cards>
+   <action sum="€0" type="0" player="13373678" no="6"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3701576435">
+  <general>
+   <startdate>2022-08-10 16:54:20</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€51,39"/>
+    <player bet="€0" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,06"/>
+    <player bet="€1,25" dealer="1" seat="8" win="€1,25" name="13373678" chips="€50,50"/>
+    <player bet="€0,25" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€74,13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="Sviridinho" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="13373678">HA D7</cards>
+   <action sum="€1,25" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="5"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3701576467">
+  <general>
+   <startdate>2022-08-10 16:54:38</startdate>
+   <players>
+    <player bet="€0,25" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,89"/>
+    <player bet="€0,50" dealer="0" seat="5" win="€0,50" name="PartyTiger" chips="€65,06"/>
+    <player bet="€0" dealer="0" seat="8" win="€0" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="1" seat="10" win="€0" name="Sviridinho" chips="€73,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="PartyTiger" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <cards type="Pocket" player="13373678">CJ S4</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3701576495">
+  <general>
+   <startdate>2022-08-10 16:54:53</startdate>
+   <players>
+    <player bet="€0" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€50,64"/>
+    <player bet="€0,25" dealer="0" seat="5" win="€0" name="PartyTiger" chips="€65,31"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€51,25"/>
+    <player bet="€0" dealer="0" seat="10" win="€0" name="Sviridinho" chips="€73,88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="PartyTiger" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ CQ</cards>
+   <cards type="Pocket" player="Sviridinho">X X</cards>
+   <action sum="€0" type="0" player="Sviridinho" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3701576532">
+  <general>
+   <startdate>2022-08-10 16:55:13</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€50,64"/>
+    <player bet="€0" dealer="1" seat="5" win="€0" name="PartyTiger" chips="€65,06"/>
+    <player bet="€1,50" dealer="0" seat="8" win="€1" name="13373678" chips="€51,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="PartyTiger">X X</cards>
+   <action sum="€0" type="0" player="PartyTiger" no="3"/>
+   <cards type="Pocket" player="13373678">H9 SJ</cards>
+   <action sum="€1,50" type="23" player="13373678" no="4"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3701576547">
+  <general>
+   <startdate>2022-08-10 16:55:23</startdate>
+   <players>
+    <player bet="€0,25" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€50,14"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€52"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H5 S8</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3701576566">
+  <general>
+   <startdate>2022-08-10 16:55:32</startdate>
+   <players>
+    <player bet="€2,07" dealer="0" seat="1" win="€4,02" name="DenDenDenGi" chips="€50"/>
+    <player bet="€2,07" dealer="1" seat="8" win="€0" name="13373678" chips="€52,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">DK DJ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">SA C5</cards>
+   <action sum="€0,75" type="3" player="DenDenDenGi" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S7 D2</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="5"/>
+   <action sum="€0,82" type="5" player="13373678" no="6"/>
+   <action sum="€0,82" type="3" player="DenDenDenGi" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="8"/>
+   <action sum="€0" type="4" player="13373678" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action sum="€0" type="4" player="DenDenDenGi" no="10"/>
+   <action sum="€0" type="4" player="13373678" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3701576638">
+  <general>
+   <startdate>2022-08-10 16:56:16</startdate>
+   <players>
+    <player bet="€0,25" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€51,95"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€50,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HJ H5</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3701577569">
+  <general>
+   <startdate>2022-08-10 16:56:25</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0" name="DenDenDenGi" chips="€51,70"/>
+    <player bet="€1,25" dealer="1" seat="8" win="€1" name="13373678" chips="€50,43"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">H2 C2</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3701577598">
+  <general>
+   <startdate>2022-08-10 16:56:38</startdate>
+   <players>
+    <player bet="€0,25" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€51,20"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€50,93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D5 H5</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3701577613">
+  <general>
+   <startdate>2022-08-10 16:56:49</startdate>
+   <players>
+    <player bet="€12" dealer="0" seat="1" win="€3,88" name="DenDenDenGi" chips="€50,95"/>
+    <player bet="€2" dealer="1" seat="8" win="€0" name="13373678" chips="€51,18"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">HA CQ</cards>
+   <action sum="€1,25" type="23" player="13373678" no="3"/>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0,75" type="3" player="DenDenDenGi" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 D4 C3</cards>
+   <action sum="€0,75" type="5" player="DenDenDenGi" no="5"/>
+   <action sum="€0,75" type="3" player="13373678" no="6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€10" type="5" player="DenDenDenGi" no="7"/>
+   <action sum="€0" type="0" player="13373678" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3701577674">
+  <general>
+   <startdate>2022-08-10 16:57:20</startdate>
+   <players>
+    <player bet="€0,25" dealer="1" seat="1" win="€0" name="DenDenDenGi" chips="€52,83"/>
+    <player bet="€0,50" dealer="0" seat="8" win="€0,50" name="13373678" chips="€50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="DenDenDenGi" no="1"/>
+   <action sum="€0,50" type="2" player="13373678" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">D3 D8</cards>
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <action sum="€0" type="0" player="DenDenDenGi" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3701577696">
+  <general>
+   <startdate>2022-08-10 16:57:32</startdate>
+   <players>
+    <player bet="€0,50" dealer="0" seat="1" win="€0,50" name="DenDenDenGi" chips="€52,58"/>
+    <player bet="€0,25" dealer="1" seat="8" win="€0" name="13373678" chips="€50,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" type="1" player="13373678" no="1"/>
+   <action sum="€0,50" type="2" player="DenDenDenGi" no="2"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="DenDenDenGi">X X</cards>
+   <cards type="Pocket" player="13373678">D2 H5</cards>
+   <action sum="€0" type="0" player="13373678" no="3"/>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,3870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4078585317">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>01:05:59</duration>
+  <gamecount>115</gamecount>
+  <startdate>2022-07-10 23:08:01</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€330,70</bets>
+  <wins>€359,10</wins>
+  <chipsin>€49,50</chipsin>
+  <chipsout>€171,47</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3694270148">
+  <general>
+   <startdate>2022-07-10 23:08:01</startdate>
+   <players>
+    <player name="Player 1" chips="€50,41" dealer="0" win="€1,25" seat="1" bet="€1,25"/>
+    <player name="Player 3" chips="€111,81" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="Player 6" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="Player 8" chips="€74,36" dealer="0" win="€0" seat="8" bet="€0,50"/>
+    <player name="Player 10" chips="€62,52" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Player 6" no="1" type="1"/>
+   <action sum="€0,50" player="Player 8" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 10" no="3" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Player 1" no="4" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 3" no="5" type="0"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 6" no="6" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 8" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694270206">
+  <general>
+   <startdate>2022-07-10 23:08:31</startdate>
+   <players>
+    <player name="Player 1" chips="€51,16" dealer="0" win="€0" seat="1" bet="€1,10"/>
+    <player name="Player 3" chips="€111,81" dealer="0" win="€2,87" seat="3" bet="€2,57"/>
+    <player name="Player 6" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="Player 8" chips="€73,86" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="Player 10" chips="€62,52" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Player 8" no="1" type="1"/>
+   <action sum="€0,50" player="Player 10" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€1,10" player="Player 1" no="3" type="23"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€1,10" player="Player 3" no="4" type="3"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 6" no="5" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 8" no="6" type="0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 10" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK D2 S6</cards>
+   <action sum="€0" player="Player 1" no="8" type="4"/>
+   <action sum="€1,47" player="Player 3" no="9" type="5"/>
+   <action sum="€0" player="Player 1" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271270">
+  <general>
+   <startdate>2022-07-10 23:09:09</startdate>
+   <players>
+    <player name="Player 1" chips="€50,06" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Player 3" chips="€113,58" dealer="0" win="€1,46" seat="3" bet="€0,50"/>
+    <player name="Player 6" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Player 8" chips="€73,61" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="Player 10" chips="€62,02" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Player 10" no="1" type="1"/>
+   <action sum="€0,50" player="Player 1" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 3" type="Pocket">HK C5</cards>
+   <action sum="€0,50" player="Player 3" no="3" type="3"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 6" no="4" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 8" no="5" type="0"/>
+   <cards player="Player 10" type="Pocket">CJ HQ</cards>
+   <action sum="€0,25" player="Player 10" no="6" type="3"/>
+   <cards player="Player 1" type="Pocket">H10 D3</cards>
+   <action sum="€0" player="Player 1" no="7" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D7 H8</cards>
+   <action sum="€0" player="Player 10" no="8" type="4"/>
+   <action sum="€0" player="Player 1" no="9" type="4"/>
+   <action sum="€0" player="Player 3" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0" player="Player 10" no="11" type="4"/>
+   <action sum="€0" player="Player 1" no="12" type="4"/>
+   <action sum="€0" player="Player 3" no="13" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action sum="€0" player="Player 10" no="14" type="4"/>
+   <action sum="€0" player="Player 1" no="15" type="4"/>
+   <action sum="€0" player="Player 3" no="16" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694271396">
+  <general>
+   <startdate>2022-07-10 23:09:51</startdate>
+   <players>
+    <player name="Player 1" chips="€50" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Player 3" chips="€114,54" dealer="0" win="€0" seat="3" bet="€2,07"/>
+    <player name="Player 6" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Player 8" chips="€73,61" dealer="0" win="€4,26" seat="8" bet="€4,08"/>
+    <player name="Player 10" chips="€61,52" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Player 1" no="1" type="1"/>
+   <action sum="€0,50" player="Player 3" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 6" no="3" type="0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Player 8" no="4" type="23"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 10" no="5" type="0"/>
+   <cards player="Player 1" type="Pocket">X X</cards>
+   <action sum="€0" player="Player 1" no="6" type="0"/>
+   <cards player="Player 3" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Player 3" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 CK HK</cards>
+   <action sum="€0" player="Player 3" no="8" type="4"/>
+   <action sum="€0,82" player="Player 8" no="9" type="5"/>
+   <action sum="€0,82" player="Player 3" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C4</cards>
+   <action sum="€0" player="Player 3" no="11" type="4"/>
+   <action sum="€2,01" player="Player 8" no="12" type="5"/>
+   <action sum="€0" player="Player 3" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271504">
+  <general>
+   <startdate>2022-07-10 23:10:52</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€112,47" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="n4k3d" chips="€50" dealer="0" win="€2,90" seat="6" bet="€3,36"/>
+    <player name="Strippenzieher" chips="€75,80" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€61,52" dealer="0" win="€0" seat="10" bet="€1,12"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€1,12" player="n4k3d" no="3" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1,12" player="llIIIlllIIIlll" no="5" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">C8 H10</cards>
+   <action sum="€0" player="13373678" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D4 SQ</cards>
+   <action sum="€0" player="n4k3d" no="9" type="4"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€2,24" player="n4k3d" no="11" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271559">
+  <general>
+   <startdate>2022-07-10 23:11:24</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€4,32"/>
+    <player name="Pleijeripsus" chips="€112,22" dealer="1" win="€9,11" seat="3" bet="€8,32"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="n4k3d" chips="€51,78" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="Strippenzieher" chips="€75,80" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€60,40" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Pleijeripsus" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">D2 SJ</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA D4 HQ</cards>
+   <action sum="€1,07" player="MaxMoney" no="9" type="5"/>
+   <action sum="€1,07" player="Pleijeripsus" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action sum="€2" player="MaxMoney" no="11" type="5"/>
+   <action sum="€2" player="Pleijeripsus" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€0" player="MaxMoney" no="13" type="4"/>
+   <action sum="€4" player="Pleijeripsus" no="14" type="5"/>
+   <action sum="€0" player="MaxMoney" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271647">
+  <general>
+   <startdate>2022-07-10 23:12:14</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€117,01" dealer="0" win="€0" seat="3" bet="€2"/>
+    <player name="13373678" chips="€50" dealer="1" win="€4,61" seat="5" bet="€5,56"/>
+    <player name="n4k3d" chips="€51,28" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="Strippenzieher" chips="€75,80" dealer="0" win="€0" seat="8" bet="€0,50"/>
+    <player name="llIIIlllIIIlll" chips="€60,40" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Strippenzieher" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">H5 H8</cards>
+   <action sum="€2" player="13373678" no="6" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="7" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="8" type="0"/>
+   <action sum="€1,50" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 D7 D10</cards>
+   <action sum="€0" player="Pleijeripsus" no="10" type="4"/>
+   <action sum="€3,56" player="13373678" no="11" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271735">
+  <general>
+   <startdate>2022-07-10 23:13:05</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€115,01" dealer="0" win="€1,22" seat="3" bet="€2,50"/>
+    <player name="13373678" chips="€52,61" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€51,03" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="Strippenzieher" chips="€75,30" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="llIIIlllIIIlll" chips="€60,40" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Strippenzieher" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">C7 HJ</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="7" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ S9 D6</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="9" type="4"/>
+   <action sum="€2" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694271965">
+  <general>
+   <startdate>2022-07-10 23:13:33</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€115,73" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€52,61" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€51,03" dealer="0" win="€2,67" seat="6" bet="€1,93"/>
+    <player name="Strippenzieher" chips="€75,05" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,90" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SQ S4</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€1,25" player="n4k3d" no="5" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="6" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0,75" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C5 S2</cards>
+   <action sum="€0" player="MaxMoney" no="9" type="4"/>
+   <action sum="€0,68" player="n4k3d" no="10" type="5"/>
+   <action sum="€0" player="MaxMoney" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272024">
+  <general>
+   <startdate>2022-07-10 23:14:06</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€115,73" dealer="0" win="€0" seat="3" bet="€3,25"/>
+    <player name="13373678" chips="€52,61" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€52,45" dealer="0" win="€6,55" seat="6" bet="€3,25"/>
+    <player name="Strippenzieher" chips="€75,05" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 H7</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="n4k3d" type="Pocket">DQ HA</cards>
+   <action sum="€1,25" player="n4k3d" no="4" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="5" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">C8 D4</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S2 D7</cards>
+   <action sum="€0" player="Pleijeripsus" no="9" type="4"/>
+   <action sum="€0" player="n4k3d" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S7</cards>
+   <action sum="€2" player="Pleijeripsus" no="11" type="5"/>
+   <action sum="€2" player="n4k3d" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" player="Pleijeripsus" no="13" type="4"/>
+   <action sum="€0" player="n4k3d" no="14" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694272149">
+  <general>
+   <startdate>2022-07-10 23:15:17</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€112,48" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€52,61" dealer="0" win="€0" seat="5" bet="€5,50"/>
+    <player name="n4k3d" chips="€55,75" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Strippenzieher" chips="€75,05" dealer="0" win="€11,25" seat="8" bet="€12"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="3" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Strippenzieher" no="4" type="23"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">SA S10</cards>
+   <action sum="€5,50" player="13373678" no="8" type="23"/>
+   <action sum="€12" player="Strippenzieher" no="9" type="23"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272650">
+  <general>
+   <startdate>2022-07-10 23:16:16</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€112,23" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="n4k3d" chips="€55,75" dealer="0" win="€0,50" seat="6" bet="€0,50"/>
+    <player name="Strippenzieher" chips="€80,80" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">S8 D7</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272686">
+  <general>
+   <startdate>2022-07-10 23:16:35</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€112,23" dealer="0" win="€0" seat="3" bet="€1,37"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€56" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="Strippenzieher" chips="€80,80" dealer="0" win="€2,90" seat="8" bet="€3,39"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Strippenzieher" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">H2 S9</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="7" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D9 CQ</cards>
+   <action sum="€0" player="Strippenzieher" no="9" type="4"/>
+   <action sum="€0,87" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€2,89" player="Strippenzieher" no="11" type="23"/>
+   <action sum="€0" player="Pleijeripsus" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272788">
+  <general>
+   <startdate>2022-07-10 23:17:30</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€110,86" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€55,75" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,33" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0,50" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Strippenzieher" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">H3 D9</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272810">
+  <general>
+   <startdate>2022-07-10 23:17:44</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€110,86" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="n4k3d" chips="€55,75" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,08" dealer="1" win="€1,25" seat="8" bet="€1,25"/>
+    <player name="llIIIlllIIIlll" chips="€59,90" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">C4 HQ</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="5" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Strippenzieher" no="6" type="23"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272842">
+  <general>
+   <startdate>2022-07-10 23:18:06</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€110,86" dealer="0" win="€0" seat="3" bet="€2,15"/>
+    <player name="13373678" chips="€50" dealer="0" win="€4,42" seat="5" bet="€5,56"/>
+    <player name="n4k3d" chips="€55,75" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA HQ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="4" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="5" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C3 C5</cards>
+   <action sum="€0" player="Pleijeripsus" no="9" type="4"/>
+   <action sum="€0,90" player="13373678" no="10" type="5"/>
+   <action sum="€0,90" player="Pleijeripsus" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action sum="€0" player="Pleijeripsus" no="12" type="4"/>
+   <action sum="€3,41" player="13373678" no="13" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694272945">
+  <general>
+   <startdate>2022-07-10 23:18:59</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€108,71" dealer="0" win="€31,52" seat="3" bet="€27"/>
+    <player name="13373678" chips="€52,27" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="n4k3d" chips="€55,75" dealer="0" win="€0" seat="6" bet="€16"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€1,12" player="n4k3d" no="3" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€3" player="Pleijeripsus" no="7" type="23"/>
+   <cards player="13373678" type="Pocket">D4 S7</cards>
+   <action sum="€0" player="13373678" no="8" type="0"/>
+   <action sum="€1,88" player="n4k3d" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 DA H6</cards>
+   <action sum="€4" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€4" player="n4k3d" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action sum="€9" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€9" player="n4k3d" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€11" player="Pleijeripsus" no="14" type="5"/>
+   <action sum="€0" player="n4k3d" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274053">
+  <general>
+   <startdate>2022-07-10 23:20:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€124,23" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€51,77" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0,50" seat="8" bet="€0,50"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Strippenzieher" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C10 S8</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274069">
+  <general>
+   <startdate>2022-07-10 23:20:11</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€124,23" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€51,52" dealer="1" win="€1,25" seat="5" bet="€1,25"/>
+    <player name="Strippenzieher" chips="€83,08" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="llIIIlllIIIlll" chips="€59,65" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Strippenzieher" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">HQ SA</cards>
+   <action sum="€1,25" player="13373678" no="5" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="6" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274105">
+  <general>
+   <startdate>2022-07-10 23:20:34</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€124,23" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€52,27" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€59,15" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">H5 C2</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="5" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274129">
+  <general>
+   <startdate>2022-07-10 23:20:47</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50,25" dealer="0" win="€1" seat="1" bet="€1,50"/>
+    <player name="Pleijeripsus" chips="€124,23" dealer="0" win="€0" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€52,27" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€58,90" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 H2</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="6" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274163">
+  <general>
+   <startdate>2022-07-10 23:21:06</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50,75" dealer="1" win="€0" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€123,73" dealer="0" win="€0" seat="3" bet="€1,25"/>
+    <player name="13373678" chips="€52,27" dealer="0" win="€3,75" seat="5" bet="€6"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€58,90" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">CQ SQ</cards>
+   <action sum="€6" player="13373678" no="7" type="23"/>
+   <action sum="€0" player="MaxMoney" no="8" type="0"/>
+   <action sum="€0" player="Pleijeripsus" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274194">
+  <general>
+   <startdate>2022-07-10 23:21:30</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€3,64" seat="1" bet="€3"/>
+    <player name="Pleijeripsus" chips="€122,48" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€54,77" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="Strippenzieher" chips="€82,83" dealer="0" win="€0" seat="8" bet="€0,50"/>
+    <player name="llIIIlllIIIlll" chips="€58,90" dealer="0" win="€0" seat="10" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Strippenzieher" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1,50" player="llIIIlllIIIlll" no="3" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="3"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">H4 S6</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C6 H3</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="8" type="4"/>
+   <action sum="€1,50" player="MaxMoney" no="9" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274254">
+  <general>
+   <startdate>2022-07-10 23:22:01</startdate>
+   <players>
+    <player name="MaxMoney" chips="€52,14" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€122,48" dealer="0" win="€0" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€54,52" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="Strippenzieher" chips="€82,33" dealer="0" win="€3,50" seat="8" bet="€6"/>
+    <player name="llIIIlllIIIlll" chips="€57,40" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Strippenzieher" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">H8 C6</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€6" player="Strippenzieher" no="6" type="23"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="0"/>
+   <action sum="€0" player="Pleijeripsus" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274283">
+  <general>
+   <startdate>2022-07-10 23:22:22</startdate>
+   <players>
+    <player name="MaxMoney" chips="€52,14" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€120,98" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€54,52" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Strippenzieher" chips="€84,33" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,90" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">S8 HK</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="5" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274307">
+  <general>
+   <startdate>2022-07-10 23:22:34</startdate>
+   <players>
+    <player name="MaxMoney" chips="€52,39" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€120,98" dealer="0" win="€0" seat="3" bet="€1,25"/>
+    <player name="13373678" chips="€54,52" dealer="0" win="€2,67" seat="5" bet="€3,31"/>
+    <player name="Strippenzieher" chips="€84,33" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,65" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 DQ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 S9 CJ</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+   <action sum="€2,06" player="13373678" no="9" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274350">
+  <general>
+   <startdate>2022-07-10 23:23:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€52,14" dealer="1" win="€0" seat="1" bet="€16,75"/>
+    <player name="Pleijeripsus" chips="€119,73" dealer="0" win="€32,97" seat="3" bet="€32,75"/>
+    <player name="13373678" chips="€55,94" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="Strippenzieher" chips="€84,33" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Strippenzieher" type="Pocket">X X</cards>
+   <action sum="€0" player="Strippenzieher" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€4" player="Pleijeripsus" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">S9 CK</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+   <action sum="€2,75" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H4 H9</cards>
+   <action sum="€4,25" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€4,25" player="MaxMoney" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action sum="€8,50" player="Pleijeripsus" no="11" type="5"/>
+   <action sum="€8,50" player="MaxMoney" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€16" player="Pleijeripsus" no="13" type="5"/>
+   <action sum="€0" player="MaxMoney" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694274938">
+  <general>
+   <startdate>2022-07-10 23:24:15</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€135,95" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€55,44" dealer="0" win="€0" seat="5" bet="€10,50"/>
+    <player name="Stokaa" chips="€20" dealer="0" win="€20,37" seat="6" bet="€20"/>
+    <player name="llIIIlllIIIlll" chips="€56,65" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Stokaa" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S9 H9</cards>
+   <action sum="€1,50" player="13373678" no="6" type="23"/>
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€1" player="Stokaa" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H8 C6</cards>
+   <action sum="€3,75" player="13373678" no="8" type="5"/>
+   <action sum="€3,75" player="Stokaa" no="9" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€0" player="13373678" no="10" type="4"/>
+   <action sum="€5,25" player="Stokaa" no="11" type="5"/>
+   <action sum="€5,25" player="13373678" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action sum="€0" player="13373678" no="13" type="4"/>
+   <action sum="€9,50" player="Stokaa" no="14" type="5"/>
+   <action sum="€0" player="13373678" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275025">
+  <general>
+   <startdate>2022-07-10 23:25:09</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€135,95" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="Stokaa" chips="€29,87" dealer="0" win="€0,97" seat="6" bet="€1,50"/>
+    <player name="llIIIlllIIIlll" chips="€56,65" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Stokaa" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S2 D3</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€0,25" player="Stokaa" no="6" type="3"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK DQ S9</cards>
+   <action sum="€1" player="Stokaa" no="8" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275061">
+  <general>
+   <startdate>2022-07-10 23:25:30</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€135,95" dealer="0" win="€1,25" seat="3" bet="€3"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Stokaa" chips="€30,34" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,15" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€3" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C7 S4</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€0" player="Stokaa" no="5" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275096">
+  <general>
+   <startdate>2022-07-10 23:25:54</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€136,70" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Stokaa" chips="€30,34" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€55,90" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CQ S5</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€0" player="Stokaa" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275129">
+  <general>
+   <startdate>2022-07-10 23:26:10</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€136,95" dealer="0" win="€0" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="Stokaa" chips="€30,34" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€55,90" dealer="0" win="€3,40" seat="10" bet="€4,46"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€0" player="Stokaa" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1,50" player="llIIIlllIIIlll" no="4" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Pleijeripsus" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">C2 S6</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D10 C9</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+   <action sum="€2,96" player="llIIIlllIIIlll" no="9" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275194">
+  <general>
+   <startdate>2022-07-10 23:26:49</startdate>
+   <players>
+    <player name="MaxMoney" chips="€50" dealer="0" win="€32,91" seat="1" bet="€16,84"/>
+    <player name="Pleijeripsus" chips="€135,45" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="Stokaa" chips="€30,34" dealer="0" win="€0" seat="6" bet="€16,84"/>
+    <player name="llIIIlllIIIlll" chips="€57,80" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="Stokaa" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">SJ DJ</cards>
+   <action sum="€1,25" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S10 D2</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="Stokaa" type="Pocket">SA CQ</cards>
+   <action sum="€2" player="Stokaa" no="7" type="23"/>
+   <action sum="€0,75" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 DK H2</cards>
+   <action sum="€2,12" player="Stokaa" no="9" type="5"/>
+   <action sum="€2,12" player="MaxMoney" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€4,24" player="Stokaa" no="11" type="5"/>
+   <action sum="€4,24" player="MaxMoney" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action sum="€8,48" player="Stokaa" no="13" type="5"/>
+   <action sum="€8,48" player="MaxMoney" no="14" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694275280">
+  <general>
+   <startdate>2022-07-10 23:27:44</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,07" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€135,45" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="Stokaa" chips="€13,50" dealer="0" win="€0" seat="6" bet="€6,25"/>
+    <player name="MidnightGambler" chips="€20" dealer="0" win="€12,13" seat="8" bet="€6,25"/>
+    <player name="llIIIlllIIIlll" chips="€57,80" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Stokaa" no="1" type="1"/>
+   <action sum="€0,50" player="MidnightGambler" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">H4 S2</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="Stokaa" type="Pocket">CA SJ</cards>
+   <action sum="€1" player="Stokaa" no="7" type="23"/>
+   <cards player="MidnightGambler" type="Pocket">D10 D9</cards>
+   <action sum="€0,50" player="MidnightGambler" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 C5 CQ</cards>
+   <action sum="€0" player="Stokaa" no="9" type="4"/>
+   <action sum="€1,50" player="MidnightGambler" no="10" type="5"/>
+   <action sum="€1,50" player="Stokaa" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action sum="€0" player="Stokaa" no="12" type="4"/>
+   <action sum="€3,75" player="MidnightGambler" no="13" type="5"/>
+   <action sum="€3,75" player="Stokaa" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action sum="€0" player="Stokaa" no="15" type="4"/>
+   <action sum="€0" player="MidnightGambler" no="16" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694275389">
+  <general>
+   <startdate>2022-07-10 23:28:56</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,07" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€135,45" dealer="0" win="€1,22" seat="3" bet="€1,12"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="Stokaa" chips="€7,25" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="MidnightGambler" chips="€25,88" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="llIIIlllIIIlll" chips="€57,80" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MidnightGambler" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">H7 CQ</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="Stokaa" type="Pocket">X X</cards>
+   <action sum="€0" player="Stokaa" no="6" type="0"/>
+   <cards player="MidnightGambler" type="Pocket">X X</cards>
+   <action sum="€0" player="MidnightGambler" no="7" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="8" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S5 H3</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="9" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="11" type="4"/>
+   <action sum="€0,62" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694275443">
+  <general>
+   <startdate>2022-07-10 23:29:33</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,07" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€136,17" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€1,25"/>
+    <player name="Stokaa" chips="€7,25" dealer="0" win="€0" seat="6" bet="€7,25"/>
+    <player name="MidnightGambler" chips="€25,63" dealer="1" win="€16" seat="8" bet="€7,25"/>
+    <player name="llIIIlllIIIlll" chips="€57,30" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">CK DJ</cards>
+   <action sum="€1,25" player="13373678" no="4" type="23"/>
+   <cards player="Stokaa" type="Pocket">H10 SK</cards>
+   <action sum="€1,25" player="Stokaa" no="5" type="3"/>
+   <cards player="MidnightGambler" type="Pocket">CJ HA</cards>
+   <action sum="€5" player="MidnightGambler" no="6" type="23"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="0"/>
+   <action sum="€0" player="13373678" no="9" type="0"/>
+   <action sum="€6" player="Stokaa" no="10" type="7"/>
+   <action sum="€2,25" player="MidnightGambler" no="11" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 CA DQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+  </round>
+ </game>
+ <game gamecode="3694276479">
+  <general>
+   <startdate>2022-07-10 23:30:18</startdate>
+   <players>
+    <player name="MaxMoney" chips="€65,57" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€136,17" dealer="0" win="€2,19" seat="3" bet="€4"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="MidnightGambler" chips="€34,38" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€57,05" dealer="1" win="€0" seat="10" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 S8</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MidnightGambler" type="Pocket">X X</cards>
+   <action sum="€0" player="MidnightGambler" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1" player="llIIIlllIIIlll" no="5" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 H2 S3</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action sum="€0" player="Pleijeripsus" no="10" type="4"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="11" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action sum="€3" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€0" player="llIIIlllIIIlll" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694276545">
+  <general>
+   <startdate>2022-07-10 23:31:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€65,32" dealer="1" win="€1,25" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€137,36" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="MidnightGambler" chips="€34,38" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,05" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MidnightGambler" type="Pocket">X X</cards>
+   <action sum="€0" player="MidnightGambler" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="6" type="0"/>
+   <cards player="13373678" type="Pocket">C2 CK</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694276898">
+  <general>
+   <startdate>2022-07-10 23:31:16</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,07" dealer="0" win="€11,16" seat="1" bet="€8,50"/>
+    <player name="Pleijeripsus" chips="€137,11" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€5,50"/>
+    <player name="llIIIlllIIIlll" chips="€56,05" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">C5 CA</cards>
+   <action sum="€5,50" player="13373678" no="5" type="23"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="6" type="0"/>
+   <action sum="€4,25" player="MaxMoney" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 H8 D10</cards>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+   <action sum="€3" player="MaxMoney" no="9" type="5"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277012">
+  <general>
+   <startdate>2022-07-10 23:32:35</startdate>
+   <players>
+    <player name="MaxMoney" chips="€71,73" dealer="0" win="€0" seat="1" bet="€2"/>
+    <player name="Pleijeripsus" chips="€137,11" dealer="0" win="€4,13" seat="3" bet="€2"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€55,55" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">S2 H2</cards>
+   <action sum="€2" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">SK S5</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">CK C9</cards>
+   <action sum="€1,50" player="MaxMoney" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S10 H10</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" player="MaxMoney" no="9" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="10" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€0" player="MaxMoney" no="11" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="12" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694277080">
+  <general>
+   <startdate>2022-07-10 23:33:18</startdate>
+   <players>
+    <player name="MaxMoney" chips="€69,73" dealer="0" win="€5,82" seat="1" bet="€6"/>
+    <player name="Pleijeripsus" chips="€139,24" dealer="0" win="€0" seat="3" bet="€3"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€55,30" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DK H9</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 D4 H10</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="4"/>
+   <action sum="€1,50" player="Pleijeripsus" no="8" type="5"/>
+   <action sum="€4,50" player="MaxMoney" no="9" type="23"/>
+   <action sum="€0" player="Pleijeripsus" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277264">
+  <general>
+   <startdate>2022-07-10 23:34:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€72,55" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€136,24" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="llIIIlllIIIlll" chips="€55,30" dealer="0" win="€1,25" seat="10" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1,50" player="llIIIlllIIIlll" no="3" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C5 C7</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277298">
+  <general>
+   <startdate>2022-07-10 23:34:19</startdate>
+   <players>
+    <player name="MaxMoney" chips="€72,55" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€135,99" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="llIIIlllIIIlll" chips="€56,05" dealer="0" win="€0,50" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="llIIIlllIIIlll" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S8 C3</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277323">
+  <general>
+   <startdate>2022-07-10 23:34:34</startdate>
+   <players>
+    <player name="MaxMoney" chips="€72,55" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€135,99" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,30" dealer="0" win="€1" seat="10" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="llIIIlllIIIlll" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">CK H2</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€1,50" player="llIIIlllIIIlll" no="5" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277359">
+  <general>
+   <startdate>2022-07-10 23:34:56</startdate>
+   <players>
+    <player name="MaxMoney" chips="€72,05" dealer="0" win="€0" seat="1" bet="€2,50"/>
+    <player name="Pleijeripsus" chips="€135,99" dealer="0" win="€4,85" seat="3" bet="€6,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="llIIIlllIIIlll" chips="€56,80" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H2 D9</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="5" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€2,50" player="Pleijeripsus" no="6" type="23"/>
+   <action sum="€1" player="MaxMoney" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 D7 S4</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="4"/>
+   <action sum="€4" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€0" player="MaxMoney" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277421">
+  <general>
+   <startdate>2022-07-10 23:35:31</startdate>
+   <players>
+    <player name="MaxMoney" chips="€69,55" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€138,34" dealer="0" win="€0,97" seat="3" bet="€2,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="llIIIlllIIIlll" chips="€56,80" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="llIIIlllIIIlll" type="Pocket">X X</cards>
+   <action sum="€0" player="llIIIlllIIIlll" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,25" player="Pleijeripsus" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">D8 C7</cards>
+   <action sum="€0" player="13373678" no="6" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 H3 SA</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€2" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€0" player="13373678" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277516">
+  <general>
+   <startdate>2022-07-10 23:36:33</startdate>
+   <players>
+    <player name="MaxMoney" chips="€69,55" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€138,81" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€1" seat="5" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">CQ SQ</cards>
+   <action sum="€1,50" player="13373678" no="4" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277543">
+  <general>
+   <startdate>2022-07-10 23:36:48</startdate>
+   <players>
+    <player name="MaxMoney" chips="€69,05" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€138,81" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€50,50" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D7 H4</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277560">
+  <general>
+   <startdate>2022-07-10 23:36:58</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,80" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€139,06" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€50,50" dealer="0" win="€0,50" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 D4</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277583">
+  <general>
+   <startdate>2022-07-10 23:37:11</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,80" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€138,81" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50,75" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">D4 H9</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277594">
+  <general>
+   <startdate>2022-07-10 23:37:18</startdate>
+   <players>
+    <player name="MaxMoney" chips="€69,05" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€138,81" dealer="0" win="€0,50" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€50,50" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H5 C10</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277627">
+  <general>
+   <startdate>2022-07-10 23:37:30</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,80" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€139,06" dealer="0" win="€0" seat="3" bet="€2"/>
+    <player name="13373678" chips="€50,50" dealer="0" win="€3,88" seat="5" bet="€5"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,25" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">SK H9</cards>
+   <action sum="€2" player="13373678" no="5" type="23"/>
+   <action sum="€1,50" player="Pleijeripsus" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H10 D8</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0" player="Pleijeripsus" no="9" type="4"/>
+   <action sum="€3" player="13373678" no="10" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277729">
+  <general>
+   <startdate>2022-07-10 23:38:36</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,80" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€137,06" dealer="1" win="€1,25" seat="3" bet="€1"/>
+    <player name="13373678" chips="€52,38" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">S3 S10</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277757">
+  <general>
+   <startdate>2022-07-10 23:38:59</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,30" dealer="0" win="€0" seat="1" bet="€1,50"/>
+    <player name="Pleijeripsus" chips="€137,81" dealer="0" win="€3" seat="3" bet="€4"/>
+    <player name="13373678" chips="€52,13" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D9 H2</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€4" player="Pleijeripsus" no="5" type="23"/>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277818">
+  <general>
+   <startdate>2022-07-10 23:39:32</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,80" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€139,31" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€52,13" dealer="0" win="€0,50" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 S8</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277829">
+  <general>
+   <startdate>2022-07-10 23:39:41</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,80" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€139,06" dealer="1" win="€1,25" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€52,38" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C6 C7</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277874">
+  <general>
+   <startdate>2022-07-10 23:40:03</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,30" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€139,81" dealer="0" win="€0" seat="3" bet="€1,25"/>
+    <player name="13373678" chips="€52,13" dealer="1" win="€2,67" seat="5" bet="€4,68"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 S6</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 DK D10</cards>
+   <action sum="€0" player="Pleijeripsus" no="6" type="4"/>
+   <action sum="€3,43" player="13373678" no="7" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277919">
+  <general>
+   <startdate>2022-07-10 23:40:37</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,05" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€138,56" dealer="0" win="€8,73" seat="3" bet="€9"/>
+    <player name="13373678" chips="€53,55" dealer="0" win="€0" seat="5" bet="€4,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">D10 DQ</cards>
+   <action sum="€4,50" player="13373678" no="5" type="23"/>
+   <action sum="€3" player="Pleijeripsus" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H5 S8</cards>
+   <action sum="€4,50" player="Pleijeripsus" no="7" type="5"/>
+   <action sum="€0" player="13373678" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694277965">
+  <general>
+   <startdate>2022-07-10 23:41:03</startdate>
+   <players>
+    <player name="MaxMoney" chips="€66,05" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€142,79" dealer="1" win="€1,22" seat="3" bet="€4,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">DQ S6</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 DA S3</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="7" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="9" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action sum="€0" player="MaxMoney" no="10" type="4"/>
+   <action sum="€4" player="Pleijeripsus" no="11" type="5"/>
+   <action sum="€0" player="MaxMoney" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278321">
+  <general>
+   <startdate>2022-07-10 23:41:47</startdate>
+   <players>
+    <player name="MaxMoney" chips="€65,55" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€143,51" dealer="0" win="€0" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€50" dealer="1" win="€1,25" seat="5" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ S10</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278344">
+  <general>
+   <startdate>2022-07-10 23:42:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€65,30" dealer="1" win="€4,83" seat="1" bet="€5,97"/>
+    <player name="Pleijeripsus" chips="€143,01" dealer="0" win="€0" seat="3" bet="€2,24"/>
+    <player name="13373678" chips="€50,75" dealer="0" win="€0" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">H2 S8</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H4 H8</cards>
+   <action sum="€0" player="Pleijeripsus" no="6" type="4"/>
+   <action sum="€0,99" player="MaxMoney" no="7" type="5"/>
+   <action sum="€0,99" player="Pleijeripsus" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action sum="€0" player="Pleijeripsus" no="9" type="4"/>
+   <action sum="€3,73" player="MaxMoney" no="10" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278390">
+  <general>
+   <startdate>2022-07-10 23:42:34</startdate>
+   <players>
+    <player name="MaxMoney" chips="€67,89" dealer="0" win="€0,50" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€140,77" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50,25" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SK D7</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278414">
+  <general>
+   <startdate>2022-07-10 23:42:49</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,14" dealer="0" win="€1" seat="1" bet="€1,50"/>
+    <player name="Pleijeripsus" chips="€140,77" dealer="0" win="€0" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK S7</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278434">
+  <general>
+   <startdate>2022-07-10 23:43:03</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,64" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€140,27" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0,50" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 C3</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694278469">
+  <general>
+   <startdate>2022-07-10 23:43:27</startdate>
+   <players>
+    <player name="MaxMoney" chips="€68,64" dealer="0" win="€71,45" seat="1" bet="€36,35"/>
+    <player name="Pleijeripsus" chips="€140,02" dealer="1" win="€0" seat="3" bet="€36,35"/>
+    <player name="13373678" chips="€50,25" dealer="0" win="€0" seat="5" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">HA CK</cards>
+   <action sum="€3" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">S10 C8</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">D4 S4</cards>
+   <action sum="€2,50" player="MaxMoney" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H3 HQ</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="4"/>
+   <action sum="€4,37" player="Pleijeripsus" no="7" type="5"/>
+   <action sum="€4,37" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+   <action sum="€0" player="MaxMoney" no="9" type="4"/>
+   <action sum="€7,49" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€16,98" player="MaxMoney" no="11" type="23"/>
+   <action sum="€9,49" player="Pleijeripsus" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€0" player="MaxMoney" no="13" type="4"/>
+   <action sum="€12" player="Pleijeripsus" no="14" type="5"/>
+   <action sum="€12" player="MaxMoney" no="15" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694279524">
+  <general>
+   <startdate>2022-07-10 23:44:49</startdate>
+   <players>
+    <player name="MaxMoney" chips="€103,74" dealer="0" win="€0" seat="1" bet="€7,20"/>
+    <player name="Pleijeripsus" chips="€103,67" dealer="0" win="€13,97" seat="3" bet="€17,28"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK C8</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="5" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D6 S10</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="4"/>
+   <action sum="€2,10" player="Pleijeripsus" no="7" type="5"/>
+   <action sum="€2,10" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+   <action sum="€0" player="MaxMoney" no="9" type="4"/>
+   <action sum="€3,60" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€3,60" player="MaxMoney" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" player="MaxMoney" no="12" type="4"/>
+   <action sum="€10,08" player="Pleijeripsus" no="13" type="5"/>
+   <action sum="€0" player="MaxMoney" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279618">
+  <general>
+   <startdate>2022-07-10 23:45:49</startdate>
+   <players>
+    <player name="MaxMoney" chips="€96,54" dealer="1" win="€90,50" seat="1" bet="€96,54"/>
+    <player name="Pleijeripsus" chips="€110,44" dealer="0" win="€0" seat="3" bet="€45,75"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€2" player="Pleijeripsus" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">S8 HJ</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <action sum="€0,75" player="MaxMoney" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ C7 C2</cards>
+   <action sum="€2,25" player="Pleijeripsus" no="7" type="5"/>
+   <action sum="€2,25" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€4,50" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€18,50" player="MaxMoney" no="10" type="23"/>
+   <action sum="€14" player="Pleijeripsus" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action sum="€23" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€73,79" player="MaxMoney" no="13" type="23"/>
+   <action sum="€0" player="Pleijeripsus" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279706">
+  <general>
+   <startdate>2022-07-10 23:46:52</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,29" dealer="0" win="€3" seat="1" bet="€4,50"/>
+    <player name="Pleijeripsus" chips="€64,69" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">SQ D10</cards>
+   <action sum="€1,50" player="13373678" no="4" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€4,50" player="MaxMoney" no="5" type="23"/>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279740">
+  <general>
+   <startdate>2022-07-10 23:47:14</startdate>
+   <players>
+    <player name="MaxMoney" chips="€142,79" dealer="0" win="€12,13" seat="1" bet="€10,75"/>
+    <player name="Pleijeripsus" chips="€64,69" dealer="0" win="€0" seat="3" bet="€6,25"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 S7</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€2,50" player="Pleijeripsus" no="5" type="23"/>
+   <action sum="€1" player="MaxMoney" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C4 S4</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action sum="€3,75" player="MaxMoney" no="9" type="5"/>
+   <action sum="€3,75" player="Pleijeripsus" no="10" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C10</cards>
+   <action sum="€4,50" player="MaxMoney" no="11" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279800">
+  <general>
+   <startdate>2022-07-10 23:48:00</startdate>
+   <players>
+    <player name="MaxMoney" chips="€148,67" dealer="1" win="€0" seat="1" bet="€5,75"/>
+    <player name="Pleijeripsus" chips="€58,44" dealer="0" win="€11,64" seat="3" bet="€26,75"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">D6 SQ</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D9 CK</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="6" type="5"/>
+   <action sum="€1,50" player="MaxMoney" no="7" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action sum="€3" player="Pleijeripsus" no="8" type="5"/>
+   <action sum="€3" player="MaxMoney" no="9" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action sum="€21" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€0" player="MaxMoney" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279886">
+  <general>
+   <startdate>2022-07-10 23:48:59</startdate>
+   <players>
+    <player name="MaxMoney" chips="€142,92" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€64,33" dealer="1" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0,50" seat="6" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">H6 S2</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279893">
+  <general>
+   <startdate>2022-07-10 23:49:07</startdate>
+   <players>
+    <player name="MaxMoney" chips="€142,92" dealer="0" win="€3,16" seat="1" bet="€2,57"/>
+    <player name="Pleijeripsus" chips="€64,33" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€50" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50,25" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="ASKOARJALAINEN" chips="€20" dealer="0" win="€0" seat="8" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="ASKOARJALAINEN" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">S8 D6</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="ASKOARJALAINEN" type="Pocket">X X</cards>
+   <action sum="€1" player="ASKOARJALAINEN" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C9 DK</cards>
+   <action sum="€0" player="ASKOARJALAINEN" no="8" type="4"/>
+   <action sum="€1,07" player="MaxMoney" no="9" type="5"/>
+   <action sum="€0" player="ASKOARJALAINEN" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694279949">
+  <general>
+   <startdate>2022-07-10 23:49:46</startdate>
+   <players>
+    <player name="MaxMoney" chips="€144,58" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€64,33" dealer="0" win="€0" seat="3" bet="€1"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="ASKOARJALAINEN" chips="€49" dealer="0" win="€2,43" seat="8" bet="€3,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="ASKOARJALAINEN" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">C4 CQ</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+   <cards player="ASKOARJALAINEN" type="Pocket">X X</cards>
+   <action sum="€0,75" player="ASKOARJALAINEN" no="6" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 D2 D7</cards>
+   <action sum="€2,50" player="ASKOARJALAINEN" no="8" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694280497">
+  <general>
+   <startdate>2022-07-10 23:50:16</startdate>
+   <players>
+    <player name="MaxMoney" chips="€144,08" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€63,33" dealer="0" win="€0" seat="3" bet="€2,57"/>
+    <player name="13373678" chips="€50" dealer="0" win="€15,44" seat="5" bet="€14,51"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="ASKOARJALAINEN" chips="€50,43" dealer="1" win="€0" seat="8" bet="€6,55"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ CQ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="4" type="0"/>
+   <cards player="ASKOARJALAINEN" type="Pocket">X X</cards>
+   <action sum="€1,25" player="ASKOARJALAINEN" no="5" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D9 D3</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+   <action sum="€1,32" player="13373678" no="9" type="5"/>
+   <action sum="€1,32" player="ASKOARJALAINEN" no="10" type="3"/>
+   <action sum="€1,32" player="Pleijeripsus" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action sum="€0" player="Pleijeripsus" no="12" type="4"/>
+   <action sum="€3,98" player="13373678" no="13" type="5"/>
+   <action sum="€3,98" player="ASKOARJALAINEN" no="14" type="3"/>
+   <action sum="€0" player="Pleijeripsus" no="15" type="0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action sum="€7,96" player="13373678" no="16" type="5"/>
+   <action sum="€0" player="ASKOARJALAINEN" no="17" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694280596">
+  <general>
+   <startdate>2022-07-10 23:51:22</startdate>
+   <players>
+    <player name="MaxMoney" chips="€143,83" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€60,76" dealer="0" win="€0" seat="3" bet="€1,25"/>
+    <player name="13373678" chips="€58,89" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€6,84" seat="6" bet="€7,93"/>
+    <player name="ASKOARJALAINEN" chips="€43,88" dealer="0" win="€0" seat="8" bet="€2,65"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="3" type="23"/>
+   <cards player="ASKOARJALAINEN" type="Pocket">X X</cards>
+   <action sum="€1,25" player="ASKOARJALAINEN" no="4" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">C7 C4</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H9 S8</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="4"/>
+   <action sum="€1,40" player="AbbeyRoad" no="9" type="5"/>
+   <action sum="€1,40" player="ASKOARJALAINEN" no="10" type="3"/>
+   <action sum="€0" player="Pleijeripsus" no="11" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action sum="€5,28" player="AbbeyRoad" no="12" type="5"/>
+   <action sum="€0" player="ASKOARJALAINEN" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694280654">
+  <general>
+   <startdate>2022-07-10 23:52:00</startdate>
+   <players>
+    <player name="MaxMoney" chips="€143,83" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€59,51" dealer="1" win="€20,13" seat="3" bet="€13,50"/>
+    <player name="13373678" chips="€58,39" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="AbbeyRoad" chips="€54,19" dealer="0" win="€0" seat="6" bet="€6,50"/>
+    <player name="ASKOARJALAINEN" chips="€41,23" dealer="0" win="€0" seat="8" bet="€7"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="ASKOARJALAINEN" type="Pocket">X X</cards>
+   <action sum="€0,50" player="ASKOARJALAINEN" no="3" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">D3 C5</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€3" player="AbbeyRoad" no="7" type="23"/>
+   <action sum="€2,50" player="ASKOARJALAINEN" no="8" type="3"/>
+   <action sum="€2,50" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ CA S5</cards>
+   <action sum="€0" player="AbbeyRoad" no="10" type="4"/>
+   <action sum="€0" player="ASKOARJALAINEN" no="11" type="4"/>
+   <action sum="€3" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€3" player="AbbeyRoad" no="13" type="3"/>
+   <action sum="€3" player="ASKOARJALAINEN" no="14" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action sum="€0" player="AbbeyRoad" no="15" type="4"/>
+   <action sum="€0,50" player="ASKOARJALAINEN" no="16" type="5"/>
+   <action sum="€0,50" player="Pleijeripsus" no="17" type="3"/>
+   <action sum="€0,50" player="AbbeyRoad" no="18" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+   <action sum="€0" player="AbbeyRoad" no="19" type="4"/>
+   <action sum="€0,50" player="ASKOARJALAINEN" no="20" type="5"/>
+   <action sum="€7" player="Pleijeripsus" no="21" type="23"/>
+   <action sum="€0" player="AbbeyRoad" no="22" type="0"/>
+   <action sum="€0" player="ASKOARJALAINEN" no="23" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694280827">
+  <general>
+   <startdate>2022-07-10 23:54:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€143,83" dealer="0" win="€0" seat="1" bet="€1,50"/>
+    <player name="Pleijeripsus" chips="€72,64" dealer="0" win="€3,64" seat="3" bet="€3,50"/>
+    <player name="13373678" chips="€58,14" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="Tsunami888" chips="€50" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,50" player="MaxMoney" no="3" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="4" type="3"/>
+   <cards player="13373678" type="Pocket">H9 CK</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 S2 D6</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="4"/>
+   <action sum="€2" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€0" player="MaxMoney" no="10" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694280889">
+  <general>
+   <startdate>2022-07-10 23:54:40</startdate>
+   <players>
+    <player name="MaxMoney" chips="€142,33" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€74,78" dealer="0" win="€24" seat="3" bet="€23"/>
+    <player name="13373678" chips="€58,14" dealer="0" win="€0" seat="5" bet="€12"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€49,50" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">HJ HK</cards>
+   <action sum="€2" player="13373678" no="4" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+   <action sum="€1,50" player="Pleijeripsus" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 H2 S6</cards>
+   <action sum="€3" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€3" player="13373678" no="10" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action sum="€7" player="Pleijeripsus" no="11" type="5"/>
+   <action sum="€7" player="13373678" no="12" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">CA</cards>
+   <action sum="€11" player="Pleijeripsus" no="13" type="5"/>
+   <action sum="€0" player="13373678" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694281069">
+  <general>
+   <startdate>2022-07-10 23:55:34</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,83" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€86,78" dealer="0" win="€2,67" seat="3" bet="€4,25"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€1,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€49,25" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 SQ</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,75" player="Pleijeripsus" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ HA D10</cards>
+   <action sum="€3" player="Pleijeripsus" no="8" type="5"/>
+   <action sum="€0" player="13373678" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694281108">
+  <general>
+   <startdate>2022-07-10 23:55:56</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,58" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€88,20" dealer="0" win="€2,91" seat="3" bet="€3,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€0" seat="5" bet="€1,50"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€49,25" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">S9 HA</cards>
+   <action sum="€1" player="13373678" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 H5 DK</cards>
+   <action sum="€2" player="Pleijeripsus" no="8" type="5"/>
+   <action sum="€0" player="13373678" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694281161">
+  <general>
+   <startdate>2022-07-10 23:56:31</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,58" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€89,61" dealer="1" win="€0" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€50" dealer="0" win="€3,50" seat="5" bet="€6"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="Tsunami888" chips="€49,25" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">CJ DA</cards>
+   <action sum="€6" player="13373678" no="6" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="0"/>
+   <action sum="€0" player="Pleijeripsus" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694281199">
+  <general>
+   <startdate>2022-07-10 23:56:55</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,58" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€88,11" dealer="0" win="€1,25" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€52" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="Tsunami888" chips="€49,25" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">HJ H5</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694281234">
+  <general>
+   <startdate>2022-07-10 23:57:13</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,58" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€88,86" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€52" dealer="0" win="€1,25" seat="5" bet="€1,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€48,75" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">HK DQ</cards>
+   <action sum="€1,25" player="13373678" no="4" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282110">
+  <general>
+   <startdate>2022-07-10 23:57:33</startdate>
+   <players>
+    <player name="MaxMoney" chips="€141,08" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€88,86" dealer="0" win="€3,16" seat="3" bet="€4,50"/>
+    <player name="13373678" chips="€52,75" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€48,50" dealer="1" win="€0" seat="10" bet="€1,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 H10</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Tsunami888" no="5" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="6" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 CQ C6</cards>
+   <action sum="€3" player="Pleijeripsus" no="8" type="5"/>
+   <action sum="€0" player="Tsunami888" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282182">
+  <general>
+   <startdate>2022-07-10 23:58:15</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,83" dealer="1" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€90,52" dealer="0" win="€1" seat="3" bet="€1,50"/>
+    <player name="13373678" chips="€52,75" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="Tsunami888" chips="€47" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">D6 H7</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282213">
+  <general>
+   <startdate>2022-07-10 23:58:30</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,83" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€91,02" dealer="1" win="€6,55" seat="3" bet="€6,37"/>
+    <player name="13373678" chips="€52,25" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="Tsunami888" chips="€47" dealer="0" win="€0" seat="10" bet="€3"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€1" player="Tsunami888" no="3" type="23"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€3" player="Pleijeripsus" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">SQ D5</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="0"/>
+   <action sum="€2" player="Tsunami888" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 C3 D6</cards>
+   <action sum="€0" player="Tsunami888" no="9" type="4"/>
+   <action sum="€3,37" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€0" player="Tsunami888" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282268">
+  <general>
+   <startdate>2022-07-10 23:59:08</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,83" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€94,57" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€52" dealer="1" win="€1,75" seat="5" bet="€2"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="n4k3d" chips="€50" dealer="0" win="€0" seat="8" bet="€0,50"/>
+    <player name="Tsunami888" chips="€44" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Tsunami888" no="3" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">S9 C9</cards>
+   <action sum="€2" player="13373678" no="6" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="8" type="0"/>
+   <action sum="€0" player="Tsunami888" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282315">
+  <general>
+   <startdate>2022-07-10 23:59:41</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,83" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€94,57" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€53,25" dealer="0" win="€0" seat="5" bet="€1,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€50" dealer="0" win="€3" seat="8" bet="€5"/>
+    <player name="Tsunami888" chips="€43,50" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">SQ D10</cards>
+   <action sum="€1,25" player="13373678" no="5" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€5" player="n4k3d" no="7" type="23"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="8" type="0"/>
+   <action sum="€0" player="13373678" no="9" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282355">
+  <general>
+   <startdate>2022-07-11 00:00:02</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,83" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€94,57" dealer="0" win="€0" seat="3" bet="€32,50"/>
+    <player name="13373678" chips="€52" dealer="0" win="€64,25" seat="5" bet="€32,50"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51,75" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€43" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">HQ H6</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">DK CK</cards>
+   <action sum="€4,50" player="13373678" no="4" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="0"/>
+   <action sum="€3" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 SK C9</cards>
+   <action sum="€5" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€5" player="13373678" no="11" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action sum="€9" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€9" player="13373678" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+   <action sum="€14" player="Pleijeripsus" no="14" type="5"/>
+   <action sum="€14" player="13373678" no="15" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694282439">
+  <general>
+   <startdate>2022-07-11 00:01:01</startdate>
+   <players>
+    <player name="MaxMoney" chips="€140,33" dealer="0" win="€0" seat="1" bet="€1"/>
+    <player name="Pleijeripsus" chips="€62,07" dealer="0" win="€2,91" seat="3" bet="€2,50"/>
+    <player name="13373678" chips="€83,75" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51,75" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€42,75" dealer="1" win="€0" seat="10" bet="€1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 S9</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="4" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="5" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Tsunami888" no="6" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0,25" player="MaxMoney" no="7" type="3"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1" player="Pleijeripsus" no="8" type="23"/>
+   <action sum="€0,50" player="Tsunami888" no="9" type="3"/>
+   <action sum="€0,50" player="MaxMoney" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S10 SA</cards>
+   <action sum="€0" player="MaxMoney" no="11" type="4"/>
+   <action sum="€1,50" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€0" player="Tsunami888" no="13" type="0"/>
+   <action sum="€0" player="MaxMoney" no="14" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282491">
+  <general>
+   <startdate>2022-07-11 00:01:40</startdate>
+   <players>
+    <player name="MaxMoney" chips="€139,33" dealer="1" win="€0" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€63,98" dealer="0" win="€0" seat="3" bet="€63,98"/>
+    <player name="13373678" chips="€83,75" dealer="0" win="€127,71" seat="5" bet="€83,75"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51,75" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€41,75" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="6" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">D3 C5</cards>
+   <action sum="€1" player="Pleijeripsus" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">C7 C6</cards>
+   <action sum="€0,75" player="13373678" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C8 H4</cards>
+   <action sum="€1,87" player="Pleijeripsus" no="9" type="5"/>
+   <action sum="€1,87" player="13373678" no="10" type="3"/>
+   <action sum="€0" player="MaxMoney" no="11" type="0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€3,74" player="Pleijeripsus" no="12" type="5"/>
+   <action sum="€3,74" player="13373678" no="13" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action sum="€9" player="Pleijeripsus" no="14" type="5"/>
+   <action sum="€76,89" player="13373678" no="15" type="23"/>
+   <action sum="€48,12" player="Pleijeripsus" no="16" type="7"/>
+  </round>
+ </game>
+ <game gamecode="3694282564">
+  <general>
+   <startdate>2022-07-11 00:02:27</startdate>
+   <players>
+    <player name="MaxMoney" chips="€138,08" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€20" dealer="1" win="€1,25" seat="3" bet="€20"/>
+    <player name="13373678" chips="€147,48" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="n4k3d" chips="€51,75" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€41,75" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€20" player="Pleijeripsus" no="6" type="23"/>
+   <cards player="13373678" type="Pocket">HJ S5</cards>
+   <action sum="€0" player="13373678" no="7" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282592">
+  <general>
+   <startdate>2022-07-11 00:02:48</startdate>
+   <players>
+    <player name="MaxMoney" chips="€138,08" dealer="0" win="€41,46" seat="1" bet="€20,75"/>
+    <player name="Pleijeripsus" chips="€20,75" dealer="0" win="€0" seat="3" bet="€20,75"/>
+    <player name="13373678" chips="€147,23" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="n4k3d" chips="€51,75" dealer="0" win="€0" seat="8" bet="€0,50"/>
+    <player name="Tsunami888" chips="€41,75" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Tsunami888" no="3" type="3"/>
+   <cards player="MaxMoney" type="Pocket">CA HK</cards>
+   <action sum="€1,50" player="MaxMoney" no="4" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">SJ HA</cards>
+   <action sum="€20,75" player="Pleijeripsus" no="5" type="23"/>
+   <cards player="13373678" type="Pocket">CK S4</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="8" type="0"/>
+   <action sum="€0" player="Tsunami888" no="9" type="0"/>
+   <action sum="€19,25" player="MaxMoney" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D6 D4</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+  </round>
+ </game>
+ <game gamecode="3694282633">
+  <general>
+   <startdate>2022-07-11 00:03:13</startdate>
+   <players>
+    <player name="MaxMoney" chips="€158,79" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€20" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€147,23" dealer="0" win="€1,25" seat="5" bet="€1,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51,25" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="Tsunami888" chips="€41,25" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">D10 DJ</cards>
+   <action sum="€1,25" player="13373678" no="5" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="7" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282658">
+  <general>
+   <startdate>2022-07-11 00:03:31</startdate>
+   <players>
+    <player name="MaxMoney" chips="€158,79" dealer="0" win="€0" seat="1" bet="€0,50"/>
+    <player name="Pleijeripsus" chips="€20" dealer="0" win="€0" seat="3" bet="€1,75"/>
+    <player name="13373678" chips="€147,98" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€4,13" seat="6" bet="€1,75"/>
+    <player name="n4k3d" chips="€51" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€40,75" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">H2 H8</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="3" type="3"/>
+   <cards player="13373678" type="Pocket">S4 DK</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">C7 D7</cards>
+   <action sum="€1,75" player="AbbeyRoad" no="5" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="8" type="0"/>
+   <action sum="€1,25" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C2 SA</cards>
+   <action sum="€0" player="Pleijeripsus" no="10" type="4"/>
+   <action sum="€0" player="AbbeyRoad" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action sum="€0" player="Pleijeripsus" no="12" type="4"/>
+   <action sum="€0" player="AbbeyRoad" no="13" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+   <action sum="€0" player="Pleijeripsus" no="14" type="4"/>
+   <action sum="€0" player="AbbeyRoad" no="15" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694282754">
+  <general>
+   <startdate>2022-07-11 00:04:41</startdate>
+   <players>
+    <player name="MaxMoney" chips="€158,29" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€18,25" dealer="0" win="€0" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€147,98" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€52,38" dealer="0" win="€1,25" seat="6" bet="€1,25"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€40,50" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ S8</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="4" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="5" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282778">
+  <general>
+   <startdate>2022-07-11 00:04:57</startdate>
+   <players>
+    <player name="MaxMoney" chips="€158,04" dealer="1" win="€0" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€17,75" dealer="0" win="€0" seat="3" bet="€0,25"/>
+    <player name="13373678" chips="€147,98" dealer="0" win="€0" seat="5" bet="€0,50"/>
+    <player name="AbbeyRoad" chips="€53,13" dealer="0" win="€0" seat="6" bet="€1,25"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€40,50" dealer="0" win="€4,37" seat="10" bet="€3,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="3" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€1,25" player="Tsunami888" no="5" type="3"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="6" type="3"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="7" type="0"/>
+   <cards player="13373678" type="Pocket">H9 D3</cards>
+   <action sum="€0" player="13373678" no="8" type="0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S9 C5</cards>
+   <action sum="€0" player="AbbeyRoad" no="9" type="4"/>
+   <action sum="€2,25" player="Tsunami888" no="10" type="5"/>
+   <action sum="€0" player="MaxMoney" no="11" type="0"/>
+   <action sum="€0" player="AbbeyRoad" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282807">
+  <general>
+   <startdate>2022-07-11 00:05:25</startdate>
+   <players>
+    <player name="MaxMoney" chips="€156,79" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€50" dealer="1" win="€0" seat="3" bet="€2,50"/>
+    <player name="13373678" chips="€147,48" dealer="0" win="€5,34" seat="5" bet="€6,62"/>
+    <player name="AbbeyRoad" chips="€51,88" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€43,62" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="5" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0,50" player="Pleijeripsus" no="6" type="3"/>
+   <cards player="13373678" type="Pocket">D4 DK</cards>
+   <action sum="€2,50" player="13373678" no="7" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="8" type="0"/>
+   <action sum="€2" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 CQ SK</cards>
+   <action sum="€0" player="13373678" no="10" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="11" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action sum="€0" player="13373678" no="12" type="4"/>
+   <action sum="€0" player="Pleijeripsus" no="13" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action sum="€4,12" player="13373678" no="14" type="5"/>
+   <action sum="€0" player="Pleijeripsus" no="15" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282855">
+  <general>
+   <startdate>2022-07-11 00:05:59</startdate>
+   <players>
+    <player name="MaxMoney" chips="€156,79" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€47,50" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€150,32" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€51,38" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0,50" seat="8" bet="€0,50"/>
+    <player name="Tsunami888" chips="€43,62" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="4" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="5" type="0"/>
+   <cards player="13373678" type="Pocket">C4 C6</cards>
+   <action sum="€0" player="13373678" no="6" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694282874">
+  <general>
+   <startdate>2022-07-11 00:06:15</startdate>
+   <players>
+    <player name="MaxMoney" chips="€156,79" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="Pleijeripsus" chips="€50" dealer="0" win="€10,43" seat="3" bet="€12"/>
+    <player name="13373678" chips="€150,32" dealer="0" win="€0" seat="5" bet="€5"/>
+    <player name="AbbeyRoad" chips="€51,13" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51,25" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="Tsunami888" chips="€43,62" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€1,50" player="Pleijeripsus" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">CQ SK</cards>
+   <action sum="€5" player="13373678" no="5" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="7" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="8" type="0"/>
+   <action sum="€3,50" player="Pleijeripsus" no="9" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S4 C3</cards>
+   <action sum="€7" player="Pleijeripsus" no="10" type="5"/>
+   <action sum="€0" player="13373678" no="11" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283004">
+  <general>
+   <startdate>2022-07-11 00:06:45</startdate>
+   <players>
+    <player name="MaxMoney" chips="€156,79" dealer="0" win="€2,67" seat="1" bet="€2,15"/>
+    <player name="Pleijeripsus" chips="€55,43" dealer="0" win="€0" seat="3" bet="€0"/>
+    <player name="13373678" chips="€145,32" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€51,13" dealer="0" win="€0" seat="6" bet="€1,25"/>
+    <player name="n4k3d" chips="€51" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€43,12" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="MaxMoney" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">H5 D4</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="5" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0,75" player="MaxMoney" no="8" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H6 D7</cards>
+   <action sum="€0" player="MaxMoney" no="9" type="4"/>
+   <action sum="€0" player="AbbeyRoad" no="10" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action sum="€0,90" player="MaxMoney" no="11" type="5"/>
+   <action sum="€0" player="AbbeyRoad" no="12" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283050">
+  <general>
+   <startdate>2022-07-11 00:07:22</startdate>
+   <players>
+    <player name="MaxMoney" chips="€158,21" dealer="0" win="€0" seat="1" bet="€0,25"/>
+    <player name="Pleijeripsus" chips="€55,43" dealer="0" win="€0" seat="3" bet="€0,50"/>
+    <player name="13373678" chips="€145,32" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€1,25" seat="6" bet="€1,25"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€42,87" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="MaxMoney" no="1" type="1"/>
+   <action sum="€0,50" player="Pleijeripsus" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 C8</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="4" type="23"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="5" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="6" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="7" type="0"/>
+   <cards player="Pleijeripsus" type="Pocket">X X</cards>
+   <action sum="€0" player="Pleijeripsus" no="8" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283065">
+  <general>
+   <startdate>2022-07-11 00:07:33</startdate>
+   <players>
+    <player name="MaxMoney" chips="€157,96" dealer="1" win="€0" seat="1" bet="€1,25"/>
+    <player name="Pleijeripsus" chips="€54,93" dealer="0" win="€0" seat="3" bet="€54,93"/>
+    <player name="13373678" chips="€145,32" dealer="0" win="€109,61" seat="5" bet="€54,93"/>
+    <player name="AbbeyRoad" chips="€50,75" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€42,87" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Pleijeripsus" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="5" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="6" type="23"/>
+   <cards player="Pleijeripsus" type="Pocket">DK D9</cards>
+   <action sum="€1" player="Pleijeripsus" no="7" type="3"/>
+   <cards player="13373678" type="Pocket">C9 CA</cards>
+   <action sum="€3,75" player="13373678" no="8" type="23"/>
+   <action sum="€0" player="MaxMoney" no="9" type="0"/>
+   <action sum="€2,50" player="Pleijeripsus" no="10" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H9 S9</cards>
+   <action sum="€4" player="Pleijeripsus" no="11" type="5"/>
+   <action sum="€4" player="13373678" no="12" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action sum="€11" player="Pleijeripsus" no="13" type="5"/>
+   <action sum="€11" player="13373678" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€36,18" player="Pleijeripsus" no="15" type="5"/>
+   <action sum="€36,18" player="13373678" no="16" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694283128">
+  <general>
+   <startdate>2022-07-11 00:08:25</startdate>
+   <players>
+    <player name="MaxMoney" chips="€156,71" dealer="0" win="€0" seat="1" bet="€2,62"/>
+    <player name="13373678" chips="€200" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50,75" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="n4k3d" chips="€51" dealer="0" win="€5,33" seat="8" bet="€6,73"/>
+    <player name="Tsunami888" chips="€42,87" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="3" type="0"/>
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€1,25" player="MaxMoney" no="4" type="23"/>
+   <cards player="13373678" type="Pocket">CA H7</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0,75" player="n4k3d" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ S2 H2</cards>
+   <action sum="€1,37" player="n4k3d" no="8" type="5"/>
+   <action sum="€1,37" player="MaxMoney" no="9" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€0" player="n4k3d" no="10" type="4"/>
+   <action sum="€0" player="MaxMoney" no="11" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action sum="€4,11" player="n4k3d" no="12" type="5"/>
+   <action sum="€0" player="MaxMoney" no="13" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283228">
+  <general>
+   <startdate>2022-07-11 00:09:36</startdate>
+   <players>
+    <player name="MaxMoney" chips="€154,09" dealer="0" win="€0" seat="1" bet="€0"/>
+    <player name="13373678" chips="€200" dealer="0" win="€0" seat="5" bet="€5,50"/>
+    <player name="AbbeyRoad" chips="€50,50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€53,71" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="Tsunami888" chips="€42,87" dealer="0" win="€10,91" seat="10" bet="€5,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="MaxMoney" type="Pocket">X X</cards>
+   <action sum="€0" player="MaxMoney" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">DQ C10</cards>
+   <action sum="€1" player="13373678" no="4" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="6" type="0"/>
+   <cards player="Tsunami888" type="Pocket">CA DK</cards>
+   <action sum="€0,50" player="Tsunami888" no="7" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK S10 H7</cards>
+   <action sum="€0" player="Tsunami888" no="8" type="4"/>
+   <action sum="€0" player="13373678" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action sum="€1,50" player="Tsunami888" no="10" type="5"/>
+   <action sum="€1,50" player="13373678" no="11" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action sum="€3" player="Tsunami888" no="12" type="5"/>
+   <action sum="€3" player="13373678" no="13" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694283300">
+  <general>
+   <startdate>2022-07-11 00:10:30</startdate>
+   <players>
+    <player name="13373678" chips="€194,50" dealer="0" win="€0,50" seat="5" bet="€0,50"/>
+    <player name="AbbeyRoad" chips="€50,50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€53,46" dealer="1" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€48,28" dealer="0" win="€0" seat="10" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 C8</cards>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="4" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283309">
+  <general>
+   <startdate>2022-07-11 00:10:37</startdate>
+   <players>
+    <player name="13373678" chips="€194,75" dealer="0" win="€1" seat="5" bet="€1,50"/>
+    <player name="AbbeyRoad" chips="€50,50" dealer="0" win="€0" seat="6" bet="€0,50"/>
+    <player name="n4k3d" chips="€53,46" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€48,03" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">DK CJ</cards>
+   <action sum="€1,50" player="13373678" no="5" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="6" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283323">
+  <general>
+   <startdate>2022-07-11 00:10:52</startdate>
+   <players>
+    <player name="13373678" chips="€195,25" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0,25"/>
+    <player name="n4k3d" chips="€53,46" dealer="0" win="€0,50" seat="8" bet="€0,50"/>
+    <player name="Tsunami888" chips="€48,03" dealer="0" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="n4k3d" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="3" type="0"/>
+   <cards player="13373678" type="Pocket">S3 D4</cards>
+   <action sum="€0" player="13373678" no="4" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694283340">
+  <general>
+   <startdate>2022-07-11 00:11:01</startdate>
+   <players>
+    <player name="13373678" chips="€195,25" dealer="0" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50" dealer="1" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€53,71" dealer="0" win="€0" seat="8" bet="€0,25"/>
+    <player name="Tsunami888" chips="€48,03" dealer="0" win="€0,50" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="n4k3d" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D4 D7</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="4" type="0"/>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694284174">
+  <general>
+   <startdate>2022-07-11 00:11:10</startdate>
+   <players>
+    <player name="13373678" chips="€195,25" dealer="0" win="€0" seat="5" bet="€13,61"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0" seat="6" bet="€0"/>
+    <player name="n4k3d" chips="€53,46" dealer="1" win="€27,61" seat="8" bet="€13,61"/>
+    <player name="Tsunami888" chips="€48,28" dealer="0" win="€0" seat="10" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="Tsunami888" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+   <cards player="n4k3d" type="Pocket">S3 C3</cards>
+   <action sum="€1,25" player="n4k3d" no="4" type="23"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€1" player="Tsunami888" no="5" type="3"/>
+   <cards player="13373678" type="Pocket">DA S10</cards>
+   <action sum="€0,75" player="13373678" no="6" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HA DQ</cards>
+   <action sum="€0" player="Tsunami888" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+   <action sum="€0" player="n4k3d" no="9" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action sum="€0" player="Tsunami888" no="10" type="4"/>
+   <action sum="€2,81" player="13373678" no="11" type="5"/>
+   <action sum="€7,62" player="n4k3d" no="12" type="23"/>
+   <action sum="€0" player="Tsunami888" no="13" type="0"/>
+   <action sum="€4,81" player="13373678" no="14" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action sum="€0" player="13373678" no="15" type="4"/>
+   <action sum="€4,74" player="n4k3d" no="16" type="5"/>
+   <action sum="€4,74" player="13373678" no="17" type="3"/>
+  </round>
+ </game>
+ <game gamecode="3694284269">
+  <general>
+   <startdate>2022-07-11 00:12:16</startdate>
+   <players>
+    <player name="13373678" chips="€181,64" dealer="0" win="€0" seat="5" bet="€0,25"/>
+    <player name="AbbeyRoad" chips="€50" dealer="0" win="€0,50" seat="6" bet="€0,50"/>
+    <player name="n4k3d" chips="€67,46" dealer="0" win="€0" seat="8" bet="€0"/>
+    <player name="Tsunami888" chips="€47,03" dealer="1" win="€0" seat="10" bet="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <cards player="n4k3d" type="Pocket">X X</cards>
+   <action sum="€0" player="n4k3d" no="3" type="0"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="4" type="0"/>
+   <cards player="13373678" type="Pocket">SJ C7</cards>
+   <action sum="€0" player="13373678" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694284280">
+  <general>
+   <startdate>2022-07-11 00:12:24</startdate>
+   <players>
+    <player name="13373678" chips="€181,39" dealer="1" win="€0" seat="5" bet="€0"/>
+    <player name="AbbeyRoad" chips="€50,25" dealer="0" win="€1" seat="6" bet="€1,50"/>
+    <player name="Tsunami888" chips="€47,03" dealer="0" win="€0" seat="10" bet="€0,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="Tsunami888" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C2 C6</cards>
+   <action sum="€0" player="13373678" no="3" type="0"/>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€1,50" player="AbbeyRoad" no="4" type="23"/>
+   <cards player="Tsunami888" type="Pocket">X X</cards>
+   <action sum="€0" player="Tsunami888" no="5" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694284303">
+  <general>
+   <startdate>2022-07-11 00:12:38</startdate>
+   <players>
+    <player name="13373678" chips="€181,39" dealer="0" win="€0,50" seat="5" bet="€0,50"/>
+    <player name="AbbeyRoad" chips="€50,75" dealer="1" win="€0" seat="6" bet="€0,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ D3</cards>
+   <cards player="AbbeyRoad" type="Pocket">X X</cards>
+   <action sum="€0" player="AbbeyRoad" no="3" type="0"/>
+  </round>
+ </game>
+ <game gamecode="3694284308">
+  <general>
+   <startdate>2022-07-11 00:12:43</startdate>
+   <players>
+    <player name="13373678" chips="€181,64" dealer="1" win="€0" seat="5" bet="€1,25"/>
+    <player name="AbbeyRoad" chips="€50,50" dealer="0" win="€2,43" seat="6" bet="€1,25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="13373678" no="1" type="1"/>
+   <action sum="€0,50" player="AbbeyRoad" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DA D3</cards>
+   <action sum="€1,25" player="13373678" no="3" type="23"/>
+   <cards player="AbbeyRoad" type="Pocket">H5 H4</cards>
+   <action sum="€0,75" player="AbbeyRoad" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 D6 S6</cards>
+   <action sum="€0" player="AbbeyRoad" no="5" type="4"/>
+   <action sum="€0" player="13373678" no="6" type="4"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action sum="€0" player="AbbeyRoad" no="7" type="4"/>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action sum="€0" player="AbbeyRoad" no="9" type="4"/>
+   <action sum="€0" player="13373678" no="10" type="4"/>
+  </round>
+ </game>
+ <game gamecode="3694284358">
+  <general>
+   <startdate>2022-07-11 00:13:23</startdate>
+   <players>
+    <player name="13373678" chips="€180,39" dealer="0" win="€0" seat="5" bet="€8,92"/>
+    <player name="AbbeyRoad" chips="€51,68" dealer="1" win="€17,34" seat="6" bet="€8,92"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" player="AbbeyRoad" no="1" type="1"/>
+   <action sum="€0,50" player="13373678" no="2" type="2"/>
+  </round>
+  <round no="1">
+   <cards player="AbbeyRoad" type="Pocket">CK HK</cards>
+   <action sum="€1,25" player="AbbeyRoad" no="3" type="23"/>
+   <cards player="13373678" type="Pocket">D8 S7</cards>
+   <action sum="€0,75" player="13373678" no="4" type="3"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H7 S3</cards>
+   <action sum="€0" player="13373678" no="5" type="4"/>
+   <action sum="€0,82" player="AbbeyRoad" no="6" type="5"/>
+   <action sum="€0,82" player="13373678" no="7" type="3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action sum="€0" player="13373678" no="8" type="4"/>
+   <action sum="€1,50" player="AbbeyRoad" no="9" type="5"/>
+   <action sum="€1,50" player="13373678" no="10" type="3"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action sum="€0" player="13373678" no="11" type="4"/>
+   <action sum="€5,35" player="AbbeyRoad" no="12" type="5"/>
+   <action sum="€5,35" player="13373678" no="13" type="3"/>
+  </round>
+ </game>
+</session>

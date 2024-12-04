@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4154104818">
+ <general>
+  <client_version>23.5.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 11, 488044399</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <smallblind>€0,25</smallblind>
+  <bigblind>€0,50</bigblind>
+  <duration>01:01:27</duration>
+  <gamecount>102</gamecount>
+  <startdate>2024-11-02 23:27:10</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€433,86</bets>
+  <wins>€323,86</wins>
+  <chipsin>€50,25</chipsin>
+  <chipsout>€141,31</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3944791931">
+  <general>
+   <startdate>2024-11-02 23:27:10</startdate>
+   <players>
+    <player seat="5" bet="€1,50" dealer="0" chips="€152,03" win="€0" name="Player 5"/>
+    <player seat="6" bet="€6,30" dealer="0" chips="€69,38" win="€2,91" name="Player 6"/>
+    <player seat="8" bet="€0" dealer="0" chips="€49,75" win="€0" name="Player 8"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 5" type="1" no="1" sum="€0,25"/>
+   <action player="Player 6" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="3" sum="€0"/>
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="4" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="23" no="5" sum="€1,50"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="3" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ CQ SJ</cards>
+   <action player="Player 5" type="4" no="7" sum="€0"/>
+   <action player="Player 6" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="Player 5" type="4" no="9" sum="€0"/>
+   <action player="Player 6" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action player="Player 5" type="4" no="11" sum="€0"/>
+   <action player="Player 6" type="5" no="12" sum="€4,80"/>
+   <action player="Player 5" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944792150">
+  <general>
+   <startdate>2024-11-02 23:28:19</startdate>
+   <players>
+    <player seat="5" bet="€1,10" dealer="1" chips="€150,53" win="€1,25" name="Player 5"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€70,79" win="€0" name="Player 6"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€49,75" win="€0" name="Player 8"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 6" type="1" no="1" sum="€0,25"/>
+   <action player="Player 8" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 10" type="Pocket">X X</cards>
+   <action player="Player 10" type="0" no="3" sum="€0"/>
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="23" no="4" sum="€1,10"/>
+   <cards player="Player 6" type="Pocket">X X</cards>
+   <action player="Player 6" type="0" no="5" sum="€0"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944792194">
+  <general>
+   <startdate>2024-11-02 23:28:34</startdate>
+   <players>
+    <player seat="5" bet="€0" dealer="0" chips="€151,28" win="€0" name="Player 5"/>
+    <player seat="6" bet="€1,25" dealer="1" chips="€70,54" win="€2,67" name="Player 6"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€49,25" win="€0" name="Player 8"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€50" win="€0" name="Player 10"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Player 8" type="1" no="1" sum="€0,25"/>
+   <action player="Player 10" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Player 5" type="Pocket">X X</cards>
+   <action player="Player 5" type="0" no="3" sum="€0"/>
+   <cards player="Player 6" type="Pocket">H6 SA</cards>
+   <action player="Player 6" type="23" no="4" sum="€1,25"/>
+   <cards player="Player 8" type="Pocket">X X</cards>
+   <action player="Player 8" type="0" no="5" sum="€0"/>
+   <cards player="Player 10" type="Pocket">D9 HK</cards>
+   <action player="Player 10" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C7 CQ</cards>
+   <action player="Player 10" type="4" no="7" sum="€0"/>
+   <action player="Player 6" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action player="Player 10" type="4" no="9" sum="€0"/>
+   <action player="Player 6" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">HQ</cards>
+   <action player="Player 10" type="4" no="11" sum="€0"/>
+   <action player="Player 6" type="4" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944793732">
+  <general>
+   <startdate>2024-11-02 23:29:24</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€50" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€151,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€71,96" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€50" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 SK</cards>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944793760">
+  <general>
+   <startdate>2024-11-02 23:29:35</startdate>
+   <players>
+    <player seat="3" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€151,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€71,96" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€50" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="1" chips="€50" win="€1,25" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Moonlight" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">DK C9</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944793804">
+  <general>
+   <startdate>2024-11-02 23:29:51</startdate>
+   <players>
+    <player seat="3" bet="€3,75" dealer="1" chips="€50" win="€3,25" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€150,78" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€71,96" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€50" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Moonlight" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="4" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">DQ CK</cards>
+   <action player="13373678" type="23" no="5" sum="€3,75"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <action player="RyanP" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944793869">
+  <general>
+   <startdate>2024-11-02 23:30:16</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="0" chips="€52" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€150,53" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€71,46" win="€0" name="iNitt"/>
+    <player seat="8" bet="€3,03" dealer="0" chips="€50" win="€2,67" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK C7</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C4 HJ</cards>
+   <action player="mrtn13" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="mrtn13" type="5" no="10" sum="€1,78"/>
+   <action player="13373678" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794048">
+  <general>
+   <startdate>2024-11-02 23:31:19</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="0" chips="€50,75" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€150,53" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="1" chips="€71,21" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€51,42" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€3,67" dealer="0" chips="€50" win="€2,67" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CK CA</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H7 S10</cards>
+   <action player="RyanP" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="RyanP" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="RyanP" type="5" no="12" sum="€2,42"/>
+   <action player="13373678" type="0" no="13" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794273">
+  <general>
+   <startdate>2024-11-02 23:32:38</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€50" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,10" dealer="0" chips="€150,53" win="€1,25" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€71,21" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€51,17" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€51,42" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 S7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="23" no="4" sum="€1,10"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794310">
+  <general>
+   <startdate>2024-11-02 23:32:52</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€49,50" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€151,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€71,21" win="€0" name="iNitt"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€51,17" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€51,17" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="5" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 CQ</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794348">
+  <general>
+   <startdate>2024-11-02 23:33:08</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€49,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€151,28" win="€0,50" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€71,21" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€51,92" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€51,17" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Moonlight" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">C4 DJ</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794386">
+  <general>
+   <startdate>2024-11-02 23:33:22</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€49,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€5" dealer="0" chips="€151,53" win="€3" name="Moonlight"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€71,21" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€51,92" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€51,17" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Moonlight" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="4" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">H9 S8</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="23" no="7" sum="€5"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="8" sum="€0"/>
+   <action player="RyanP" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794708">
+  <general>
+   <startdate>2024-11-02 23:33:54</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€49,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€70,71" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€51,92" win="€0,50" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 H4</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794757">
+  <general>
+   <startdate>2024-11-02 23:34:09</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€49,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="1" chips="€70,46" win="€0" name="iNitt"/>
+    <player seat="8" bet="€22" dealer="0" chips="€52,17" win="€10" name="mrtn13"/>
+    <player seat="10" bet="€5" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">H3 H5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="7" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="8" sum="€5"/>
+   <action player="mrtn13" type="23" no="9" sum="€22"/>
+   <action player="RyanP" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944794909">
+  <general>
+   <startdate>2024-11-02 23:35:07</startdate>
+   <players>
+    <player seat="1" bet="€15,93" dealer="0" chips="€49,25" win="€12,88" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€50" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€70,46" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€57,17" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€6,64" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA S7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="7" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="8" sum="€4"/>
+   <action player="RyanP" type="3" no="9" sum="€2,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C2 C9</cards>
+   <action player="RyanP" type="4" no="10" sum="€0"/>
+   <action player="airplane" type="5" no="11" sum="€2,64"/>
+   <action player="RyanP" type="3" no="12" sum="€2,64"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="RyanP" type="4" no="13" sum="€0"/>
+   <action player="airplane" type="5" no="14" sum="€9,29"/>
+   <action player="RyanP" type="0" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944795483">
+  <general>
+   <startdate>2024-11-02 23:36:01</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€55,49" win="€0" name="airplane"/>
+    <player seat="3" bet="€4,73" dealer="0" chips="€50" win="€3,89" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€70,46" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€57,17" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,88" dealer="1" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="6" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">H5 HK</cards>
+   <action player="13373678" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 DJ DQ</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="RyanP" type="5" no="10" sum="€0,63"/>
+   <action player="13373678" type="23" no="11" sum="€3,48"/>
+   <action player="RyanP" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944795645">
+  <general>
+   <startdate>2024-11-02 23:36:57</startdate>
+   <players>
+    <player seat="1" bet="€6,93" dealer="1" chips="€55,24" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€52,01" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€13,19" dealer="0" chips="€70,46" win="€15,19" name="iNitt"/>
+    <player seat="8" bet="€1,05" dealer="0" chips="€57,17" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Moonlight" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="23" no="3" sum="€1,05"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="4" sum="€1,05"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="3" no="6" sum="€1,05"/>
+   <cards player="13373678" type="Pocket">H10 H5</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C9 D5 CJ</cards>
+   <action player="iNitt" type="4" no="9" sum="€0"/>
+   <action player="mrtn13" type="4" no="10" sum="€0"/>
+   <action player="airplane" type="5" no="11" sum="€1,28"/>
+   <action player="iNitt" type="23" no="12" sum="€5,88"/>
+   <action player="mrtn13" type="0" no="13" sum="€0"/>
+   <action player="airplane" type="3" no="14" sum="€4,60"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="iNitt" type="5" no="15" sum="€6,26"/>
+   <action player="airplane" type="0" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944795831">
+  <general>
+   <startdate>2024-11-02 23:38:00</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€48,31" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€51,76" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,50" dealer="0" chips="€152,78" win="€1" name="Moonlight"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€78,72" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€56,12" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Moonlight" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 S3</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="23" no="7" sum="€1,50"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944795874">
+  <general>
+   <startdate>2024-11-02 23:38:14</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€48,31" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€51,76" win="€0" name="13373678"/>
+    <player seat="5" bet="€5,14" dealer="1" chips="€153,28" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€78,22" win="€0" name="iNitt"/>
+    <player seat="8" bet="€5,14" dealer="0" chips="€56,12" win="€10,22" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H10 C7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">CQ CJ</cards>
+   <action player="Moonlight" type="23" no="6" sum="€1,10"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">DA D6</cards>
+   <action player="mrtn13" type="3" no="8" sum="€0,60"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D4 S4</cards>
+   <action player="mrtn13" type="4" no="9" sum="€0"/>
+   <action player="Moonlight" type="5" no="10" sum="€0,80"/>
+   <action player="mrtn13" type="3" no="11" sum="€0,80"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="mrtn13" type="4" no="12" sum="€0"/>
+   <action player="Moonlight" type="5" no="13" sum="€3,24"/>
+   <action player="mrtn13" type="3" no="14" sum="€3,24"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action player="mrtn13" type="4" no="15" sum="€0"/>
+   <action player="Moonlight" type="4" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797150">
+  <general>
+   <startdate>2024-11-02 23:39:16</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€48,31" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€51,76" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€148,14" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€1,25" dealer="1" chips="€77,97" win="€1,25" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€61,20" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">DQ S5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="23" no="6" sum="€1,25"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797211">
+  <general>
+   <startdate>2024-11-02 23:39:32</startdate>
+   <players>
+    <player seat="1" bet="€3,87" dealer="0" chips="€48,31" win="€3,66" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€51,76" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€148,14" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€1,76" dealer="0" chips="€78,72" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€60,95" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 S5</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="23" no="5" sum="€1,15"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="3" no="8" sum="€0,65"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H3 HJ</cards>
+   <action player="airplane" type="4" no="9" sum="€0"/>
+   <action player="iNitt" type="5" no="10" sum="€0,61"/>
+   <action player="airplane" type="23" no="11" sum="€2,72"/>
+   <action player="iNitt" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797317">
+  <general>
+   <startdate>2024-11-02 23:40:13</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€50,21" win="€0" name="airplane"/>
+    <player seat="3" bet="€51,76" dealer="0" chips="€51,76" win="€102,27" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€148,14" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€51,76" dealer="0" chips="€76,96" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€60,95" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">CK SA</cards>
+   <action player="iNitt" type="23" no="4" sum="€1,05"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">H6 H7</cards>
+   <action player="13373678" type="3" no="8" sum="€0,55"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 H5 C2</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="iNitt" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+   <action player="iNitt" type="5" no="12" sum="€0,94"/>
+   <action player="13373678" type="23" no="13" sum="€6,88"/>
+   <action player="iNitt" type="3" no="14" sum="€5,94"/>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+   <action player="13373678" type="5" no="15" sum="€43,83"/>
+   <action player="iNitt" type="3" no="16" sum="€43,83"/>
+  </round>
+ </game>
+ <game gamecode="3944797747">
+  <general>
+   <startdate>2024-11-02 23:41:39</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€49,96" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€102,27" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€148,14" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€60,95" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€50" win="€1,25" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Moonlight" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="5" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S9 D3</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797808">
+  <general>
+   <startdate>2024-11-02 23:41:59</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€49,96" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€102,02" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€147,64" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€60,95" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Moonlight" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="3" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S10 H2</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="7" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797840">
+  <general>
+   <startdate>2024-11-02 23:42:11</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€49,96" win="€0" name="airplane"/>
+    <player seat="3" bet="€7,83" dealer="0" chips="€102,02" win="€4,42" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€147,39" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€2,15" dealer="0" chips="€61,70" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">S2 C2</cards>
+   <action player="13373678" type="23" no="5" sum="€1,25"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ H3 S4</cards>
+   <action player="mrtn13" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€0,90"/>
+   <action player="mrtn13" type="3" no="11" sum="€0,90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action player="mrtn13" type="4" no="12" sum="€0"/>
+   <action player="13373678" type="5" no="13" sum="€5,68"/>
+   <action player="mrtn13" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944797947">
+  <general>
+   <startdate>2024-11-02 23:42:50</startdate>
+   <players>
+    <player seat="1" bet="€1,25" dealer="0" chips="€49,96" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€104,29" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€147,39" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€3,75" dealer="1" chips="€50" win="€3,25" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€59,55" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">C4 C3</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="23" no="6" sum="€3,75"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="8" sum="€0"/>
+   <action player="airplane" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798005">
+  <general>
+   <startdate>2024-11-02 23:43:13</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€48,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€30,25" dealer="0" chips="€104,29" win="€30,31" name="13373678"/>
+    <player seat="5" bet="€15,25" dealer="0" chips="€147,39" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€52" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€59,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DQ CA</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="23" no="4" sum="€4,50"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="8" sum="€0"/>
+   <action player="13373678" type="23" no="9" sum="€10,25"/>
+   <action player="Moonlight" type="3" no="10" sum="€5,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 SK S3</cards>
+   <action player="13373678" type="5" no="11" sum="€5"/>
+   <action player="Moonlight" type="3" no="12" sum="€5"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C3</cards>
+   <action player="13373678" type="5" no="13" sum="€15"/>
+   <action player="Moonlight" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798810">
+  <general>
+   <startdate>2024-11-02 23:44:29</startdate>
+   <players>
+    <player seat="1" bet="€1,50" dealer="0" chips="€48,21" win="€1" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€119,35" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€132,14" win="€0" name="Moonlight"/>
+    <player seat="6" bet="€0" dealer="0" chips="€52" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€59,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Moonlight" type="Pocket">X X</cards>
+   <action player="Moonlight" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="7" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">D4 CJ</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798842">
+  <general>
+   <startdate>2024-11-02 23:44:42</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€48,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€118,85" win="€0" name="13373678"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€52" win="€0" name="iNitt"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€59,30" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="3" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">D9 D3</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798888">
+  <general>
+   <startdate>2024-11-02 23:44:58</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€48,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€1,25" dealer="1" chips="€118,60" win="€1,25" name="13373678"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€51,50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C2 S2</cards>
+   <action player="13373678" type="23" no="5" sum="€1,25"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798926">
+  <general>
+   <startdate>2024-11-02 23:45:10</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€48,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€119,35" win="€0" name="13373678"/>
+    <player seat="6" bet="€0" dealer="1" chips="€51,25" win="€0" name="iNitt"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€59,55" win="€1" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S7 C8</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="6" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944798968">
+  <general>
+   <startdate>2024-11-02 23:45:25</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€48,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€51,25" dealer="0" chips="€119,35" win="€50,88" name="13373678"/>
+    <player seat="6" bet="€51,25" dealer="0" chips="€51,25" win="€50,87" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA CK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="iNitt" type="Pocket">SA DK</cards>
+   <action player="iNitt" type="23" no="4" sum="€3,75"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+   <action player="13373678" type="23" no="8" sum="€10,25"/>
+   <action player="iNitt" type="23" no="9" sum="€51,25"/>
+   <action player="13373678" type="3" no="10" sum="€41"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 C3 SJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+  </round>
+ </game>
+ <game gamecode="3944799101">
+  <general>
+   <startdate>2024-11-02 23:46:12</startdate>
+   <players>
+    <player seat="1" bet="€1,50" dealer="0" chips="€48,21" win="€0" name="airplane"/>
+    <player seat="3" bet="€5" dealer="0" chips="€118,98" win="€3" name="13373678"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="6" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">HJ H4</cards>
+   <action player="13373678" type="23" no="7" sum="€5"/>
+   <action player="airplane" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799193">
+  <general>
+   <startdate>2024-11-02 23:46:42</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€46,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€1,50" dealer="0" chips="€120,48" win="€1" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€50" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ DJ</cards>
+   <action player="13373678" type="23" no="7" sum="€1,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799242">
+  <general>
+   <startdate>2024-11-02 23:47:00</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€46,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€120,98" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€50" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50,87" win="€0,50" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">C3 H7</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799277">
+  <general>
+   <startdate>2024-11-02 23:47:10</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€46,71" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€120,98" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,25" dealer="1" chips="€50" win="€1,25" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€51,12" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€60,05" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">SQ H7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="6" sum="€1,25"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799340">
+  <general>
+   <startdate>2024-11-02 23:47:32</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€50" win="€0" name="airplane"/>
+    <player seat="3" bet="€1,25" dealer="0" chips="€120,98" win="€1,25" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€50,75" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€59,55" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">DK D6</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799408">
+  <general>
+   <startdate>2024-11-02 23:47:53</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€50" win="€0,50" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€121,73" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€50,75" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€59,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 H8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799478">
+  <general>
+   <startdate>2024-11-02 23:48:17</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€121,73" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€50,75" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€59,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="1" chips="€50" win="€1,25" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="6" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">HK S6</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944799523">
+  <general>
+   <startdate>2024-11-02 23:48:30</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€50" win="€0" name="airplane"/>
+    <player seat="3" bet="€14,25" dealer="0" chips="€121,23" win="€12,13" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€50,75" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€6" dealer="0" chips="€59,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="4" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">HJ CA</cards>
+   <action player="13373678" type="23" no="7" sum="€6"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+   <action player="mrtn13" type="3" no="9" sum="€4,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H10 H4</cards>
+   <action player="13373678" type="5" no="10" sum="€8,25"/>
+   <action player="mrtn13" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944800699">
+  <general>
+   <startdate>2024-11-02 23:49:09</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€50" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€127,36" win="€0" name="13373678"/>
+    <player seat="5" bet="€4,70" dealer="0" chips="€50,25" win="€5,34" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50,87" win="€0" name="iNitt"/>
+    <player seat="8" bet="€2,50" dealer="0" chips="€53,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="3" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">CQ D5</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="3" no="7" sum="€1,25"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C7 D8</cards>
+   <action player="Janika93" type="5" no="9" sum="€1"/>
+   <action player="mrtn13" type="3" no="10" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="Janika93" type="5" no="11" sum="€2,20"/>
+   <action player="mrtn13" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944801004">
+  <general>
+   <startdate>2024-11-02 23:49:56</startdate>
+   <players>
+    <player seat="1" bet="€18,82" dealer="0" chips="€50" win="€22,43" name="airplane"/>
+    <player seat="3" bet="€11,19" dealer="0" chips="€127,36" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€53,09" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50,37" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€50,80" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="4" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">S7 S6</cards>
+   <action player="13373678" type="23" no="5" sum="€3,75"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="8" sum="€0"/>
+   <action player="airplane" type="3" no="9" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H4 CJ</cards>
+   <action player="airplane" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="5" no="11" sum="€2,72"/>
+   <action player="airplane" type="23" no="12" sum="€7,44"/>
+   <action player="13373678" type="3" no="13" sum="€4,72"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="airplane" type="5" no="14" sum="€7,63"/>
+   <action player="13373678" type="0" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944801690">
+  <general>
+   <startdate>2024-11-02 23:51:18</startdate>
+   <players>
+    <player seat="1" bet="€10,86" dealer="0" chips="€61,24" win="€21,79" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€116,17" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€53,09" win="€0" name="Janika93"/>
+    <player seat="6" bet="€10,86" dealer="1" chips="€50,12" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€50,30" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50,75" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="RyanP" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">DA S10</cards>
+   <action player="airplane" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D6 C2</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="iNitt" type="Pocket">S8 D8</cards>
+   <action player="iNitt" type="3" no="6" sum="€1,25"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H6 C4</cards>
+   <action player="airplane" type="4" no="9" sum="€0"/>
+   <action player="iNitt" type="5" no="10" sum="€0,78"/>
+   <action player="airplane" type="23" no="11" sum="€3,06"/>
+   <action player="iNitt" type="3" no="12" sum="€2,28"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="airplane" type="5" no="13" sum="€6,55"/>
+   <action player="iNitt" type="3" no="14" sum="€6,55"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="airplane" type="4" no="15" sum="€0"/>
+   <action player="iNitt" type="4" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944802002">
+  <general>
+   <startdate>2024-11-02 23:53:07</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€72,17" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€116,17" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€53,09" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€1,50" dealer="1" chips="€50,05" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="RyanP" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA D2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="6" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="7" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944802056">
+  <general>
+   <startdate>2024-11-02 23:53:27</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€71,67" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€116,17" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€53,09" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€50,80" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 HJ</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944802103">
+  <general>
+   <startdate>2024-11-02 23:53:42</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€71,42" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€116,42" win="€0" name="13373678"/>
+    <player seat="5" bet="€50,80" dealer="0" chips="€53,09" win="€100,35" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€50,80" dealer="0" chips="€50,80" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">DA SA</cards>
+   <action player="mrtn13" type="23" no="4" sum="€1,50"/>
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 D8</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Janika93" type="Pocket">C9 DK</cards>
+   <action player="Janika93" type="3" no="8" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S9 C3</cards>
+   <action player="Janika93" type="4" no="9" sum="€0"/>
+   <action player="mrtn13" type="5" no="10" sum="€3"/>
+   <action player="Janika93" type="23" no="11" sum="€12,50"/>
+   <action player="mrtn13" type="23" no="12" sum="€49,30"/>
+   <action player="Janika93" type="3" no="13" sum="€36,80"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+  </round>
+ </game>
+ <game gamecode="3944802236">
+  <general>
+   <startdate>2024-11-02 23:54:25</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€71,42" win="€0" name="airplane"/>
+    <player seat="3" bet="€116,17" dealer="1" chips="€116,17" win="€36,55" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€102,64" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="10" bet="€18,47" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="iNitt" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="23" no="3" sum="€1,25"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">HJ SJ</cards>
+   <action player="13373678" type="23" no="5" sum="€3,75"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <action player="RyanP" type="3" no="8" sum="€2,50"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK DJ HK</cards>
+   <action player="RyanP" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€2,72"/>
+   <action player="RyanP" type="3" no="11" sum="€2,72"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="RyanP" type="4" no="12" sum="€0"/>
+   <action player="13373678" type="4" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action player="RyanP" type="5" no="14" sum="€12"/>
+   <action player="13373678" type="23" no="15" sum="€109,70"/>
+   <action player="RyanP" type="0" no="16" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944802684">
+  <general>
+   <startdate>2024-11-02 23:56:06</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€71,42" win="€0" name="airplane"/>
+    <player seat="3" bet="€0" dealer="0" chips="€134,25" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,25" dealer="1" chips="€102,39" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€5,37" dealer="0" chips="€50" win="€2,67" name="Lohimedaljonki"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="RyanP"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="iNitt" type="1" no="1" sum="€0,25"/>
+   <action player="Lohimedaljonki" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="RyanP" type="Pocket">X X</cards>
+   <action player="RyanP" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">D3 DJ</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="6" sum="€1,25"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="7" sum="€0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action player="Lohimedaljonki" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C2 SQ</cards>
+   <action player="Lohimedaljonki" type="4" no="9" sum="€0"/>
+   <action player="Janika93" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action player="Lohimedaljonki" type="5" no="11" sum="€4,12"/>
+   <action player="Janika93" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944802883">
+  <general>
+   <startdate>2024-11-02 23:57:17</startdate>
+   <players>
+    <player seat="1" bet="€3,17" dealer="0" chips="€71,42" win="€6,40" name="airplane"/>
+    <player seat="3" bet="€3,17" dealer="0" chips="€134,25" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€101,14" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€50" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€51,42" win="€0" name="Lohimedaljonki"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Lohimedaljonki" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HJ SK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="5" sum="€0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action player="Lohimedaljonki" type="0" no="6" sum="€0"/>
+   <cards player="airplane" type="Pocket">HK CA</cards>
+   <action player="airplane" type="3" no="7" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S9 HA</cards>
+   <action player="airplane" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="airplane" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="airplane" type="5" no="12" sum="€1,92"/>
+   <action player="13373678" type="3" no="13" sum="€1,92"/>
+  </round>
+ </game>
+ <game gamecode="3944803048">
+  <general>
+   <startdate>2024-11-02 23:58:24</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€74,65" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€131,08" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€101,14" win="€0" name="Janika93"/>
+    <player seat="6" bet="€1,15" dealer="0" chips="€50" win="€1,25" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="1" chips="€51,17" win="€0" name="Lohimedaljonki"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="23" no="4" sum="€1,15"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action player="Lohimedaljonki" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">S6 C4</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804237">
+  <general>
+   <startdate>2024-11-02 23:59:04</startdate>
+   <players>
+    <player seat="1" bet="€11,75" dealer="1" chips="€74,40" win="€11,50" name="airplane"/>
+    <player seat="3" bet="€5,50" dealer="0" chips="€130,58" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€101,14" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,75" win="€0" name="iNitt"/>
+    <player seat="8" bet="€0" dealer="0" chips="€51,17" win="€0" name="Lohimedaljonki"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="iNitt" type="Pocket">X X</cards>
+   <action player="iNitt" type="0" no="3" sum="€0"/>
+   <cards player="Lohimedaljonki" type="Pocket">X X</cards>
+   <action player="Lohimedaljonki" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="5" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">D3 DA</cards>
+   <action player="13373678" type="23" no="6" sum="€5,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="7" sum="€0"/>
+   <action player="airplane" type="23" no="8" sum="€11,75"/>
+   <action player="13373678" type="0" no="9" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804338">
+  <general>
+   <startdate>2024-11-02 23:59:44</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€80,40" win="€0" name="airplane"/>
+    <player seat="3" bet="€1,25" dealer="1" chips="€125,08" win="€0" name="13373678"/>
+    <player seat="5" bet="€6" dealer="0" chips="€100,64" win="€3" name="Janika93"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="4564386112151416"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="4564386112151416" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">S5 SQ</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="5" sum="€6"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action player="4564386112151416" type="0" no="6" sum="€0"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804377">
+  <general>
+   <startdate>2024-11-03 00:00:01</startdate>
+   <players>
+    <player seat="1" bet="€2,15" dealer="0" chips="€80,40" win="€0" name="airplane"/>
+    <player seat="3" bet="€5,15" dealer="0" chips="€123,83" win="€4,42" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€102,39" win="€0" name="Janika93"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="4564386112151416"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="4564386112151416" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA D10</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action player="4564386112151416" type="0" no="5" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 DK S9</cards>
+   <action player="airplane" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="5" no="8" sum="€0,90"/>
+   <action player="airplane" type="3" no="9" sum="€0,90"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="airplane" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="5" no="11" sum="€3"/>
+   <action player="airplane" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804498">
+  <general>
+   <startdate>2024-11-03 00:00:46</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€78,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€126,10" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€102,39" win="€0" name="Janika93"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="4564386112151416"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 C6</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="4564386112151416" type="Pocket">X X</cards>
+   <action player="4564386112151416" type="0" no="4" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804538">
+  <general>
+   <startdate>2024-11-03 00:00:59</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€78" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€126,35" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€102,39" win="€0,50" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">C5 S4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804553">
+  <general>
+   <startdate>2024-11-03 00:01:05</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€78" win="€0,50" name="airplane"/>
+    <player seat="3" bet="€0" dealer="1" chips="€126,10" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€102,64" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="airplane" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H6 D8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804574">
+  <general>
+   <startdate>2024-11-03 00:01:14</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€78,25" win="€0" name="airplane"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€126,10" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€102,39" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="airplane" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 D5</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804600">
+  <general>
+   <startdate>2024-11-03 00:01:26</startdate>
+   <players>
+    <player seat="1" bet="€1,25" dealer="1" chips="€78" win="€1,25" name="airplane"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€126,35" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€102,39" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="airplane" type="Pocket">X X</cards>
+   <action player="airplane" type="23" no="3" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">SA H8</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804651">
+  <general>
+   <startdate>2024-11-03 00:01:46</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€126,10" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="1" chips="€101,89" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 S6</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804669">
+  <general>
+   <startdate>2024-11-03 00:01:54</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="1" chips="€126,35" win="€1" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€101,64" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C7 D8</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944804688">
+  <general>
+   <startdate>2024-11-03 00:02:02</startdate>
+   <players>
+    <player seat="3" bet="€3,92" dealer="0" chips="€126,85" win="€0" name="13373678"/>
+    <player seat="5" bet="€3,92" dealer="1" chips="€101,14" win="€7,61" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">CK S9</cards>
+   <action player="Janika93" type="23" no="3" sum="€1,12"/>
+   <cards player="13373678" type="Pocket">CQ S7</cards>
+   <action player="13373678" type="3" no="4" sum="€0,62"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 H3 D6</cards>
+   <action player="13373678" type="4" no="5" sum="€0"/>
+   <action player="Janika93" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="13373678" type="5" no="7" sum="€2,80"/>
+   <action player="Janika93" type="3" no="8" sum="€2,80"/>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+   <action player="Janika93" type="4" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805000">
+  <general>
+   <startdate>2024-11-03 00:03:07</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="1" chips="€122,93" win="€1" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€104,83" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 S10</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805026">
+  <general>
+   <startdate>2024-11-03 00:03:16</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€123,43" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,12" dealer="1" chips="€104,33" win="€1" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="3" sum="€1,12"/>
+   <cards player="13373678" type="Pocket">D8 C2</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805057">
+  <general>
+   <startdate>2024-11-03 00:03:26</startdate>
+   <players>
+    <player seat="3" bet="€2,55" dealer="1" chips="€122,93" win="€0" name="13373678"/>
+    <player seat="5" bet="€6,37" dealer="0" chips="€104,83" win="€4,95" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 HK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="3" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 D9 C4</cards>
+   <action player="Janika93" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+   <action player="Janika93" type="5" no="7" sum="€1,30"/>
+   <action player="13373678" type="3" no="8" sum="€1,30"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="Janika93" type="5" no="9" sum="€3,82"/>
+   <action player="13373678" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805181">
+  <general>
+   <startdate>2024-11-03 00:04:17</startdate>
+   <players>
+    <player seat="3" bet="€5,24" dealer="0" chips="€120,38" win="€2,24" name="13373678"/>
+    <player seat="5" bet="€1,12" dealer="1" chips="€107,23" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="3" sum="€1,12"/>
+   <cards player="13373678" type="Pocket">H10 H6</cards>
+   <action player="13373678" type="23" no="4" sum="€5,24"/>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805248">
+  <general>
+   <startdate>2024-11-03 00:04:44</startdate>
+   <players>
+    <player seat="3" bet="€9,57" dealer="1" chips="€121,50" win="€4,02" name="13373678"/>
+    <player seat="5" bet="€2,07" dealer="0" chips="€106,11" win="€0" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA D3</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="3" no="4" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 D8 CQ</cards>
+   <action player="Janika93" type="4" no="5" sum="€0"/>
+   <action player="13373678" type="5" no="6" sum="€0,82"/>
+   <action player="Janika93" type="3" no="7" sum="€0,82"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action player="Janika93" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="Janika93" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="5" no="11" sum="€7,50"/>
+   <action player="Janika93" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805413">
+  <general>
+   <startdate>2024-11-03 00:05:53</startdate>
+   <players>
+    <player seat="3" bet="€5,24" dealer="0" chips="€123,45" win="€0" name="13373678"/>
+    <player seat="5" bet="€13,10" dealer="1" chips="€104,04" win="€10,17" name="Janika93"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="3" sum="€1,12"/>
+   <cards player="13373678" type="Pocket">D9 SA</cards>
+   <action player="13373678" type="23" no="4" sum="€5,24"/>
+   <action player="Janika93" type="3" no="5" sum="€4,12"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D6 H9</cards>
+   <action player="13373678" type="4" no="6" sum="€0"/>
+   <action player="Janika93" type="4" no="7" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="13373678" type="4" no="8" sum="€0"/>
+   <action player="Janika93" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action player="13373678" type="4" no="10" sum="€0"/>
+   <action player="Janika93" type="5" no="11" sum="€7,86"/>
+   <action player="13373678" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805663">
+  <general>
+   <startdate>2024-11-03 00:07:30</startdate>
+   <players>
+    <player seat="3" bet="€2,15" dealer="1" chips="€118,21" win="€2,67" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€108,97" win="€0" name="Janika93"/>
+    <player seat="6" bet="€1,25" dealer="0" chips="€50" win="€0" name="Pumuckel"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="Pumuckel" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA SA</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="3" no="5" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA C3 D8</cards>
+   <action player="Pumuckel" type="4" no="6" sum="€0"/>
+   <action player="13373678" type="5" no="7" sum="€0,90"/>
+   <action player="Pumuckel" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944805734">
+  <general>
+   <startdate>2024-11-03 00:07:58</startdate>
+   <players>
+    <player seat="3" bet="€4,79" dealer="0" chips="€119,63" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€108,72" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€11,17" dealer="0" chips="€50" win="€9,54" name="mrtn13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Pumuckel" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA DK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="6" sum="€0,75"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C3 H9</cards>
+   <action player="mrtn13" type="4" no="7" sum="€0"/>
+   <action player="13373678" type="5" no="8" sum="€0,90"/>
+   <action player="mrtn13" type="23" no="9" sum="€3,54"/>
+   <action player="13373678" type="3" no="10" sum="€2,64"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C8</cards>
+   <action player="mrtn13" type="4" no="11" sum="€0"/>
+   <action player="13373678" type="4" no="12" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="mrtn13" type="5" no="13" sum="€6,38"/>
+   <action player="13373678" type="0" no="14" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944807487">
+  <general>
+   <startdate>2024-11-03 00:09:20</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="0" chips="€114,84" win="€0" name="13373678"/>
+    <player seat="5" bet="€11,74" dealer="0" chips="€108,72" win="€0" name="Janika93"/>
+    <player seat="6" bet="€40,43" dealer="1" chips="€50" win="€92,22" name="Pumuckel"/>
+    <player seat="8" bet="€1,12" dealer="0" chips="€54,75" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€40,43" dealer="0" chips="€40,43" win="€0" name="TrueGangstah"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="TrueGangstah" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S2 C7</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="4" sum="€1,12"/>
+   <cards player="Pumuckel" type="Pocket">H6 C6</cards>
+   <action player="Pumuckel" type="3" no="5" sum="€1,12"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="6" sum="€0,87"/>
+   <cards player="TrueGangstah" type="Pocket">SK CJ</cards>
+   <action player="TrueGangstah" type="23" no="7" sum="€5,74"/>
+   <action player="Janika93" type="3" no="8" sum="€4,62"/>
+   <action player="Pumuckel" type="3" no="9" sum="€4,62"/>
+   <action player="mrtn13" type="0" no="10" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D4 CK</cards>
+   <action player="TrueGangstah" type="5" no="11" sum="€6"/>
+   <action player="Janika93" type="3" no="12" sum="€6"/>
+   <action player="Pumuckel" type="3" no="13" sum="€6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="TrueGangstah" type="5" no="14" sum="€28,69"/>
+   <action player="Janika93" type="0" no="15" sum="€0"/>
+   <action player="Pumuckel" type="3" no="16" sum="€28,69"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+  </round>
+ </game>
+ <game gamecode="3944807723">
+  <general>
+   <startdate>2024-11-03 00:11:01</startdate>
+   <players>
+    <player seat="3" bet="€30,69" dealer="0" chips="€114,84" win="€25,88" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€96,98" win="€0" name="Janika93"/>
+    <player seat="6" bet="€13,09" dealer="0" chips="€101,79" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="1" chips="€53,63" win="€0" name="mrtn13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="23" no="3" sum="€1,25"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">H8 D8</cards>
+   <action player="13373678" type="23" no="5" sum="€5,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <action player="Pumuckel" type="3" no="7" sum="€4,25"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D6 H3</cards>
+   <action player="13373678" type="5" no="8" sum="€7,59"/>
+   <action player="Pumuckel" type="3" no="9" sum="€7,59"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="13373678" type="5" no="10" sum="€17,60"/>
+   <action player="Pumuckel" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808023">
+  <general>
+   <startdate>2024-11-03 00:12:19</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="1" chips="€127,63" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€96,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€88,70" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€53,63" win="€1,25" name="mrtn13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="Pumuckel" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="3" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">S5 H4</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808074">
+  <general>
+   <startdate>2024-11-03 00:12:41</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="0" chips="€127,63" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€88,20" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€6" dealer="0" chips="€54,38" win="€2,75" name="mrtn13"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Pumuckel" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 S8</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="6" sum="€6"/>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808124">
+  <general>
+   <startdate>2024-11-03 00:13:04</startdate>
+   <players>
+    <player seat="3" bet="€2,24" dealer="0" chips="€126,38" win="€2,91" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€87,95" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€1,25" dealer="0" chips="€55,88" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA DK</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="6" sum="€1"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="7" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ D4 C8</cards>
+   <action player="mrtn13" type="4" no="8" sum="€0"/>
+   <action player="13373678" type="4" no="9" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+   <action player="mrtn13" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="5" no="11" sum="€0,99"/>
+   <action player="mrtn13" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808230">
+  <general>
+   <startdate>2024-11-03 00:13:52</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€26,50" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€128,04" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€87,95" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="1" chips="€54,63" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,50" dealer="0" chips="€50" win="€1" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="MetkaPekka" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HK D4</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="7" sum="€1,50"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808290">
+  <general>
+   <startdate>2024-11-03 00:14:18</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€26" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€128,04" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€87,95" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,63" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="1" chips="€50,50" win="€1,25" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MetkaPekka" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="6" sum="€1,25"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">CK D7</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808339">
+  <general>
+   <startdate>2024-11-03 00:14:39</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€25,75" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0,25" dealer="0" chips="€127,54" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€3,42" dealer="0" chips="€87,95" win="€3,16" name="Pumuckel"/>
+    <player seat="8" bet="€1,25" dealer="0" chips="€54,63" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€51,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="23" no="3" sum="€1,25"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="3" no="4" sum="€1,25"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="5" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">H4 D5</cards>
+   <action player="13373678" type="0" no="7" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 D6 SK</cards>
+   <action player="Pumuckel" type="4" no="9" sum="€0"/>
+   <action player="mrtn13" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="Pumuckel" type="5" no="11" sum="€2,17"/>
+   <action player="mrtn13" type="0" no="12" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808447">
+  <general>
+   <startdate>2024-11-03 00:15:25</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€25,75" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="1" chips="€127,29" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€95,73" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€89,86" win="€0,50" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€53,38" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€51,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="Pumuckel" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="4" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">S5 D6</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808501">
+  <general>
+   <startdate>2024-11-03 00:15:49</startdate>
+   <players>
+    <player seat="1" bet="€1,50" dealer="0" chips="€25,75" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€127,29" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€90,11" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€3,61" dealer="0" chips="€53,38" win="€3,16" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€51,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Pumuckel" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="3" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="3" no="4" sum="€0,50"/>
+   <cards player="13373678" type="Pocket">S4 D9</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK H2 S2</cards>
+   <action player="mrtn13" type="4" no="9" sum="€0"/>
+   <action player="MetkaPekka" type="5" no="10" sum="€1"/>
+   <action player="mrtn13" type="3" no="11" sum="€1"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action player="mrtn13" type="4" no="12" sum="€0"/>
+   <action player="MetkaPekka" type="4" no="13" sum="€0"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+   <action player="mrtn13" type="5" no="14" sum="€2,11"/>
+   <action player="MetkaPekka" type="0" no="15" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944808654">
+  <general>
+   <startdate>2024-11-03 00:16:54</startdate>
+   <players>
+    <player seat="1" bet="€2" dealer="0" chips="€24,25" win="€4,13" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€127,29" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€55,04" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€2" dealer="0" chips="€51,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="MetkaPekka" type="Pocket">S3 S5</cards>
+   <action player="MetkaPekka" type="3" no="3" sum="€0,50"/>
+   <cards player="13373678" type="Pocket">DQ C5</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">S2 D10</cards>
+   <action player="HegoDamask" type="4" no="8" sum="€0"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 H10 H2</cards>
+   <action player="HegoDamask" type="4" no="9" sum="€0"/>
+   <action player="MetkaPekka" type="4" no="10" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="HegoDamask" type="4" no="11" sum="€0"/>
+   <action player="MetkaPekka" type="5" no="12" sum="€0,50"/>
+   <action player="HegoDamask" type="3" no="13" sum="€0,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="HegoDamask" type="4" no="14" sum="€0"/>
+   <action player="MetkaPekka" type="5" no="15" sum="€1"/>
+   <action player="HegoDamask" type="3" no="16" sum="€1"/>
+  </round>
+ </game>
+ <game gamecode="3944809075">
+  <general>
+   <startdate>2024-11-03 00:17:38</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€26,38" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€1,25" dealer="0" chips="€127,29" win="€1,25" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="1" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="MetkaPekka" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C4 C3</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="7" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944809282">
+  <general>
+   <startdate>2024-11-03 00:17:55</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€25,88" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€128,04" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,12" dealer="0" chips="€95,48" win="€1,25" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MetkaPekka" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="3" sum="€1,12"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="6" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="7" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 CA</cards>
+   <action player="13373678" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944809352">
+  <general>
+   <startdate>2024-11-03 00:18:28</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="1" chips="€25,63" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€1,50" dealer="0" chips="€127,54" win="€1" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€96,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="5" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="6" sum="€0"/>
+   <cards player="13373678" type="Pocket">HJ C8</cards>
+   <action player="13373678" type="23" no="7" sum="€1,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944809417">
+  <general>
+   <startdate>2024-11-03 00:18:55</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€25,63" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="1" chips="€128,04" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€95,73" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€89,86" win="€0,50" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="Pumuckel" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="4" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">SQ C2</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944809478">
+  <general>
+   <startdate>2024-11-03 00:19:18</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€25,63" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€128,04" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€90,11" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,10" dealer="0" chips="€50" win="€1,25" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Pumuckel" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="3" sum="€1,10"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">D9 D7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="7" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944809523">
+  <general>
+   <startdate>2024-11-03 00:19:46</startdate>
+   <players>
+    <player seat="1" bet="€5,50" dealer="0" chips="€25,63" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€17" dealer="0" chips="€128,04" win="€11,40" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€54,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50,75" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="3" no="3" sum="€0,50"/>
+   <cards player="13373678" type="Pocket">HK H7</cards>
+   <action player="13373678" type="23" no="4" sum="€2,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="8" sum="€0"/>
+   <action player="MetkaPekka" type="3" no="9" sum="€2"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D4 CK</cards>
+   <action player="MetkaPekka" type="4" no="10" sum="€0"/>
+   <action player="13373678" type="4" no="11" sum="€0"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H4</cards>
+   <action player="MetkaPekka" type="5" no="12" sum="€0,50"/>
+   <action player="13373678" type="23" no="13" sum="€3"/>
+   <action player="MetkaPekka" type="3" no="14" sum="€2,50"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action player="MetkaPekka" type="4" no="15" sum="€0"/>
+   <action player="13373678" type="5" no="16" sum="€11,50"/>
+   <action player="MetkaPekka" type="0" no="17" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944810741">
+  <general>
+   <startdate>2024-11-03 00:21:44</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€20,13" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€1,25" dealer="0" chips="€133,94" win="€1,25" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="1" chips="€54,04" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="MetkaPekka" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 D8</cards>
+   <action player="13373678" type="23" no="3" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="7" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944810796">
+  <general>
+   <startdate>2024-11-03 00:22:04</startdate>
+   <players>
+    <player seat="1" bet="€0,25" dealer="0" chips="€19,63" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0,50" dealer="0" chips="€134,69" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,04" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MetkaPekka" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H7 HA</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="6" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944810852">
+  <general>
+   <startdate>2024-11-03 00:22:29</startdate>
+   <players>
+    <player seat="1" bet="€1,25" dealer="1" chips="€19,38" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€7,50" dealer="0" chips="€134,94" win="€4,25" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€89,86" win="€0" name="Pumuckel"/>
+    <player seat="8" bet="€0" dealer="0" chips="€54,04" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Pumuckel" type="Pocket">X X</cards>
+   <action player="Pumuckel" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="5" sum="€1,25"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="3" no="6" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">HA DA</cards>
+   <action player="13373678" type="23" no="7" sum="€7,50"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+   <action player="HegoDamask" type="0" no="9" sum="€0"/>
+   <action player="MetkaPekka" type="0" no="10" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944810921">
+  <general>
+   <startdate>2024-11-03 00:22:58</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€18,13" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="1" chips="€137,94" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,50" dealer="0" chips="€94,98" win="€1" name="Janika93"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€54,04" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="3" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">C2 SK</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="6" sum="€1,50"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944810984">
+  <general>
+   <startdate>2024-11-03 00:23:26</startdate>
+   <players>
+    <player seat="1" bet="€0" dealer="0" chips="€18,13" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€137,94" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,25" dealer="1" chips="€95,48" win="€0" name="Janika93"/>
+    <player seat="8" bet="€6" dealer="0" chips="€53,54" win="€3" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">D2 S10</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="5" sum="€1,25"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="6" sum="€6"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="7" sum="€0"/>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811056">
+  <general>
+   <startdate>2024-11-03 00:24:03</startdate>
+   <players>
+    <player seat="3" bet="€5,22" dealer="0" chips="€137,94" win="€4,37" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€94,23" win="€0" name="Janika93"/>
+    <player seat="8" bet="€0" dealer="1" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€2,25" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="4" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="5" sum="€1,50"/>
+   <cards player="13373678" type="Pocket">H2 HK</cards>
+   <action player="13373678" type="3" no="6" sum="€1"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ D9 DJ</cards>
+   <action player="HegoDamask" type="5" no="7" sum="€0,75"/>
+   <action player="13373678" type="3" no="8" sum="€0,75"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="HegoDamask" type="4" no="9" sum="€0"/>
+   <action player="13373678" type="5" no="10" sum="€2,97"/>
+   <action player="HegoDamask" type="0" no="11" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811164">
+  <general>
+   <startdate>2024-11-03 00:24:53</startdate>
+   <players>
+    <player seat="3" bet="€0,25" dealer="0" chips="€140,06" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€94,23" win="€0,50" name="Janika93"/>
+    <player seat="8" bet="€0" dealer="0" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">SJ D7</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811196">
+  <general>
+   <startdate>2024-11-03 00:25:03</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="1" chips="€139,81" win="€1,25" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€94,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0" dealer="0" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="jaw24" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="4" sum="€0"/>
+   <cards player="13373678" type="Pocket">D4 DJ</cards>
+   <action player="13373678" type="23" no="5" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811437">
+  <general>
+   <startdate>2024-11-03 00:25:28</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="0" chips="€140,56" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€94,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€1,50" dealer="0" chips="€50" win="€1" name="jaw24"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="jaw24" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">SJ C6</cards>
+   <action player="13373678" type="0" no="4" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="23" no="6" sum="€1,50"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811484">
+  <general>
+   <startdate>2024-11-03 00:25:47</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="0" chips="€140,56" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€94,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€50,50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,50" dealer="0" chips="€50" win="€0,50" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C8 H4</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811509">
+  <general>
+   <startdate>2024-11-03 00:26:01</startdate>
+   <players>
+    <player seat="3" bet="€0,50" dealer="0" chips="€140,56" win="€0,50" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€94,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0" dealer="1" chips="€54,54" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€50,25" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="13373678" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C9 S9</cards>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="3" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="4" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="5" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="6" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811550">
+  <general>
+   <startdate>2024-11-03 00:26:19</startdate>
+   <players>
+    <player seat="3" bet="€0,25" dealer="0" chips="€140,81" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,50" dealer="0" chips="€94,23" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50,50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€1,50" dealer="0" chips="€54,54" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="1" chips="€50" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" type="1" no="1" sum="€0,25"/>
+   <action player="Janika93" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="3" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="4" sum="€1,50"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="5" sum="€0"/>
+   <cards player="13373678" type="Pocket">DQ H9</cards>
+   <action player="13373678" type="0" no="6" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811714">
+  <general>
+   <startdate>2024-11-03 00:26:58</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="1" chips="€140,56" win="€0" name="13373678"/>
+    <player seat="5" bet="€0,25" dealer="0" chips="€93,73" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,50" dealer="0" chips="€50,50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0" dealer="0" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€1,25" dealer="0" chips="€50" win="€1,25" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Janika93" type="1" no="1" sum="€0,25"/>
+   <action player="jaw24" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="3" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="4" sum="€1,25"/>
+   <cards player="13373678" type="Pocket">S2 HQ</cards>
+   <action player="13373678" type="0" no="5" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="6" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811764">
+  <general>
+   <startdate>2024-11-03 00:27:21</startdate>
+   <players>
+    <player seat="3" bet="€1,25" dealer="0" chips="€140,56" win="€1,25" name="13373678"/>
+    <player seat="5" bet="€0" dealer="1" chips="€93,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0,25" dealer="0" chips="€50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0,50" dealer="0" chips="€55,29" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€0" dealer="0" chips="€50,75" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="jaw24" type="1" no="1" sum="€0,25"/>
+   <action player="mrtn13" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="3" sum="€0"/>
+   <cards player="13373678" type="Pocket">D10 S10</cards>
+   <action player="13373678" type="23" no="4" sum="€1,25"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="5" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="6" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="7" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811798">
+  <general>
+   <startdate>2024-11-03 00:27:37</startdate>
+   <players>
+    <player seat="3" bet="€0" dealer="0" chips="€141,31" win="€0" name="13373678"/>
+    <player seat="5" bet="€1,12" dealer="0" chips="€93,48" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="1" chips="€50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€0,25" dealer="0" chips="€54,79" win="€0" name="mrtn13"/>
+    <player seat="10" bet="€5,50" dealer="0" chips="€50,75" win="€2,49" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="mrtn13" type="1" no="1" sum="€0,25"/>
+   <action player="HegoDamask" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ D2</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="23" no="4" sum="€1,12"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="0" no="6" sum="€0"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="23" no="7" sum="€5,50"/>
+   <action player="Janika93" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+ <game gamecode="3944811849">
+  <general>
+   <startdate>2024-11-03 00:28:03</startdate>
+   <players>
+    <player seat="1" bet="€0,50" dealer="0" chips="€18,13" win="€0" name="MetkaPekka"/>
+    <player seat="3" bet="€0" dealer="0" chips="€141,31" win="€0" name="13373678"/>
+    <player seat="5" bet="€0" dealer="0" chips="€92,36" win="€0" name="Janika93"/>
+    <player seat="6" bet="€0" dealer="0" chips="€50" win="€0" name="jaw24"/>
+    <player seat="8" bet="€1,50" dealer="1" chips="€54,54" win="€1,25" name="mrtn13"/>
+    <player seat="10" bet="€0,25" dealer="0" chips="€52,12" win="€0" name="HegoDamask"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="HegoDamask" type="1" no="1" sum="€0,25"/>
+   <action player="MetkaPekka" type="2" no="2" sum="€0,50"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HQ C8</cards>
+   <action player="13373678" type="0" no="3" sum="€0"/>
+   <cards player="Janika93" type="Pocket">X X</cards>
+   <action player="Janika93" type="0" no="4" sum="€0"/>
+   <cards player="jaw24" type="Pocket">X X</cards>
+   <action player="jaw24" type="0" no="5" sum="€0"/>
+   <cards player="mrtn13" type="Pocket">X X</cards>
+   <action player="mrtn13" type="23" no="6" sum="€1,50"/>
+   <cards player="HegoDamask" type="Pocket">X X</cards>
+   <action player="HegoDamask" type="0" no="7" sum="€0"/>
+   <cards player="MetkaPekka" type="Pocket">X X</cards>
+   <action player="MetkaPekka" type="0" no="8" sum="€0"/>
+  </round>
+ </game>
+</session>

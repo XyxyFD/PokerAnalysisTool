@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081002316">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 15, 488046443</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:00:53</duration>
+  <gamecount>1</gamecount>
+  <startdate>2022-08-12 17:39:22</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€0</bets>
+  <wins>€0</wins>
+  <chipsin>€0</chipsin>
+  <chipsout>€0</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702064906">
+  <general>
+   <startdate>2022-08-12 17:39:22</startdate>
+   <players>
+    <player bet="€2,50" dealer="0" chips="€47,38" name="Player 3" seat="3" win="€2,67"/>
+    <player bet="€0,50" dealer="0" chips="€52,16" name="Player 5" seat="5" win="€0"/>
+    <player bet="€2,50" dealer="0" chips="€62,70" name="Player 6" seat="6" win="€2,67"/>
+    <player bet="€0" dealer="0" chips="€57,58" name="Player 8" seat="8" win="€0"/>
+    <player bet="€0" dealer="1" chips="€67,39" name="Player 10" seat="10" win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,25" no="1" type="1" player="Player 3"/>
+   <action sum="€0,50" no="2" type="2" player="Player 5"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="Player 6">DQ SK</cards>
+   <action sum="€0,50" no="3" type="3" player="Player 6"/>
+   <cards type="Pocket" player="Player 8">X X</cards>
+   <action sum="€0" no="4" type="0" player="Player 8"/>
+   <cards type="Pocket" player="Player 10">X X</cards>
+   <action sum="€0" no="5" type="0" player="Player 10"/>
+   <cards type="Pocket" player="Player 3">DK D10</cards>
+   <action sum="€1,50" no="6" type="23" player="Player 3"/>
+   <cards type="Pocket" player="Player 5">X X</cards>
+   <action sum="€0" no="7" type="0" player="Player 5"/>
+   <action sum="€1" no="8" type="3" player="Player 6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ HA D6</cards>
+   <action sum="€0" no="9" type="4" player="Player 3"/>
+   <action sum="€0,50" no="10" type="5" player="Player 6"/>
+   <action sum="€0,50" no="11" type="3" player="Player 3"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action sum="€0" no="12" type="4" player="Player 3"/>
+   <action sum="€0,50" no="13" type="5" player="Player 6"/>
+   <action sum="€0,50" no="14" type="3" player="Player 3"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action sum="€0" no="15" type="4" player="Player 3"/>
+   <action sum="€0" no="16" type="4" player="Player 6"/>
+  </round>
+ </game>
+</session>

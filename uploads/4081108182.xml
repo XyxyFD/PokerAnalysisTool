@@ -1,0 +1,3995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4081108182">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,25/€0,50</gametype>
+  <tablename>100BB Salzburg 24, 488066627</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>01:03:05</duration>
+  <gamecount>134</gamecount>
+  <startdate>2022-08-13 22:19:00</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€234,14</bets>
+  <wins>€153,99</wins>
+  <chipsin>€49,75</chipsin>
+  <chipsout>€50,25</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3702415784">
+  <general>
+   <startdate>2022-08-13 22:19:00</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€20" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S7 DQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702415838">
+  <general>
+   <startdate>2022-08-13 22:19:21</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0,50" chips="€20" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">DK C2</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702415880">
+  <general>
+   <startdate>2022-08-13 22:19:39</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€50" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€20,25" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">H8 S10</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702415920">
+  <general>
+   <startdate>2022-08-13 22:19:59</startdate>
+   <players>
+    <player bet="€9,37" seat="1" win="€18,18" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€9,37" seat="5" win="€0" chips="€50,75" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€20" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">HK DJ</cards>
+   <action player="13373678" sum="€1,50" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">D10 SQ</cards>
+   <action player="PopDonkey" sum="€1" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C10 S3</cards>
+   <action player="13373678" sum="€2,25" type="5" no="6"/>
+   <action player="PopDonkey" sum="€2,25" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="13373678" sum="€5,62" type="5" no="8"/>
+   <action player="PopDonkey" sum="€5,62" type="3" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="PopDonkey" sum="€0" type="4" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702416082">
+  <general>
+   <startdate>2022-08-13 22:21:01</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€58,81" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0,50" chips="€20" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H8 S10</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702416121">
+  <general>
+   <startdate>2022-08-13 22:21:17</startdate>
+   <players>
+    <player bet="€2" seat="1" win="€1" chips="€58,81" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="1"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€20,25" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0,25" type="3" no="4"/>
+   <cards player="13373678" type="Pocket">S8 D9</cards>
+   <action player="13373678" sum="€2" type="23" no="5"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702416189">
+  <general>
+   <startdate>2022-08-13 22:21:47</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€1" chips="€59,31" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€19,75" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">SQ S3</cards>
+   <action player="13373678" sum="€1,50" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702416220">
+  <general>
+   <startdate>2022-08-13 22:21:59</startdate>
+   <players>
+    <player bet="€3,31" seat="1" win="€2,67" chips="€59,81" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€0" chips="€19,75" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H6 H10</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0,75" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S9 D8</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="6"/>
+   <action player="13373678" sum="€2,06" type="5" no="7"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702416280">
+  <general>
+   <startdate>2022-08-13 22:22:23</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€61,23" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€50" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€18,50" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S8 DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702416314">
+  <general>
+   <startdate>2022-08-13 22:22:35</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€0" chips="€60,73" name="13373678" dealer="0"/>
+    <player bet="€5,50" seat="5" win="€3" chips="€50,75" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€18,25" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D8 CA</cards>
+   <action player="13373678" sum="€1,50" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€5,50" type="23" no="5"/>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702416359">
+  <general>
+   <startdate>2022-08-13 22:22:54</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€59,23" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€52,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€18,25" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA SK</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702416389">
+  <general>
+   <startdate>2022-08-13 22:23:08</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€59,98" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€52" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€17,75" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 C5</cards>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702416414">
+  <general>
+   <startdate>2022-08-13 22:23:17</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€1" chips="€60,23" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€52" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€17,50" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S8 SA</cards>
+   <action player="13373678" sum="€1,50" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702416464">
+  <general>
+   <startdate>2022-08-13 22:23:37</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€60,73" name="13373678" dealer="1"/>
+    <player bet="€1,50" seat="5" win="€1" chips="€51,50" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€17,50" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S6 D7</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702417710">
+  <general>
+   <startdate>2022-08-13 22:23:50</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€60,73" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€52" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€17" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">C5 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702417728">
+  <general>
+   <startdate>2022-08-13 22:23:58</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€60,23" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€52,75" name="PopDonkey" dealer="0"/>
+    <player bet="€1,50" seat="10" win="€1,25" chips="€16,75" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H3 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702417768">
+  <general>
+   <startdate>2022-08-13 22:24:12</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€59,98" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€52,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0,50" chips="€17,50" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 C10</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702417797">
+  <general>
+   <startdate>2022-08-13 22:24:21</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€59,98" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€52" name="PopDonkey" dealer="1"/>
+    <player bet="€1" seat="10" win="€1" chips="€17,75" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">D2 C4</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702417810">
+  <general>
+   <startdate>2022-08-13 22:24:28</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€59,48" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€52" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€18,25" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H5 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702417846">
+  <general>
+   <startdate>2022-08-13 22:24:43</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€59,23" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€52,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€18,25" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H10 SQ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702417877">
+  <general>
+   <startdate>2022-08-13 22:24:54</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€0" chips="€59,98" name="13373678" dealer="0"/>
+    <player bet="€4,06" seat="5" win="€3,16" chips="€52" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€17,75" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S3 S5</cards>
+   <action player="13373678" sum="€1" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H2 C9</cards>
+   <action player="13373678" sum="€0" type="4" no="6"/>
+   <action player="PopDonkey" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="PopDonkey" sum="€2,56" type="5" no="9"/>
+   <action player="13373678" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702417974">
+  <general>
+   <startdate>2022-08-13 22:25:33</startdate>
+   <players>
+    <player bet="€5,50" seat="1" win="€3" chips="€58,48" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€53,66" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€0" chips="€17,50" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1,25" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D8 DA</cards>
+   <action player="13373678" sum="€5,50" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702418020">
+  <general>
+   <startdate>2022-08-13 22:25:47</startdate>
+   <players>
+    <player bet="€12,25" seat="1" win="€12,12" chips="€60,23" name="13373678" dealer="1"/>
+    <player bet="€12,25" seat="5" win="€12,13" chips="€53,16" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€16,25" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">HA HJ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">DJ DA</cards>
+   <action player="PopDonkey" sum="€6" type="23" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+   <action player="13373678" sum="€4,75" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 SA SK</cards>
+   <action player="PopDonkey" sum="€6,25" type="5" no="7"/>
+   <action player="13373678" sum="€6,25" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+   <action player="PopDonkey" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action player="PopDonkey" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702418143">
+  <general>
+   <startdate>2022-08-13 22:26:33</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€60,10" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€53,04" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€15,75" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">C4 D3</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702418171">
+  <general>
+   <startdate>2022-08-13 22:26:43</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€59,60" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€53,79" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€15,50" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C3 DK</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702418754">
+  <general>
+   <startdate>2022-08-13 22:26:51</startdate>
+   <players>
+    <player bet="€19,77" seat="1" win="€11,03" chips="€59,35" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€54,04" name="PopDonkey" dealer="0"/>
+    <player bet="€5,56" seat="10" win="€0" chips="€15,50" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D2 D4</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0,75" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA H10 HQ</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="6"/>
+   <action player="13373678" sum="€0,90" type="5" no="7"/>
+   <action player="StupidAsshole" sum="€0,90" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€3,41" type="5" no="10"/>
+   <action player="StupidAsshole" sum="€3,41" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="12"/>
+   <action player="13373678" sum="€14,21" type="5" no="13"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702419113">
+  <general>
+   <startdate>2022-08-13 22:27:30</startdate>
+   <players>
+    <player bet="€3,50" seat="1" win="€7,04" chips="€64,82" name="13373678" dealer="0"/>
+    <player bet="€3,50" seat="5" win="€0" chips="€53,79" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€9,94" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">S10 HA</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D5 DK</cards>
+   <action player="13373678" sum="€1" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 SQ C5</cards>
+   <action player="13373678" sum="€0" type="4" no="6"/>
+   <action player="PopDonkey" sum="€2" type="5" no="7"/>
+   <action player="13373678" sum="€2" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="PopDonkey" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action player="13373678" sum="€0" type="4" no="11"/>
+   <action player="PopDonkey" sum="€0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702419248">
+  <general>
+   <startdate>2022-08-13 22:28:24</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€68,36" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50,29" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€9,69" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">H3 CQ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702419287">
+  <general>
+   <startdate>2022-08-13 22:28:37</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€68,11" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50,25" name="CallOnMe" dealer="0"/>
+    <player bet="€1,25" seat="5" win="€0" chips="€50,29" name="PopDonkey" dealer="0"/>
+    <player bet="€2,62" seat="10" win="€2,67" chips="€9,69" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1,25" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H6 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0,75" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ SK DK</cards>
+   <action player="PopDonkey" sum="€0" type="4" no="7"/>
+   <action player="StupidAsshole" sum="€1,37" type="5" no="8"/>
+   <action player="PopDonkey" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702419359">
+  <general>
+   <startdate>2022-08-13 22:29:06</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€68,11" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="1"/>
+    <player bet="€1,50" seat="5" win="€1" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€11,11" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C5 S9</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="5"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702419406">
+  <general>
+   <startdate>2022-08-13 22:29:25</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€68,11" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€50,50" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€10,61" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">HJ D3</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702419433">
+  <general>
+   <startdate>2022-08-13 22:29:34</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€67,61" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€10,36" seat="5" win="€0" chips="€51,25" name="PopDonkey" dealer="0"/>
+    <player bet="€10,36" seat="10" win="€20,82" chips="€10,36" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">C6 CA</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">DK SQ</cards>
+   <action player="StupidAsshole" sum="€1,50" type="3" no="4"/>
+   <cards player="13373678" type="Pocket">H10 CQ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA D7 D9</cards>
+   <action player="PopDonkey" sum="€2" type="5" no="7"/>
+   <action player="StupidAsshole" sum="€8,86" type="23" no="8"/>
+   <action player="PopDonkey" sum="€6,86" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+  </round>
+ </game>
+ <game gamecode="3702419526">
+  <general>
+   <startdate>2022-08-13 22:30:11</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€67,36" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€40,89" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€20,82" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H4 S7</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702419552">
+  <general>
+   <startdate>2022-08-13 22:30:21</startdate>
+   <players>
+    <player bet="€4,68" seat="1" win="€2,67" chips="€67,36" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€41,14" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€0" chips="€20,82" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SQ H10</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0,75" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 DK SJ</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="7"/>
+   <action player="13373678" sum="€3,43" type="5" no="8"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702419677">
+  <general>
+   <startdate>2022-08-13 22:30:53</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€68,78" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€40,89" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€19,57" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 S2</cards>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702419696">
+  <general>
+   <startdate>2022-08-13 22:31:02</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€69,03" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€40,89" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€19,32" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">H5 C7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702419760">
+  <general>
+   <startdate>2022-08-13 22:31:27</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€68,78" name="13373678" dealer="1"/>
+    <player bet="€1,50" seat="3" win="€1" chips="€50,25" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€19,32" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">CQ H7</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,50" type="23" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702419841">
+  <general>
+   <startdate>2022-08-13 22:32:02</startdate>
+   <players>
+    <player bet="€6" seat="1" win="€2,75" chips="€68,78" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€0" chips="€50,75" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">SQ DA</cards>
+   <action player="13373678" sum="€6" type="23" no="5"/>
+   <action player="CallOnMe" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702419900">
+  <general>
+   <startdate>2022-08-13 22:32:25</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€70,28" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€50" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">C6 S4</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702421140">
+  <general>
+   <startdate>2022-08-13 22:32:47</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,03" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€50,75" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D2 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702421160">
+  <general>
+   <startdate>2022-08-13 22:32:54</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,03" name="13373678" dealer="0"/>
+    <player bet="€2,25" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€51" name="PopDonkey" dealer="0"/>
+    <player bet="€4,62" seat="10" win="€4,61" chips="€19,32" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0,75" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 C10 S2</cards>
+   <action player="StupidAsshole" sum="€0" type="4" no="7"/>
+   <action player="CallOnMe" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action player="StupidAsshole" sum="€1" type="5" no="9"/>
+   <action player="CallOnMe" sum="€1" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="StupidAsshole" sum="€2,37" type="5" no="11"/>
+   <action player="CallOnMe" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702421290">
+  <general>
+   <startdate>2022-08-13 22:33:48</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€70,03" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€1,25" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50,75" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€21,68" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">D7 SA</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702421344">
+  <general>
+   <startdate>2022-08-13 22:34:10</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€1" chips="€69,53" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50,75" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50,75" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">D10 H10</cards>
+   <action player="13373678" sum="€1,50" type="23" no="5"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702421378">
+  <general>
+   <startdate>2022-08-13 22:34:23</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,03" name="13373678" dealer="1"/>
+    <player bet="€1,50" seat="3" win="€1" chips="€50,25" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€50,75" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C3 D8</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,50" type="23" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702421412">
+  <general>
+   <startdate>2022-08-13 22:34:36</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,03" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€1,25" chips="€50,75" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702421476">
+  <general>
+   <startdate>2022-08-13 22:35:01</startdate>
+   <players>
+    <player bet="€10,04" seat="1" win="€11,88" chips="€70,03" name="13373678" dealer="0"/>
+    <player bet="€6" seat="3" win="€0" chips="€51,50" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€20,93" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">DA SA</cards>
+   <action player="13373678" sum="€6" type="23" no="6"/>
+   <action player="CallOnMe" sum="€4,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 HA S4</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="CallOnMe" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="CallOnMe" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+   <action player="13373678" sum="€4,04" type="5" no="12"/>
+   <action player="CallOnMe" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702422153">
+  <general>
+   <startdate>2022-08-13 22:36:07</startdate>
+   <players>
+    <player bet="€10,12" seat="1" win="€0" chips="€75,91" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€25,63" seat="5" win="€20,12" chips="€50" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€20,68" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">CK SK</cards>
+   <action player="13373678" sum="€6" type="23" no="5"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="6"/>
+   <action player="PopDonkey" sum="€4,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 CA S6</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="PopDonkey" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="PopDonkey" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+   <action player="13373678" sum="€4,12" type="5" no="12"/>
+   <action player="PopDonkey" sum="€19,63" type="23" no="13"/>
+   <action player="13373678" sum="€0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702422362">
+  <general>
+   <startdate>2022-08-13 22:37:37</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€65,79" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€60" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€1,25" chips="€20,68" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1,25" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D8 D7</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702422631">
+  <general>
+   <startdate>2022-08-13 22:38:00</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€65,79" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€1,25" chips="€50" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€59,50" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H9 C10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,25" type="23" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702422676">
+  <general>
+   <startdate>2022-08-13 22:38:17</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€65,79" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50,75" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€59,25" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0,50" seat="8" win="€0,50" chips="€50" name="Rannirapu" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="Rannirapu" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D2 HK</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702422756">
+  <general>
+   <startdate>2022-08-13 22:38:48</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€65,79" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50,75" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€59,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="1"/>
+    <player bet="€11" seat="8" win="€9,70" chips="€50,25" name="Rannirapu" dealer="0"/>
+    <player bet="€5" seat="10" win="€0" chips="€21,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rannirapu" sum="€0,25" type="1" no="1"/>
+   <action player="StupidAsshole" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SK D3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€1,50" type="23" no="7"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€1" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C10 H6</cards>
+   <action player="Rannirapu" sum="€2" type="5" no="9"/>
+   <action player="StupidAsshole" sum="€2" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="11"/>
+   <action player="StupidAsshole" sum="€1,50" type="5" no="12"/>
+   <action player="Rannirapu" sum="€1,50" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action player="Rannirapu" sum="€6" type="5" no="14"/>
+   <action player="StupidAsshole" sum="€0" type="0" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702422882">
+  <general>
+   <startdate>2022-08-13 22:39:40</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€65,79" name="13373678" dealer="0"/>
+    <player bet="€3,16" seat="3" win="€2,87" chips="€50,75" name="CallOnMe" dealer="0"/>
+    <player bet="€1,10" seat="5" win="€0" chips="€59,25" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€54,95" name="Rannirapu" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€16,43" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="StupidAsshole" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€1,10" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,10" type="3" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="6"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">HK D9</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S4 CA</cards>
+   <action player="CallOnMe" sum="€0" type="4" no="9"/>
+   <action player="PopDonkey" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="CallOnMe" sum="€0" type="4" no="11"/>
+   <action player="PopDonkey" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="CallOnMe" sum="€2,06" type="5" no="13"/>
+   <action player="PopDonkey" sum="€0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702423018">
+  <general>
+   <startdate>2022-08-13 22:40:41</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€65,29" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€52,52" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€58,15" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€3,16" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€54,95" name="Rannirapu" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€0" chips="€16,18" name="StupidAsshole" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="CallOnMe" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">S10 D10</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="4"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="5"/>
+   <cards player="StupidAsshole" type="Pocket">D2 C2</cards>
+   <action player="StupidAsshole" sum="€1,25" type="3" no="6"/>
+   <cards player="13373678" type="Pocket">HA S5</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ D5 D4</cards>
+   <action player="tipstops" sum="€0" type="4" no="9"/>
+   <action player="StupidAsshole" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SK</cards>
+   <action player="tipstops" sum="€0" type="4" no="11"/>
+   <action player="StupidAsshole" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+   <action player="tipstops" sum="€0" type="4" no="13"/>
+   <action player="StupidAsshole" sum="€0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702423109">
+  <general>
+   <startdate>2022-08-13 22:41:19</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€65,04" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€52,02" name="CallOnMe" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€58,15" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€51,91" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€54,95" name="Rannirapu" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€14,93" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CallOnMe" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="4"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H2 HQ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="6"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="7"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702423158">
+  <general>
+   <startdate>2022-08-13 22:41:38</startdate>
+   <players>
+    <player bet="€3,31" seat="1" win="€2,67" chips="€65,79" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,77" name="CallOnMe" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€57,65" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€0" chips="€51,91" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€54,95" name="Rannirapu" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€14,93" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="3"/>
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">DK D5</cards>
+   <action player="13373678" sum="€1,25" type="23" no="5"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="6"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="7"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 D7 HJ</cards>
+   <action player="tipstops" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€2,06" type="5" no="10"/>
+   <action player="tipstops" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702424367">
+  <general>
+   <startdate>2022-08-13 22:42:10</startdate>
+   <players>
+    <player bet="€2,62" seat="1" win="€0" chips="€67,21" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,77" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€57,40" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€50,66" name="tipstops" dealer="0"/>
+    <player bet="€6,12" seat="8" win="€5,33" chips="€54,95" name="Rannirapu" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€14,93" name="StupidAsshole" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="Rannirapu" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="StupidAsshole" type="Pocket">X X</cards>
+   <action player="StupidAsshole" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">SA S4</cards>
+   <action player="13373678" sum="€1,25" type="23" no="4"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 S3 D10</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="Rannirapu" sum="€1,37" type="5" no="11"/>
+   <action player="13373678" sum="€1,37" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action player="Rannirapu" sum="€3,50" type="5" no="13"/>
+   <action player="13373678" sum="€0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702424499">
+  <general>
+   <startdate>2022-08-13 22:43:01</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€64,59" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,77" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€57,40" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50,41" name="tipstops" dealer="1"/>
+    <player bet="€1,50" seat="8" win="€0" chips="€57,66" name="Rannirapu" dealer="0"/>
+    <player bet="€3,50" seat="10" win="€2,91" chips="€20" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rannirapu" sum="€0,25" type="1" no="1"/>
+   <action player="Amanakuel315" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S8 DQ</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€1,50" type="23" no="7"/>
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€1" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 DK DJ</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="9"/>
+   <action player="Amanakuel315" sum="€2" type="5" no="10"/>
+   <action player="Rannirapu" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702424581">
+  <general>
+   <startdate>2022-08-13 22:43:33</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€0" chips="€64,59" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,77" name="CallOnMe" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€57,40" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50,41" name="tipstops" dealer="0"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€56,16" name="Rannirapu" dealer="1"/>
+    <player bet="€3,50" seat="10" win="€3,40" chips="€21,41" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amanakuel315" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CallOnMe" type="Pocket">X X</cards>
+   <action player="CallOnMe" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0,50" type="3" no="6"/>
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€0,25" type="3" no="7"/>
+   <cards player="13373678" type="Pocket">C8 S3</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 H8 C6</cards>
+   <action player="Amanakuel315" sum="€1" type="5" no="9"/>
+   <action player="13373678" sum="€1" type="3" no="10"/>
+   <action player="Rannirapu" sum="€0" type="0" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+   <action player="Amanakuel315" sum="€2" type="5" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702424666">
+  <general>
+   <startdate>2022-08-13 22:44:14</startdate>
+   <players>
+    <player bet="€16,25" seat="1" win="€32" chips="€63,09" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€57,40" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50,41" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€55,66" name="Rannirapu" dealer="0"/>
+    <player bet="€16,25" seat="10" win="€0" chips="€23,31" name="Amanakuel315" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="4"/>
+   <cards player="Amanakuel315" type="Pocket">S3 S8</cards>
+   <action player="Amanakuel315" sum="€0,50" type="3" no="5"/>
+   <cards player="13373678" type="Pocket">CQ D10</cards>
+   <action player="13373678" sum="€2,50" type="23" no="6"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="7"/>
+   <action player="Amanakuel315" sum="€2" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 S9 DQ</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="Amanakuel315" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+   <action player="13373678" sum="€2,75" type="5" no="11"/>
+   <action player="Amanakuel315" sum="€2,75" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H3</cards>
+   <action player="13373678" sum="€5,50" type="5" no="13"/>
+   <action player="Amanakuel315" sum="€11" type="23" no="14"/>
+   <action player="13373678" sum="€5,50" type="3" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702425313">
+  <general>
+   <startdate>2022-08-13 22:45:35</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€78,84" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€56,90" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€50,41" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€55,66" name="Rannirapu" dealer="0"/>
+    <player bet="€1" seat="10" win="€1,25" chips="€7,06" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="3"/>
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€1" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">H8 D6</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702425337">
+  <general>
+   <startdate>2022-08-13 22:45:46</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€78,84" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€56,65" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€3" seat="8" win="€0" chips="€55,66" name="Rannirapu" dealer="0"/>
+    <player bet="€7,81" seat="10" win="€6,07" chips="€7,81" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="Rannirapu" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€1" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D6 H4</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0,50" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H10 C10</cards>
+   <action player="Rannirapu" sum="€2" type="5" no="8"/>
+   <action player="Amanakuel315" sum="€2" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="10"/>
+   <action player="Amanakuel315" sum="€4,81" type="5" no="11"/>
+   <action player="Rannirapu" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702425438">
+  <general>
+   <startdate>2022-08-13 22:46:30</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€78,84" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€56,65" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="1"/>
+    <player bet="€1" seat="8" win="€0,97" chips="€52,66" name="Rannirapu" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€10,88" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rannirapu" sum="€0,25" type="1" no="1"/>
+   <action player="Amanakuel315" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 S10</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0,25" type="3" no="6"/>
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ SJ CJ</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="8"/>
+   <action player="Amanakuel315" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="10"/>
+   <action player="Amanakuel315" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="Rannirapu" sum="€0,50" type="5" no="12"/>
+   <action player="Amanakuel315" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702425520">
+  <general>
+   <startdate>2022-08-13 22:47:04</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€78,84" name="13373678" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€56,65" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€53,13" name="Rannirapu" dealer="1"/>
+    <player bet="€1,50" seat="10" win="€0,97" chips="€10,38" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Amanakuel315" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="5"/>
+   <cards player="Amanakuel315" type="Pocket">X X</cards>
+   <action player="Amanakuel315" sum="€0,25" type="3" no="6"/>
+   <cards player="13373678" type="Pocket">D6 HQ</cards>
+   <action player="13373678" sum="€0" type="4" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 SA H2</cards>
+   <action player="Amanakuel315" sum="€1" type="5" no="8"/>
+   <action player="13373678" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702425788">
+  <general>
+   <startdate>2022-08-13 22:47:36</startdate>
+   <players>
+    <player bet="€9" seat="1" win="€0" chips="€78,34" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50" name="Back2Warcraft" dealer="0"/>
+    <player bet="€14,50" seat="5" win="€15,86" chips="€56,65" name="PopDonkey" dealer="0"/>
+    <player bet="€1,50" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€53,13" name="Rannirapu" dealer="0"/>
+    <player bet="€10,85" seat="10" win="€15,85" chips="€10,85" name="Amanakuel315" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">CJ HJ</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,50" type="3" no="4"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="5"/>
+   <cards player="Amanakuel315" type="Pocket">D10 C3</cards>
+   <action player="Amanakuel315" sum="€1,50" type="3" no="6"/>
+   <cards player="13373678" type="Pocket">C9 CQ</cards>
+   <action player="13373678" sum="€9" type="23" no="7"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="8"/>
+   <action player="PopDonkey" sum="€7,50" type="3" no="9"/>
+   <action player="tipstops" sum="€0" type="0" no="10"/>
+   <action player="Amanakuel315" sum="€7,50" type="3" no="11"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 H4 C6</cards>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+   <action player="PopDonkey" sum="€5,50" type="5" no="13"/>
+   <action player="Amanakuel315" sum="€1,85" type="7" no="14"/>
+   <action player="13373678" sum="€0" type="0" no="15"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+  </round>
+ </game>
+ <game gamecode="3702425963">
+  <general>
+   <startdate>2022-08-13 22:48:46</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€69,34" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50" name="Back2Warcraft" dealer="0"/>
+    <player bet="€25,09" seat="5" win="€30,99" chips="€61,66" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€53,13" name="Rannirapu" dealer="0"/>
+    <player bet="€15,85" seat="10" win="€0" chips="€15,85" name="Amanakuel315" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="4"/>
+   <cards player="Amanakuel315" type="Pocket">D8 S10</cards>
+   <action player="Amanakuel315" sum="€1" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">D9 H10</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="7"/>
+   <cards player="PopDonkey" type="Pocket">H6 D6</cards>
+   <action player="PopDonkey" sum="€0,50" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 S6 C5</cards>
+   <action player="PopDonkey" sum="€0" type="4" no="9"/>
+   <action player="Amanakuel315" sum="€1" type="5" no="10"/>
+   <action player="PopDonkey" sum="€4,14" type="23" no="11"/>
+   <action player="Amanakuel315" sum="€7,28" type="23" no="12"/>
+   <action player="PopDonkey" sum="€24,09" type="23" no="13"/>
+   <action player="Amanakuel315" sum="€7,57" type="7" no="14"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+  </round>
+ </game>
+ <game gamecode="3702426091">
+  <general>
+   <startdate>2022-08-13 22:49:37</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€69,34" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="Back2Warcraft" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€76,80" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€1,50" seat="8" win="€1,25" chips="€53,13" name="Rannirapu" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">C4 H6</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702426125">
+  <general>
+   <startdate>2022-08-13 22:49:52</startdate>
+   <players>
+    <player bet="€5,89" seat="1" win="€7,76" chips="€69,34" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50" name="Back2Warcraft" dealer="0"/>
+    <player bet="€1,25" seat="5" win="€0" chips="€76,55" name="PopDonkey" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€3,25" seat="8" win="€0" chips="€53,88" name="Rannirapu" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="Rannirapu" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S7 S6</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,25" type="3" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 H3 C5</cards>
+   <action player="Rannirapu" sum="€2" type="5" no="8"/>
+   <action player="13373678" sum="€2" type="3" no="9"/>
+   <action player="PopDonkey" sum="€0" type="0" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+   <action player="Rannirapu" sum="€0" type="4" no="11"/>
+   <action player="13373678" sum="€2,64" type="5" no="12"/>
+   <action player="Rannirapu" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702426259">
+  <general>
+   <startdate>2022-08-13 22:50:49</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€73,85" name="13373678" dealer="0"/>
+    <player bet="€1" seat="3" win="€1,25" chips="€50" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€75,30" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€50,63" name="Rannirapu" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Rannirapu" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€1" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">H4 HJ</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702426296">
+  <general>
+   <startdate>2022-08-13 22:51:05</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€73,35" name="13373678" dealer="0"/>
+    <player bet="€10,33" seat="3" win="€20,28" chips="€50,75" name="Back2Warcraft" dealer="0"/>
+    <player bet="€10,33" seat="5" win="€0" chips="€75,30" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50,38" name="Rannirapu" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">SJ SA</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">D9 HA</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Back2Warcraft" type="Pocket">C3 C4</cards>
+   <action player="Back2Warcraft" sum="€1" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 D5 HJ</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="8"/>
+   <action player="PopDonkey" sum="€2,56" type="5" no="9"/>
+   <action player="Back2Warcraft" sum="€2,56" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="Back2Warcraft" sum="€0" type="4" no="11"/>
+   <action player="PopDonkey" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+   <action player="Back2Warcraft" sum="€6,27" type="5" no="13"/>
+   <action player="PopDonkey" sum="€6,27" type="3" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702427548">
+  <general>
+   <startdate>2022-08-13 22:52:04</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€73,10" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€60,70" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€64,97" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€1,50" seat="8" win="€1,25" chips="€50,38" name="Rannirapu" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€1,50" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">S6 CQ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702427589">
+  <general>
+   <startdate>2022-08-13 22:52:22</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€73,10" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€60,45" name="Back2Warcraft" dealer="1"/>
+    <player bet="€1,50" seat="5" win="€1" chips="€64,47" name="PopDonkey" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,13" name="Rannirapu" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Rannirapu" type="Pocket">X X</cards>
+   <action player="Rannirapu" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S4 D6</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702427625">
+  <general>
+   <startdate>2022-08-13 22:52:41</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€73,10" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€60,45" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€64,97" name="PopDonkey" dealer="1"/>
+    <player bet="€1,25" seat="6" win="€1" chips="€50" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="5"/>
+   <cards player="13373678" type="Pocket">C9 SK</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702427660">
+  <general>
+   <startdate>2022-08-13 22:52:56</startdate>
+   <players>
+    <player bet="€5,50" seat="1" win="€3" chips="€72,60" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€60,45" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€64,97" name="PopDonkey" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€0" chips="€50,50" name="tipstops" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Back2Warcraft" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">CQ C9</cards>
+   <action player="13373678" sum="€5,50" type="23" no="5"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="6"/>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702427705">
+  <general>
+   <startdate>2022-08-13 22:53:14</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€74,35" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€59,95" name="Back2Warcraft" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€64,97" name="PopDonkey" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Back2Warcraft" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">C8 DQ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="4"/>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702427743">
+  <general>
+   <startdate>2022-08-13 22:53:28</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€75,10" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€59,70" name="Back2Warcraft" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€64,47" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ S4</cards>
+   <cards player="Back2Warcraft" type="Pocket">X X</cards>
+   <action player="Back2Warcraft" sum="€0" type="0" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702427760">
+  <general>
+   <startdate>2022-08-13 22:53:35</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€75,35" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€64,22" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H7 D5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702427776">
+  <general>
+   <startdate>2022-08-13 22:53:41</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€75,10" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1" chips="€64,47" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">S8 D10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702427796">
+  <general>
+   <startdate>2022-08-13 22:53:50</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€74,60" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€64,97" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H6 D2</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702427809">
+  <general>
+   <startdate>2022-08-13 22:53:56</startdate>
+   <players>
+    <player bet="€1,50" seat="1" win="€1" chips="€74,35" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€65,22" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">CK H10</cards>
+   <action player="13373678" sum="€1,50" type="23" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702427849">
+  <general>
+   <startdate>2022-08-13 22:54:14</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€74,85" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€49,50" name="Diamant76" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€65,22" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA D6</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702427893">
+  <general>
+   <startdate>2022-08-13 22:54:32</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€75,60" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1,25" chips="€49,25" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€64,72" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">S9 H7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702427927">
+  <general>
+   <startdate>2022-08-13 22:54:46</startdate>
+   <players>
+    <player bet="€10,92" seat="1" win="€6,06" chips="€75,10" name="13373678" dealer="1"/>
+    <player bet="€3,12" seat="3" win="€0" chips="€50" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D8 HQ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0,75" type="3" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S3 H9</cards>
+   <action player="Diamant76" sum="€0" type="4" no="5"/>
+   <action player="13373678" sum="€1,87" type="5" no="6"/>
+   <action player="Diamant76" sum="€1,87" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="Diamant76" sum="€0" type="4" no="8"/>
+   <action player="13373678" sum="€7,80" type="5" no="9"/>
+   <action player="Diamant76" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702428502">
+  <general>
+   <startdate>2022-08-13 22:55:50</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€78,04" name="13373678" dealer="0"/>
+    <player bet="€1,37" seat="3" win="€1" chips="€46,88" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,37" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D10 H3</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428524">
+  <general>
+   <startdate>2022-08-13 22:56:01</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1" chips="€77,54" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€47,38" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CA SK</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428538">
+  <general>
+   <startdate>2022-08-13 22:56:10</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€78,04" name="13373678" dealer="0"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€46,88" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C3 C2</cards>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702428560">
+  <general>
+   <startdate>2022-08-13 22:56:20</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€78,29" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€46,63" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H6 D3</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702428578">
+  <general>
+   <startdate>2022-08-13 22:56:25</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€78,04" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1" chips="€46,88" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H3 CQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428616">
+  <general>
+   <startdate>2022-08-13 22:56:40</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€77,54" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€47,38" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H4 SJ</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702428632">
+  <general>
+   <startdate>2022-08-13 22:56:48</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€77,29" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1" chips="€47,63" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D2 S6</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428657">
+  <general>
+   <startdate>2022-08-13 22:56:57</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1" chips="€76,79" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€48,13" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">SA HK</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428678">
+  <general>
+   <startdate>2022-08-13 22:57:09</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€77,29" name="13373678" dealer="0"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€47,63" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D6 C7</cards>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702428694">
+  <general>
+   <startdate>2022-08-13 22:57:17</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1" chips="€77,54" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€47,38" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 SQ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428727">
+  <general>
+   <startdate>2022-08-13 22:57:31</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€78,04" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1" chips="€46,88" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D2 SQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428762">
+  <general>
+   <startdate>2022-08-13 22:57:43</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€77,54" name="13373678" dealer="1"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€47,38" name="Diamant76" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">H10 S5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="3702428774">
+  <general>
+   <startdate>2022-08-13 22:57:48</startdate>
+   <players>
+    <player bet="€6,15" seat="1" win="€4,78" chips="€77,29" name="13373678" dealer="0"/>
+    <player bet="€2,46" seat="3" win="€0" chips="€47,63" name="Diamant76" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,37" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">SA H9</cards>
+   <action player="13373678" sum="€0,87" type="3" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 HQ HA</cards>
+   <action player="13373678" sum="€0" type="4" no="5"/>
+   <action player="Diamant76" sum="€1,09" type="5" no="6"/>
+   <action player="13373678" sum="€1,09" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="Diamant76" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action player="13373678" sum="€3,69" type="5" no="10"/>
+   <action player="Diamant76" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702428927">
+  <general>
+   <startdate>2022-08-13 22:58:57</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€79,61" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€45,17" name="Diamant76" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€50" name="1347163467" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="1347163467" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">D6 H9</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702428955">
+  <general>
+   <startdate>2022-08-13 22:59:05</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€4,13" chips="€79,61" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€0" chips="€44,92" name="Diamant76" dealer="1"/>
+    <player bet="€1,25" seat="5" win="€0" chips="€50,25" name="1347163467" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1347163467" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S5 D5</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">H5 S7</cards>
+   <action player="Diamant76" sum="€1,25" type="3" no="4"/>
+   <cards player="1347163467" type="Pocket">C3 SA</cards>
+   <action player="1347163467" sum="€1" type="3" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ C6 H4</cards>
+   <action player="1347163467" sum="€0" type="4" no="7"/>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="Diamant76" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="1347163467" sum="€0" type="4" no="10"/>
+   <action player="13373678" sum="€0" type="4" no="11"/>
+   <action player="Diamant76" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">S9</cards>
+   <action player="1347163467" sum="€0" type="4" no="13"/>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+   <action player="Diamant76" sum="€0" type="4" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702429079">
+  <general>
+   <startdate>2022-08-13 22:59:58</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€82,49" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€43,67" name="Diamant76" dealer="0"/>
+    <player bet="€10" seat="5" win="€0" chips="€49" name="1347163467" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€27,50" seat="8" win="€19,64" chips="€64,47" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="PopDonkey" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">C10 C2</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€1,50" type="23" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€1" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C6 D5</cards>
+   <action player="PopDonkey" sum="€0" type="4" no="8"/>
+   <action player="1347163467" sum="€2" type="5" no="9"/>
+   <action player="PopDonkey" sum="€8,50" type="23" no="10"/>
+   <action player="1347163467" sum="€6,50" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action player="PopDonkey" sum="€17,50" type="5" no="12"/>
+   <action player="1347163467" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702429229">
+  <general>
+   <startdate>2022-08-13 23:01:01</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€82,49" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1,25" chips="€43,67" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€39" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€50" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€74,11" name="PopDonkey" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PopDonkey" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">S9 HQ</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702430333">
+  <general>
+   <startdate>2022-08-13 23:01:22</startdate>
+   <players>
+    <player bet="€11,82" seat="1" win="€0" chips="€81,99" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€44,42" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€39" name="1347163467" dealer="0"/>
+    <player bet="€25,09" seat="6" win="€23,41" chips="€50" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€73,86" name="PopDonkey" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="4"/>
+   <cards player="PopDonkey" type="Pocket">X X</cards>
+   <action player="PopDonkey" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">H9 S9</cards>
+   <action player="13373678" sum="€5,50" type="23" no="6"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="7"/>
+   <action player="tipstops" sum="€4,25" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 S4 H10</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="tipstops" sum="€6,32" type="5" no="10"/>
+   <action player="13373678" sum="€6,32" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="13373678" sum="€0" type="4" no="12"/>
+   <action player="tipstops" sum="€0" type="4" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+   <action player="tipstops" sum="€13,27" type="5" no="15"/>
+   <action player="13373678" sum="€0" type="0" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3702430771">
+  <general>
+   <startdate>2022-08-13 23:03:04</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,17" name="13373678" dealer="1"/>
+    <player bet="€7,26" seat="3" win="€14,08" chips="€43,92" name="Diamant76" dealer="0"/>
+    <player bet="€7,26" seat="5" win="€0" chips="€39" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€61,59" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="1347163467" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">D4 HQ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Diamant76" type="Pocket">D10 DJ</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="5"/>
+   <cards player="1347163467" type="Pocket">HJ S4</cards>
+   <action player="1347163467" sum="€1" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ D8 S9</cards>
+   <action player="Diamant76" sum="€1,80" type="5" no="7"/>
+   <action player="1347163467" sum="€1,80" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action player="Diamant76" sum="€3,96" type="5" no="9"/>
+   <action player="1347163467" sum="€3,96" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="Diamant76" sum="€0" type="4" no="11"/>
+   <action player="1347163467" sum="€0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702430923">
+  <general>
+   <startdate>2022-08-13 23:04:04</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€70,17" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50,74" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€31,74" name="1347163467" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0,50" chips="€61,59" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1347163467" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">CQ D8</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702430951">
+  <general>
+   <startdate>2022-08-13 23:04:16</startdate>
+   <players>
+    <player bet="€6,87" seat="1" win="€0" chips="€70,17" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50,74" name="Diamant76" dealer="0"/>
+    <player bet="€6,87" seat="5" win="€14,06" chips="€31,49" name="1347163467" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€61,84" name="tipstops" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="t1ger" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 HA</cards>
+   <action player="13373678" sum="€1,25" type="23" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+   <cards player="1347163467" type="Pocket">H7 DA</cards>
+   <action player="1347163467" sum="€1,25" type="3" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 CJ H6</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="1347163467" sum="€2" type="5" no="9"/>
+   <action player="13373678" sum="€2" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="13373678" sum="€0" type="4" no="11"/>
+   <action player="1347163467" sum="€3,62" type="5" no="12"/>
+   <action player="13373678" sum="€3,62" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action player="13373678" sum="€0" type="4" no="14"/>
+   <action player="1347163467" sum="€0" type="4" no="15"/>
+  </round>
+ </game>
+ <game gamecode="3702431116">
+  <general>
+   <startdate>2022-08-13 23:05:17</startdate>
+   <players>
+    <player bet="€6" seat="1" win="€3,25" chips="€63,30" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€50,74" name="Diamant76" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€0" chips="€38,68" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€61,59" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="t1ger" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€1,50" type="23" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">CJ SJ</cards>
+   <action player="13373678" sum="€6" type="23" no="7"/>
+   <action player="1347163467" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702431203">
+  <general>
+   <startdate>2022-08-13 23:05:51</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€65,05" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€50,74" name="Diamant76" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1,25" chips="€37,18" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€61,59" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€50" name="t1ger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€1,50" type="23" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">HQ DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702431222">
+  <general>
+   <startdate>2022-08-13 23:06:02</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€64,80" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€50,24" name="Diamant76" dealer="0"/>
+    <player bet="€2,15" seat="5" win="€0" chips="€37,93" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€61,59" name="tipstops" dealer="0"/>
+    <player bet="€5,56" seat="10" win="€4,42" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="1347163467" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€1,25" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">DA S8</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="6"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 CA S7</cards>
+   <action player="1347163467" sum="€0" type="4" no="8"/>
+   <action player="t1ger" sum="€0,90" type="5" no="9"/>
+   <action player="1347163467" sum="€0,90" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="1347163467" sum="€0" type="4" no="11"/>
+   <action player="t1ger" sum="€3,41" type="5" no="12"/>
+   <action player="1347163467" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702431328">
+  <general>
+   <startdate>2022-08-13 23:06:46</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€0" chips="€64,80" name="13373678" dealer="0"/>
+    <player bet="€3,20" seat="3" win="€3,16" chips="€49,99" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€35,78" name="1347163467" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€61,59" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€52,27" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1347163467" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S4 C4</cards>
+   <action player="13373678" sum="€1,25" type="23" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,25" type="3" no="5"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ H2 H9</cards>
+   <action player="13373678" sum="€0" type="4" no="8"/>
+   <action player="Diamant76" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="Diamant76" sum="€1,95" type="5" no="11"/>
+   <action player="13373678" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702431527">
+  <general>
+   <startdate>2022-08-13 23:08:05</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€63,55" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,90" name="Diamant76" dealer="0"/>
+    <player bet="€6,75" seat="5" win="€0" chips="€35,53" name="1347163467" dealer="1"/>
+    <player bet="€6,75" seat="6" win="€13,58" chips="€61,09" name="tipstops" dealer="0"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€52,27" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="POLIGNANO" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S9 HA</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="5"/>
+   <cards player="1347163467" type="Pocket">D4 HJ</cards>
+   <action player="1347163467" sum="€1,50" type="23" no="6"/>
+   <cards player="tipstops" type="Pocket">H8 D8</cards>
+   <action player="tipstops" sum="€1,25" type="3" no="7"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D7 C4 H3</cards>
+   <action player="tipstops" sum="€0" type="4" no="9"/>
+   <action player="1347163467" sum="€1,75" type="5" no="10"/>
+   <action player="tipstops" sum="€1,75" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="tipstops" sum="€0" type="4" no="12"/>
+   <action player="1347163467" sum="€3,50" type="5" no="13"/>
+   <action player="tipstops" sum="€3,50" type="3" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action player="tipstops" sum="€0" type="4" no="15"/>
+   <action player="1347163467" sum="€0" type="4" no="16"/>
+  </round>
+ </game>
+ <game gamecode="3702431629">
+  <general>
+   <startdate>2022-08-13 23:08:48</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€63,55" name="13373678" dealer="0"/>
+    <player bet="€4,86" seat="3" win="€0" chips="€51,90" name="Diamant76" dealer="0"/>
+    <player bet="€11,36" seat="5" win="€10,16" chips="€28,78" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€67,92" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€52,27" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="POLIGNANO" sum="€0,25" type="1" no="1"/>
+   <action player="t1ger" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">S10 DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,37" type="23" no="4"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€4,86" type="23" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="7"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="8"/>
+   <action player="Diamant76" sum="€3,49" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 H7 SK</cards>
+   <action player="Diamant76" sum="€0" type="4" no="10"/>
+   <action player="1347163467" sum="€6,50" type="5" no="11"/>
+   <action player="Diamant76" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702432169">
+  <general>
+   <startdate>2022-08-13 23:09:48</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€63,55" name="13373678" dealer="0"/>
+    <player bet="€1,37" seat="3" win="€0" chips="€47,04" name="Diamant76" dealer="0"/>
+    <player bet="€1,37" seat="5" win="€0" chips="€34,08" name="1347163467" dealer="0"/>
+    <player bet="€4,79" seat="6" win="€6,05" chips="€67,92" name="tipstops" dealer="0"/>
+    <player bet="€1,37" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€51,77" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="t1ger" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,37" type="23" no="3"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€1,37" type="3" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,37" type="3" no="5"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€1,37" type="3" no="6"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">H5 S6</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 C2 SQ</cards>
+   <action player="Diamant76" sum="€0" type="4" no="9"/>
+   <action player="1347163467" sum="€0" type="4" no="10"/>
+   <action player="tipstops" sum="€0" type="4" no="11"/>
+   <action player="POLIGNANO" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HJ</cards>
+   <action player="Diamant76" sum="€0" type="4" no="13"/>
+   <action player="1347163467" sum="€0" type="4" no="14"/>
+   <action player="tipstops" sum="€3,42" type="5" no="15"/>
+   <action player="POLIGNANO" sum="€0" type="0" no="16"/>
+   <action player="Diamant76" sum="€0" type="0" no="17"/>
+   <action player="1347163467" sum="€0" type="0" no="18"/>
+  </round>
+ </game>
+ <game gamecode="3702432294">
+  <general>
+   <startdate>2022-08-13 23:10:43</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€63,05" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€45,67" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€32,71" name="1347163467" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€0" chips="€72,60" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€4" seat="10" win="€3,25" chips="€51,52" name="t1ger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="4"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="5"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€4" type="23" no="6"/>
+   <cards player="13373678" type="Pocket">D5 SJ</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="8"/>
+   <action player="tipstops" sum="€0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="3702432342">
+  <general>
+   <startdate>2022-08-13 23:11:01</startdate>
+   <players>
+    <player bet="€15,77" seat="1" win="€0" chips="€62,80" name="13373678" dealer="1"/>
+    <player bet="€45,17" seat="3" win="€31,80" chips="€45,17" name="Diamant76" dealer="0"/>
+    <player bet="€1,25" seat="5" win="€0" chips="€32,71" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€71,35" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€53,52" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="1347163467" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="4"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">C9 CJ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="6"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1" type="3" no="7"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 S2 H10</cards>
+   <action player="Diamant76" sum="€0" type="4" no="9"/>
+   <action player="1347163467" sum="€0" type="4" no="10"/>
+   <action player="13373678" sum="€2,81" type="5" no="11"/>
+   <action player="Diamant76" sum="€2,81" type="3" no="12"/>
+   <action player="1347163467" sum="€0" type="0" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="Diamant76" sum="€0" type="4" no="14"/>
+   <action player="13373678" sum="€11,71" type="5" no="15"/>
+   <action player="Diamant76" sum="€41,11" type="23" no="16"/>
+   <action player="13373678" sum="€0" type="0" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3702432654">
+  <general>
+   <startdate>2022-08-13 23:12:05</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€0" chips="€61,20" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€31,46" name="1347163467" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€71,35" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€3,16" chips="€53,52" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1347163467" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="3"/>
+   <cards player="t1ger" type="Pocket">CA C9</cards>
+   <action player="t1ger" sum="€1,25" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">S5 HQ</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Diamant76" type="Pocket">S7 D6</cards>
+   <action player="Diamant76" sum="€1,25" type="3" no="6"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="7"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S9 DK</cards>
+   <action player="t1ger" sum="€0" type="4" no="9"/>
+   <action player="Diamant76" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="t1ger" sum="€0" type="4" no="11"/>
+   <action player="Diamant76" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action player="t1ger" sum="€0" type="4" no="13"/>
+   <action player="Diamant76" sum="€0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702433731">
+  <general>
+   <startdate>2022-08-13 23:12:39</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€8,29" seat="3" win="€0" chips="€59,95" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€31,21" name="1347163467" dealer="1"/>
+    <player bet="€8,29" seat="6" win="€17,78" chips="€70,85" name="tipstops" dealer="0"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€55,43" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="POLIGNANO" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">HA H8</cards>
+   <action player="13373678" sum="€1,25" type="23" no="4"/>
+   <cards player="Diamant76" type="Pocket">C6 C5</cards>
+   <action player="Diamant76" sum="€1,25" type="3" no="5"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">CK CJ</cards>
+   <action player="tipstops" sum="€1" type="3" no="7"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S5 CQ</cards>
+   <action player="tipstops" sum="€0" type="4" no="9"/>
+   <action player="13373678" sum="€0" type="4" no="10"/>
+   <action player="Diamant76" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="tipstops" sum="€2,97" type="5" no="12"/>
+   <action player="13373678" sum="€0" type="0" no="13"/>
+   <action player="Diamant76" sum="€2,97" type="3" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="tipstops" sum="€0" type="4" no="15"/>
+   <action player="Diamant76" sum="€4,07" type="5" no="16"/>
+   <action player="tipstops" sum="€4,07" type="3" no="17"/>
+  </round>
+ </game>
+ <game gamecode="3702433892">
+  <general>
+   <startdate>2022-08-13 23:13:54</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€3,46" seat="3" win="€3,39" chips="€51,66" name="Diamant76" dealer="0"/>
+    <player bet="€1,37" seat="5" win="€0" chips="€31,21" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€80,34" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€55,43" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="POLIGNANO" sum="€0,25" type="1" no="1"/>
+   <action player="t1ger" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D3 H5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,37" type="23" no="4"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€1,37" type="3" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="6"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="7"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 C10 C5</cards>
+   <action player="Diamant76" sum="€2,09" type="5" no="9"/>
+   <action player="1347163467" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702433983">
+  <general>
+   <startdate>2022-08-13 23:14:29</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1,25" chips="€53,68" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€29,84" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€80,34" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€54,93" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="t1ger" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="6"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">D7 DJ</cards>
+   <action player="13373678" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702434048">
+  <general>
+   <startdate>2022-08-13 23:14:58</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€54,43" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€29,84" name="1347163467" dealer="0"/>
+    <player bet="€6,21" seat="6" win="€7,52" chips="€80,34" name="tipstops" dealer="0"/>
+    <player bet="€3,50" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€54,68" name="t1ger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="4"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€3,50" type="23" no="5"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="6"/>
+   <cards player="13373678" type="Pocket">CQ D9</cards>
+   <action player="13373678" sum="€0" type="0" no="7"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="8"/>
+   <action player="tipstops" sum="€2,25" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 C7 S4</cards>
+   <action player="tipstops" sum="€0" type="4" no="10"/>
+   <action player="POLIGNANO" sum="€0" type="4" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="tipstops" sum="€2,71" type="5" no="12"/>
+   <action player="POLIGNANO" sum="€0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="3702434154">
+  <general>
+   <startdate>2022-08-13 23:15:44</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€53,93" name="Diamant76" dealer="0"/>
+    <player bet="€1,25" seat="5" win="€0" chips="€29,84" name="1347163467" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€2,67" chips="€84,36" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€54,68" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="1347163467" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">S10 HK</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="3"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="4"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">S6 H5</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="7"/>
+   <cards player="1347163467" type="Pocket">H3 S3</cards>
+   <action player="1347163467" sum="€0,75" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C9 S5</cards>
+   <action player="1347163467" sum="€0" type="4" no="9"/>
+   <action player="tipstops" sum="€0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="1347163467" sum="€0" type="4" no="11"/>
+   <action player="tipstops" sum="€0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action player="1347163467" sum="€0" type="4" no="13"/>
+   <action player="tipstops" sum="€0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="3702434222">
+  <general>
+   <startdate>2022-08-13 23:16:11</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€1,25" seat="3" win="€0" chips="€53,68" name="Diamant76" dealer="1"/>
+    <player bet="€6,50" seat="5" win="€4,25" chips="€28,59" name="1347163467" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€85,78" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€54,68" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1347163467" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="3"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">H8 C8</cards>
+   <action player="13373678" sum="€1,25" type="23" no="5"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,25" type="3" no="6"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€6,50" type="23" no="7"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="8"/>
+   <action player="13373678" sum="€0" type="0" no="9"/>
+   <action player="Diamant76" sum="€0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="3702434330">
+  <general>
+   <startdate>2022-08-13 23:17:05</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" board1win="€0" dealer="0" board2win="€0"/>
+    <player bet="€0" seat="3" win="€0" chips="€52,43" name="Diamant76" board1win="€0" dealer="0" board2win="€0"/>
+    <player bet="€31,59" seat="5" win="€62,43" chips="€31,59" name="1347163467" board1win="€31,22" dealer="1" board2win="€31,21"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€85,28" name="tipstops" board1win="€0" dealer="0" board2win="€0"/>
+    <player bet="€0,50" seat="8" win="€0" chips="€50" name="POLIGNANO" board1win="€0" dealer="0" board2win="€0"/>
+    <player bet="€32,24" seat="10" win="€0" chips="€54,68" name="t1ger" board1win="€0" dealer="0" board2win="€0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="POLIGNANO" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="t1ger" type="Pocket">DQ HK</cards>
+   <action player="t1ger" sum="€1,25" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">D7 D10</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="5"/>
+   <cards player="1347163467" type="Pocket">SA DA</cards>
+   <action player="1347163467" sum="€4,50" type="23" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="8"/>
+   <action player="t1ger" sum="€3,25" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CJ S8</cards>
+   <action player="t1ger" sum="€0" type="4" no="10"/>
+   <action player="1347163467" sum="€6" type="5" no="11"/>
+   <action player="t1ger" sum="€6" type="3" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="t1ger" sum="€0" type="4" no="13"/>
+   <action player="1347163467" sum="€10,87" type="5" no="14"/>
+   <action player="t1ger" sum="€21,74" type="23" no="15"/>
+   <action player="1347163467" sum="€10,22" type="7" no="16"/>
+  </round>
+  <round no="4">
+   <cards type="River" board="board1">H10</cards>
+   <cards type="River" board="board2">CA</cards>
+  </round>
+ </game>
+ <game gamecode="3702434872">
+  <general>
+   <startdate>2022-08-13 23:18:05</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€52,43" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€62,43" name="1347163467" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€1,25" chips="€85,03" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+    <player bet="€0,50" seat="10" win="€0" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="POLIGNANO" sum="€0,25" type="1" no="1"/>
+   <action player="t1ger" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">DJ D5</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="6"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="7"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="3702434907">
+  <general>
+   <startdate>2022-08-13 23:18:19</startdate>
+   <players>
+    <player bet="€1" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€52,43" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€62,43" name="1347163467" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€85,78" name="tipstops" dealer="0"/>
+    <player bet="€1,69" seat="8" win="€2,19" chips="€50" name="POLIGNANO" dealer="1"/>
+    <player bet="€0,25" seat="10" win="€0" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="t1ger" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+   <cards player="1347163467" type="Pocket">X X</cards>
+   <action player="1347163467" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€1" type="23" no="6"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="7"/>
+   <cards player="13373678" type="Pocket">CJ C5</cards>
+   <action player="13373678" sum="€0,50" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C2 S7</cards>
+   <action player="13373678" sum="€0" type="4" no="9"/>
+   <action player="POLIGNANO" sum="€0,69" type="5" no="10"/>
+   <action player="13373678" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702435047">
+  <general>
+   <startdate>2022-08-13 23:19:16</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0" chips="€52,43" name="Diamant76" dealer="0"/>
+    <player bet="€1,25" seat="6" win="€1,25" chips="€85,78" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,19" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€50" name="t1ger" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="3"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="4"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="5"/>
+   <cards player="13373678" type="Pocket">DK S5</cards>
+   <action player="13373678" sum="€0" type="0" no="6"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702435071">
+  <general>
+   <startdate>2022-08-13 23:19:28</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€51,93" name="Diamant76" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0" chips="€86,53" name="tipstops" dealer="0"/>
+    <player bet="€0" seat="8" win="€0" chips="€51,19" name="POLIGNANO" dealer="0"/>
+    <player bet="€1,25" seat="10" win="€1,25" chips="€50" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="3"/>
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€1,25" type="23" no="4"/>
+   <cards player="13373678" type="Pocket">C9 D7</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="6"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="3702435094">
+  <general>
+   <startdate>2022-08-13 23:19:39</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,68" name="Diamant76" dealer="1"/>
+    <player bet="€3" seat="6" win="€2,43" chips="€86,03" name="tipstops" dealer="0"/>
+    <player bet="€1,25" seat="8" win="€0" chips="€51,19" name="POLIGNANO" dealer="0"/>
+    <player bet="€0" seat="10" win="€0" chips="€50,75" name="t1ger" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="POLIGNANO" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="t1ger" type="Pocket">X X</cards>
+   <action player="t1ger" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">S7 H5</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1,25" type="23" no="6"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0,75" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C2 S2</cards>
+   <action player="tipstops" sum="€0" type="4" no="8"/>
+   <action player="POLIGNANO" sum="€0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="tipstops" sum="€1,75" type="5" no="10"/>
+   <action player="POLIGNANO" sum="€0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="3702435147">
+  <general>
+   <startdate>2022-08-13 23:20:02</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€51,68" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€87,21" name="tipstops" dealer="1"/>
+    <player bet="€0,25" seat="8" win="€0" chips="€50" name="POLIGNANO" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="POLIGNANO" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">D7 D2</cards>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="POLIGNANO" type="Pocket">X X</cards>
+   <action player="POLIGNANO" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702435166">
+  <general>
+   <startdate>2022-08-13 23:20:11</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50,25" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€51,68" name="Diamant76" dealer="0"/>
+    <player bet="€0,50" seat="6" win="€0,50" chips="€87,21" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <cards player="13373678" type="Pocket">C5 D8</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702435191">
+  <general>
+   <startdate>2022-08-13 23:20:22</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€50,25" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="3" win="€1,25" chips="€51,43" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€87,46" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="3"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="4"/>
+   <cards player="13373678" type="Pocket">C10 H6</cards>
+   <action player="13373678" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702435214">
+  <general>
+   <startdate>2022-08-13 23:20:34</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€50" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="3" win="€0,50" chips="€52,18" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€87,21" name="tipstops" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="Diamant76" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">SK C5</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702435258">
+  <general>
+   <startdate>2022-08-13 23:20:51</startdate>
+   <players>
+    <player bet="€1,25" seat="1" win="€1,25" chips="€50" name="13373678" dealer="1"/>
+    <player bet="€0,25" seat="3" win="€0" chips="€52,43" name="Diamant76" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0" chips="€50" name="AlanMeining" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€87,21" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Diamant76" sum="€0,25" type="1" no="1"/>
+   <action player="AlanMeining" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">HQ SJ</cards>
+   <action player="13373678" sum="€1,25" type="23" no="4"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="5"/>
+   <cards player="AlanMeining" type="Pocket">X X</cards>
+   <action player="AlanMeining" sum="€0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="3702435438">
+  <general>
+   <startdate>2022-08-13 23:21:04</startdate>
+   <players>
+    <player bet="€0" seat="1" win="€0" chips="€50,75" name="13373678" dealer="0"/>
+    <player bet="€7,74" seat="3" win="€6,94" chips="€52,18" name="Diamant76" dealer="1"/>
+    <player bet="€0,25" seat="5" win="€0" chips="€50" name="AlanMeining" dealer="0"/>
+    <player bet="€3,45" seat="6" win="€0" chips="€87,21" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AlanMeining" sum="€0,25" type="1" no="1"/>
+   <action player="tipstops" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">H3 H4</cards>
+   <action player="13373678" sum="€0" type="0" no="3"/>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€1,50" type="23" no="4"/>
+   <cards player="AlanMeining" type="Pocket">X X</cards>
+   <action player="AlanMeining" sum="€0" type="0" no="5"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€1" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK C2 D10</cards>
+   <action player="tipstops" sum="€0" type="4" no="7"/>
+   <action player="Diamant76" sum="€1,95" type="5" no="8"/>
+   <action player="tipstops" sum="€1,95" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action player="tipstops" sum="€0" type="4" no="10"/>
+   <action player="Diamant76" sum="€4,29" type="5" no="11"/>
+   <action player="tipstops" sum="€0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="3702435515">
+  <general>
+   <startdate>2022-08-13 23:21:39</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0,50" chips="€50,75" name="13373678" dealer="0"/>
+    <player bet="€0" seat="3" win="€0" chips="€55,67" name="Diamant76" dealer="0"/>
+    <player bet="€0" seat="5" win="€0" chips="€50" name="AlanMeining" dealer="1"/>
+    <player bet="€0,25" seat="6" win="€0" chips="€83,76" name="tipstops" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="tipstops" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="13373678" type="Pocket">CJ S5</cards>
+   <cards player="Diamant76" type="Pocket">X X</cards>
+   <action player="Diamant76" sum="€0" type="0" no="3"/>
+   <cards player="AlanMeining" type="Pocket">X X</cards>
+   <action player="AlanMeining" sum="€0" type="0" no="4"/>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="3702435536">
+  <general>
+   <startdate>2022-08-13 23:21:48</startdate>
+   <players>
+    <player bet="€0,25" seat="1" win="€0" chips="€51" name="13373678" dealer="0"/>
+    <player bet="€0,50" seat="5" win="€0,50" chips="€50" name="AlanMeining" dealer="0"/>
+    <player bet="€0" seat="6" win="€0" chips="€83,51" name="tipstops" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="13373678" sum="€0,25" type="1" no="1"/>
+   <action player="AlanMeining" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AlanMeining" type="Pocket">X X</cards>
+   <cards player="tipstops" type="Pocket">X X</cards>
+   <action player="tipstops" sum="€0" type="0" no="3"/>
+   <cards player="13373678" type="Pocket">H6 CJ</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="3702435554">
+  <general>
+   <startdate>2022-08-13 23:21:55</startdate>
+   <players>
+    <player bet="€0,50" seat="1" win="€0" chips="€50,75" name="13373678" dealer="0"/>
+    <player bet="€1,50" seat="5" win="€1" chips="€50,25" name="AlanMeining" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AlanMeining" sum="€0,25" type="1" no="1"/>
+   <action player="13373678" sum="€0,50" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AlanMeining" type="Pocket">X X</cards>
+   <action player="AlanMeining" sum="€1,50" type="23" no="3"/>
+   <cards player="13373678" type="Pocket">H5 S8</cards>
+   <action player="13373678" sum="€0" type="0" no="4"/>
+  </round>
+ </game>
+</session>

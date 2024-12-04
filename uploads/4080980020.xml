@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="4080980020">
+ <general>
+  <client_version>22.3.1.15</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL €0,50/€1</gametype>
+  <tablename>100BB Levi 1, 488044997</tablename>
+  <tablecurrency>EUR</tablecurrency>
+  <duration>00:05:50</duration>
+  <gamecount>12</gamecount>
+  <startdate>2022-08-12 12:23:06</startdate>
+  <currency>EUR</currency>
+  <nickname>13373678</nickname>
+  <bets>€28,16</bets>
+  <wins>€5</wins>
+  <chipsin>€99</chipsin>
+  <chipsout>€99</chipsout>
+  <statuspoints>0,00</statuspoints>
+  <awardpoints>0,00</awardpoints>
+  <ipoints>0,00</ipoints>
+  <tablesize>6</tablesize>
+ </general>
+ <game gamecode="3701995332">
+  <general>
+   <startdate>2022-08-12 12:23:06</startdate>
+   <players>
+    <player bet="€0,50" win="€0" name="WorkingClassHero" seat="3" dealer="0" chips="€100"/>
+    <player bet="€1" win="€0" name="13373678" seat="6" dealer="0" chips="€100"/>
+    <player bet="€113,44" win="€0" name="MaximumPerversum" seat="8" dealer="0" chips="€171,68"/>
+    <player bet="€113,44" win="€226,38" name="NeverGonnaFold" seat="10" dealer="1" chips="€113,44"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="WorkingClassHero"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaximumPerversum">D3 CA</cards>
+   <action sum="€3" no="3" type="23" player="MaximumPerversum"/>
+   <cards type="Pocket" player="NeverGonnaFold">HK HJ</cards>
+   <action sum="€9" no="4" type="23" player="NeverGonnaFold"/>
+   <cards type="Pocket" player="WorkingClassHero">X X</cards>
+   <action sum="€0" no="5" type="0" player="WorkingClassHero"/>
+   <cards type="Pocket" player="13373678">SJ CQ</cards>
+   <action sum="€0" no="6" type="0" player="13373678"/>
+   <action sum="€6" no="7" type="3" player="MaximumPerversum"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D10 D4</cards>
+   <action sum="€4" no="8" type="5" player="MaximumPerversum"/>
+   <action sum="€4" no="9" type="3" player="NeverGonnaFold"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action sum="€9,91" no="10" type="5" player="MaximumPerversum"/>
+   <action sum="€28,61" no="11" type="23" player="NeverGonnaFold"/>
+   <action sum="€18,70" no="12" type="3" player="MaximumPerversum"/>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+   <action sum="€0" no="13" type="4" player="MaximumPerversum"/>
+   <action sum="€71,83" no="14" type="5" player="NeverGonnaFold"/>
+   <action sum="€71,83" no="15" type="3" player="MaximumPerversum"/>
+  </round>
+ </game>
+ <game gamecode="3701995524">
+  <general>
+   <startdate>2022-08-12 12:24:57</startdate>
+   <players>
+    <player bet="€3" win="€6,31" name="WorkingClassHero" seat="3" dealer="1" chips="€100"/>
+    <player bet="€0,50" win="€0" name="13373678" seat="6" dealer="0" chips="€100"/>
+    <player bet="€3" win="€0" name="MaximumPerversum" seat="8" dealer="0" chips="€58,24"/>
+    <player bet="€0" win="€0" name="NeverGonnaFold" seat="10" dealer="0" chips="€226,38"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="MaximumPerversum"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="NeverGonnaFold">X X</cards>
+   <action sum="€0" no="3" type="0" player="NeverGonnaFold"/>
+   <cards type="Pocket" player="WorkingClassHero">X X</cards>
+   <action sum="€3" no="4" type="23" player="WorkingClassHero"/>
+   <cards type="Pocket" player="13373678">S7 D9</cards>
+   <action sum="€0" no="5" type="0" player="13373678"/>
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <action sum="€2" no="6" type="3" player="MaximumPerversum"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ D10 CA</cards>
+   <action sum="€0" no="7" type="0" player="MaximumPerversum"/>
+  </round>
+ </game>
+ <game gamecode="3701995557">
+  <general>
+   <startdate>2022-08-12 12:25:19</startdate>
+   <players>
+    <player bet="€1" win="€0" name="13373678" seat="6" dealer="0" chips="€100"/>
+    <player bet="€5" win="€2" name="MaximumPerversum" seat="8" dealer="1" chips="€55,24"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="MaximumPerversum"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <action sum="€5" no="3" type="23" player="MaximumPerversum"/>
+   <cards type="Pocket" player="13373678">H4 C6</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701995573">
+  <general>
+   <startdate>2022-08-12 12:25:30</startdate>
+   <players>
+    <player bet="€11" win="€0" name="13373678" seat="6" dealer="1" chips="€100"/>
+    <player bet="€28" win="€21,50" name="MaximumPerversum" seat="8" dealer="0" chips="€56,24"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="MaximumPerversum"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">CJ C7</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <action sum="€11" no="4" type="23" player="MaximumPerversum"/>
+   <action sum="€8,50" no="5" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S3 SA</cards>
+   <action sum="€17" no="6" type="5" player="MaximumPerversum"/>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701995633">
+  <general>
+   <startdate>2022-08-12 12:26:02</startdate>
+   <players>
+    <player bet="€1" win="€0" name="13373678" seat="6" dealer="0" chips="€100"/>
+    <player bet="€3" win="€2" name="MaximumPerversum" seat="8" dealer="1" chips="€66,74"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="MaximumPerversum"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <action sum="€3" no="3" type="23" player="MaximumPerversum"/>
+   <cards type="Pocket" player="13373678">D8 C6</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701995649">
+  <general>
+   <startdate>2022-08-12 12:26:11</startdate>
+   <players>
+    <player bet="€0,50" win="€0" name="13373678" seat="6" dealer="1" chips="€100"/>
+    <player bet="€1" win="€1" name="MaximumPerversum" seat="8" dealer="0" chips="€67,74"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="MaximumPerversum"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <cards type="Pocket" player="13373678">S7 C4</cards>
+   <action sum="€0" no="3" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701995664">
+  <general>
+   <startdate>2022-08-12 12:26:20</startdate>
+   <players>
+    <player bet="€3,66" win="€0" name="13373678" seat="6" dealer="0" chips="€100"/>
+    <player bet="€8,66" win="€7,10" name="MaximumPerversum" seat="8" dealer="1" chips="€68,24"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="MaximumPerversum"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="MaximumPerversum">X X</cards>
+   <action sum="€3,66" no="3" type="23" player="MaximumPerversum"/>
+   <cards type="Pocket" player="13373678">D8 CA</cards>
+   <action sum="€2,66" no="4" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 CQ SQ</cards>
+   <action sum="€0" no="5" type="4" player="13373678"/>
+   <action sum="€5" no="6" type="5" player="MaximumPerversum"/>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701995704">
+  <general>
+   <startdate>2022-08-12 12:27:44</startdate>
+   <players>
+    <player bet="€1" win="€0" name="KrismesLars" seat="5" dealer="0" chips="€204,41"/>
+    <player bet="€2,50" win="€2" name="13373678" seat="6" dealer="1" chips="€100"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="KrismesLars"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">SK C3</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€0" no="4" type="0" player="KrismesLars"/>
+  </round>
+ </game>
+ <game gamecode="3701996749">
+  <general>
+   <startdate>2022-08-12 12:27:59</startdate>
+   <players>
+    <player bet="€0,50" win="€0" name="KrismesLars" seat="5" dealer="1" chips="€203,41"/>
+    <player bet="€1" win="€1" name="13373678" seat="6" dealer="0" chips="€101"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="KrismesLars"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">S7 C7</cards>
+   <cards type="Pocket" player="KrismesLars">X X</cards>
+   <action sum="€0" no="3" type="0" player="KrismesLars"/>
+  </round>
+ </game>
+ <game gamecode="3701996759">
+  <general>
+   <startdate>2022-08-12 12:28:09</startdate>
+   <players>
+    <player bet="€2,50" win="€2" name="H00KED" seat="3" dealer="1" chips="€100"/>
+    <player bet="€1" win="€0" name="13373678" seat="6" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="H00KED"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€2,50" no="3" type="23" player="H00KED"/>
+   <cards type="Pocket" player="13373678">D2 C4</cards>
+   <action sum="€0" no="4" type="0" player="13373678"/>
+  </round>
+ </game>
+ <game gamecode="3701996785">
+  <general>
+   <startdate>2022-08-12 12:28:22</startdate>
+   <players>
+    <player bet="€1" win="€0" name="H00KED" seat="3" dealer="0" chips="€101"/>
+    <player bet="€2,50" win="€2" name="13373678" seat="6" dealer="1" chips="€100,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="13373678"/>
+   <action sum="€1" no="2" type="2" player="H00KED"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="13373678">C4 SK</cards>
+   <action sum="€2,50" no="3" type="23" player="13373678"/>
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€0" no="4" type="0" player="H00KED"/>
+  </round>
+ </game>
+ <game gamecode="3701996801">
+  <general>
+   <startdate>2022-08-12 12:28:30</startdate>
+   <players>
+    <player bet="€4,15" win="€4,85" name="H00KED" seat="3" dealer="1" chips="€100"/>
+    <player bet="€2,50" win="€0" name="13373678" seat="6" dealer="0" chips="€101,50"/>
+   </players>
+  </general>
+  <round no="0">
+   <action sum="€0,50" no="1" type="1" player="H00KED"/>
+   <action sum="€1" no="2" type="2" player="13373678"/>
+  </round>
+  <round no="1">
+   <cards type="Pocket" player="H00KED">X X</cards>
+   <action sum="€2,50" no="3" type="23" player="H00KED"/>
+   <cards type="Pocket" player="13373678">CQ C8</cards>
+   <action sum="€1,50" no="4" type="3" player="13373678"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK HJ DK</cards>
+   <action sum="€0" no="5" type="4" player="13373678"/>
+   <action sum="€1,65" no="6" type="5" player="H00KED"/>
+   <action sum="€0" no="7" type="0" player="13373678"/>
+  </round>
+ </game>
+</session>
